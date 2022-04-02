@@ -1,0 +1,913 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd" version="1.1" viewBox="0 0 29000 29000" xml:space="preserve"><defs><style type="text/css">.HairBack-Cat2fil14 {fill:black;fill-opacity:0.200000}
+.HairBack-Cat2fil24 {fill:url(#HairBack-Cat2id175)}
+.HairBack-Cat2str0 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.Tail-Cat1fil25 {fill:url(#Tail-Cat1id925)}
+.Tail-Cat1fil14 {fill:black;fill-opacity:0.200000}
+.Tail-Cat1fil27 {fill:url(#Tail-Cat1id265)}
+.Tail-Cat1fil26 {fill:#f5e9d9}
+.Tail-Cat1fil22 {fill:none}
+.Tail-Cat1str0 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.RightFoot-Cat0fil26 {fill:#f5e9d9}
+.RightFoot-Cat0fil14 {fill:black;fill-opacity:0.200000}
+.RightFoot-Cat0fil22 {fill:none}
+.RightFoot-Cat0fil32 {fill:black;fill-rule:nonzero}
+.RightLeg-Cat5fil42 {fill:url(#RightLeg-Cat5id200)}
+.RightLeg-Cat5fil32 {fill:black;fill-rule:nonzero}
+.RightLeg-Cat5fil14 {fill:black;fill-opacity:0.200000}
+.LeftFoot-Cat0fil26 {fill:#f5e9d9}
+.LeftFoot-Cat0fil14 {fill:black;fill-opacity:0.200000}
+.LeftFoot-Cat0fil22 {fill:none}
+.LeftFoot-Cat0fil32 {fill:black;fill-rule:nonzero}
+.LeftLeg-Cat5fil47 {fill:url(#LeftLeg-Cat5id199)}
+.LeftLeg-Cat5fil32 {fill:black;fill-rule:nonzero}
+.LeftLeg-Cat5fil14 {fill:black;fill-opacity:0.200000}
+.RightHand-Cat0fil48 {fill:url(#RightHand-Cat0id246)}
+.RightHand-Cat0fil14 {fill:black;fill-opacity:0.200000}
+.RightHand-Cat0fil22 {fill:none}
+.RightHand-Cat0str0 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.RightPaw-Cat0fil26 {fill:#f5e9d9}
+.RightPaw-Cat0fil14 {fill:black;fill-opacity:0.200000}
+.RightPaw-Cat0fil32 {fill:black;fill-rule:nonzero}
+.LeftHand-Cat0fil55 {fill:url(#LeftHand-Cat0id849)}
+.LeftHand-Cat0fil14 {fill:black;fill-opacity:0.200000}
+.LeftHand-Cat0fil22 {fill:none}
+.LeftHand-Cat0str0 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.LeftPaw-Cat0fil26 {fill:#f5e9d9}
+.LeftPaw-Cat0fil14 {fill:black;fill-opacity:0.200000}
+.LeftPaw-Cat0fil32 {fill:black;fill-rule:nonzero}
+.Body-Cat0fil62 {fill:url(#Body-Cat0id318)}
+.Body-Cat0fil14 {fill:black;fill-opacity:0.200000}
+.Body-Cat0fil32 {fill:black;fill-rule:nonzero}
+.Body-Cat0fil63 {fill:url(#Body-Cat0id247)}
+.Head-Cat7fil148 {fill:url(#Head-Cat7id36)}
+.Head-Cat7fil149 {fill:url(#Head-Cat7id1106);fill-rule:nonzero}
+.Head-Cat7fil150 {fill:url(#Head-Cat7id249)}
+.Head-Cat7fil14 {fill:black;fill-opacity:0.200000}
+.Head-Cat7fil32 {fill:black;fill-rule:nonzero}
+.Mouth-Cat4fil100 {fill:black}
+.Mouth-Cat4fil22 {fill:none}
+.Mouth-Cat4str0 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.Eyes-Cat5fil178 {fill:url(#Eyes-Cat5id1002)}
+.Eyes-Cat5fil157 {fill:black;fill-opacity:0.501961}
+.Eyes-Cat5fil179 {fill:url(#Eyes-Cat5id706)}
+.Eyes-Cat5fil180 {fill:url(#Eyes-Cat5id1077)}
+.Eyes-Cat5fil152 {fill:white}
+.Eyes-Cat5fil181 {fill:url(#Eyes-Cat5id871)}
+.Eyes-Cat5fil182 {fill:url(#Eyes-Cat5id618)}
+.Eyes-Cat5fil183 {fill:url(#Eyes-Cat5id1055)}
+.Eyes-Cat5fil155 {fill:#b6897e}
+.Eyes-Cat5fil14 {fill:black;fill-opacity:0.200000}
+.Eyes-Cat5fil22 {fill:none}
+.Eyes-Cat5str4 {stroke:black;stroke-width:150}
+.Moustache-Cat0fil22 {fill:none}
+.Nose-Cat0fil221 {fill:url(#Nose-Cat0id921)}
+.Nose-Cat0str0 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.HatIronHelmet-Mediumfil3new {fill:black;fill-opacity:0.301961}
+.HatIronHelmet-Mediumfil14new {fill:black;fill-opacity:0.200000}
+.HatIronHelmet-Mediumfil43new {fill:white;fill-opacity:0.200000}
+.HatIronHelmet-Mediumfil31new {fill:white;fill-opacity:0.501961}
+.HatIronHelmet-Mediumfil84new {fill:black}
+.HatIronHelmet-Mediumfil665new {fill:url(#HatIronHelmet-Mediumid515new)}
+.HatIronHelmet-Mediumfil572new {fill:white;fill-opacity:0.701961}
+.HatIronHelmet-Mediumfil666new {fill:url(#HatIronHelmet-Mediumid361new)}
+.HatIronHelmet-Mediumfil667new {fill:url(#HatIronHelmet-Mediumid394new)}
+.HatIronHelmet-Mediumfil668new {fill:url(#HatIronHelmet-Mediumid402new)}
+.HatIronHelmet-Mediumfil669new {fill:url(#HatIronHelmet-Mediumid129new)}
+.HatIronHelmet-Mediumfil223new {fill:black;fill-rule:nonzero}
+.HatIronHelmet-Mediumfil661new {fill:url(#HatIronHelmet-Mediumid541new)}
+.HatIronHelmet-Mediumstr0new {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.HatIronHelmet-Mediumfil662new {fill:url(#HatIronHelmet-Mediumid245new)}
+.HatIronHelmet-Mediumfil663new {fill:url(#HatIronHelmet-Mediumid661new)}
+.HatIronHelmet-Mediumfil664new {fill:url(#HatIronHelmet-Mediumid648new)}
+.WeaponFlySwatterBack-Mediumfil1 {fill:black;fill-rule:nonzero;fill-opacity:0.200000}
+.WeaponFlySwatterBack-Mediumfil0 {fill:url(#WeaponFlySwatterBack-Mediumid26);fill-rule:nonzero}
+.WeaponFlySwatterBack-Mediumstr0 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.WeaponFlySwatter-Mediumfil3 {fill:black;fill-opacity:0.200000}
+.WeaponFlySwatter-Mediumfil4 {fill:url(#WeaponFlySwatter-Mediumid24);fill-rule:nonzero}
+.WeaponFlySwatter-Mediumfil1 {fill:black;fill-rule:nonzero;fill-opacity:0.200000}
+.WeaponFlySwatter-Mediumfil2 {fill:url(#WeaponFlySwatter-Mediumid0)}
+.WeaponFlySwatter-Mediumstr0 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.WeaponFlySwatter-Mediumfil5 {fill:none;fill-rule:nonzero}
+.WeaponFlySwatter-Mediumstr1 {stroke:black;stroke-width:150}
+.NecklacePostApocVest-Mediumfil99 {fill:#FFFF99;fill-opacity:0.501961}
+.NecklacePostApocVest-Mediumfil126 {fill:url(#NecklacePostApocVest-Mediumid138)}
+.NecklacePostApocVest-Mediumfil127 {fill:url(#NecklacePostApocVest-Mediumid18)}
+.NecklacePostApocVest-Mediumfil27 {fill:white;fill-opacity:0.501961}
+.NecklacePostApocVest-Mediumfil102 {fill:white;fill-opacity:0.600000}
+.NecklacePostApocVest-Mediumfil103 {fill:black;fill-opacity:0.600000}
+.NecklacePostApocVest-Mediumfil128 {fill:url(#NecklacePostApocVest-Mediumid149);fill-rule:nonzero}
+.NecklacePostApocVest-Mediumfil105 {fill:#FFEFB5;fill-rule:nonzero;fill-opacity:0.501961}
+.NecklacePostApocVest-Mediumfil130 {fill:url(#NecklacePostApocVest-Mediumid141);fill-rule:nonzero}
+.NecklacePostApocVest-Mediumfil108 {fill:#FFEFB5;fill-opacity:0.501961}
+.NecklacePostApocVest-Mediumfil131 {fill:url(#NecklacePostApocVest-Mediumid46)}
+.NecklacePostApocVest-Mediumfil34 {fill:black}
+.NecklacePostApocVest-Mediumfil132 {fill:url(#NecklacePostApocVest-Mediumid47)}
+.NecklacePostApocVest-Mediumfil134 {fill:url(#NecklacePostApocVest-Mediumid45)}
+.NecklacePostApocVest-Mediumfil135 {fill:url(#NecklacePostApocVest-Mediumid20)}
+.NecklacePostApocVest-Mediumfil7 {fill:black;fill-opacity:0.400000}
+.NecklacePostApocVest-Mediumfil31 {fill:black;fill-opacity:0.501961}
+.NecklacePostApocVest-Mediumfil122 {fill:#FCEEC0;fill-rule:nonzero;fill-opacity:0.200000}
+.NecklacePostApocVest-Mediumfil125 {fill:url(#NecklacePostApocVest-Mediumid0)}
+.NecklacePostApocVest-Mediumstr0 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.NecklacePostApocVest-Mediumfil5 {fill:none}
+.NecklacePostApocVest-Mediumfil11 {fill:none;fill-rule:nonzero}
+.NecklacePostApocVest-Mediumfil129 {fill:url(#NecklacePostApocVest-Mediumid152);fill-rule:nonzero}
+.NecklacePostApocVest-Mediumstr2 {stroke:black;stroke-width:150}
+.NecklacePostApocVest-Mediumfil133 {fill:url(#NecklacePostApocVest-Mediumid42)}
+.NecklacePostApocVest-Mediumfil136 {fill:url(#NecklacePostApocVest-Mediumid41)}
+.NecklacePostApocVest-Mediumfil137 {fill:url(#NecklacePostApocVest-Mediumid68)}
+.NecklacePostApocVest-Mediumfil138 {fill:url(#NecklacePostApocVest-Mediumid110)}
+.NecklacePostApocVest-Mediumfil139 {fill:url(#NecklacePostApocVest-Mediumid157);fill-rule:nonzero}
+.NecklacePostApocVest-Mediumfil140 {fill:url(#NecklacePostApocVest-Mediumid174);fill-rule:nonzero}
+.NecklacePostApocVest-Mediumfil141 {fill:url(#NecklacePostApocVest-Mediumid166);fill-rule:nonzero}
+.NecklacePostApocVest-Mediumfil142 {fill:url(#NecklacePostApocVest-Mediumid107)}
+.NecklacePostApocVest-Mediumstr5 {stroke:black;stroke-width:100}
+.NecklacePostApocVest-Mediumfil143 {fill:url(#NecklacePostApocVest-Mediumid164);fill-rule:nonzero}
+.NecklacePostApocVest-Mediumstr6 {stroke:black;stroke-width:50;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:100.000000 150.000000}
+.NecklacePostApocVest-Mediumfil144 {fill:url(#NecklacePostApocVest-Mediumid179);fill-rule:nonzero}
+.NecklacePostApocVest-Mediumfil145 {fill:url(#NecklacePostApocVest-Mediumid90)}
+.NecklacePostApocVest-Mediumfil61 {fill:none}
+.NecklacePostApocVest-Mediumstr7 {stroke:black;stroke-width:100;stroke-opacity:0.501961}
+.AccessoryTeddyfil111 {fill:url(#AccessoryTeddyid56)}
+.AccessoryTeddyfil3 {fill:black;fill-rule:nonzero}
+.AccessoryTeddyfil112 {fill:url(#AccessoryTeddyid75)}
+.AccessoryTeddyfil19 {fill:black;fill-opacity:0.501961}
+.AccessoryTeddyfil115 {fill:url(#AccessoryTeddyid69)}
+.AccessoryTeddyfil117 {fill:url(#AccessoryTeddyid31)}
+.AccessoryTeddyfil119 {fill:url(#AccessoryTeddyid5)}
+.AccessoryTeddyfil120 {fill:url(#AccessoryTeddyid36)}
+.AccessoryTeddyfil121 {fill:url(#AccessoryTeddyid41)}
+.AccessoryTeddyfil15 {fill:black}
+.AccessoryTeddyfil14 {fill:white}
+.AccessoryTeddyfil109 {fill:url(#AccessoryTeddyid76)}
+.AccessoryTeddystr1 {stroke:black;stroke-width:150}
+.AccessoryTeddyfil110 {fill:url(#AccessoryTeddyid88)}
+.AccessoryTeddyfil113 {fill:#B88531}
+.AccessoryTeddyfil114 {fill:url(#AccessoryTeddyid10)}
+.AccessoryTeddyfil116 {fill:url(#AccessoryTeddyid29)}
+.AccessoryTeddyfil118 {fill:url(#AccessoryTeddyid27)}
+.AccessoryTeddyfil2 {fill:none}
+.AccessoryTeddystr8 {stroke:black;stroke-width:100;stroke-linecap:round;stroke-linejoin:round}
+.BraceletCutangaShield-Mediumfil263 {fill:url(#BraceletCutangaShield-Mediumid4)}
+.BraceletCutangaShield-Mediumfil264 {fill:url(#BraceletCutangaShield-Mediumid409);fill-rule:nonzero}
+.BraceletCutangaShield-Mediumfil265 {fill:url(#BraceletCutangaShield-Mediumid406);fill-rule:nonzero}
+.BraceletCutangaShield-Mediumfil42 {fill:white;fill-rule:nonzero;fill-opacity:0.501961}
+.BraceletCutangaShield-Mediumfil248 {fill:white;fill-opacity:0.501961}
+.BraceletCutangaShield-Mediumfil266 {fill:url(#BraceletCutangaShield-Mediumid109)}
+.BraceletCutangaShield-Mediumfil267 {fill:url(#BraceletCutangaShield-Mediumid407);fill-rule:nonzero}
+.BraceletCutangaShield-Mediumfil268 {fill:url(#BraceletCutangaShield-Mediumid396);fill-rule:nonzero}
+.BraceletCutangaShield-Mediumfil271 {fill:url(#BraceletCutangaShield-Mediumid397);fill-rule:nonzero}
+.BraceletCutangaShield-Mediumfil272 {fill:url(#BraceletCutangaShield-Mediumid417);fill-rule:nonzero}
+.BraceletCutangaShield-Mediumfil258 {fill:white;fill-rule:nonzero;fill-opacity:0.400000}
+.BraceletCutangaShield-Mediumfil274 {fill:url(#BraceletCutangaShield-Mediumid363);fill-rule:nonzero}
+.BraceletCutangaShield-Mediumfil275 {fill:url(#BraceletCutangaShield-Mediumid356);fill-rule:nonzero}
+.BraceletCutangaShield-Mediumfil276 {fill:url(#BraceletCutangaShield-Mediumid334)}
+.BraceletCutangaShield-Mediumfil12 {fill:black;fill-opacity:0.200000}
+.BraceletCutangaShield-Mediumfil16 {fill:none}
+.BraceletCutangaShield-Mediumstr23 {stroke:#727272;stroke-width:75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256}
+.BraceletCutangaShield-Mediumfil249 {fill:none;fill-rule:nonzero}
+.BraceletCutangaShield-Mediumstr24 {stroke:#4B4B4B;stroke-width:75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256}
+.BraceletCutangaShield-Mediumfil269 {fill:url(#BraceletCutangaShield-Mediumid333)}
+.BraceletCutangaShield-Mediumstr25 {stroke:#727272;stroke-width:75;stroke-miterlimit:22.9256}
+.BraceletCutangaShield-Mediumfil270 {fill:url(#BraceletCutangaShield-Mediumid329)}
+.BraceletCutangaShield-Mediumfil273 {fill:url(#BraceletCutangaShield-Mediumid420);fill-rule:nonzero}
+.BraceletCutangaShield-Mediumfil277 {fill:url(#BraceletCutangaShield-Mediumid332)}
+.BraceletCutangaShield-Mediumstr26 {stroke:#4F4F4E;stroke-width:75;stroke-miterlimit:22.9256}
+.BraceletCutangaShield-Mediumstr3 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256}
+</style><linearGradient gradientUnits="userSpaceOnUse" id="HairBack-Cat2id175" x1="13068" x2="13068" xlink:href="#HairBack-Cat2id49" y1="24388.8" y2="14997.3">
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="Tail-Cat1id925" x1="56.9199%" x2="43.0801%" y1="93.4294%" y2="6.57062%">
+   <stop offset="0" style="stop-opacity:1; stop-color:#d9d9cc"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#ffffff"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Tail-Cat1id265" x1="19074.8" x2="19074.8" xlink:href="#Tail-Cat1id5" y1="23110.5" y2="15555.7">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="RightLeg-Cat5id200" x1="15892.3" x2="15336.7" xlink:href="#RightLeg-Cat5id17" y1="24311.5" y2="21160.9">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="LeftLeg-Cat5id199" x1="11471.6" x2="12027.1" xlink:href="#LeftLeg-Cat5id17" y1="24311.5" y2="21160.8">
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="RightHand-Cat0id246" x1="31.4718%" x2="68.5282%" y1="2.00058%" y2="97.9991%">
+   <stop offset="0" style="stop-opacity:1; stop-color:#d9d9cc"/>
+   <stop offset="0.878431" style="stop-opacity:1; stop-color:#fffffc"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#fffffc"/>
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="LeftHand-Cat0id849" x1="71.9477%" x2="28.0523%" xlink:href="#LeftHand-Cat0id246" y1="2.1954%" y2="97.8043%">
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="Body-Cat0id318" x1="50%" x2="50%" xlink:href="#Body-Cat0id36" y1="0.000186021%" y2="100%">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Body-Cat0id247" x1="13681.9" x2="13681.9" xlink:href="#Body-Cat0id230" y1="22974.9" y2="18061.8">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Head-Cat7id36" x1="13681.9" x2="13681.9" y1="17936.7" y2="7484.8">
+   <stop offset="0" style="stop-opacity:1; stop-color:#d9d9cc"/>
+   <stop offset="0.0313725" style="stop-opacity:1; stop-color:#d9d9cc"/>
+   <stop offset="0.529412" style="stop-opacity:1; stop-color:#fffffc"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#ffffff"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Head-Cat7id1106" x1="13681.9" x2="13681.9" xlink:href="#Head-Cat7id5" y1="17271.4" y2="7484.8">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Head-Cat7id249" x1="13681.9" x2="13681.9" xlink:href="#Head-Cat7id230" y1="9364.32" y2="17278">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Eyes-Cat5id1002" x1="10879.9" x2="10055" xlink:href="#Eyes-Cat5id27" y1="14680.9" y2="11214.3">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Eyes-Cat5id706" x1="9063.57" x2="12179.3" xlink:href="#Eyes-Cat5id57" y1="13009.3" y2="13009.3">
+  </linearGradient><radialGradient cx="10686.7" cy="12783.5" fx="10686.7" fy="12783.5" gradientTransform="matrix(0.257879 1.16297 -1.08696 0.253253 21826 -2882)" gradientUnits="userSpaceOnUse" id="Eyes-Cat5id1077" r="1194.51" xlink:href="#Eyes-Cat5id1055">
+  </radialGradient><linearGradient gradientUnits="userSpaceOnUse" id="Eyes-Cat5id871" x1="16483.9" x2="17308.9" xlink:href="#Eyes-Cat5id27" y1="14680.9" y2="11214.3">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Eyes-Cat5id618" x1="15184.6" x2="18300.3" xlink:href="#Eyes-Cat5id57" y1="13009.3" y2="13009.3">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Nose-Cat0id921" x1="13681.9" x2="13681.9" y1="13407.9" y2="13968.6">
+   <stop offset="0" style="stop-opacity:1; stop-color:#FFCCCC"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#DB9092"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="HatIronHelmet-Mediumid515new" x1="11845.8" x2="11332.5" xlink:href="#HatIronHelmet-Mediumid247new" y1="8562.99" y2="10246.1">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="HatIronHelmet-Mediumid361new" x1="9110.58" x2="8622.68" xlink:href="#HatIronHelmet-Mediumid247new" y1="9474.67" y2="11018.7">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="HatIronHelmet-Mediumid394new" x1="16035.2" x2="15514.1" xlink:href="#HatIronHelmet-Mediumid247new" y1="8565.83" y2="10243.2">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="HatIronHelmet-Mediumid402new" x1="18743.3" x2="18265.5" xlink:href="#HatIronHelmet-Mediumid247new" y1="9481.75" y2="11020.1">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="HatIronHelmet-Mediumid129new" x1="12095.1" x2="15268.8" xlink:href="#HatIronHelmet-Mediumid111new" y1="9565.81" y2="9565.81">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="HatIronHelmet-Mediumid541new" x1="19929.3" x2="20115.2" xlink:href="#HatIronHelmet-Mediumid245new" y1="10723.9" y2="12244.5">
+  </linearGradient><radialGradient cx="15375.2" cy="6564.1" fx="15375.2" fy="6564.1" gradientTransform="matrix(-1.28205 -0 -0 0.796663 35087 1335)" gradientUnits="userSpaceOnUse" id="HatIronHelmet-Mediumid661new" r="4725">
+   <stop offset="0" style="stop-opacity:1; stop-color:#C98038"/>
+   <stop offset="0.619608" style="stop-opacity:1; stop-color:#96591C"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#643300"/>
+  </radialGradient><radialGradient cx="15915.3" cy="8322.77" fx="15915.3" fy="8322.77" gradientTransform="matrix(-1.48771 -0 -0 0.784828 39593 1791)" gradientUnits="userSpaceOnUse" id="HatIronHelmet-Mediumid648new" r="6580.16">
+   <stop offset="0" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.6" style="stop-opacity:1; stop-color:#B0AEB5"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#515057"/>
+  </radialGradient><linearGradient gradientUnits="userSpaceOnUse" id="WeaponFlySwatterBack-Mediumid26" x1="7745.86" x2="9181.7" xlink:href="#WeaponFlySwatterBack-Mediumid24" y1="21810.6" y2="20301.7">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="WeaponFlySwatter-Mediumid24" x1="12160.4" x2="14712.1" y1="25216.2" y2="22534.8">
+   <stop offset="0" style="stop-opacity:1; stop-color:#008011"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#00BD55"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="WeaponFlySwatter-Mediumid0" x1="9457.05" x2="12008.3" y1="22428.9" y2="22293.2">
+   <stop offset="0" style="stop-opacity:1; stop-color:#787878"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#D6D6D6"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklacePostApocVest-Mediumid138" x1="15870.4" x2="14699.5" xlink:href="#NecklacePostApocVest-Mediumid18" y1="19278" y2="21947.7">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklacePostApocVest-Mediumid149" x1="13681.9" x2="13681.9" xlink:href="#NecklacePostApocVest-Mediumid147" y1="22088" y2="20985">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklacePostApocVest-Mediumid141" x1="15861.9" x2="15861.9" y1="19430.8" y2="17273.3">
+   <stop offset="0" style="stop-opacity:1; stop-color:#946A40"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#362E34"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklacePostApocVest-Mediumid46" x1="11502.5" x2="11676.2" xlink:href="#NecklacePostApocVest-Mediumid20" y1="18500.7" y2="18219">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklacePostApocVest-Mediumid47" x1="11302.5" x2="11476.2" xlink:href="#NecklacePostApocVest-Mediumid20" y1="17900.7" y2="17619">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklacePostApocVest-Mediumid45" x1="15861.4" x2="15687.7" xlink:href="#NecklacePostApocVest-Mediumid20" y1="18500.7" y2="18219">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklacePostApocVest-Mediumid0" x1="13681.9" x2="13681.9" y1="23195.8" y2="17371.3">
+   <stop offset="0" style="stop-opacity:1; stop-color:#524B21"/>
+   <stop offset="0.611765" style="stop-opacity:1; stop-color:#61613A"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#2D313A"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklacePostApocVest-Mediumid152" x1="11501.9" x2="11501.9" xlink:href="#NecklacePostApocVest-Mediumid141" y1="19430.8" y2="17273.3">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklacePostApocVest-Mediumid42" x1="11588.6" x2="12023.8" xlink:href="#NecklacePostApocVest-Mediumid20" y1="19258.5" y2="18552.8">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklacePostApocVest-Mediumid41" x1="15340" x2="15775.3" xlink:href="#NecklacePostApocVest-Mediumid20" y1="19258.5" y2="18552.8">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklacePostApocVest-Mediumid68" x1="13126.4" x2="14237.5" xlink:href="#NecklacePostApocVest-Mediumid20" y1="22006.8" y2="21693.9">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklacePostApocVest-Mediumid110" x1="12444.5" x2="12786.6" xlink:href="#NecklacePostApocVest-Mediumid20" y1="22077.9" y2="21523.3">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklacePostApocVest-Mediumid157" x1="11253.7" x2="11253.7" xlink:href="#NecklacePostApocVest-Mediumid141" y1="22678" y2="21008.9">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklacePostApocVest-Mediumid174" x1="11721.5" x2="11721.5" xlink:href="#NecklacePostApocVest-Mediumid141" y1="22679.8" y2="21156.5">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklacePostApocVest-Mediumid166" x1="11246.3" x2="11246.3" xlink:href="#NecklacePostApocVest-Mediumid141" y1="22105.7" y2="20952.9">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklacePostApocVest-Mediumid107" x1="10929.1" x2="11163.9" xlink:href="#NecklacePostApocVest-Mediumid20" y1="22227.2" y2="21834">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklacePostApocVest-Mediumid164" x1="16055.1" x2="15354.4" xlink:href="#NecklacePostApocVest-Mediumid158" y1="23535.7" y2="21270.1">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklacePostApocVest-Mediumid179" x1="14999.5" x2="15703.3" xlink:href="#NecklacePostApocVest-Mediumid177" y1="20737" y2="19866.9">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklacePostApocVest-Mediumid90" x1="14831.6" x2="16142.7" xlink:href="#NecklacePostApocVest-Mediumid20" y1="21547.9" y2="20662.3">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryTeddyid56" x1="5274.88" x2="5544.57" y1="25442.4" y2="22421.3">
+   <stop offset="0" style="stop-opacity:1; stop-color:#B88531"/>
+   <stop offset="0.14902" style="stop-opacity:1; stop-color:#99672C"/>
+   <stop offset="0.639216" style="stop-opacity:1; stop-color:#9C6E24"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#523100"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryTeddyid75" x1="5571.12" x2="5255.06" xlink:href="#AccessoryTeddyid5" y1="22926.7" y2="24922">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryTeddyid69" x1="5447.62" x2="5256.22" xlink:href="#AccessoryTeddyid5" y1="21348.3" y2="22556.4">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryTeddyid31" x1="4032.54" x2="3912.76" xlink:href="#AccessoryTeddyid5" y1="24354.6" y2="25110.8">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryTeddyid36" x1="4875.13" x2="5044.37" y1="21255" y2="20829.7">
+   <stop offset="0" style="stop-opacity:1; stop-color:#5C3600"/>
+   <stop offset="0.509804" style="stop-opacity:1; stop-color:#2C160A"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#3F261A"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryTeddyid41" x1="5933.75" x2="5890.77" xlink:href="#AccessoryTeddyid36" y1="21325.3" y2="20867.1">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryTeddyid76" x1="7386.63" x2="5965.55" xlink:href="#AccessoryTeddyid56" y1="24047.7" y2="22751.4">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryTeddyid88" x1="3357.21" x2="4839.21" xlink:href="#AccessoryTeddyid56" y1="24050.5" y2="22671">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryTeddyid10" x1="4764.52" x2="6162.34" y1="22575.4" y2="20450.7">
+   <stop offset="0" style="stop-opacity:1; stop-color:#B88531"/>
+   <stop offset="0.14902" style="stop-opacity:1; stop-color:#99672C"/>
+   <stop offset="0.501961" style="stop-opacity:1; stop-color:#9C6E24"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#FFC44F"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryTeddyid29" x1="3813.38" x2="4245.66" xlink:href="#AccessoryTeddyid27" y1="24177.4" y2="25442.6">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletCutangaShield-Mediumid4" x1="20060.48" x2="16246.83" y1="19202.47" y2="21472.4">
+   <stop offset="0" style="stop-opacity:1; stop-color:#2D2D2D"/>
+   <stop offset="0.101961" style="stop-opacity:1; stop-color:#5C5C5C"/>
+   <stop offset="0.2" style="stop-opacity:1; stop-color:#474747"/>
+   <stop offset="0.321569" style="stop-opacity:1; stop-color:#A3A3A3"/>
+   <stop offset="0.439216" style="stop-opacity:1; stop-color:#41403E"/>
+   <stop offset="0.490196" style="stop-opacity:1; stop-color:#444342"/>
+   <stop offset="0.670588" style="stop-opacity:1; stop-color:#242322"/>
+   <stop offset="0.819608" style="stop-opacity:1; stop-color:#2E2E2E"/>
+   <stop offset="0.94902" style="stop-opacity:1; stop-color:#242322"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#303030"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletCutangaShield-Mediumid409" x1="20365.78" x2="19921.48" xlink:href="#BraceletCutangaShield-Mediumid394" y1="22156.48" y2="22245.18">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletCutangaShield-Mediumid406" x1="19559.35" x2="19661.53" xlink:href="#BraceletCutangaShield-Mediumid394" y1="21805.3" y2="21708.9">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletCutangaShield-Mediumid109" x1="18515.92" x2="18522.03" y1="20418.7" y2="20414.98">
+   <stop offset="0" style="stop-opacity:1; stop-color:#2D2D2D"/>
+   <stop offset="0.368627" style="stop-opacity:1; stop-color:#514F4C"/>
+   <stop offset="0.580392" style="stop-opacity:1; stop-color:#737373"/>
+   <stop offset="0.701961" style="stop-opacity:1; stop-color:#919191"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#4A4A4A"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletCutangaShield-Mediumid407" x1="17819.22" x2="18007.74" xlink:href="#BraceletCutangaShield-Mediumid354" y1="18868.56" y2="18756.72">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletCutangaShield-Mediumid396" x1="18716.95" x2="18977.77" xlink:href="#BraceletCutangaShield-Mediumid392" y1="19454.22" y2="19314.51">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletCutangaShield-Mediumid397" x1="18996.22" x2="19251.64" y1="22826.3" y2="22349.7">
+   <stop offset="0" style="stop-opacity:1; stop-color:#545454"/>
+   <stop offset="0.290196" style="stop-opacity:1; stop-color:#757575"/>
+   <stop offset="0.360784" style="stop-opacity:1; stop-color:#969696"/>
+   <stop offset="0.490196" style="stop-opacity:1; stop-color:#D9D9D9"/>
+   <stop offset="0.611765" style="stop-opacity:1; stop-color:#8B8B8B"/>
+   <stop offset="0.709804" style="stop-opacity:1; stop-color:#C4C4C4"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#7A7A7A"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletCutangaShield-Mediumid417" x1="19023.27" x2="19148.95" xlink:href="#BraceletCutangaShield-Mediumid348" y1="22010.24" y2="21902.13">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletCutangaShield-Mediumid363" x1="17084.86" x2="17328.03" xlink:href="#BraceletCutangaShield-Mediumid354" y1="19160.44" y2="19001.75">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletCutangaShield-Mediumid356" x1="16880.05" x2="17193.45" xlink:href="#BraceletCutangaShield-Mediumid348" y1="20186.15" y2="19957.51">
+  </linearGradient><radialGradient cx="18142.58" cy="21363.05" fx="18142.58" fy="21363.05" gradientTransform="matrix(1.27948 -0.485801 0.724314 1.18887 -20544 4779)" gradientUnits="userSpaceOnUse" id="BraceletCutangaShield-Mediumid334" r="94.99" xlink:href="#BraceletCutangaShield-Mediumid328">
+  </radialGradient><radialGradient cx="19543.77" cy="20831.58" fx="19543.77" fy="20831.58" gradientTransform="matrix(0.997853 -0.378872 0.745989 1.22444 -15498 2729)" gradientUnits="userSpaceOnUse" id="BraceletCutangaShield-Mediumid333" r="92.23" xlink:href="#BraceletCutangaShield-Mediumid328">
+  </radialGradient><radialGradient cx="18295.32" cy="18854.03" fx="18295.32" fy="18854.03" gradientTransform="matrix(0.997853 -0.378872 0.745989 1.22444 -14026 2700)" gradientUnits="userSpaceOnUse" id="BraceletCutangaShield-Mediumid329" r="92.23" xlink:href="#BraceletCutangaShield-Mediumid328">
+  </radialGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletCutangaShield-Mediumid420" x1="19025.54" x2="19146.69" xlink:href="#BraceletCutangaShield-Mediumid397" y1="22036.35" y2="21876.02">
+  </linearGradient><radialGradient cx="16976.36" cy="19354.27" fx="16976.36" fy="19354.27" gradientTransform="matrix(1.27957 -0.485835 0.72439 1.18899 -18766 4590)" gradientUnits="userSpaceOnUse" id="BraceletCutangaShield-Mediumid332" r="94.98" xlink:href="#BraceletCutangaShield-Mediumid328">
+  </radialGradient><linearGradient gradientUnits="userSpaceOnUse" id="HairBack-Cat2id49" x1="13715.8" x2="13715.8" y1="6802.99" y2="8218.57">
+   <stop offset="0" style="stop-opacity:1; stop-color:#e0ad55"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#fbcb78"/>
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="Tail-Cat1id5" x1="50%" x2="50%" y1="0%" y2="100%">
+   <stop offset="0" style="stop-opacity:1; stop-color:#b6897e"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#dbb6ad"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="RightLeg-Cat5id17" x1="11873.5" x2="11873.5" y1="24310" y2="21166.6">
+   <stop offset="0" style="stop-opacity:1; stop-color:#ffffff"/>
+   <stop offset="0.431373" style="stop-opacity:1; stop-color:#ffffff"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#fffffc"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="LeftLeg-Cat5id17" x1="11873.5" x2="11873.5" y1="24310" y2="21166.6">
+   <stop offset="0" style="stop-opacity:1; stop-color:#ffffff"/>
+   <stop offset="0.431373" style="stop-opacity:1; stop-color:#ffffff"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#fffffc"/>
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="LeftHand-Cat0id246" x1="31.4718%" x2="68.5282%" y1="2.00058%" y2="97.9991%">
+   <stop offset="0" style="stop-opacity:1; stop-color:#d9d9cc"/>
+   <stop offset="0.878431" style="stop-opacity:1; stop-color:#fffffc"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#fffffc"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Body-Cat0id36" x1="13681.9" x2="13681.9" y1="17936.7" y2="7484.8">
+   <stop offset="0" style="stop-opacity:1; stop-color:#d9d9cc"/>
+   <stop offset="0.0313725" style="stop-opacity:1; stop-color:#d9d9cc"/>
+   <stop offset="0.529412" style="stop-opacity:1; stop-color:#fffffc"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#ffffff"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Body-Cat0id230" x1="13681.9" x2="13681.9" y1="13028.8" y2="17278">
+   <stop offset="0" style="stop-opacity:1; stop-color:#f5e9d9"/>
+   <stop offset="0.658824" style="stop-opacity:1; stop-color:#f5e9d9"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#e8d8c3"/>
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="Head-Cat7id5" x1="50%" x2="50%" y1="0%" y2="100%">
+   <stop offset="0" style="stop-opacity:1; stop-color:#b6897e"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#dbb6ad"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Head-Cat7id230" x1="13681.9" x2="13681.9" y1="13028.8" y2="17278">
+   <stop offset="0" style="stop-opacity:1; stop-color:#f5e9d9"/>
+   <stop offset="0.658824" style="stop-opacity:1; stop-color:#f5e9d9"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#e8d8c3"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Eyes-Cat5id27" x1="16937.6" x2="16937.6" y1="14961.3" y2="11448.6">
+   <stop offset="0" style="stop-opacity:1; stop-color:#7a476d"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:black"/>
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="Eyes-Cat5id57" x1="100%" x2="0%" y1="50.0003%" y2="50.0003%">
+   <stop offset="0" style="stop-opacity:1; stop-color:#7a476d"/>
+   <stop offset="0.501961" style="stop-opacity:1; stop-color:#f9cfee"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#7a476d"/>
+  </linearGradient><radialGradient cx="16677.2" cy="12783.5" fx="16677.2" fy="12783.5" gradientTransform="matrix(-0.257879 1.16297 1.08696 0.253253 7083 -9849)" gradientUnits="userSpaceOnUse" id="Eyes-Cat5id1055" r="1194.51">
+   <stop offset="0" style="stop-opacity:1; stop-color:#613355"/>
+   <stop offset="0.75" style="stop-opacity:1; stop-color:black"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:black"/>
+  </radialGradient><linearGradient gradientUnits="userSpaceOnUse" id="HatIronHelmet-Mediumid247new" x1="11720.1" x2="11171.6" y1="8264.11" y2="10062.5">
+   <stop offset="0" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#5D5B63"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="HatIronHelmet-Mediumid111new" x1="11986.5" x2="15377.4" y1="9335.58" y2="9335.58">
+   <stop offset="0" style="stop-opacity:1; stop-color:#B7B6BD"/>
+   <stop offset="0.470588" style="stop-opacity:1; stop-color:#FBFAFF"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#5D5B63"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="HatIronHelmet-Mediumid245new" x1="7434.55" x2="7248.69" y1="10723.9" y2="12244.5">
+   <stop offset="0" style="stop-opacity:1; stop-color:#F4F3F8"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#5D5B63"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="WeaponFlySwatterBack-Mediumid24" x1="12160.4" x2="14712.1" y1="25216.2" y2="22534.8">
+   <stop offset="0" style="stop-opacity:1; stop-color:#008011"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#00BD55"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklacePostApocVest-Mediumid18" x1="10937.9" x2="13219.9" y1="19133.1" y2="22092.6">
+   <stop offset="0" style="stop-opacity:1; stop-color:#545452"/>
+   <stop offset="0.509804" style="stop-opacity:1; stop-color:#747666"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#979C82"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklacePostApocVest-Mediumid147" x1="13681.9" x2="13681.9" y1="22664" y2="21719.1">
+   <stop offset="0" style="stop-opacity:1; stop-color:#15313E"/>
+   <stop offset="0.54902" style="stop-opacity:1; stop-color:#845A3C"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#362E34"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklacePostApocVest-Mediumid20" x1="16061.4" x2="15887.7" y1="17900.7" y2="17619">
+   <stop offset="0" style="stop-opacity:1; stop-color:#7D705E"/>
+   <stop offset="0.411765" style="stop-opacity:1; stop-color:#E2E3E7"/>
+   <stop offset="0.709804" style="stop-opacity:1; stop-color:#B2B4BF"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#FFF8E8"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklacePostApocVest-Mediumid158" x1="16185.5" x2="15455.7" y1="23433.3" y2="21073.6">
+   <stop offset="0" style="stop-opacity:1; stop-color:#946A40"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#542317"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklacePostApocVest-Mediumid177" x1="15079.5" x2="15814.4" y1="20524.7" y2="19616.2">
+   <stop offset="0" style="stop-opacity:1; stop-color:#2E2926"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#5A5E69"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryTeddyid5" x1="6771.67" x2="6651.69" y1="24347.4" y2="25104.8">
+   <stop offset="0" style="stop-opacity:1; stop-color:#F2D996"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#C79A45"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryTeddyid27" x1="7031.19" x2="6244.99" y1="24298.4" y2="25352.6">
+   <stop offset="0" style="stop-opacity:1; stop-color:#B88531"/>
+   <stop offset="0.329412" style="stop-opacity:1; stop-color:#99672C"/>
+   <stop offset="0.541176" style="stop-opacity:1; stop-color:#9C6E24"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#523100"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletCutangaShield-Mediumid394" x1="19059.03" x2="19164.96" y1="22706.19" y2="22630.88">
+   <stop offset="0" style="stop-opacity:1; stop-color:#545454"/>
+   <stop offset="0.290196" style="stop-opacity:1; stop-color:#757575"/>
+   <stop offset="0.419608" style="stop-opacity:1; stop-color:#969696"/>
+   <stop offset="0.490196" style="stop-opacity:1; stop-color:#D9D9D9"/>
+   <stop offset="0.568627" style="stop-opacity:1; stop-color:#8B8B8B"/>
+   <stop offset="0.709804" style="stop-opacity:1; stop-color:#C4C4C4"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#7A7A7A"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletCutangaShield-Mediumid354" x1="17400.36" x2="17691.96" y1="18760.75" y2="18680.43">
+   <stop offset="0" style="stop-opacity:1; stop-color:#545454"/>
+   <stop offset="0.219608" style="stop-opacity:1; stop-color:#757575"/>
+   <stop offset="0.360784" style="stop-opacity:1; stop-color:#D9D9D9"/>
+   <stop offset="0.54902" style="stop-opacity:1; stop-color:#969696"/>
+   <stop offset="0.65098" style="stop-opacity:1; stop-color:#8B8B8B"/>
+   <stop offset="0.760784" style="stop-opacity:1; stop-color:#C4C4C4"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#7A7A7A"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletCutangaShield-Mediumid392" x1="18926.51" x2="19229.61" y1="19569.88" y2="19513.99">
+   <stop offset="0" style="stop-opacity:1; stop-color:#545454"/>
+   <stop offset="0.219608" style="stop-opacity:1; stop-color:#757575"/>
+   <stop offset="0.419608" style="stop-opacity:1; stop-color:#969696"/>
+   <stop offset="0.490196" style="stop-opacity:1; stop-color:#D9D9D9"/>
+   <stop offset="0.65098" style="stop-opacity:1; stop-color:#8B8B8B"/>
+   <stop offset="0.760784" style="stop-opacity:1; stop-color:#C4C4C4"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#7A7A7A"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletCutangaShield-Mediumid348" x1="16871.82" x2="17255.29" y1="19713.48" y2="19586.03">
+   <stop offset="0" style="stop-opacity:1; stop-color:#545454"/>
+   <stop offset="0.219608" style="stop-opacity:1; stop-color:#757575"/>
+   <stop offset="0.419608" style="stop-opacity:1; stop-color:#969696"/>
+   <stop offset="0.541176" style="stop-opacity:1; stop-color:#D9D9D9"/>
+   <stop offset="0.65098" style="stop-opacity:1; stop-color:#8B8B8B"/>
+   <stop offset="0.709804" style="stop-opacity:1; stop-color:#C4C4C4"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#7A7A7A"/>
+  </linearGradient><radialGradient cx="19308.33" cy="21199.51" fx="19308.33" fy="21199.51" gradientTransform="matrix(0.88862 -0.0475621 0.281583 1.16176 -3819 -2511)" gradientUnits="userSpaceOnUse" id="BraceletCutangaShield-Mediumid328" r="115.23">
+   <stop offset="0" style="stop-opacity:1; stop-color:#f5e9d9"/>
+   <stop offset="0.211765" style="stop-opacity:1; stop-color:#f5e9d9"/>
+   <stop offset="0.658824" style="stop-opacity:1; stop-color:#C4C4C4"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#C4C4C4"/>
+  </radialGradient></defs><g id="HairBack-Cat2">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <path class="HairBack-Cat2fil24 HairBack-Cat2str0" d="M8269 14997c210,1630 -132,2950 -1660,2596 -34,834 1052,1514 1858,1066 -827,1134 -190,2365 -2025,2362 367,1436 2274,1898 3387,1021 -678,582 -162,1476 -1565,1434 1297,1755 3865,424 5592,510 1541,14 4176,599 4922,-471 2178,-3120 -164,-5251 -535,-8454 -3253,-64 -6720,0 -9974,-64z" style="fill:#2ef503"/>
+  <path class="HairBack-Cat2fil14" d="M8612 15943c324,357 -36,3023 -1695,2419 361,274 814,630 1506,317 15,-6 66,64 81,57 231,-263 696,-682 1280,-1011 -1127,1808 113,4506 -2624,4341 892,652 1958,461 2506,113 69,-43 143,-16 193,-63 226,-168 785,-731 959,-1124 270,118 176,2220 -1038,3361 916,203 2564,-333 3816,-355 1621,-28 4672,-1241 4272,-2656 -207,-732 -474,-1370 -611,-2182 -388,-2293 1076,-3387 1076,-3387l-9721 170z" style="fill:#f9b163"/>
+ </g><g id="Tail-Cat1">
+  <path class="Tail-Cat1fil25" d="M12493 21526c-108,-680 356,-1318 1035,-1426 680,-108 1318,356 1426,1035 72,449 615,757 1013,871 277,80 569,104 842,61 324,-52 634,-203 873,-476 315,-359 185,-698 48,-1055 -333,-871 -681,-1781 -6,-3132 633,-1266 1884,-1986 3288,-1826 1347,153 2497,1082 2852,2410 178,666 -218,1350 -884,1528 -666,178 -1350,-218 -1528,-884 -111,-412 -602,-663 -1007,-554 -739,197 -584,1038 -381,1569 411,1074 408,2538 -507,3585 -653,748 -1490,1157 -2357,1296 -1260,201 -2607,-168 -3570,-1011 -591,-519 -1010,-1199 -1137,-1991z" style="fill:#65aae6"/>
+  <path class="Tail-Cat1fil14" d="M12493 21526c-51,-321 26,-633 192,-884l227 -137c304,-15 813,942 1117,927 875,2545 4568,3180 6172,593 -119,430 -326,844 -644,1207 -653,748 -1490,1157 -2357,1296 -1260,201 -2607,-168 -3570,-1011 -591,-519 -1010,-1199 -1137,-1991z" style="fill:#a13acb"/>
+  <path class="Tail-Cat1fil27" d="M20224 15581c254,-32 518,-34 788,-3 196,22 388,61 574,115 -86,612 -248,1468 -799,1408 -532,-57 -594,-890 -563,-1520zm-2123 1222c287,-369 637,-666 1033,-877 351,496 755,1166 339,1487 -394,304 -961,-160 -1372,-610zm-763 2098c0,-399 85,-838 311,-1338 576,230 1428,601 1230,1139 -177,483 -945,370 -1541,199zm-716 3185c63,-3 125,-10 187,-19 324,-52 634,-203 873,-476 35,-40 65,-80 90,-119 348,507 783,1223 346,1546 -470,349 -1157,-368 -1554,-870 19,-21 38,-42 58,-62z" style="fill:#9d771b"/>
+  <path class="Tail-Cat1fil26" d="M23232 16766c290,349 509,761 632,1222 178,666 -218,1350 -884,1528 -666,178 -1350,-218 -1528,-884 29,-336 -20,-792 208,-953 475,-334 678,146 766,-601 50,-420 502,-500 806,-312z" style="fill:#c7f517"/>
+  <path class="Tail-Cat1fil14" d="M23852 18675c-20,64 -45,127 -75,187 20,-67 45,-129 75,-187zm-75 188c-154,311 -436,557 -797,653 -666,178 -1350,-218 -1528,-884 -111,-412 -602,-663 -1007,-554 -372,99 -517,362 -544,666l0 0c-70,-634 533,-1204 1070,-1107 893,163 894,897 1378,1194 482,295 900,330 1428,32z" style="fill:#dfdd81"/>
+  <path class="Tail-Cat1fil22 Tail-Cat1str0" d="M12493 21526c-108,-680 356,-1318 1035,-1426 680,-108 1318,356 1426,1035 72,449 615,757 1013,871 277,80 569,104 842,61 324,-52 634,-203 873,-476 315,-359 185,-698 48,-1055 -333,-871 -681,-1781 -6,-3132 633,-1266 1884,-1986 3288,-1826 1347,153 2497,1082 2852,2410 178,666 -218,1350 -884,1528 -666,178 -1350,-218 -1528,-884 -111,-412 -602,-663 -1007,-554 -739,197 -584,1038 -381,1569 411,1074 408,2538 -507,3585 -653,748 -1490,1157 -2357,1296 -1260,201 -2607,-168 -3570,-1011 -591,-519 -1010,-1199 -1137,-1991z" style="fill:#6a5c67"/>
+ </g><g id="RightFoot-Cat0">
+  <path class="RightFoot-Cat0fil26" d="M17107 25230c-124,214 -404,285 -611,106 -71,70 -277,145 -526,65 -410,-131 -508,-461 -851,-710 -221,-159 -124,-477 -114,-668 364,340 783,-165 1076,-248 374,-102 737,158 534,413 199,95 520,237 673,411 169,192 121,631 -181,631z" style="fill:#bcbfa3"/>
+  <path class="RightFoot-Cat0fil14" d="M17107 25230c-124,214 -404,285 -611,106 -71,70 -277,145 -526,65 -410,-131 -518,-492 -872,-726 -156,-103 -135,-387 -103,-573 18,-14 37,-27 56,-38 -60,533 1445,1528 1433,860 214,342 596,186 545,-150 127,134 271,-14 143,-274 182,62 215,288 209,441 -17,153 -106,289 -274,289z" style="fill:#0edc6e"/>
+  <path class="RightFoot-Cat0fil22" d="M16655 24186c278,231 480,239 633,413 169,192 121,631 -181,631 -124,214 -404,285 -611,106 -71,70 -277,145 -526,65 -410,-131 -520,-489 -872,-726 -156,-105 -138,-331 -109,-524" style="fill:#01b281"/>
+  <path class="RightFoot-Cat0fil32" d="M16703 24128c-31,-26 -78,-22 -105,10 -27,31 -22,79 9,105 144,120 266,182 373,236 100,50 184,92 252,169 81,92 97,256 55,370 -18,49 -49,94 -96,118 7,-269 -115,-534 -402,-526 186,95 268,253 247,592 -49,79 -127,137 -220,155 -79,15 -160,-2 -228,-45 38,-218 10,-484 -289,-538 139,98 163,330 142,511 -32,29 -98,60 -189,72 -75,9 -164,4 -260,-27 -221,-71 -352,-219 -489,-375 -104,-118 -211,-239 -363,-342 -57,-38 -82,-102 -91,-176 -11,-85 -1,-183 13,-274 15,-98 -130,-119 -144,-22 -16,102 -31,212 -18,314 14,114 57,216 157,282 136,92 236,206 333,317 151,171 295,335 557,419 119,38 230,44 323,32 93,-11 171,-41 226,-75 103,70 225,98 348,74 125,-24 233,-98 305,-202 136,-15 232,-107 279,-232 61,-166 34,-387 -84,-521 -86,-98 -183,-147 -296,-204 -100,-50 -214,-108 -345,-217z" style="fill:#23570a"/>
+ </g><g id="LeftFoot-Cat0">
+ <path class="LeftFoot-Cat0fil26" d="M10257 25230c124,214 404,285 611,106 71,70 277,145 526,65 410,-131 508,-461 851,-710 221,-159 124,-477 114,-668 -364,340 -783,-165 -1076,-248 -374,-102 -737,158 -535,413 -198,95 -519,237 -672,411 -169,192 -121,631 181,631z" style="fill:#48f795"/>
+  <path class="LeftFoot-Cat0fil14" d="M10257 25230c124,214 404,285 611,106 71,70 277,145 526,65 410,-131 518,-492 871,-726 157,-103 136,-387 103,-573 -17,-14 -36,-27 -55,-38 60,533 -1445,1528 -1434,860 -213,342 -595,186 -544,-150 -127,134 -271,-14 -143,-274 -182,62 -215,288 -209,441 17,153 106,289 274,289z" style="fill:#6e63e5"/>
+  <path class="LeftFoot-Cat0fil22" d="M10708 24186c-277,231 -480,239 -632,413 -169,192 -121,631 181,631 124,214 404,285 611,106 71,70 277,145 526,65 410,-131 520,-489 871,-726 156,-105 139,-331 110,-524" style="fill:#352944"/>
+  <path class="LeftFoot-Cat0fil32" d="M10660 24128c32,-26 79,-22 106,10 26,31 22,79 -10,105 -143,120 -266,182 -373,236 -99,50 -183,92 -251,169 -81,92 -97,256 -55,370 18,49 49,94 96,118 -7,-269 115,-534 402,-526 -186,95 -268,253 -247,592 49,79 127,137 220,155 79,15 160,-2 228,-45 -39,-218 -11,-484 289,-538 -139,98 -163,330 -142,511 31,29 98,60 189,72 75,9 163,4 259,-27 222,-71 353,-219 490,-375 104,-118 210,-239 363,-342 56,-38 82,-102 91,-176 11,-85 0,-183 -14,-274 -14,-98 131,-119 145,-22 16,102 31,212 18,314 -14,114 -58,216 -157,282 -136,92 -236,206 -333,317 -151,171 -296,335 -557,419 -119,38 -230,44 -323,32 -93,-11 -171,-41 -226,-75 -103,70 -226,98 -349,74 -124,-24 -233,-98 -304,-202 -136,-15 -232,-107 -279,-232 -61,-166 -34,-387 84,-521 86,-98 183,-147 296,-204 100,-50 214,-108 344,-217z" style="fill:#348bb8"/>
+ </g><g id="RightLeg-Cat5">
+  <path class="RightLeg-Cat5fil42" d="M13682 23259c428,0 1377,183 1321,776 215,222 637,350 896,149 312,-243 712,-232 720,-12 204,-146 385,-347 515,-567 86,-145 69,65 171,-5 125,-83 18,-354 56,-477 45,-145 38,60 141,-19 124,-94 -29,-502 -214,-750 -134,-179 -272,-348 -381,-514 -200,-305 -431,-536 -577,-652 -621,860 -1470,1269 -2648,1328l0 743z" style="fill:#54b526"/>
+  <path class="RightLeg-Cat5fil32" d="M16153 24335c378,39 750,-306 805,-367 86,-95 164,-198 230,-306 33,35 79,55 159,1 114,-77 100,-224 87,-362 -3,-35 -6,-70 -7,-100 30,9 69,2 121,-37 2,-2 3,-3 5,-5 81,-68 84,-206 39,-364 -46,-159 -140,-346 -244,-486 -44,-58 -84,-110 -124,-162 -91,-118 -179,-233 -255,-348 -90,-138 -187,-262 -281,-368 -117,-132 -228,-235 -312,-301 -32,-26 -79,-20 -105,12 -25,32 -20,79 13,105 78,61 181,158 292,283 88,100 181,218 268,351 76,116 168,235 262,358 42,54 84,110 122,160 94,125 179,294 220,437 27,94 36,171 16,201 -12,-17 -24,-31 -50,-39 -55,-16 -94,4 -124,103 -19,60 -12,136 -4,214 8,87 16,179 -13,215 -11,-15 -21,-28 -40,-39 -53,-31 -104,-25 -163,76 -63,106 -138,208 -222,300 -82,90 -337,338 -695,468z" style="fill:#b9c8f3"/>
+  <path class="RightLeg-Cat5fil14" d="M17134 23605c86,-145 69,65 171,-5 125,-83 18,-354 56,-477 45,-145 38,60 141,-19 124,-94 -29,-502 -214,-750 -134,-179 -272,-348 -381,-514 -159,-242 -337,-437 -476,-565l-1 -1 -157 727c26,48 52,95 79,143 387,-413 1000,815 782,1461z" style="fill:#d3c2a9"/>
+  <path class="RightLeg-Cat5fil32" d="M14990 24256c62,5 73,-66 79,-154 8,-118 -4,-261 -94,-417 0,-1 -1,-3 -2,-4 -100,-171 -247,-296 -460,-378 -208,-80 -478,-119 -831,-119l0 150c335,0 588,35 777,108 180,69 302,173 385,314 0,1 1,3 2,4 67,116 86,244 75,331 -9,69 -8,92 -9,108 -4,48 42,54 78,57z" style="fill:#a1bf6a"/>
+ </g><g id="LeftLeg-Cat5">
+  <path class="LeftLeg-Cat5fil47" d="M13682 23259c-428,0 -1377,183 -1321,776 -215,222 -637,350 -896,149 -312,-243 -712,-232 -720,-12 -204,-146 -385,-347 -515,-567 -86,-145 -69,65 -171,-5 -125,-83 -19,-354 -56,-477 -45,-145 -38,60 -141,-19 -124,-94 29,-502 214,-750 134,-179 272,-348 381,-514 200,-305 431,-536 577,-652 621,860 1470,1269 2648,1328l0 743z" style="fill:#ab9e3a"/>
+  <path class="LeftLeg-Cat5fil32" d="M11210 24335c-377,39 -749,-306 -804,-367 -87,-95 -164,-198 -230,-306 -33,35 -79,55 -159,1 -114,-77 -100,-224 -88,-362 4,-35 7,-70 8,-100 -31,9 -69,2 -121,-37 -2,-2 -4,-3 -5,-5 -81,-68 -84,-206 -39,-364 46,-159 140,-346 244,-486 44,-58 84,-110 124,-162 91,-118 179,-233 255,-348 90,-138 187,-262 281,-368 117,-132 227,-235 312,-301 32,-26 79,-20 104,12 26,32 20,79 -12,105 -78,61 -182,158 -292,283 -88,100 -181,218 -268,351 -76,116 -168,235 -262,358 -42,54 -84,110 -122,160 -94,125 -179,294 -220,437 -27,94 -36,171 -16,201 12,-17 24,-31 50,-39 55,-16 94,4 124,103 19,60 12,136 4,214 -8,87 -17,179 13,215 10,-15 21,-28 40,-39 53,-31 104,-25 163,76 63,106 138,208 222,300 82,90 336,338 694,468z" style="fill:#0c798c"/>
+  <path class="LeftLeg-Cat5fil14" d="M10230 23605c-86,-145 -69,65 -171,-5 -125,-83 -19,-354 -56,-477 -45,-145 -38,60 -141,-19 -124,-94 29,-502 214,-750 134,-179 272,-348 381,-514 159,-242 336,-437 476,-565l1 -1 157 727c-26,48 -53,95 -79,143 -388,-413 -1000,815 -782,1461z" style="fill:#a56014"/>
+  <path class="LeftLeg-Cat5fil32" d="M12374 24256c-62,5 -74,-66 -80,-154 -7,-118 4,-261 94,-417 1,-1 2,-3 3,-4 100,-171 247,-296 460,-378 208,-80 478,-119 831,-119l0 150c-335,0 -588,35 -777,108 -180,69 -303,173 -385,314 -1,1 -1,3 -2,4 -67,116 -86,244 -75,331 9,69 8,92 9,108 4,48 -42,54 -78,57z" style="fill:#560f48"/>
+ </g><g id="RightHand-Cat0">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <path class="RightHand-Cat0fil48" d="M16231 17709c1007,345 1819,1401 2257,2165 289,504 -636,1265 -911,1014 -627,-574 -1209,-620 -1689,-543 -742,120 -1353,-1920 -931,-2545 422,-21 934,-40 1274,-91z" style="fill:#e761a1"/>
+  <path class="RightHand-Cat0fil14" d="M17512 20830c-602,-518 -1160,-559 -1624,-485 -171,28 -335,-59 -481,-217 -325,-472 753,-1098 1039,-656 261,403 734,847 1111,1126 -2,93 16,193 -45,232l0 0 0 0z" style="fill:#8fba57"/>
+  <path class="RightHand-Cat0fil22 RightHand-Cat0str0" d="M16477 20333c340,47 711,200 1100,555 275,251 1152,-509 864,-1013 -438,-763 -1203,-1821 -2210,-2166 -90,-31 -172,-59 -246,-84" style="fill:#7051e0"/>
+ </g><g id="LeftHand-Cat0">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <path class="LeftHand-Cat0fil55" d="M11133 17709c-1007,345 -1819,1401 -2257,2165 -289,504 636,1265 911,1014 627,-574 1209,-620 1689,-543 742,120 1352,-1920 931,-2545 -422,-21 -934,-40 -1274,-91z" style="fill:#562efd"/>
+  <path class="LeftHand-Cat0fil14" d="M9852 20830c602,-518 1160,-559 1624,-485 171,28 335,-59 481,-217 325,-472 -753,-1098 -1039,-656 -261,403 -734,847 -1111,1126 2,93 -16,193 45,232l0 0 0 0z" style="fill:#9d019d"/>
+  <path class="LeftHand-Cat0fil22 LeftHand-Cat0str0" d="M10887 20333c-340,47 -711,200 -1100,555 -275,251 -1153,-509 -864,-1013 438,-763 1203,-1821 2210,-2166 90,-31 171,-59 246,-84" style="fill:#a4787e"/>
+ </g><g id="Body-Cat0">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <path class="Body-Cat0fil62" d="M13682 23135c-1548,0 -2752,-291 -2993,-1956 -147,-1014 391,-2287 991,-3420 634,80 1289,123 2002,142 713,-19 1367,-62 2002,-142 600,1133 1137,2406 991,3420 -242,1665 -1445,1956 -2993,1956z" style="fill:#69fecd"/>
+  <path class="Body-Cat0fil14" d="M12621 23067c-1016,-156 -1749,-629 -1932,-1888 -75,-519 29,-1106 229,-1707 -223,2001 402,3257 1703,3595z" style="fill:#ed4463"/>
+  <path class="Body-Cat0fil32" d="M11012 22144c-250,-321 -348,-641 -397,-954 -59,-377 -24,-998 184,-1320 -78,421 -93,905 -36,1298 50,341 104,572 249,976z" style="fill:#09c197"/>
+  <path class="Body-Cat0fil63" d="M13682 18144c-911,0 -1630,-350 -1974,394 -875,1890 -906,4437 1974,4437 2879,0 2849,-2547 1974,-4437 -344,-744 -1063,-394 -1974,-394z" style="fill:#a3e2a0"/>
+  <path class="Body-Cat0fil14" d="M14743 23067c1016,-156 1749,-629 1932,-1888 75,-519 -29,-1106 -229,-1707 223,2001 -402,3257 -1703,3595z" style="fill:#0c7534"/>
+  <path class="Body-Cat0fil32" d="M16352 22144c250,-321 347,-641 397,-954 59,-377 24,-998 -184,-1320 78,421 93,905 36,1298 -50,341 -104,572 -249,976z" style="fill:#0f449c"/>
+ </g><g id="WeaponFlySwatterBack-Medium">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2367108334752">
+   <path class="WeaponFlySwatterBack-Mediumfil0 WeaponFlySwatterBack-Mediumstr0" d="M9496 21664l211 -158 -1804 -1241c-168,-116 -453,-135 -616,153 -163,289 1,523 187,607l1996 902 26 -263z" style="fill:#685af9"/>
+   <path class="WeaponFlySwatterBack-Mediumfil1" d="M7463 20235c-66,36 -127,96 -176,183 -163,289 1,523 187,607l1996 902 22 -221c-464,-223 -1683,-816 -1870,-979 -151,-131 -206,-332 -159,-492z" style="fill:#0ee20b"/>
+  </g>
+ </g><g id="RightPaw-Cat0">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <g id="_2842391375968">
+   <path class="RightPaw-Cat0fil26" d="M17501 20836c-31,672 506,1059 828,766 253,397 884,103 809,-293 203,-535 -266,-1036 -634,-1325 -198,-64 -364,-248 -462,44 -114,341 -157,279 -402,398 -164,79 -11,352 -139,410z" style="fill:#275b72"/>
+   <path class="RightPaw-Cat0fil14" d="M17501 20836c-31,672 506,1059 828,766 341,429 911,24 753,-293 -65,297 -520,408 -657,-118 -113,412 -522,237 -614,26 -96,-216 -45,-462 -254,-619 -2,93 16,193 -45,232l0 0 0 1c-2,0 -3,1 -5,2l0 0 0 0 0 0 0 0 -1 1 0 0 0 0c-2,1 -3,2 -5,2z" style="fill:#7780b7"/>
+   <path class="RightPaw-Cat0fil32" d="M17437 20673c-79,-58 -168,63 -89,121 29,21 57,43 84,65 -4,302 99,551 246,712 55,61 118,109 183,144 146,76 312,82 454,-8 209,238 583,191 784,-34 86,-97 135,-221 116,-357 83,-234 46,-463 -52,-673 -133,-282 -403,-498 -588,-704 -34,-37 -181,-286 -215,-345 -58,-79 -178,10 -120,89 36,48 75,120 112,186 6,12 81,153 124,188 201,164 431,392 551,649 38,81 65,165 77,251 -53,-69 -156,-152 -275,-139 81,67 126,143 171,252 66,158 113,363 -12,503 -142,159 -412,205 -563,33 116,-164 118,-464 -80,-548 55,102 48,374 -55,477 -86,86 -222,119 -360,47 -49,-26 -97,-63 -141,-112 -129,-140 -218,-365 -207,-639 2,-22 -6,-44 -23,-60 -37,-34 -82,-68 -122,-98z" style="fill:#36ea6a"/>
+  </g>
+ </g><g id="LeftPaw-Cat0">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <path class="LeftPaw-Cat0fil26" d="M9863 20836c31,672 -506,1059 -828,766 -253,397 -884,103 -809,-293 -203,-535 266,-1036 634,-1325 198,-64 364,-248 462,44 114,341 157,279 402,398 164,79 11,352 139,410z" style="fill:#d14677"/>
+  <path class="LeftPaw-Cat0fil14" d="M9863 20836c31,672 -506,1059 -828,766 -341,429 -911,24 -754,-293 66,297 521,408 658,-118 113,412 522,237 614,26 95,-216 45,-462 254,-619 2,93 -16,193 45,232l0 0 0 1c2,0 3,1 5,2l0 0 0 0 0 0 0 0 0 1 1 0 0 0c1,1 3,2 5,2z" style="fill:#e21f89"/>
+  <path class="LeftPaw-Cat0fil32" d="M9927 20673c79,-58 168,63 88,121 -28,21 -56,43 -83,65 4,302 -100,551 -246,712 -56,61 -118,109 -183,144 -146,76 -312,82 -454,-8 -209,238 -583,191 -784,-34 -86,-97 -135,-221 -116,-357 -83,-234 -46,-463 52,-673 133,-282 403,-498 588,-704 34,-37 180,-286 214,-345 59,-79 179,10 121,89 -36,48 -76,120 -112,186 -6,12 -81,153 -124,188 -201,164 -431,392 -551,649 -38,81 -66,165 -77,251 53,-69 156,-152 275,-139 -81,67 -126,143 -172,252 -65,158 -113,363 13,503 142,159 412,205 562,33 -115,-164 -117,-464 81,-548 -55,102 -48,374 55,477 86,86 222,119 359,47 50,-26 98,-63 142,-112 128,-140 218,-365 207,-639 -2,-22 6,-44 23,-60 37,-34 81,-68 122,-98z" style="fill:#e7a41e"/>
+ </g><g id="NecklacePostApocVest-Medium">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_16Corel-Layer"/>
+  <g>
+   <path class="NecklacePostApocVest-Mediumfil125 NecklacePostApocVest-Mediumstr0" d="M12193 17704c-501,-141 -1794,-497 -2092,-245 -212,145 -694,206 -694,206 154,79 371,112 463,238 -139,128 -149,285 -265,417 269,19 534,-4 741,112 -132,109 -245,345 -301,536 251,-64 438,-51 594,-35 -318,231 -357,451 -452,729 160,-25 299,17 424,106 0,0 -282,222 -373,473 362,-5 453,186 353,503 -1,117 -108,916 -98,1069 2,29 -477,30 -616,142 126,31 328,107 503,222 -84,73 -143,255 -174,426 151,-49 465,-164 649,-190 43,111 57,264 115,395 127,-47 312,-180 430,-222 81,167 130,360 187,487 130,-5 349,-58 503,-74 73,69 197,164 278,197 66,-68 207,-230 285,-260 126,85 121,82 265,147 103,-54 265,-125 394,-162 115,3 293,115 370,163 16,0 247,-160 370,-163 129,37 290,108 393,162 145,-65 140,-62 266,-147 78,30 219,192 285,260 81,-33 205,-128 278,-197 154,16 373,69 503,74 57,-127 106,-320 186,-487 119,42 304,175 431,222 58,-131 72,-284 115,-395 184,26 498,141 649,190 -31,-171 -90,-353 -174,-426 174,-115 377,-191 503,-222 -139,-112 -618,-113 -616,-142 10,-153 -97,-952 -98,-1069 -100,-317 -9,-508 353,-503 -92,-251 -373,-473 -373,-473 125,-89 264,-131 424,-106 -96,-278 -134,-498 -452,-729 155,-16 343,-29 594,35 -56,-191 -169,-427 -301,-536 207,-116 472,-93 741,-112 -116,-132 -126,-289 -265,-417 92,-126 309,-159 463,-238 0,0 -483,-61 -694,-206 -298,-252 -1591,104 -2093,245 -317,675 -961,839 -1488,839 -527,0 -1171,-164 -1489,-839z" style="fill:#3d4cdd"/>
+   <path class="NecklacePostApocVest-Mediumfil99" d="M9623 17628c-123,25 -216,37 -216,37 154,79 371,112 463,238 -71,65 -108,138 -143,211 142,-105 340,-216 443,-311 -64,-88 -336,-131 -547,-175zm49 595c-18,33 -40,66 -67,97 269,19 534,-4 741,112 -78,64 -150,174 -207,292 145,-154 407,-310 507,-392 -191,-107 -687,-96 -974,-109zm409 637c-14,37 -26,73 -36,108 251,-64 438,-51 594,-35 -184,133 -274,263 -336,403 122,-179 309,-338 536,-503 -148,-15 -507,-28 -758,27zm141 698c-11,34 -23,69 -35,104 160,-25 299,17 424,106 0,0 -282,222 -373,473 362,-205 553,-14 453,303 -1,68 -58,151 -103,239 1,-13 2,-26 3,-39 100,-317 9,-508 -353,-503 91,-251 673,-573 673,-573 -117,-83 -508,-126 -689,-110zm313 1425c-4,28 -6,58 -3,93 8,124 3002,382 3150,274 148,108 3142,-150 3150,-274 2,-35 1,-65 -4,-93 -113,126 -3001,373 -3146,267 -145,106 -3033,-141 -3147,-267zm6241 -200c-1,-13 -3,-26 -3,-39 -100,-317 -9,-508 353,-503 -92,-251 -673,-573 -673,-573 117,-83 508,-126 689,-110 11,34 22,69 35,104 -160,-25 -299,17 -424,106 0,0 281,222 373,473 -362,-205 -553,-14 -453,303 1,68 58,151 103,239zm285 -1447c-62,-140 -152,-270 -336,-403 155,-16 343,-29 594,35 -10,-35 -22,-71 -36,-108 -251,-55 -610,-42 -758,-27 227,165 413,324 536,503zm164 -612c-57,-118 -129,-228 -207,-292 207,-116 472,-93 741,-112 -28,-31 -49,-64 -68,-97 -286,13 -782,2 -973,109 100,82 362,238 507,392zm412 -610c-35,-73 -72,-146 -143,-211 92,-126 309,-159 463,-238 0,0 -93,-12 -216,-37 -211,44 -483,87 -547,175 103,95 301,206 443,311z" style="fill:#ac606a"/>
+   <path class="NecklacePostApocVest-Mediumfil5 NecklacePostApocVest-Mediumstr0" d="M12193 17704c-501,-141 -1794,-497 -2092,-245 -212,145 -694,206 -694,206 154,79 371,112 463,238 -139,128 -149,285 -265,417 269,19 534,-4 741,112 -132,109 -245,345 -301,536 251,-64 438,-51 594,-35 -318,231 -357,451 -452,729 160,-25 299,17 424,106 0,0 -282,222 -373,473 362,-5 453,186 353,503 -1,117 -108,916 -98,1069 2,29 -477,30 -616,142 126,31 328,107 503,222 -84,73 -143,255 -174,426 151,-49 465,-164 649,-190 43,111 57,264 115,395 127,-47 312,-180 430,-222 81,167 130,360 187,487 130,-5 349,-58 503,-74 73,69 197,164 278,197 66,-68 207,-230 285,-260 126,85 121,82 265,147 103,-54 265,-125 394,-162 115,3 293,115 370,163 16,0 247,-160 370,-163 129,37 290,108 393,162 145,-65 140,-62 266,-147 78,30 219,192 285,260 81,-33 205,-128 278,-197 154,16 373,69 503,74 57,-127 106,-320 186,-487 119,42 304,175 431,222 58,-131 72,-284 115,-395 184,26 498,141 649,190 -31,-171 -90,-353 -174,-426 174,-115 377,-191 503,-222 -139,-112 -618,-113 -616,-142 10,-153 -97,-952 -98,-1069 -100,-317 -9,-508 353,-503 -92,-251 -373,-473 -373,-473 125,-89 264,-131 424,-106 -96,-278 -134,-498 -452,-729 155,-16 343,-29 594,35 -56,-191 -169,-427 -301,-536 207,-116 472,-93 741,-112 -116,-132 -126,-289 -265,-417 92,-126 309,-159 463,-238 0,0 -483,-61 -694,-206 -298,-252 -1591,104 -2093,245 -317,675 -961,839 -1488,839 -527,0 -1171,-164 -1489,-839z" style="fill:#8477d5"/>
+   <path class="NecklacePostApocVest-Mediumfil126" d="M13682 19256c186,0 1074,-259 1481,-591 327,-267 670,79 669,548 -2,1066 396,2110 966,1506 134,439 81,840 73,1194 -357,332 -1685,689 -2894,741 -100,4 -198,-94 -295,-94l0 -3304z" style="fill:#d9ffe2"/>
+   <path class="NecklacePostApocVest-Mediumfil127" d="M13682 19256c-186,0 -1074,-259 -1481,-591 -327,-267 -670,79 -669,548 2,1066 -396,2110 -966,1506 -134,439 -81,840 -73,1194 357,332 1685,689 2894,741 99,4 198,-94 295,-94l0 -3304z" style="fill:#c5439a"/>
+   <path class="NecklacePostApocVest-Mediumfil27" d="M11536 19118c-3,31 -4,62 -4,95 2,1066 -396,2110 -966,1506 -134,439 -81,840 -73,1194l19 -3c-8,-353 -66,-582 66,-1019 567,604 1169,-412 967,-1678 -5,-33 -8,-64 -9,-95z" style="fill:#603bdd"/>
+   <path class="NecklacePostApocVest-Mediumfil27" d="M15828 19118c3,31 4,62 4,95 -2,1066 396,2110 966,1506 134,439 81,840 73,1194l-20 -3c9,-353 67,-582 -66,-1019 -566,604 -1169,-412 -966,-1678 5,-33 8,-64 9,-95z" style="fill:#3d2696"/>
+   <path class="NecklacePostApocVest-Mediumfil102" d="M16088 20519c-7,-14 -14,-27 -20,-42 -411,196 -649,253 -1116,260 -376,6 -792,-98 -881,-149 -130,-75 -259,-150 -389,-225l0 100c130,75 259,150 389,225 89,51 505,105 881,99 467,-7 705,-64 1116,-260 6,-2 13,-5 20,-8z" style="fill:#a718ea"/>
+   <path class="NecklacePostApocVest-Mediumfil102" d="M11276 20519c7,-14 13,-27 20,-42 411,196 649,253 1116,260 376,6 792,-98 881,-149 130,-75 259,-150 389,-225l0 100c-130,75 -259,150 -389,225 -89,51 -505,105 -881,99 -467,-7 -705,-64 -1116,-260 -6,-2 -13,-5 -20,-8z" style="fill:#6c3c13"/>
+   <path class="NecklacePostApocVest-Mediumfil103" d="M13682 21433c141,-124 282,-248 423,-372 74,-64 461,-50 844,-72 515,-31 774,-54 1232,-269 -41,-54 -79,-119 -113,-193 -411,196 -649,253 -1116,260 -376,6 -792,-48 -881,-99 -130,-75 -259,-150 -389,-225l0 970z" style="fill:#f4888c"/>
+   <path class="NecklacePostApocVest-Mediumfil103" d="M13682 21433c-141,-124 -282,-248 -423,-372 -74,-64 -462,-50 -844,-72 -516,-31 -774,-54 -1232,-269 41,-54 79,-119 113,-193 411,196 649,253 1116,260 376,6 792,-48 881,-99 130,-75 259,-150 389,-225l0 970z" style="fill:#729d81"/>
+   <path class="NecklacePostApocVest-Mediumfil5 NecklacePostApocVest-Mediumstr0" d="M13682 19406c-32,0 -84,-207 -151,-222 -324,-68 -992,-244 -1330,-519 -327,-267 -670,79 -669,548 2,1066 -396,2110 -966,1506 -134,439 -81,840 -73,1194 353,328 1654,680 2851,739 114,5 233,-82 338,-142 104,60 224,147 338,142 1197,-59 2498,-411 2851,-739 8,-354 61,-755 -73,-1194 -570,604 -968,-440 -966,-1506 1,-469 -342,-815 -669,-548 -338,275 -1006,451 -1331,519 -66,15 -118,222 -150,222z" style="fill:#389121"/>
+   <path class="NecklacePostApocVest-Mediumfil128" d="M13682 22088c1516,0 3105,-462 3385,-725 -14,-185 -5,-178 -26,-310 -24,-150 -128,-20 -375,85 -725,306 -1434,453 -2984,453 -1550,0 -2259,-147 -2984,-453 -247,-105 -351,-235 -375,-85 -21,132 -12,125 -27,310 281,263 1870,725 3386,725z" style="fill:#5dcffc"/>
+   <path class="NecklacePostApocVest-Mediumfil105" d="M16977 21429c25,-16 74,-51 90,-66 -14,-185 -5,-178 -26,-310 -24,-150 -128,-20 -375,85 -725,306 -803,317 -1660,401 333,28 944,31 1588,-226 251,-100 362,-236 376,-70 8,93 8,124 7,186z" style="fill:#be983b"/>
+   <path class="NecklacePostApocVest-Mediumfil11 NecklacePostApocVest-Mediumstr0" d="M13682 22088c1516,0 3105,-462 3385,-725 -14,-185 -5,-178 -26,-310 -24,-150 -128,-20 -375,85 -725,306 -1434,453 -2984,453 -1550,0 -2259,-147 -2984,-453 -247,-105 -351,-235 -375,-85 -21,132 -12,125 -27,310 281,263 1870,725 3386,725z" style="fill:#4ac66a"/>
+   <path class="NecklacePostApocVest-Mediumfil129 NecklacePostApocVest-Mediumstr2" d="M10715 17384c37,-186 987,-147 1152,194 162,336 271,703 367,1031 87,298 112,633 -239,775 -429,174 -611,-174 -736,-492 -181,-457 -559,-1435 -544,-1508z" style="fill:#ff1aff"/>
+   <path class="NecklacePostApocVest-Mediumfil130" d="M16649 17384c-38,-186 -987,-147 -1152,194 -162,336 -271,703 -367,1031 -87,298 -112,633 238,775 430,174 612,-174 737,-492 180,-457 559,-1435 544,-1508z" style="fill:#b84586"/>
+   <path class="NecklacePostApocVest-Mediumfil108" d="M15157 19227c196,51 473,163 624,-72 151,-234 720,-1434 716,-1449 -3,-16 1,55 4,150 -122,336 -292,773 -396,1036 -125,318 -307,666 -737,492 -97,-39 -165,-93 -211,-157z" style="fill:#d57204"/>
+   <path class="NecklacePostApocVest-Mediumfil11 NecklacePostApocVest-Mediumstr2" d="M16649 17384c-38,-186 -987,-147 -1152,194 -162,336 -271,703 -367,1031 -87,298 -112,633 238,775 430,174 612,-174 737,-492 180,-457 559,-1435 544,-1508z" style="fill:#2629e2"/>
+   <g>
+    <path class="NecklacePostApocVest-Mediumfil131" d="M11589 18447c24,0 46,-10 62,-26 16,-15 25,-37 25,-61 0,-24 -9,-46 -25,-62l0 0c-16,-15 -38,-25 -62,-25 -24,0 -45,10 -61,25 -16,16 -26,38 -26,62 0,24 10,46 26,61 15,16 37,26 61,26zm118 31c-30,30 -72,49 -118,49 -46,0 -87,-19 -118,-49l0 0c-30,-30 -49,-72 -49,-118 0,-46 19,-88 49,-118 30,-30 72,-49 118,-49 46,0 88,19 118,49l0 0 0 0c31,30 49,72 49,118 0,46 -18,88 -49,118z" style="fill:#ab518d"/>
+    <path class="NecklacePostApocVest-Mediumfil34" d="M11589 18347l0 0 0 12 0 0 -4 -11 -1 0 0 0 5 12 0 -1 0 1 0 0 0 0 0 -1 0 0 0 0 5 -11 0 0c-1,0 -4,-1 -5,-1zm0 100c24,0 46,-10 62,-26 16,-15 25,-37 25,-61 0,-24 -9,-46 -25,-62l0 0c-16,-15 -38,-25 -62,-25 -24,0 -45,10 -61,25 -16,16 -26,38 -26,62 0,24 10,46 26,61 15,16 37,26 61,26zm118 31c-30,30 -72,49 -118,49 -46,0 -87,-19 -118,-49l0 0c-30,-30 -49,-72 -49,-118 0,-46 19,-88 49,-118 30,-30 72,-49 118,-49 46,0 88,19 118,49l0 0 0 0c31,30 49,72 49,118 0,46 -18,88 -49,118zm-118 -131c0,0 -3,1 -4,1m4 12l0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0m0 0l0 0 0 0 0 0 0 0 0 0 0 0m0 0l0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 0 0 0zm0 0l0 0 0 0 0 0 1 0 0 0 0 0 0 0 11 5 0 0 -11 -5 0 0 0 0 0 0 -1 0 1 0 -1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 11 5c0,-2 1,-4 1,-5l-12 0 11 -5 0 0 -10 4 7 -8 0 0 -8 8 1 0 -1 1 0 0 0 0m-1 0l5 11 0 0 -4 -11 0 0 8 9c1,-1 2,-3 3,-4m-12 8l0 -12 0 -1 0 0 0 0 0 0m0 1l0 -1 0 0 0 0 0 0 0 0 0 0 0 1 -5 10 1 0 4 -10zm0 -2l0 0 1 0 4 -10 0 -1m-10 0l0 0 5 11 0 1 0 0m-5 -12c-1,1 -3,2 -4,3l9 8 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0m-9 -9l0 0c0,0 -1,3 -2,4l11 5 0 0 0 0 0 0 0 0 0 0m1 0l0 0 0 0 0 0m-12 -5l0 0 11 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0m-11 -5l0 0 11 5 0 0 0 0 0 0 0 0 0 0 0 0m-11 -5l0 0c-1,2 -1,4 -2,5l13 0 -11 4 0 1 10 -4 1 -1 0 0 0 0m1 0l0 0 -1 0 0 0m1 0l0 0 0 0 0 0zm-14 0l0 0c1,1 1,3 2,4l0 0m0 1c1,1 2,2 2,3l8 -7 0 0 1 -1m-9 8l1 0 7 -7m-7 8l8 -8 0 0 -8 8 0 0zm8 -10l0 0 0 0 0 0zm1 0l8 -8c-1,0 -3,-2 -4,-2m-13 20c1,0 3,1 3,2m1 0l0 0c1,1 4,1 4,2l0 0c1,-1 3,-1 5,-1l0 -1 -5 -11 0 0m1 -1l0 0m4 12l0 0m0 0c1,0 4,-2 4,-2l0 0m3 -4l0 0 0 0m-12 -5l0 0 0 0m13 0l0 0c0,-1 -1,-4 -1,-5l0 0m0 0c-1,-1 -2,-3 -3,-4m-8 8l0 1m-1 0l0 0m0 0l0 0m0 0l0 1m9 -10l0 0m-9 9l0 -1 1 0 8 -8m180 198c-24,24 -54,44 -87,57 -32,14 -66,21 -102,21 -35,0 -70,-7 -102,-21 -32,-13 -61,-33 -86,-57l0 0 0 -1 0 0c-25,-24 -45,-54 -58,-86 -13,-32 -21,-66 -21,-102 0,-36 8,-70 21,-102 14,-33 33,-63 58,-87 24,-24 53,-44 87,-58 31,-13 66,-20 101,-20 36,0 71,7 102,20 33,14 62,33 87,58l0 0 0 1c25,24 44,54 58,86 13,32 20,66 20,102 0,35 -7,70 -20,102 -14,33 -34,62 -58,87z" id="1" style="fill:#a59746"/>
+   </g>
+   <g>
+    <path class="NecklacePostApocVest-Mediumfil132" d="M11389 17847c24,0 46,-10 62,-26 16,-15 25,-37 25,-61 0,-24 -9,-46 -25,-62l0 0c-16,-15 -38,-25 -62,-25 -24,0 -45,10 -61,25 -16,16 -26,38 -26,62 0,24 10,46 26,61 15,16 37,26 61,26zm118 31c-30,30 -72,49 -118,49 -46,0 -87,-19 -118,-49l0 0c-30,-30 -49,-72 -49,-118 0,-46 19,-88 49,-118 30,-30 72,-49 118,-49 46,0 88,19 118,49l0 0 0 0c31,30 49,72 49,118 0,46 -18,88 -49,118z" style="fill:#59318d"/>
+    <path class="NecklacePostApocVest-Mediumfil34" d="M11389 17747l0 0 0 12 0 0 -4 -11 -1 0 0 0 5 12 0 -1 0 1 0 0 0 0 0 -1 0 0 0 0 5 -11 0 0c-1,0 -4,-1 -5,-1zm0 100c24,0 46,-10 62,-26 16,-15 25,-37 25,-61 0,-24 -9,-46 -25,-62l0 0c-16,-15 -38,-25 -62,-25 -24,0 -45,10 -61,25 -16,16 -26,38 -26,62 0,24 10,46 26,61 15,16 37,26 61,26zm118 31c-30,30 -72,49 -118,49 -46,0 -87,-19 -118,-49l0 0c-30,-30 -49,-72 -49,-118 0,-46 19,-88 49,-118 30,-30 72,-49 118,-49 46,0 88,19 118,49l0 0 0 0c31,30 49,72 49,118 0,46 -18,88 -49,118zm-118 -131c0,0 -3,1 -4,1m4 12l0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0m0 0l0 0 0 0 0 0 0 0 0 0 0 0m0 0l0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 -1 0 0 0 0 0zm0 0l0 0 0 0 0 0 1 0 0 0 0 0 0 0 11 5 0 0 -11 -5 0 0 0 0 0 0 -1 0 1 0 -1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 11 5c0,-2 1,-4 1,-5l-12 0 11 -5 0 0 -10 4 7 -8 0 0 -8 8 1 0 -1 1 0 0 0 0m-1 0l5 11 0 0 -4 -11 0 0 8 9c1,-1 2,-3 3,-4m-12 8l0 -12 0 -1 0 0 0 0 0 0m0 1l0 -1 0 0 0 0 0 0 0 0 0 0 0 1 -5 10 1 0 4 -10zm0 -2l0 0 1 0 4 -10 0 -1m-10 0l0 0 5 11 0 1 0 0m-5 -12c-1,1 -3,2 -4,3l9 8 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0m-9 -9l0 0c0,0 -1,3 -2,4l11 5 0 0 0 0 0 0 0 0 0 0m1 0l0 0 0 0 0 0m-12 -5l0 0 11 5 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0m-11 -5l0 0 11 5 0 0 0 0 0 0 0 0 0 0 0 0m-11 -5l0 0c-1,2 -1,4 -2,5l13 0 -11 4 0 1 10 -4 1 -1 0 0 0 0m1 0l0 0 -1 0 0 0m1 0l0 0 0 0 0 0zm-14 0l0 0c1,1 1,3 2,4l0 0m0 1c1,1 2,2 2,3l8 -7 0 0 1 -1m-9 8l1 0 7 -7m-7 8l8 -8 0 0 -8 8 0 0zm8 -10l0 0 0 0 0 0zm1 0l8 -8c-1,0 -3,-2 -4,-2m-13 20c1,0 3,1 3,2m1 0l0 0c1,1 4,1 4,2l0 0c1,-1 3,-1 5,-1l0 -1 -5 -11 0 0m1 -1l0 0m4 12l0 0m0 0c1,0 4,-2 4,-2l0 0m3 -4l0 0 0 0m-12 -5l0 0 0 0m13 0l0 0c0,-1 -1,-4 -1,-5l0 0m0 0c-1,-1 -2,-3 -3,-4m-8 8l0 1m-1 0l0 0m0 0l0 0m0 0l0 1m9 -10l0 0m-9 9l0 -1 1 0 8 -8m180 198c-24,24 -54,44 -87,57 -32,14 -66,21 -102,21 -35,0 -70,-7 -102,-21 -32,-13 -61,-33 -86,-57l0 0 0 -1 0 0c-25,-24 -45,-54 -58,-86 -13,-32 -21,-66 -21,-102 0,-36 8,-70 21,-102 14,-33 33,-63 58,-87 24,-24 53,-44 87,-58 31,-13 66,-20 101,-20 36,0 71,7 102,20 33,14 62,33 87,58l0 0 0 1c25,24 44,54 58,86 13,32 20,66 20,102 0,35 -7,70 -20,102 -14,33 -34,62 -58,87z" id="1" style="fill:#24751a"/>
+   </g>
+   <path class="NecklacePostApocVest-Mediumfil133 NecklacePostApocVest-Mediumstr2" d="M11400 19215c-63,27 -136,-3 -163,-66 -27,-64 2,-137 66,-164l909 -388c63,-27 137,2 164,66 27,63 -3,136 -66,163l-910 389z" style="fill:#5d2b10"/>
+   <g>
+    <path class="NecklacePostApocVest-Mediumfil134" d="M15775 18447c-24,0 -46,-10 -62,-26 -16,-15 -25,-37 -25,-61 0,-24 9,-46 25,-62l0 0c16,-15 37,-25 62,-25 24,0 45,10 61,25 16,16 26,38 26,62 0,24 -10,46 -26,61 -16,16 -37,26 -61,26zm-119 31c31,30 72,49 119,49 46,0 87,-19 117,-49l1 0c30,-30 49,-72 49,-118 0,-46 -19,-88 -49,-118 -31,-30 -72,-49 -118,-49 -46,0 -88,19 -118,49l0 0 -1 0c-30,30 -48,72 -48,118 0,46 18,88 48,118z" style="fill:#006b05"/>
+    <path class="NecklacePostApocVest-Mediumfil34" d="M15770 18371l4 -11 1 0 -5 11 0 1c1,0 4,0 5,1l0 -12 4 10 0 0 -4 -10 8 8 0 0 -8 -8 0 0 0 -1 0 0 0 1 0 -1 0 0 0 0 0 0 0 0 0 0 0 0 -1 0 1 0 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 -1 0 0 1 1 0 0 -11 -5 0 0c0,1 -1,4 -1,5l0 0 12 0 0 0 -11 5 0 0 0 0 11 -5 0 0 0 0m1 0l0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 12 0c0,-1 0,-3 -1,-5l0 0 -11 5 0 0 0 0 0 0 0 0 11 -5 0 0 -11 5 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 9 -8c-1,-1 -4,-2 -4,-3l-5 11 0 1 0 0 0 0 0 0 0 0 0 0 0 0m0 0l0 0 0 0 0 0zm0 87c-24,0 -46,-10 -62,-26 -16,-15 -25,-37 -25,-61 0,-24 9,-46 25,-62l0 0c16,-15 37,-25 62,-25 24,0 45,10 61,25 16,16 26,38 26,62 0,24 -10,46 -26,61 -16,16 -37,26 -61,26zm-119 31c31,30 72,49 119,49 46,0 87,-19 117,-49l1 0c30,-30 49,-72 49,-118 0,-46 -19,-88 -49,-118 -31,-30 -72,-49 -118,-49 -46,0 -88,19 -118,49l0 0 -1 0c-30,30 -48,72 -48,118 0,46 18,88 48,118zm119 -118l0 0 0 0 0 0m0 0l4 -12 0 0 0 0 -4 11 0 0 0 0 0 0 0 1 0 0 0 0 0 -1 0 1zm4 -12c-1,0 -4,-1 -4,-1l0 12 -5 -11 0 1 4 10 1 0 0 0 0 1m0 -13l0 0c-1,0 -4,1 -5,1l0 0m-5 21l9 -9 0 0 -4 11 0 0 0 0m4 -11l0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0m10 -9l0 0m-4 -3l-1 0m-16 17l11 -5m1 0l0 0 1 1 0 0 7 7 0 0 -7 -7 10 4 0 -1 -11 -4 0 0 0 0 0 0 0 0 0 0zm11 -5l0 0m0 0c-1,-1 -2,-4 -2,-4m3 9l0 0m-24 -5l10 4 -7 -8c-1,1 -2,3 -3,4zm23 9c0,-1 1,-3 1,-4m-4 8c1,-1 2,-2 3,-3m0 -1l0 0m-20 -13l8 8 0 0 1 0m0 0l0 0 0 0 0 0zm4 12l0 0m0 0c1,-1 3,-2 4,-2m-8 4c0,-1 3,-1 4,-2m-4 2l0 0m-10 -4c1,0 4,2 5,2m-7 -6l0 0c1,1 2,3 2,4l0 0m-3 -9c0,1 1,3 1,5m12 -4l0 -1m0 0l0 0m-1 0l0 0m0 0l0 0m-1 -1l-7 -8 0 0m-3 4l0 0m12 5l0 0 0 0 0 0m-5 -11c-1,0 -3,2 -4,2l0 0 8 8m1 1l0 0m0 0l0 0m0 0l1 1m-103 245c-33,-13 -63,-33 -87,-57 -24,-25 -44,-54 -58,-87 -13,-32 -20,-67 -20,-102 0,-36 7,-70 20,-102 13,-32 33,-62 58,-86l0 -1 0 0c25,-25 54,-44 87,-58 31,-13 66,-20 102,-20 35,0 69,7 101,20 34,14 63,34 87,58 25,24 44,54 58,87 13,32 21,66 21,102 0,36 -8,70 -21,102 -13,32 -33,62 -58,86l0 0 0 1 0 0c-25,24 -54,44 -86,57 -32,14 -67,21 -102,21 -36,0 -70,-7 -102,-21z" id="1" style="fill:#580133"/>
+   </g>
+   <g>
+    <path class="NecklacePostApocVest-Mediumfil135" d="M15975 17847c-24,0 -46,-10 -62,-26 -16,-15 -25,-37 -25,-61 0,-24 9,-46 25,-62l0 0c16,-15 37,-25 62,-25 24,0 45,10 61,25 16,16 26,38 26,62 0,24 -10,46 -26,61 -16,16 -37,26 -61,26zm-119 31c31,30 72,49 119,49 46,0 87,-19 117,-49l1 0c30,-30 49,-72 49,-118 0,-46 -19,-88 -49,-118 -31,-30 -72,-49 -118,-49 -46,0 -88,19 -118,49l0 0 -1 0c-30,30 -48,72 -48,118 0,46 18,88 48,118z" style="fill:#b39052"/>
+    <path class="NecklacePostApocVest-Mediumfil34" d="M15970 17771l4 -11 1 0 -5 11 0 1c1,0 4,0 5,1l0 -12 4 10 0 0 -4 -10 8 8 0 0 -8 -8 0 0 0 -1 0 0 0 1 0 -1 0 0 0 0 0 0 0 0 0 0 0 0 -1 0 1 0 -1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 -1 0 0 1 1 0 0 -11 -5 0 0c0,1 -1,4 -1,5l0 0 12 0 0 0 -11 5 0 0 0 0 11 -5 0 0 0 0m1 0l0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 12 0c0,-1 0,-3 -1,-5l0 0 -11 5 0 0 0 0 0 0 0 0 11 -5 0 0 -11 5 0 0 0 0 0 0 0 0 0 0 0 0 0 -1 9 -8c-1,-1 -4,-2 -4,-3l-5 11 0 1 0 0 0 0 0 0 0 0 0 0 0 0m0 0l0 0 0 0 0 0zm0 87c-24,0 -46,-10 -62,-26 -16,-15 -25,-37 -25,-61 0,-24 9,-46 25,-62l0 0c16,-15 37,-25 62,-25 24,0 45,10 61,25 16,16 26,38 26,62 0,24 -10,46 -26,61 -16,16 -37,26 -61,26zm-119 31c31,30 72,49 119,49 46,0 87,-19 117,-49l1 0c30,-30 49,-72 49,-118 0,-46 -19,-88 -49,-118 -31,-30 -72,-49 -118,-49 -46,0 -88,19 -118,49l0 0 -1 0c-30,30 -48,72 -48,118 0,46 18,88 48,118zm119 -118l0 0 0 0 0 0m0 0l4 -12 0 0 0 0 -4 11 0 0 0 0 0 0 0 1 0 0 0 0 0 -1 0 1zm4 -12c-1,0 -4,-1 -4,-1l0 12 -5 -11 0 1 4 10 1 0 0 0 0 1m0 -13l0 0c-1,0 -4,1 -5,1l0 0m-5 21l9 -9 0 0 -4 11 0 0 0 0m4 -11l0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0m10 -9l0 0m-4 -3l-1 0m-16 17l11 -5m1 0l0 0 1 1 0 0 7 7 0 0 -7 -7 10 4 0 -1 -11 -4 0 0 0 0 0 0 0 0 0 0zm11 -5l0 0m0 0c-1,-1 -2,-4 -2,-4m3 9l0 0m-24 -5l10 4 -7 -8c-1,1 -2,3 -3,4zm23 9c0,-1 1,-3 1,-4m-4 8c1,-1 2,-2 3,-3m0 -1l0 0m-20 -13l8 8 0 0 1 0m0 0l0 0 0 0 0 0zm4 12l0 0m0 0c1,-1 3,-2 4,-2m-8 4c0,-1 3,-1 4,-2m-4 2l0 0m-10 -4c1,0 4,2 5,2m-7 -6l0 0c1,1 2,3 2,4l0 0m-3 -9c0,1 1,3 1,5m12 -4l0 -1m0 0l0 0m-1 0l0 0m0 0l0 0m-1 -1l-7 -8 0 0m-3 4l0 0m12 5l0 0 0 0 0 0m-5 -11c-1,0 -3,2 -4,2l0 0 8 8m1 1l0 0m0 0l0 0m0 0l1 1m-103 245c-33,-13 -63,-33 -87,-57 -24,-25 -44,-54 -58,-87 -13,-32 -20,-67 -20,-102 0,-36 7,-70 20,-102 13,-32 33,-62 58,-86l0 -1 0 0c25,-25 54,-44 87,-58 31,-13 66,-20 102,-20 35,0 69,7 101,20 34,14 63,34 87,58 25,24 44,54 58,87 13,32 21,66 21,102 0,36 -8,70 -21,102 -13,32 -33,62 -58,86l0 0 0 1 0 0c-25,24 -54,44 -86,57 -32,14 -67,21 -102,21 -36,0 -70,-7 -102,-21z" id="1" style="fill:#4662b1"/>
+   </g>
+   <path class="NecklacePostApocVest-Mediumfil136 NecklacePostApocVest-Mediumstr2" d="M15964 19215c63,27 136,-3 163,-66 27,-64 -2,-137 -66,-164l-909 -388c-64,-27 -137,2 -164,66 -27,63 3,136 66,163l910 389z" style="fill:#756bdd"/>
+   <path class="NecklacePostApocVest-Mediumfil137 NecklacePostApocVest-Mediumstr0" d="M13184 22259l541 0 92 -101 92 101 271 0c65,0 118,-53 118,-119l0 -580c0,-65 -53,-118 -118,-118l-271 0 -92 105 -92 -105 -541 0c-65,0 -118,53 -118,118l0 580c0,65 53,119 118,119z" style="fill:#eea8df"/>
+   <path class="NecklacePostApocVest-Mediumfil138 NecklacePostApocVest-Mediumstr0" d="M12454 22199c112,8 168,12 266,18 18,2 36,-51 40,-116l41 -578c4,-65 -6,-119 -24,-121 -99,-7 -153,-10 -266,-18 -18,-1 -36,51 -40,116l-41 578c-4,65 6,120 24,121z" style="fill:#3f5d11"/>
+   <path class="NecklacePostApocVest-Mediumfil103" d="M12889 19034c352,267 627,544 793,827 166,-283 441,-560 792,-827 -276,96 -704,222 -792,222 -88,0 -516,-126 -793,-222z" style="fill:#0929f0"/>
+   <path class="NecklacePostApocVest-Mediumfil7" d="M10604 20403c-103,-164 -187,-123 -366,-162 0,0 762,-152 809,-527 48,-374 -13,-826 -178,-1322 -166,-497 -493,-929 -724,-962 -60,-35 244,-56 570,-46 215,-138 676,-108 904,-36 156,50 278,256 301,281 93,99 273,75 273,75 133,229 320,458 540,606 0,0 -250,524 544,858 -261,-86 -912,-388 -912,-388 0,0 95,1 11,-117 -85,-119 -147,-72 -147,-72 -87,-261 -174,-522 -261,-783 -264,215 -459,585 -404,1065 98,230 482,66 482,66 0,0 -473,309 -215,404 261,96 435,-235 435,-235 59,176 44,515 -371,513 -513,338 -42,1599 620,1932 50,36 -546,-79 -765,-97 -739,-175 -119,393 588,526 226,494 1341,642 1049,672 -79,8 -211,-32 -279,14 -15,9 -91,301 -262,358 -89,30 -101,-89 -211,-82 -89,6 -182,228 -267,252 -134,38 -149,-155 -294,-196 -133,-37 -398,74 -487,73 -54,-1 -104,-415 -160,-465 -59,-54 -359,212 -430,189 -95,-30 -43,-338 -142,-384 -76,-35 -570,184 -641,149 -116,-56 205,-362 166,-385 -116,-69 -390,-210 -467,-246 -14,-6 409,-127 586,-57 4,-42 39,-179 -19,-294 -32,-63 -166,-52 -184,-117 -32,-118 -8,-220 27,-310 36,-93 162,31 164,-22 6,-171 50,-319 59,-340 77,-185 57,-388 58,-388z" style="fill:#2e5b66"/>
+   <path class="NecklacePostApocVest-Mediumfil31" d="M14591 19435c401,116 618,277 731,595 -125,-180 -397,-409 -731,-595z" style="fill:#e9c1ce"/>
+   <path class="NecklacePostApocVest-Mediumfil27" d="M15322 20030c-148,-166 -432,-387 -731,-595 334,186 606,415 731,595z" style="fill:#f0da5e"/>
+   <path class="NecklacePostApocVest-Mediumfil31" d="M14299 19485c282,71 669,362 798,740 -236,-273 -321,-449 -798,-740z" style="fill:#e6cde1"/>
+   <path class="NecklacePostApocVest-Mediumfil27" d="M15097 20225c-282,-254 -392,-421 -798,-740 477,291 562,467 798,740z" style="fill:#e20c5b"/>
+   <path class="NecklacePostApocVest-Mediumfil31" d="M14523 19015c125,73 249,146 374,219 -18,-125 -36,-249 -54,-374 75,-48 -300,166 -320,155z" style="fill:#9eacc1"/>
+   <polygon class="NecklacePostApocVest-Mediumfil31" points="14606,18972 14897,19234 14774,18892 "/>
+   <path class="NecklacePostApocVest-Mediumfil31" d="M12587 20285l22 500c-57,2 -114,3 -170,2l148 -502z" style="fill:#6d6559"/>
+   <path class="NecklacePostApocVest-Mediumfil27" d="M12452 20788c-19,0 -37,0 -56,-1l191 -502 -148 502 13 1z" style="fill:#67868d"/>
+   <path class="NecklacePostApocVest-Mediumfil31" d="M12587 20285l22 500c-57,2 -33,3 -89,2l67 -502z" style="fill:#db62cc"/>
+   <g>
+    <path class="NecklacePostApocVest-Mediumfil139 NecklacePostApocVest-Mediumstr0" d="M11833 22545c-45,122 -233,171 -313,101 0,0 -934,-118 -936,-306 -4,-364 252,-1305 359,-1329 106,-24 980,181 980,181 -81,543 -111,831 -90,1353z" style="fill:#ad61ee"/>
+    <path class="NecklacePostApocVest-Mediumfil140 NecklacePostApocVest-Mediumstr0" d="M11830 22553c-45,122 -230,163 -310,93 0,0 14,-357 12,-545 -4,-364 159,-915 266,-938 106,-24 125,29 125,29 -81,543 -114,839 -93,1361z" style="fill:#6e7a51"/>
+    <path class="NecklacePostApocVest-Mediumfil141 NecklacePostApocVest-Mediumstr0" d="M11923 21192c-340,-80 -681,-159 -1021,-239 0,0 -332,602 -333,698 0,95 69,198 121,224 52,27 871,258 897,228 -19,-243 83,-854 336,-911z" style="fill:#180adb"/>
+    <path class="NecklacePostApocVest-Mediumfil142 NecklacePostApocVest-Mediumstr5" d="M10961 21775c21,-48 248,6 246,51l-73 375c-14,70 -80,116 -147,102 -68,-14 -112,-83 -99,-153l73 -375z" style="fill:#2a0cf9"/>
+   </g>
+   <g>
+    <path class="NecklacePostApocVest-Mediumfil143 NecklacePostApocVest-Mediumstr0" d="M15278 22898c-92,-572 -184,-1144 -277,-1716 322,-51 644,-102 965,-153 148,916 295,1832 442,2748 -910,-112 -1060,-510 -1130,-879z" style="fill:#67771d"/>
+    <path class="NecklacePostApocVest-Mediumfil122" d="M15494 22871c-51,-316 -231,-1447 -282,-1763 178,-28 356,-56 534,-85 81,507 307,1926 389,2433 -474,-87 -602,-381 -641,-585z" style="fill:#828497"/>
+    <path class="NecklacePostApocVest-Mediumfil11 NecklacePostApocVest-Mediumstr6" d="M15212 21108c178,-28 356,-56 534,-84 81,506 307,1925 389,2432 -751,-161 -616,-437 -923,-2348z" style="fill:#a3dfbf"/>
+    <path class="NecklacePostApocVest-Mediumfil144 NecklacePostApocVest-Mediumstr2" d="M15216 21169c-27,-170 -54,-341 -81,-512 -51,-80 -119,-154 -152,-241 -32,-82 -46,-171 -41,-259 5,-93 47,-185 70,-277 -20,-118 -40,-236 -60,-355 134,-47 201,-71 270,-83 69,-10 141,-8 283,-4 18,118 35,237 52,356 51,80 119,155 153,241 32,83 46,171 41,260 -5,92 -47,184 -70,276 27,170 54,341 81,512l-273 43 -273 43z" style="fill:#2777f4"/>
+    <path class="NecklacePostApocVest-Mediumfil145 NecklacePostApocVest-Mediumstr2" d="M16300 20810c68,-10 135,53 149,142 14,88 -30,169 -98,180l-1677 268c-68,11 -134,-53 -149,-141 -14,-89 30,-170 98,-181l1677 -268z" style="fill:#952b28"/>
+    <circle class="NecklacePostApocVest-Mediumfil34" r="39" transform="matrix(1.4815 -0.234647 0.234651 1.48153 15254.2 19664.6)"/>
+    <line class="NecklacePostApocVest-Mediumfil61 NecklacePostApocVest-Mediumstr7" x1="15135" x2="15681" y1="20657" y2="20571"/>
+    <line class="NecklacePostApocVest-Mediumfil61 NecklacePostApocVest-Mediumstr7" x1="15014" x2="15560" y1="19893" y2="19807"/>
+    <line class="NecklacePostApocVest-Mediumfil61 NecklacePostApocVest-Mediumstr7" x1="14983" x2="15751" y1="20416" y2="20295"/>
+    <line class="NecklacePostApocVest-Mediumfil61 NecklacePostApocVest-Mediumstr7" x1="14944" x2="15712" y1="20169" y2="20048"/>
+   </g>
+  </g>
+ </g><g id="Head-Cat7">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <path class="Head-Cat7fil148" d="M13682 7485c-3332,0 -6822,4262 -6118,7422 481,2162 3344,3030 6118,3030 2774,0 5637,-868 6118,-3030 704,-3160 -2786,-7422 -6118,-7422z" style="fill:#ee946a"/>
+  <path class="Head-Cat7fil149" d="M12565 7637c-315,85 -628,202 -934,349 42,113 76,226 101,335 62,268 330,435 598,373 268,-62 435,-329 373,-598 -35,-151 -82,-306 -138,-459zm1117 -152c-167,0 -333,11 -500,32l0 1054c0,276 224,500 500,500 276,0 500,-224 500,-500l0 -1054c-167,-21 -334,-32 -500,-32zm1117 152c315,85 628,202 934,349 -42,113 -76,226 -101,335 -63,268 -330,435 -598,373 -268,-62 -436,-329 -373,-598 35,-151 81,-306 138,-459zm5080 6737c-15,181 -40,358 -79,533 -34,154 -81,302 -139,443 -302,-87 -599,-207 -860,-352 -241,-134 -327,-437 -194,-678 134,-240 438,-327 678,-193 177,98 381,182 594,247zm-430 1390c-177,286 -407,541 -677,766 -168,-99 -328,-208 -472,-324 -215,-172 -249,-486 -77,-700 173,-215 486,-249 701,-77 153,123 334,237 525,335zm-1046 1039c-271,179 -571,334 -894,468 -14,-20 -28,-40 -41,-60 -154,-228 -94,-538 135,-692 228,-153 538,-93 691,136 34,49 70,99 109,148zm-9442 0c271,179 571,334 894,468 14,-20 28,-40 41,-60 154,-228 94,-538 -135,-692 -228,-153 -538,-93 -692,136 -33,49 -69,99 -108,148zm-1047 -1039c178,286 407,541 678,766 168,-99 328,-208 472,-324 215,-172 249,-486 77,-700 -173,-215 -486,-249 -701,-77 -153,123 -334,237 -526,335zm-429 -1390c14,181 40,358 79,533 34,154 81,302 139,443 302,-87 599,-207 860,-352 241,-134 327,-437 194,-678 -134,-240 -438,-327 -678,-193 -177,98 -381,182 -594,247z" style="fill:#60e0a8"/>
+  <path class="Head-Cat7fil150" d="M13682 9364c-1787,0 -612,4205 -2619,5099 -1161,517 497,2815 2619,2815 2122,0 3780,-2298 2619,-2815 -2007,-894 -832,-5099 -2619,-5099z" style="fill:#b84797"/>
+  <path class="Head-Cat7fil14" d="M8458 10922c-785,1275 -1176,2719 -894,3985 421,1891 2663,2792 5075,2988 -4046,-960 -5424,-2961 -4181,-6973z" style="fill:#7a7b29"/>
+  <path class="Head-Cat7fil32" d="M7917 11963c-177,545 -289,1096 -343,1569 -53,462 -37,918 60,1351 178,802 697,1428 1417,1903 661,435 2110,926 3201,1064 -1561,-30 -2776,-598 -3283,-930 -754,-491 -1330,-1151 -1518,-1995 -100,-451 -117,-932 -62,-1410 44,-384 295,-1267 528,-1552z" style="fill:#27a26c"/>
+  <path class="Head-Cat7fil32" d="M19447 11963c177,545 289,1096 343,1569 53,462 37,918 -60,1351 -178,802 -697,1428 -1417,1903 -661,435 -2111,926 -3201,1064 1561,-30 2775,-598 3283,-930 753,-491 1330,-1151 1518,-1995 100,-451 117,-932 62,-1410 -44,-384 -295,-1267 -528,-1552z" style="fill:#a87a49"/>
+  <path class="Head-Cat7fil32" d="M13682 7560c-408,0 -767,56 -1102,149 -949,262 -2036,899 -2715,1499 604,-730 1714,-1378 2675,-1644 348,-96 720,-154 1142,-154 421,0 794,58 1141,154 962,266 2072,914 2676,1644 -679,-600 -1766,-1237 -2715,-1499 -335,-93 -694,-149 -1102,-149z" style="fill:#722018"/>
+ </g><g id="Mouth-Cat4">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <path class="Mouth-Cat4fil22 Mouth-Cat4str0" d="M12299 15251c0,-893 1371,-673 1371,-1225l0 -255" style="fill:#be65d3"/>
+  <path class="Mouth-Cat4fil22 Mouth-Cat4str0" d="M15065 15251c0,-893 -1371,-673 -1371,-1225l0 -255" style="fill:#c32604"/>
+  <path class="Mouth-Cat4fil100" d="M13694 14050c37,220 173,305 319,399 -63,-20 -192,-47 -331,-47 -139,0 -268,27 -331,47 146,-94 282,-179 319,-399l12 0 12 0z" style="fill:#ef14a0"/>
+ </g><g id="WeaponFlySwatter-Medium">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_1Corel-Layer"/>
+  <g id="_2367108401984">
+   <path class="WeaponFlySwatter-Mediumfil2 WeaponFlySwatter-Mediumstr0" d="M12021 22875c-60,107 -120,214 -181,320 -796,-449 -1593,-899 -2390,-1348 -25,-155 36,-261 180,-320 797,449 1594,899 2391,1348z" style="fill:#63cdae"/>
+   <path class="WeaponFlySwatter-Mediumfil3" d="M11911 23070l-71 125c-796,-449 -1593,-899 -2390,-1348 -13,-83 -2,-151 33,-206l2428 1429z" style="fill:#2433ea"/>
+   <path class="WeaponFlySwatter-Mediumfil4" d="M15132 23138c18,9 34,17 47,25 244,135 344,347 329,601 -14,234 -129,505 -322,782 -47,68 -98,134 -152,200 -54,66 -110,129 -168,190 -241,251 -505,440 -763,538 -282,107 -559,110 -802,-25 -14,-8 -29,-17 -45,-28l-1620 -1038c-225,-145 -316,-292 -255,-521 53,-198 230,-454 546,-840 316,-385 540,-615 743,-729 237,-133 437,-118 684,-1l1778 846zm-2015 -717l-36 45 194 108 52 -64 -94 -44c-41,-20 -79,-34 -116,-45zm341 152l-57 70 194 108 67 -81 -204 -97zm335 159l-72 89 194 107 81 -99 -203 -97zm335 160l-88 106 195 108 96 -118 -203 -96zm335 159l-103 124 195 108 111 -135 -203 -97zm334 159l-117 143 194 108 127 -154 -204 -97zm324 173l-121 147 194 108 49 -60c-20,-76 -60,-142 -122,-195zm131 432l-14 -8 -130 158 91 50c25,-69 43,-136 53,-200zm-103 318l-123 -68 -129 158 157 87c36,-60 68,-119 95,-177zm-164 284l-170 -95 -130 158 180 100c37,-47 71,-93 103,-138 6,-8 12,-17 17,-25zm-201 262l-181 -100 -129 158 170 95c8,-8 15,-15 23,-23 39,-41 78,-84 117,-130zm-235 245l-157 -87 -130 158 123 68c55,-42 110,-89 164,-139zm-278 220l-91 -50 -129 158 13 8c69,-31 138,-70 207,-116zm-477 198l49 -60 -194 -108 -121 148c83,27 173,33 266,20zm-397 -84l127 -153 -195 -108 -117 143 185 118zm-305 -195l112 -136 -195 -108 -102 125 185 119zm-305 -196l97 -117 -194 -108 -88 106 185 119zm-305 -195l82 -100 -194 -107 -73 88 185 119zm-305 -196l67 -81 -194 -108 -58 70 185 119zm-304 -195l51 -63 -194 -108 -36 44c25,24 56,48 93,72l86 55zm-248 -374l61 34 130 -158 -109 -61c-40,70 -67,131 -82,185zm149 -293l124 69 129 -158 -136 -76c-45,60 -84,115 -117,165zm194 -266l141 78 130 -158 -143 -80c-46,56 -89,110 -128,160zm209 -259l144 79 130 -158 -141 -78c-42,49 -86,101 -133,157zm218 -254l137 76 130 -158 -124 -69c-45,45 -92,95 -143,151zm240 -242l109 61 130 -158 -61 -34c-55,31 -114,75 -178,131zm1843 1917l-194 -108 -130 158 194 108 130 -158zm-320 -178l-194 -107 -130 158 194 107 130 -158zm-320 -177l-194 -108 -130 158 194 108 130 -158zm-320 -177l-194 -108 -130 158 195 107 129 -157zm-319 -178l-195 -108 -130 158 195 108 130 -158zm-320 -177l-195 -108 -129 158 194 108 130 -158zm-320 -178l-194 -107 -130 157 194 108 130 -158zm-113 -207l195 108 129 -158 -194 -108 -130 158zm320 177l194 108 130 -158 -194 -107 -130 157zm320 178l194 108 130 -158 -194 -108 -130 158zm320 177l194 108 130 -158 -194 -108 -130 158zm320 178l194 107 130 -157 -195 -108 -129 158zm320 177l194 108 130 -158 -195 -108 -129 158zm319 178l195 107 129 -158 -194 -107 -130 158zm-1707 -1322l194 107 130 -158 -194 -107 -130 158zm320 177l194 108 130 -158 -195 -108 -129 158zm320 177l194 108 130 -158 -195 -107 -129 157zm319 178l195 108 129 -158 -194 -108 -130 158zm320 177l194 108 130 -158 -194 -108 -130 158zm320 178l194 107 130 -157 -194 -108 -130 158zm320 177l194 108 130 -158 -194 -108 -130 158zm-1708 -1322l195 108 129 -158 -194 -108 -130 158zm320 178l194 107 130 -158 -194 -107 -130 158zm320 177l194 108 130 -158 -194 -108 -130 158zm320 177l194 108 130 -158 -194 -107 -130 157zm320 178l194 108 130 -158 -195 -108 -129 158zm320 177l194 108 130 -158 -195 -108 -129 158zm319 178l195 107 129 -157 -194 -108 -130 158zm-2635 -193l-130 158 195 108 129 -158 -194 -108zm320 177l-130 158 194 108 130 -158 -194 -108zm320 178l-130 158 194 107 130 -157 -194 -108zm320 177l-130 158 194 108 130 -158 -194 -108zm319 178l-129 158 194 107 130 -158 -195 -107zm320 177l-129 158 194 108 130 -158 -195 -108zm320 177l-130 158 195 108 129 -158 -194 -108zm-2130 -807l-130 158 194 108 130 -158 -194 -108zm319 178l-129 158 194 107 130 -157 -195 -108zm320 177l-130 158 195 108 129 -158 -194 -108zm320 178l-130 158 195 107 129 -158 -194 -107zm320 177l-130 158 194 108 130 -158 -194 -108zm320 177l-130 158 194 108 130 -158 -194 -108zm320 178l-130 158 194 108 130 -158 -194 -108z" style="fill:#86c61e"/>
+   <path class="WeaponFlySwatter-Mediumfil1" d="M14481 25269c-125,88 -252,157 -378,205 -282,107 -559,110 -802,-25 -14,-8 -29,-17 -45,-28l-1620 -1038c-225,-145 -316,-292 -255,-521 53,-198 230,-454 546,-840 316,-385 540,-615 743,-729 237,-133 437,-118 684,-1l44 21c-232,65 -436,163 -608,285l84 -102 -61 -34c-55,31 -114,75 -178,131l92 51c-37,28 -71,57 -105,87l-84 -47c-45,45 -92,95 -143,151l81 45c-29,32 -56,65 -81,100l-85 -48c-42,49 -86,101 -133,157l107 59c-21,37 -40,75 -58,113l-130 -73c-46,56 -89,110 -128,160l141 78 94 -115c-48,113 -81,229 -100,345l-80 97 65 36c-1,13 -2,26 -2,39 -2,36 1,73 9,109l-153 -85 -130 158 194 108 103 -125c15,48 36,97 64,144l-41 51 123 68c114,144 280,282 473,408l-38 -22 -88 106 185 119 92 -111c41,23 83,46 126,69l-98 119 185 119 112 -136 -54 -30c254,122 524,220 774,285l1 1 0 -1c52,14 104,26 154,36l-28 34 13 8c22,-10 43,-20 64,-32 129,25 248,39 353,41zm-687 73l49 -60 -194 -108 -121 148c83,27 173,33 266,20zm-397 -84l127 -153 -195 -108 -117 143 185 118zm-915 -586l82 -100 -194 -107 -73 88 185 119zm-305 -196l67 -81 -194 -108 -58 70 185 119zm-304 -195l51 -63 -194 -108 -36 44c25,24 56,48 93,72l86 55zm-248 -374l61 34 130 -158 -109 -61c-40,70 -67,131 -82,185zm149 -293l124 69 129 -158 -136 -76c-45,60 -84,115 -117,165z" style="fill:#240b4a"/>
+   <path class="WeaponFlySwatter-Mediumfil5 WeaponFlySwatter-Mediumstr1" d="M15132 23138c18,9 34,17 47,25 244,135 344,347 329,601 -14,234 -129,505 -322,782 -47,68 -98,134 -152,200 -54,66 -110,129 -168,190 -241,251 -505,440 -763,538 -282,107 -559,110 -802,-25 -14,-8 -29,-17 -45,-28l-1620 -1038c-225,-145 -316,-292 -255,-521 53,-198 230,-454 546,-840 316,-385 540,-615 743,-729 237,-133 437,-118 684,-1l1778 846z" style="fill:#6dbe0a"/>
+  </g>
+ </g><g id="Eyes-Cat5">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <g>
+            <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0 14300;0"/>
+            <g>
+                <g>
+                    <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="scale" values="1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1 0.01;1"/> 
+                    <path class="Eyes-Cat5fil178" d="M9495 14441c795,542 1759,325 2275,52 884,-469 164,-3167 -775,-3341 -687,-128 -1309,132 -1751,640 -933,1074 -316,2263 251,2649z"/>
+                </g>
+                <g>
+                    <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="scale" values="1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1 0.01;1"/> 
+                    <path class="Eyes-Cat5fil157" d="M12158 13759c107,-967 -468,-2479 -1163,-2607 -687,-128 -1309,132 -1751,640 -287,331 -430,674 -474,1002 450,-868 1255,-1326 1914,-1219 936,153 1311,1108 1462,2242 4,-19 8,-39 12,-58z"/>
+                    <path class="Eyes-Cat5fil179" d="M12179 13600c-43,-902 -567,-2037 -1186,-2146 -91,-16 -182,-25 -270,-29 -473,20 -894,233 -1213,580 -852,929 -314,1971 203,2305 726,469 1632,267 2103,30 234,-118 345,-398 363,-740z"/>
+                </g>
+                <g>
+                    <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0 -14590;0"/>    
+                    <g>
+                        <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0 14000;0"/>
+                        <g>
+                            <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="scale" values="1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1 0.05;1"/> 
+                            <path class="Eyes-Cat5fil180" d="M10379 11394c717,-167 1436,320 1606,1087 170,767 -273,1525 -990,1692 -717,167 -1437,-320 -1607,-1087 -170,-767 274,-1525 991,-1692z"/>
+                        </g>
+                    </g>
+                </g>
+                <g>
+                    <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0 -14350;0"/>    
+                    <g>
+                        <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0 12970;0"/>
+                        <g>
+                            <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="scale" values="1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1 0.1;1"/>
+                            <circle class="Eyes-Cat5fil152" r="235" transform="matrix(0.535512 -0.0305649 0.0623147 0.334896 10707.3 11630.7)"/>
+                            <circle class="Eyes-Cat5fil152" r="235" transform="matrix(0.524035 0.0816328 -0.149565 0.73298 11837.7 13342.5)"/>
+                        </g>
+                    </g>
+                </g>
+                <g>
+                    <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0 -14300;0"/>    
+                    <g>
+                        <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0 12970;0"/>
+                        <g>
+                            <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="scale" values="1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1 0.1;1"/>
+                              <circle class="Eyes-Cat5fil152" r="235" transform="matrix(1.55653 -1.44003 0.848674 0.620922 9762.09 11963.6)"/>
+                              <path class="Eyes-Cat5fil152" d="M10621 13899c177,-18 199,-79 210,-298 11,219 33,280 211,298 -178,18 -200,78 -211,297 -11,-219 -33,-279 -210,-297z"/>
+                        </g>
+                    </g>
+                </g>
+                <g>
+                    <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0 -13500;0"/>  
+                    <g>
+                        <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0 13000;0"/>
+                        <g>
+                            <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="scale" values="1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1 0.05;1"/>
+                            <path class="Eyes-Cat5fil152" d="M10380 14056c78,-7 88,-34 92,-130 5,96 15,123 93,130 -78,8 -88,35 -93,131 -4,-96 -14,-123 -92,-131z"/>
+                            <path class="Eyes-Cat5fil152" d="M11622 12885c117,-12 131,-52 139,-195 7,143 21,183 138,195 -117,12 -131,51 -138,195 -8,-144 -22,-183 -139,-195z"/>
+                            <path class="Eyes-Cat5fil152" d="M10863 13503c78,-8 87,-35 92,-131 5,96 15,123 93,131 -78,8 -88,34 -93,130 -5,-96 -14,-122 -92,-130z"/>
+                        </g>
+                    </g>
+                    <g>
+                        <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0 13150;0"/>
+                        <g>
+                            <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="scale" values="1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1 0.05;1"/>
+                                <circle class="Eyes-Cat5fil152" r="235" transform="matrix(0.231366 -0.483919 0.323456 0.106841 9250.92 12439.8)"/>
+                                <path class="Eyes-Cat5fil152" d="M9445 12696c121,-13 136,-54 144,-204 7,150 22,191 144,204 -122,12 -137,53 -144,203 -8,-150 -23,-191 -144,-203z"/>
+                                <path class="Eyes-Cat5fil152" d="M11321 14045c78,-8 88,-35 93,-131 4,96 14,123 92,131 -78,8 -88,34 -92,130 -5,-96 -15,-122 -93,-130z"/>
+                                <path class="Eyes-Cat5fil152" d="M9096 12742c-343,1009 373,1679 1059,1774 -375,-187 -1119,-758 -1059,-1774z"/>
+                        </g>
+                    </g> 
+                </g>
+                <g>
+                    <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="scale" values="1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1 0.01;1"/> 
+                    <path class="Eyes-Cat5fil22 Eyes-Cat5str4" d="M9495 14441c795,542 1759,325 2275,52 884,-469 164,-3167 -775,-3341 -687,-128 -1309,132 -1751,640 -933,1074 -316,2263 251,2649z"/>
+                </g>
+            </g>
+        </g>
+  <g>
+            <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0 14300;0"/>
+            <g>
+                <g>
+                    <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="scale" values="1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1 0.01;1"/> 
+                    <path class="Eyes-Cat5fil181" d="M17869 14441c-795,542 -1759,325 -2275,52 -884,-469 -164,-3167 775,-3341 687,-128 1309,132 1751,640 933,1074 316,2263 -251,2649z"/>
+                </g>
+                <g>
+                    <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="scale" values="1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1 0.01;1"/> 
+                    <path class="Eyes-Cat5fil157" d="M15206 13759c-107,-967 468,-2479 1163,-2607 687,-128 1309,132 1751,640 287,331 430,674 474,1002 -450,-868 -1256,-1326 -1914,-1219 -936,153 -1311,1108 -1462,2242 -4,-19 -8,-39 -12,-58z"/>
+                    <path class="Eyes-Cat5fil182" d="M15185 13600c42,-902 567,-2037 1186,-2146 91,-16 181,-25 270,-29 472,20 894,233 1213,580 852,929 314,1971 -203,2305 -727,469 -1632,267 -2103,30 -234,-118 -345,-398 -363,-740z"/>
+                </g>
+                <g>
+                    <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0 -14590;0"/>    
+                    <g>
+                        <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0 14000;0"/>
+                        <g>
+                            <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="scale" values="1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1 0.05;1"/> 
+                            <path class="Eyes-Cat5fil183" d="M16985 11394c-717,-167 -1436,320 -1606,1087 -170,767 273,1525 990,1692 717,167 1436,-320 1607,-1087 170,-767 -274,-1525 -991,-1692z"/>
+                        </g>
+                    </g>
+                </g>
+                <g>
+                    <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0 -14350;0"/>    
+                    <g>
+                        <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0 12970;0"/>
+                        <g>
+                            <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="scale" values="1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1 0.1;1"/>
+                            <circle class="Eyes-Cat5fil152" r="235" transform="matrix(0.489949 0.218305 -0.0981281 0.326204 17492.1 11811.6)"/>
+                            <circle class="Eyes-Cat5fil152" r="235" transform="matrix(0.524035 0.0816328 -0.149565 0.73298 17875.1 13406)"/>
+                        </g>
+                    </g>
+                </g>
+                <g>
+                    <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0 -14300;0"/>    
+                    <g>
+                        <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0 12970;0"/>
+                        <g>
+                            <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="scale" values="1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1 0.1;1"/>
+                              <circle class="Eyes-Cat5fil152" r="235" transform="matrix(1.55653 -1.44003 0.848674 0.620922 16288.7 11893.8)"/>
+                              <path class="Eyes-Cat5fil152" d="M16518 13969c178,-18 200,-79 211,-298 11,219 33,280 211,298 -178,18 -200,78 -211,297 -11,-219 -33,-279 -211,-297z"/>
+                        </g>
+                    </g>
+                </g>
+                <g>
+                    <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0 -13500;0"/>  
+                    <g>
+                        <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0 13000;0"/>
+                        <g>
+                            <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="scale" values="1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1 0.05;1"/>
+                            <path class="Eyes-Cat5fil152" d="M16278 14126c78,-8 87,-34 92,-130 5,96 14,122 92,130 -78,8 -87,35 -92,131 -5,-96 -14,-123 -92,-131z"/>
+                            <path class="Eyes-Cat5fil152" d="M17653 12802c117,-12 131,-51 139,-195 7,144 21,183 138,195 -117,12 -131,52 -138,195 -8,-143 -22,-183 -139,-195z"/>
+                            <path class="Eyes-Cat5fil152" d="M16761 13572c77,-7 87,-34 92,-130 5,96 14,123 92,130 -78,8 -87,35 -92,131 -5,-96 -15,-123 -92,-131z"/>
+                        </g>
+                    </g>
+                    <g>
+                        <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0 13150;0"/>
+                        <g>
+                            <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="scale" values="1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1 0.05;1"/>
+                                <circle class="Eyes-Cat5fil152" r="235" transform="matrix(0.231366 -0.483919 0.323456 0.106841 15777.5 12446.1)"/>
+                                <path class="Eyes-Cat5fil152" d="M15851 12670c121,-12 136,-53 144,-203 7,150 22,191 144,203 -122,13 -137,54 -144,203 -8,-149 -23,-190 -144,-203z"/>
+                                <path class="Eyes-Cat5fil152" d="M17225 14210c78,-8 88,-34 93,-130 4,96 14,122 92,130 -78,8 -88,34 -92,130 -5,-96 -15,-122 -93,-130z"/>
+                                <path class="Eyes-Cat5fil152" d="M18268 12742c343,1009 -373,1679 -1059,1774 375,-187 1119,-758 1059,-1774z"/>
+                        </g>
+                    </g> 
+                </g>
+                <g>
+                    <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="scale" values="1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1 0.01;1"/> 
+                    <path class="Eyes-Cat5fil22 Eyes-Cat5str4" d="M17869 14441c-795,542 -1759,325 -2275,52 -884,-469 -164,-3167 775,-3341 687,-128 1309,132 1751,640 933,1074 316,2263 -251,2649z"/>
+                </g>
+            </g>
+        </g>
+  <g>
+        <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;3000 -2100;0"/>
+        <g>
+            <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="rotate" values="0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10;0"/>
+            <g>
+                <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0 1500;0"/> 
+                <path class="Eyes-Cat5fil155" d="M12521 9321c-119,-23 -437,257 -888,404 -414,136 -806,86 -893,252 -96,186 192,494 423,549 191,45 631,-80 973,-388 403,-365 530,-789 385,-817z"/>
+            </g>
+            <g>
+                <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0 1500;0"/> 
+                <path class="Eyes-Cat5fil14" d="M12521 9321c-119,-23 -437,257 -888,404 -414,136 -806,86 -893,252 -96,186 192,494 423,549 191,45 631,-80 973,-388 403,-365 530,-789 385,-817z"/>
+            </g>
+        </g>
+    </g>  
+    <g>
+        <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-2100 3000;0"/>
+        <g>
+            <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="rotate" values="0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-10;0"/>
+            <g>
+                <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0 1500;0"/> 
+                <path class="Eyes-Cat5fil155" d="M14843 9321c119,-23 437,257 888,404 414,136 806,86 893,252 96,186 -192,494 -424,549 -190,45 -630,-80 -972,-388 -403,-365 -530,-789 -385,-817z"/>
+            </g>
+            <g>
+                <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0 1500;0"/> 
+                <path class="Eyes-Cat5fil14" d="M14843 9321c119,-23 437,257 888,404 414,136 806,86 893,252 96,186 -192,494 -424,549 -190,45 -630,-80 -972,-388 -403,-365 -530,-789 -385,-817z"/>
+            </g>
+        </g>
+    </g>
+ </g><g id="Moustache-Cat0">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <rect class="Moustache-Cat0fil22" height="1459" width="1352" x="13006" y="11962"/>
+ </g><g id="BraceletCutangaShield-Medium">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_7Corel-Layer"/>
+  <g id="_2913189850848">
+   <path class="BraceletCutangaShield-Mediumfil263" d="M16839.44 17666.97l0.86 1.41c-207.16,515.43 -462.62,1020.53 -721.58,1506.11 1150.15,2368.02 2505.86,3452.2 3974.26,3832.74l0.79 1.3 0.27 -1.01 1.4 0.37 -1.04 -1.7c296,-1050.53 -67.77,-2511.27 -1635.15,-4720.37 -532.56,-184.89 -1080.59,-384.72 -1617.01,-617.63l-1.12 -1.85 -0.47 1.16 -1.21 -0.53z" style="fill:#d773cf"/>
+   <path class="BraceletCutangaShield-Mediumfil264" d="M19964.83 22001.59l80.36 15.86 -16.6 -182.07 131.75 42.23c45.26,246.16 47.64,486.38 12.22,721.37l-207.73 -597.39z" style="fill:#68ad18"/>
+   <path class="BraceletCutangaShield-Mediumfil16 BraceletCutangaShield-Mediumstr23" d="M19964.83 22001.59l80.36 15.86 -16.6 -182.07 131.75 42.23c45.26,246.16 47.64,486.38 12.22,721.37l-207.73 -597.39z" style="fill:#997641"/>
+   <polygon class="BraceletCutangaShield-Mediumfil265" points="19463.82,21603.14 19636.6,21683.93 19656.72,21949.17 "/>
+   <g>
+    <polygon class="BraceletCutangaShield-Mediumfil42" points="19699.85,21714.32 19760.97,21736.84 19752.73,22042.23 19456.54,21962.59 19397.65,21867.23 19693.49,21953.57 "/>
+    <polygon class="BraceletCutangaShield-Mediumfil42" points="18792.27,20022.37 18770.55,19944.64 18915.02,20040.88 18178.67,18593.2 18398.91,18246.31 18432.49,18273.04 18241.65,18607.88 19009.23,20110.44 18973.79,20141.71 "/>
+    <polygon class="BraceletCutangaShield-Mediumfil42" points="19809.39,21731.17 19752.14,21732.06 19472.93,20901.81 19287.43,20856.9 19021.05,20344.81 18690.04,20141.67 17755.25,18480.86 17805.67,18464.9 18726.05,20103.81 19048.68,20300.35 19066.58,20319.46 19317.26,20799.36 19513.01,20856.35 "/>
+    <path class="BraceletCutangaShield-Mediumfil248" d="M16839.44 17666.97c-21.83,99.73 11.28,19.08 -13.75,117.58 250.6,110.33 510.37,216.12 770.94,316.42l31.21 34.44 369.09 130.92 14.91 -34.36 394.59 146.53c531.9,677.37 1546.12,2452.77 1616.99,3372.52l-215.02 -74.5 30.92 91.91 334.42 105.31c-115.77,-910.47 -649.14,-2086.39 -1714.49,-3587.92 -533.49,-185.21 -1082.5,-385.42 -1619.81,-618.85z" style="fill:#a34229"/>
+    <polygon class="BraceletCutangaShield-Mediumfil42" points="18211.12,19510.31 17527.96,18350.51 17607.21,17977.97 17523.07,17945.47 17443.59,18348.26 18211.32,19559.89 "/>
+    <polygon class="BraceletCutangaShield-Mediumfil248" points="20033.7,22617.9 19978.75,22527.7 19908.3,22704.1 19963.25,22794.3 20008.99,22676.2 20114.43,22851.14 20155.93,22818.51 "/>
+    <polygon class="BraceletCutangaShield-Mediumfil248" points="19530.28,22083.63 19748.82,22150.31 19896.93,22393.4 19826.48,22569.81 19768.41,22552.09 19824.29,22382.4 19710.47,22195.57 19511.56,22130.51 "/>
+    <polygon class="BraceletCutangaShield-Mediumfil42" points="18978.15,21191.31 18952.94,21039.3 18241.84,19865.26 18056.13,19680.72 18275.88,19854.21 18989.51,21025.17 "/>
+   </g>
+   <polygon class="BraceletCutangaShield-Mediumfil249 BraceletCutangaShield-Mediumstr23" points="19463.82,21603.14 19636.6,21683.93 19656.72,21949.17 "/>
+   <g>
+    <polyline class="BraceletCutangaShield-Mediumfil16 BraceletCutangaShield-Mediumstr24" points="18040.24,19637.92 18282.39,19841.37 19004.55,21033.69 18990.92,21198.34 "/>
+    <path class="BraceletCutangaShield-Mediumfil16 BraceletCutangaShield-Mediumstr24" d="M19096.42 21371.51c306.88,231.6 646.24,376.83 1063.92,506.1 -417.68,-129.27 -757.04,-274.5 -1063.92,-506.1zm1059.51 1447l-177.18 -290.81 -70.45 176.4m-81.82 -134.29l70.45 -176.41 -148.11 -243.09 -218.54 -66.68m-73.74 -121.04l308.53 98.57 8.45 -318.18 -8.45 318.18" style="fill:#77ca73"/>
+    <polyline class="BraceletCutangaShield-Mediumfil16 BraceletCutangaShield-Mediumstr24" points="18332.92,19713.4 18005.66,19474.88 17276.16,18277.49 17300.59,17858.69 "/>
+    <line class="BraceletCutangaShield-Mediumfil16 BraceletCutangaShield-Mediumstr24" x1="19463.92" x2="18199.96" y1="21602.53" y2="19491.32"/>
+    <polyline class="BraceletCutangaShield-Mediumfil16 BraceletCutangaShield-Mediumstr24" points="19839.32,21768.43 19534.59,20862.33 19341.97,20809.01 19081.61,20310.58 18748.05,20107.37 17775.5,18382.01 "/>
+    <polyline class="BraceletCutangaShield-Mediumfil16 BraceletCutangaShield-Mediumstr24" points="19875.97,21790.24 19866.61,22129.54 20153.45,22592.89 "/>
+    <polygon class="BraceletCutangaShield-Mediumfil16 BraceletCutangaShield-Mediumstr24" points="18459.25,18285.82 18025.88,18146.62 17945.69,18478.17 18794.47,20014.86 19058.87,20185.93 18261.62,18632.6 "/>
+   </g>
+   <polygon class="BraceletCutangaShield-Mediumfil266" points="18040.24,19637.92 18282.39,19841.37 19004.56,21033.69 18990.92,21198.34 "/>
+   <polygon class="BraceletCutangaShield-Mediumfil267" points="17775.5,18382.01 17593.78,18078.49 17536.95,18347.12 18233.19,19546.8 18173.85,19261.08 17750.85,18521.16 "/>
+   <path class="BraceletCutangaShield-Mediumfil16 BraceletCutangaShield-Mediumstr23" d="M17775.5 18382.01l-181.73 -303.52 -56.83 268.61 696.25 1199.7 -59.35 -285.72 -422.99 -739.92 24.65 -139.15zm-181.73 -303.52l11.24 -71.55" style="fill:#b0a1df"/>
+   <polygon class="BraceletCutangaShield-Mediumfil268" points="18842.16,19144.18 18503.24,18554.67 18412.69,18690.99 19191.48,20214.06 19267.73,20101.43 18823.13,19251.63 "/>
+   <polygon class="BraceletCutangaShield-Mediumfil16 BraceletCutangaShield-Mediumstr23" points="18842.17,19144.17 18503.24,18554.67 18412.69,18690.99 19191.48,20214.05 19267.73,20101.43 18823.13,19251.63 "/>
+   <path class="BraceletCutangaShield-Mediumfil269 BraceletCutangaShield-Mediumstr25" d="M19465.78 20749.4c-50.82,19.3 -61.22,85.5 -23.22,147.87 38,62.37 110,97.29 160.83,77.99 50.83,-19.3 61.22,-85.5 23.22,-147.87 -38,-62.37 -110,-97.29 -160.83,-77.99z" style="fill:#8f91d8"/>
+   <path class="BraceletCutangaShield-Mediumfil270 BraceletCutangaShield-Mediumstr25" d="M18217.33 18771.85c-50.82,19.29 -61.22,85.5 -23.22,147.87 38,62.37 110,97.28 160.83,77.99 50.83,-19.3 61.22,-85.51 23.22,-147.88 -38,-62.37 -110,-97.28 -160.83,-77.98z" style="fill:#0af4f2"/>
+   <circle class="BraceletCutangaShield-Mediumfil16 BraceletCutangaShield-Mediumstr25" r="111.12" transform="matrix(-0.828186 0.314451 0.619174 1.01629 19534.6 20862.3)"/>
+   <polygon class="BraceletCutangaShield-Mediumfil42" points="19458.21,21961.96 19266.05,22230.38 19399.12,21866.67 "/>
+   <g>
+    <path class="BraceletCutangaShield-Mediumfil271" d="M19053.33 22347.68l-52.88 66.44 -194.38 -114.57 -68.06 118.1c242.61,171.23 516.33,308.43 817.48,415.62l-502.16 -485.59z" style="fill:#688cbe"/>
+    <path class="BraceletCutangaShield-Mediumfil16 BraceletCutangaShield-Mediumstr23" d="M19053.33 22347.68l-52.88 66.44 -194.38 -114.57 -68.06 118.1c242.61,171.23 516.34,308.42 817.48,415.62l-502.16 -485.59z" style="fill:#efaee4"/>
+    <polygon class="BraceletCutangaShield-Mediumfil272" points="19039.04,21764.42 18978.96,21933.63 19265.7,22097.63 "/>
+    <polygon class="BraceletCutangaShield-Mediumfil273 BraceletCutangaShield-Mediumstr23" points="19039.04,21764.42 18978.96,21933.63 19265.7,22097.63 "/>
+   </g>
+   <path class="BraceletCutangaShield-Mediumfil258" d="M18871.11 22122.93l48.93 -358.41 -1273 -2032.4 -189.28 -191.71 270.03 154.89c432.29,689.48 857.77,1370.93 1289.41,2060.67l-146.09 366.96z" style="fill:#025176"/>
+   <polygon class="BraceletCutangaShield-Mediumfil248" points="19909.97,22703.47 19645.1,22654.38 19678.71,22709.54 19964.93,22793.66 "/>
+   <polygon class="BraceletCutangaShield-Mediumfil258" points="17811.07,19527.86 17083.74,18384.84 16593.97,18171.64 16631.08,18093.09 17155.79,18323.2 17862.91,19512.09 17836.95,19819.96 "/>
+   <g>
+    <polyline class="BraceletCutangaShield-Mediumfil16 BraceletCutangaShield-Mediumstr24" points="18041.91,19637.28 18061.3,19925.32 18791.47,21114.59 18992.59,21197.7 "/>
+    <path class="BraceletCutangaShield-Mediumfil16 BraceletCutangaShield-Mediumstr24" d="M19098.1 21370.87c-5.56,350.23 -139.01,674.99 -360.09,1046.78 221.08,-371.79 354.53,-696.55 360.09,-1046.78zm724.18 1574.32l-177.18 -290.81 264.87 49.09m-81.81 -134.3l-264.88 -49.09 -148.1 -243.09 116.78 -193.99m-73.75 -121.04l-159.77 276.37 -372.81 -173.42 372.81 173.42" style="fill:#98e899"/>
+    <polyline class="BraceletCutangaShield-Mediumfil16 BraceletCutangaShield-Mediumstr24" points="17869.65,19889.3 17885.29,19520.59 17155.79,18323.2 16653.3,18104.46 "/>
+    <line class="BraceletCutangaShield-Mediumfil16 BraceletCutangaShield-Mediumstr24" x1="19038.26" x2="17732.27" y1="21764.15" y2="19668.89"/>
+    <polyline class="BraceletCutangaShield-Mediumfil16 BraceletCutangaShield-Mediumstr24" points="18896.64,22126.35 18125.82,21397.22 18234.99,21229.31 17893.02,20761.87 17954.78,20408.57 16834.05,18739.46 "/>
+    <polyline class="BraceletCutangaShield-Mediumfil16 BraceletCutangaShield-Mediumstr24" points="18889.26,22164.88 19287.13,22349.56 19565.4,22816.17 "/>
+    <polygon class="BraceletCutangaShield-Mediumfil16 BraceletCutangaShield-Mediumstr24" points="16118.72,19174.49 16342.27,18785.87 16793.91,18915.49 17807.48,20389.6 17770.01,20675.3 16691.73,19228.66 "/>
+   </g>
+   <polygon class="BraceletCutangaShield-Mediumfil274" points="16834.05,18739.46 16646.31,18438.23 17005.02,18549.09 17766.59,19723.96 17491.02,19520.35 17015.63,18800.31 "/>
+   <polygon class="BraceletCutangaShield-Mediumfil275" points="16765.56,19932.63 16388.5,19357.61 16625.14,19369.7 17685,20786.05 17488.22,20777.09 16905.77,19979.62 "/>
+   <polygon class="BraceletCutangaShield-Mediumfil16 BraceletCutangaShield-Mediumstr23" points="16765.56,19932.63 16388.5,19357.61 16625.14,19369.7 17684.98,20786.05 17488.22,20777.09 16905.77,19979.62 "/>
+   <path class="BraceletCutangaShield-Mediumfil16 BraceletCutangaShield-Mediumstr23" d="M16834.04 18739.46l-187.73 -301.23 358.7 110.84 761.57 1174.89 -275.58 -203.62 -475.38 -720.02 -181.58 -60.86zm-187.73 -301.23l-92.11 -32.31" style="fill:#749169"/>
+   <path class="BraceletCutangaShield-Mediumfil276" d="M18057.02 21284.29c67.12,-25.49 152.34,4.41 190.34,66.78 37.99,62.37 14.39,133.59 -52.74,159.08 -67.12,25.48 -152.33,-4.42 -190.33,-66.79 -38,-62.37 -14.39,-133.59 52.73,-159.07z" style="fill:#84734e"/>
+   <path class="BraceletCutangaShield-Mediumfil277 BraceletCutangaShield-Mediumstr25" d="M16890.8 19275.51c67.12,-25.48 152.34,4.42 190.33,66.79 38,62.37 14.39,133.59 -52.73,159.07 -67.12,25.49 -152.33,-4.41 -190.33,-66.78 -38,-62.37 -14.39,-133.59 52.73,-159.08z" style="fill:#ae9bd4"/>
+   <circle class="BraceletCutangaShield-Mediumfil16 BraceletCutangaShield-Mediumstr26" r="111.12" transform="matrix(1.09371 -0.415268 0.619174 1.01629 18125.8 21397.2)"/>
+   <path class="BraceletCutangaShield-Mediumfil12" d="M16541.12 18345.09c-134.52,281.47 -277.92,558.47 -422.4,829.4 1150.79,2369.34 2507.38,3453.43 3976.72,3833.4 -1717.77,-1043.24 -3087.69,-3355.24 -3554.32,-4662.8z" style="fill:#068682"/>
+   <path class="BraceletCutangaShield-Mediumfil16 BraceletCutangaShield-Mediumstr3" d="M16839.44 17666.97l0.86 1.41c-207.16,515.43 -462.62,1020.53 -721.58,1506.11 1150.15,2368.02 2505.86,3452.2 3974.26,3832.74l0.79 1.3 0.27 -1.01 1.4 0.37 -1.04 -1.7c296,-1050.53 -67.77,-2511.27 -1635.15,-4720.37 -532.56,-184.89 -1080.59,-384.72 -1617.01,-617.63l-1.12 -1.85 -0.47 1.16 -1.21 -0.53z" style="fill:#0f5400"/>
+  </g>
+ </g><g id="Nose-Cat0">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_107Corel-Layer"/>
+  <path class="Nose-Cat0fil221 Nose-Cat0str0" d="M13682 13408c-194,0 -465,93 -444,231 19,127 197,330 444,330 247,0 425,-203 444,-330 21,-138 -250,-231 -444,-231z" style="fill:#a53673"/>
+ </g><g id="AccessoryTeddy">
+  <metadata id="CorelCorpID_6Corel-Layer"/>
+  <g>
+   <path class="AccessoryTeddyfil109 AccessoryTeddystr1" d="M7342 24083c-376,367 -734,92 -1120,-302 -385,-395 -508,-899 -275,-1126 233,-228 734,-93 1119,302 385,394 651,759 276,1126z" style="fill:#49c7e5"/>
+   <path class="AccessoryTeddyfil110 AccessoryTeddystr1" d="M3383 24083c376,367 734,92 1119,-302 386,-395 636,-998 402,-1225 -233,-228 -860,6 -1245,401 -386,394 -652,759 -276,1126z" style="fill:#362263"/>
+   <path class="AccessoryTeddyfil111" d="M5474 22410c640,0 1105,587 1322,1161 112,294 175,1129 -17,1563 -161,363 -464,317 -1305,317 -880,0 -1336,51 -1486,-333 -165,-422 -4,-1305 110,-1600 225,-583 735,-1108 1376,-1108z" style="fill:#bf3a15"/>
+   <path class="AccessoryTeddyfil3" d="M6432 22924c9,-17 270,267 434,621 76,162 114,514 110,860 -3,276 -40,557 -129,759 -163,369 -434,367 -1121,363 -56,0 -117,-1 -252,-1 -140,0 -209,1 -275,1 -735,5 -1129,8 -1281,-382 -73,-189 -86,-458 -68,-730 26,-369 103,-750 178,-924 183,-426 425,-605 441,-589 17,17 -179,238 -301,643 -52,170 -144,525 -168,880 -18,253 -7,500 58,666 115,294 473,291 1141,287 107,-1 221,-2 275,-2 44,0 152,1 252,2 617,3 860,5 984,-275 81,-182 114,-441 117,-699 4,-328 -39,-648 -101,-807 -118,-305 -304,-656 -294,-673z" style="fill:#b676ad"/>
+   <path class="AccessoryTeddyfil112" d="M5441 22923c422,0 729,302 872,681 358,949 -178,1322 -872,1322 -694,0 -1329,-264 -906,-1357 149,-384 484,-646 906,-646z" style="fill:#69ea03"/>
+   <path class="AccessoryTeddyfil113 AccessoryTeddystr1" d="M4534 21091c-308,0 -557,-222 -557,-496 0,-274 272,-592 580,-592 308,0 535,318 535,592 0,274 -250,496 -558,496z" style="fill:#ebcce7"/>
+   <path class="AccessoryTeddyfil19" d="M4573 20888c-153,0 -277,-111 -277,-247 0,-136 124,-246 277,-246 153,0 277,110 277,246 0,136 -124,247 -277,247z" style="fill:#2c7f2d"/>
+   <path class="AccessoryTeddyfil113 AccessoryTeddystr1" d="M6909 21352c-308,0 -557,-222 -557,-496 0,-274 269,-582 577,-582 308,0 538,308 538,582 0,274 -250,496 -558,496z" style="fill:#184b57"/>
+   <path class="AccessoryTeddyfil19" d="M6845 21167c-158,0 -286,-114 -286,-254 0,-140 128,-253 286,-253 157,0 285,113 285,253 0,140 -128,254 -285,254z" style="fill:#9fb056"/>
+   <path class="AccessoryTeddyfil114 AccessoryTeddystr1" d="M5493 20331c787,13 1234,692 1367,1304 132,611 -412,1168 -1605,1043 -1192,-126 -1303,-654 -1157,-1101 145,-446 609,-1260 1395,-1246z" style="fill:#1ec679"/>
+   <path class="AccessoryTeddyfil115" d="M5439 21393c431,45 822,371 786,717 -36,347 -738,429 -971,403 -234,-26 -812,-239 -776,-586 37,-347 530,-579 961,-534z" style="fill:#628304"/>
+   <path class="AccessoryTeddyfil116 AccessoryTeddystr1" d="M3763 24181c419,-194 673,49 808,408 135,359 70,749 -211,880 -281,130 -610,-82 -808,-408 -197,-326 -207,-686 211,-880z" style="fill:#2d141e"/>
+   <path class="AccessoryTeddyfil117" d="M3693 24534c42,-20 64,21 89,74 24,53 42,98 0,118 -42,19 -96,-8 -120,-61 -25,-53 -11,-112 31,-131zm316 152c119,-55 176,-94 246,56 69,151 53,307 -66,362 -119,55 -272,-22 -342,-172 -69,-151 43,-191 162,-246zm68 -337c42,-20 77,19 102,72 24,53 28,100 -13,119 -42,20 -96,-7 -121,-60 -24,-53 -10,-112 32,-131zm-236 27c46,-21 84,16 112,74 27,59 33,118 -14,139 -46,22 -106,-8 -133,-67 -28,-59 -12,-124 35,-146z" style="fill:#930346"/>
+   <path class="AccessoryTeddyfil118 AccessoryTeddystr1" d="M6934 24204c363,182 359,535 184,885 -176,351 -543,522 -820,383 -277,-138 -313,-489 -184,-885 130,-397 457,-565 820,-383z" style="fill:#a54988"/>
+   <path class="AccessoryTeddyfil119" d="M7009 24559c-41,-22 -66,16 -95,67 -28,51 -49,95 -9,118 40,22 96,-1 125,-52 28,-50 19,-110 -21,-133zm-328 127c-114,-64 -167,-107 -249,38 -81,144 -76,301 38,366 114,64 273,-1 354,-146 81,-144 -28,-193 -143,-258zm-40 -341c-41,-23 -79,13 -108,64 -28,51 -36,98 4,120 40,23 96,0 125,-51 28,-51 19,-111 -21,-133zm233 46c-45,-25 -86,9 -118,65 -31,57 -42,114 3,140 45,25 106,-1 138,-57 32,-57 21,-123 -23,-148z" style="fill:#fe1b2e"/>
+   <path class="AccessoryTeddyfil120" d="M5033 20819c97,34 143,162 102,285 -40,124 -151,196 -248,162 -97,-34 -143,-162 -103,-286 40,-123 152,-196 249,-161z" style="fill:#e99aac"/>
+   <path class="AccessoryTeddyfil121" d="M5895 20863c103,-9 195,89 205,218 9,128 -67,240 -170,248 -104,9 -195,-88 -205,-217 -10,-129 66,-240 170,-249z" style="fill:#1e7bd1"/>
+   <ellipse class="AccessoryTeddyfil15" rx="135" ry="181" transform="matrix(0.829594 -0.069368 0.0580151 0.767535 5912.39 21095.8)"/>
+   <ellipse class="AccessoryTeddyfil15" rx="135" ry="181" transform="matrix(0.786889 0.277973 -0.240129 0.736754 4959.74 21042.4)"/>
+   <path class="AccessoryTeddyfil14" d="M5960 20949c18,-10 42,-1 53,20 11,22 6,48 -12,58 -18,11 -34,-2 -45,-24 -12,-21 -14,-43 4,-54z" style="fill:#c77998"/>
+   <path class="AccessoryTeddyfil14" d="M5059 20926c21,-2 39,16 41,41 3,24 -12,46 -33,48 -21,3 -27,-16 -29,-41 -2,-25 1,-46 21,-48z" style="fill:#fefc44"/>
+   <path class="AccessoryTeddyfil15" d="M5329 21486c408,22 178,349 -19,330 -197,-19 -388,-353 19,-330z" style="fill:#9b87fd"/>
+   <path class="AccessoryTeddyfil2 AccessoryTeddystr8" d="M4818 21716c-84,107 -82,346 90,433 173,88 282,-23 385,-209 84,253 255,330 428,286 173,-44 301,-229 176,-443" style="fill:#0fec9d"/>
+   <line class="AccessoryTeddyfil2 AccessoryTeddystr8" x1="5333" x2="5293" y1="21651" y2="21940"/>
+  </g>
+ </g><g id="HatIronHelmet-Medium">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_70Corel-Layer"/>
+  <path class="HatIronHelmet-Mediumfil3new" d="M7933 12694c1167,-416 2929,-731 3548,-494 613,235 897,616 351,959 -382,240 1040,1722 1850,1722 810,0 2232,-1482 1850,-1722 -546,-343 -262,-724 351,-959 618,-237 2381,78 3547,494 6,-354 60,-1349 66,-1704 -1938,-444 -3876,-888 -5814,-1332 -1938,444 -3876,888 -5814,1332 6,355 60,1350 65,1704z" style="fill:#d97999"/>
+  <g>
+   <path class="HatIronHelmet-Mediumfil661new HatIronHelmet-Mediumstr0new" d="M20022 10708c-351,-39 -635,277 -635,705 0,429 284,809 635,848 351,39 636,-277 636,-706 0,-429 -285,-808 -636,-847z" style="fill:#c23759"/>
+   <path class="HatIronHelmet-Mediumfil14new" d="M19387 11427c6,423 288,795 635,834 351,39 636,-277 636,-706 0,-151 -36,-296 -97,-422 0,5 0,9 0,14 0,428 -284,744 -635,705 -227,-25 -427,-193 -539,-425z" style="fill:#f76d29"/>
+  </g>
+  <g>
+   <path class="HatIronHelmet-Mediumfil662new HatIronHelmet-Mediumstr0new" d="M7342 10708c351,-39 635,277 635,705 0,429 -284,809 -635,848 -351,39 -636,-277 -636,-706 0,-429 285,-808 636,-847z" style="fill:#57053d"/>
+   <path class="HatIronHelmet-Mediumfil14new" d="M7977 11427c-6,423 -288,795 -635,834 -351,39 -636,-277 -636,-706 0,-151 36,-296 97,-422 0,5 -1,9 -1,14 0,428 285,744 636,705 227,-25 427,-193 539,-425z" style="fill:#509f10"/>
+  </g>
+  <path class="HatIronHelmet-Mediumfil663new HatIronHelmet-Mediumstr0new" d="M8081 12352c1178,-925 3221,-1354 5601,-1354 2380,0 4423,429 5600,1354 541,422 680,-1658 -88,-3077 -1257,-2320 -2802,-3660 -5512,-4264 -2710,604 -4256,1944 -5512,4264 -768,1419 -629,3499 -89,3077z" style="fill:#4cc0af"/>
+  <path class="HatIronHelmet-Mediumfil14new" d="M11027 6046c-1198,742 -2083,1800 -2857,3229 -161,297 -282,623 -367,948 1907,-586 3814,-1172 5721,-1759 -2549,89 -4890,69 -2497,-2418z" style="fill:#2c61c0"/>
+  <path class="HatIronHelmet-Mediumfil43new" d="M19444 10831c-77,-479 -228,-992 -469,-1439 -1127,-2091 -2490,-3388 -4728,-4071l-98 110c1873,726 3083,1966 4101,3855 269,499 426,1080 493,1606l701 -61z" style="fill:#3cfa14"/>
+  <path class="HatIronHelmet-Mediumfil664new HatIronHelmet-Mediumstr0new" d="M13682 7917c-2876,0 -6152,1238 -6387,2267 -49,150 -274,1684 -139,2530 19,125 211,281 303,277 1217,-925 3763,-1850 6223,-1850 2460,0 5006,925 6223,1850 92,4 283,-152 303,-277 135,-846 -90,-2380 -139,-2530 -235,-1029 -3511,-2267 -6387,-2267z" style="fill:#087f8f"/>
+  <path class="HatIronHelmet-Mediumfil31new" d="M20097 10883c-35,-350 -76,-613 -95,-671 -184,-810 -2184,-1656 -4333,-2055 3786,1111 4261,1897 4428,2726zm-12642 2108c2,0 3,0 4,0 9,-7 19,-15 29,-22 -11,7 -22,15 -33,22z" style="fill:#df6e4f"/>
+  <path class="HatIronHelmet-Mediumfil14new" d="M13682 11081c-2460,0 -5006,985 -6223,1910 -498,-129 942,-1165 3015,-1726 1050,-285 2160,-461 3208,-461l0 277z" style="fill:#f0e679"/>
+  <circle class="HatIronHelmet-Mediumfil84new" r="668" transform="matrix(1.35126 0.217689 -0.239913 1.44256 11638.9 9471.87)"/>
+  <path class="HatIronHelmet-Mediumfil665new" d="M11736 8521c457,74 762,529 681,1017 -82,488 -518,824 -975,750 -457,-74 -761,-529 -680,-1017 81,-488 517,-823 974,-750z" style="fill:#f9db56"/>
+  <path class="HatIronHelmet-Mediumfil14new" d="M12367 9721c-146,385 -527,631 -925,567 -457,-74 -761,-529 -680,-1017 26,-155 88,-295 175,-412 -22,58 -39,119 -49,183 -82,488 223,943 680,1017 311,50 613,-90 799,-338z" style="fill:#0a6159"/>
+  <path class="HatIronHelmet-Mediumfil572new" d="M11439 8713c83,-135 308,-150 504,-35 196,116 288,319 205,454 -82,135 -307,150 -503,35 -196,-116 -288,-319 -206,-454z" style="fill:#550d00"/>
+  <circle class="HatIronHelmet-Mediumfil84new" r="668" transform="matrix(1.18211 0.194479 -0.223801 1.31772 8905.97 10323.2)"/>
+  <path class="HatIronHelmet-Mediumfil666new" d="M9005 9430c405,67 671,486 594,937 -76,451 -466,763 -871,696 -405,-66 -671,-486 -594,-937 77,-451 467,-763 871,-696z" style="fill:#8add44"/>
+  <path class="HatIronHelmet-Mediumfil14new" d="M9506 10642c-156,295 -462,473 -778,421 -405,-66 -671,-486 -594,-937 32,-191 121,-357 243,-480 -43,83 -75,176 -92,275 -77,451 189,870 594,937 233,38 461,-49 627,-216z" style="fill:#e6ccde"/>
+  <path class="HatIronHelmet-Mediumfil572new" d="M8734 9583c71,-119 269,-135 441,-36 173,100 256,277 185,396 -71,119 -268,135 -441,35 -173,-99 -255,-276 -185,-395z" style="fill:#f3a1b9"/>
+  <circle class="HatIronHelmet-Mediumfil84new" r="668" transform="matrix(-1.35115 0.218371 0.240664 1.44244 15724.9 9471.87)"/>
+  <path class="HatIronHelmet-Mediumfil667new" d="M15627 8521c-457,74 -761,529 -680,1017 82,488 518,824 975,750 457,-74 761,-529 680,-1017 -81,-488 -518,-824 -975,-750z" style="fill:#b54f7f"/>
+  <path class="HatIronHelmet-Mediumfil14new" d="M15125 8820c-150,191 -223,450 -178,718 82,488 518,824 975,750 294,-48 525,-253 630,-523 -122,155 -297,265 -502,298 -457,74 -893,-261 -975,-749 -29,-174 -9,-344 50,-494z" style="fill:#188607"/>
+  <path class="HatIronHelmet-Mediumfil572new" d="M15628 8713c77,-138 301,-161 501,-53 200,109 300,308 223,446 -78,138 -302,161 -502,53 -200,-109 -300,-308 -222,-446z" style="fill:#46b95e"/>
+  <circle class="HatIronHelmet-Mediumfil84new" r="668" transform="matrix(-1.19594 0.0772935 0.0889469 1.33314 18457.5 10323.2)"/>
+  <path class="HatIronHelmet-Mediumfil668new" d="M18449 9425c-409,26 -716,418 -686,874 31,456 387,805 797,778 409,-26 716,-418 686,-874 -31,-456 -387,-805 -797,-778z" style="fill:#15168c"/>
+  <path class="HatIronHelmet-Mediumfil14new" d="M17911 9742c-105,153 -162,348 -148,557 31,456 387,805 797,778 303,-19 550,-240 645,-538 -124,181 -316,303 -538,317 -409,27 -766,-322 -796,-778 -8,-118 7,-232 40,-336z" style="fill:#f75f86"/>
+  <path class="HatIronHelmet-Mediumfil572new" d="M18402 9601c74,-118 272,-128 442,-24 170,104 248,283 174,400 -74,117 -272,128 -442,24 -170,-104 -248,-283 -174,-400z" style="fill:#fbda60"/>
+  <path class="HatIronHelmet-Mediumfil14new" d="M13682 11081c2460,0 5006,985 6223,1910 498,-129 -942,-1165 -3016,-1726 -1049,-285 -2159,-461 -3207,-461l0 277z" style="fill:#3d5aee"/>
+  <path class="HatIronHelmet-Mediumfil669new" d="M15269 12619c-273,743 -968,1492 -1587,1782 -620,-290 -1314,-1039 -1587,-1782 1589,-1973 1103,-5816 598,-7618 312,-103 641,-193 989,-270 348,77 677,167 988,270 -523,1807 -1016,5652 599,7618z" style="fill:#73e610"/>
+  <path class="HatIronHelmet-Mediumfil14new" d="M13682 14401c-620,-290 -1314,-1039 -1587,-1782 23,-29 46,-59 69,-88l9 -13c1494,-1999 1016,-5745 520,-7517 312,-103 641,-193 989,-270l0 9188c535,-251 1125,-843 1452,-1479 44,61 88,121 135,179 -273,743 -968,1492 -1587,1782z" style="fill:#d7ee69"/>
+  <path class="HatIronHelmet-Mediumfil31new" d="M14463 10835c1854,78 4367,624 5534,1701 194,179 35,319 5,336 -57,-317 -1358,-1132 -3113,-1607 -792,-215 -1618,-368 -2426,-430z" style="fill:#f45231"/>
+  <polygon class="HatIronHelmet-Mediumfil31new" points="17371,9967 16902,8437 16592,8361 "/>
+  <polygon class="HatIronHelmet-Mediumfil14new" points="17168,8499 17371,9967 16902,8437 "/>
+  <polygon class="HatIronHelmet-Mediumfil31new" points="11259,11333 11157,11357 10672,11212 9922,9391 10917,11152 "/>
+  <polygon class="HatIronHelmet-Mediumfil14new" points="11392,11370 11371,11392 10917,11152 9922,9391 11181,11092 "/>
+  <path class="HatIronHelmet-Mediumfil223new" d="M15337 12649c-137,372 -377,744 -660,1062 -295,331 -639,604 -963,756 -21,10 -44,9 -64,0l0 0c-325,-152 -668,-425 -963,-756 -284,-319 -525,-694 -662,-1067 -9,-25 -4,-52 12,-71l0 0c646,-803 1013,-1918 1105,-3085 130,-1662 -226,-3417 -520,-4468 -11,-38 11,-77 48,-89l0 0c157,-52 318,-100 484,-145 166,-46 336,-88 512,-127 11,-3 23,-2 34,0 174,39 344,81 510,127 166,45 327,93 484,145 39,13 60,54 47,92 -293,1051 -658,2803 -527,4464 91,1166 467,2283 1113,3086 18,22 21,51 10,76zm-772 965c263,-296 487,-639 619,-982 -650,-827 -949,-1963 -1042,-3140 -129,-1645 147,-3374 438,-4443 -133,-43 -270,-83 -410,-122 -158,-43 -321,-83 -488,-121 -167,38 -330,78 -488,121 -140,39 -277,79 -410,122 291,1069 567,2798 438,4443 -93,1177 -393,2313 -1042,3140 132,343 356,686 619,982 272,306 586,559 883,705 297,-146 610,-399 883,-705z" style="fill:#6ceef7"/>
+ </g></svg>

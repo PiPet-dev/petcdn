@@ -1,0 +1,949 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd" version="1.1" viewBox="0 0 29000 29000" xml:space="preserve"><defs><style type="text/css">.HairBack-Bear0fil22 {fill:none}
+.Tail-Bear0fil22 {fill:none}
+.RightFoot-Bear2fil26 {fill:#ffffff}
+.RightFoot-Bear2fil14 {fill:black;fill-opacity:0.200000}
+.RightFoot-Bear2fil32 {fill:black;fill-rule:nonzero}
+.RightLeg-Bear0fil437 {fill:url(#RightLeg-Bear0id151)}
+.RightLeg-Bear0fil14 {fill:black;fill-opacity:0.200000}
+.RightLeg-Bear0fil32 {fill:black;fill-rule:nonzero}
+.LeftFoot-Bear2fil26 {fill:#ffffff}
+.LeftFoot-Bear2fil14 {fill:black;fill-opacity:0.200000}
+.LeftFoot-Bear2fil32 {fill:black;fill-rule:nonzero}
+.LeftLeg-Bear0fil447 {fill:url(#LeftLeg-Bear0id520)}
+.LeftLeg-Bear0fil14 {fill:black;fill-opacity:0.200000}
+.LeftLeg-Bear0fil32 {fill:black;fill-rule:nonzero}
+.RightHand-Bear5fil14 {fill:black;fill-opacity:0.200000}
+.RightHand-Bear5fil456 {fill:url(#RightHand-Bear5id75)}
+.RightHand-Bear5str10 {stroke:#2B2A29;stroke-width:20}
+.RightHand-Bear5fil22 {fill:none}
+.RightHand-Bear5str0 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.LeftHand-Bear5fil469 {fill:url(#LeftHand-Bear5id76)}
+.LeftHand-Bear5fil14 {fill:black;fill-opacity:0.200000}
+.LeftHand-Bear5fil22 {fill:none}
+.LeftHand-Bear5str0 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.Body-Bear5fil476 {fill:url(#Body-Bear5id267)}
+.Body-Bear5fil14 {fill:black;fill-opacity:0.200000}
+.Body-Bear5fil32 {fill:black;fill-rule:nonzero}
+.Body-Bear5fil22 {fill:none}
+.Body-Bear5fil482 {fill:url(#Body-Bear5id211)}
+.Ears-Bear4fil496 {fill:url(#Ears-Bear4id428)}
+.Ears-Bear4fil14 {fill:black;fill-opacity:0.200000}
+.Ears-Bear4fil498 {fill:url(#Ears-Bear4id462)}
+.Ears-Bear4fil495 {fill:url(#Ears-Bear4id71)}
+.Ears-Bear4str4 {stroke:black;stroke-width:150}
+.Ears-Bear4fil497 {fill:url(#Ears-Bear4id70)}
+.Head-Bear4fil517 {fill:url(#Head-Bear4id321)}
+.Head-Bear4fil32 {fill:black;fill-rule:nonzero}
+.Head-Bear4fil14 {fill:black;fill-opacity:0.200000}
+.Head-Bear4fil518 {fill:url(#Head-Bear4id818)}
+.Head-Bear4fil519 {fill:url(#Head-Bear4id410)}
+.Mouth-Bear5fil100 {fill:black}
+.Mouth-Bear5fil22 {fill:none}
+.Mouth-Bear5str0 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.Mouth-Bear5fil152 {fill:white}
+.Mouth-Bear5str9 {stroke:black;stroke-width:120;stroke-linecap:round;stroke-linejoin:round}
+.Eyes-Bear5fil552 {fill:url(#Eyes-Bear5id813)}
+.Eyes-Bear5fil553 {fill:url(#Eyes-Bear5id674)}
+.Eyes-Bear5fil554 {fill:url(#Eyes-Bear5id1084)}
+.Eyes-Bear5fil152 {fill:white}
+.Eyes-Bear5fil157 {fill:black;fill-opacity:0.501961}
+.Eyes-Bear5fil155 {fill:#202223}
+.Eyes-Bear5fil14 {fill:black;fill-opacity:0.200000}
+.Eyes-Bear5fil555 {fill:url(#Eyes-Bear5id812)}
+.Eyes-Bear5fil556 {fill:url(#Eyes-Bear5id774)}
+.Eyes-Bear5fil557 {fill:url(#Eyes-Bear5id1098)}
+.Eyes-Bear5fil22 {fill:none}
+.Eyes-Bear5str4 {stroke:black;stroke-width:150}
+.Moustache-Bear7fil596 {fill:url(#Moustache-Bear7id112)}
+.Moustache-Bear7fil32 {fill:black;fill-rule:nonzero}
+.Moustache-Bear7fil597 {fill:url(#Moustache-Bear7id347)}
+.Nose-Bear0fil598 {fill:url(#Nose-Bear0id451)}
+.Nose-Bear0str0 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.Hair-Bear6fil14 {fill:black;fill-opacity:0.200000}
+.Hair-Bear6fil604 {fill:url(#Hair-Bear6id1014)}
+.Hair-Bear6str0 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.LeftPawWeapon-Bear4fil0 {fill:#565656}
+.LeftPawWeapon-Bear4fil1 {fill:black;fill-rule:nonzero}
+.LeftPawWeapon-Bear4fil4 {fill:url(#LeftPawWeapon-Bear4id4)}
+.LeftPawWeapon-Bear4str0 {stroke:black;stroke-width:120;stroke-linecap:round;stroke-linejoin:round}
+.LeftPawWeapon-Bear4fil5 {fill:url(#LeftPawWeapon-Bear4id3)}
+.LeftPawWeapon-Bear4fil6 {fill:url(#LeftPawWeapon-Bear4id2)}
+.AccessoryWaterHydrantfil32 {fill:#FF9E9E;fill-opacity:0.501961}
+.AccessoryWaterHydrantfil35 {fill:black;fill-opacity:0.400000}
+.AccessoryWaterHydrantfil25 {fill:url(#AccessoryWaterHydrantid35)}
+.AccessoryWaterHydrantstr2 {stroke:black;stroke-width:150;stroke-linecap:round}
+.AccessoryWaterHydrantfil26 {fill:url(#AccessoryWaterHydrantid50)}
+.AccessoryWaterHydrantfil27 {fill:url(#AccessoryWaterHydrantid32)}
+.AccessoryWaterHydrantfil28 {fill:url(#AccessoryWaterHydrantid74)}
+.AccessoryWaterHydrantfil29 {fill:url(#AccessoryWaterHydrantid66)}
+.AccessoryWaterHydrantfil30 {fill:url(#AccessoryWaterHydrantid34)}
+.AccessoryWaterHydrantfil31 {fill:url(#AccessoryWaterHydrantid70)}
+.AccessoryWaterHydrantstr3 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.AccessoryWaterHydrantfil2 {fill:none}
+.AccessoryWaterHydrantstr4 {stroke:black;stroke-width:150}
+.AccessoryWaterHydrantfil33 {fill:url(#AccessoryWaterHydrantid38)}
+.AccessoryWaterHydrantfil34 {fill:url(#AccessoryWaterHydrantid57)}
+.AccessoryWaterHydrantfil36 {fill:url(#AccessoryWaterHydrantid60)}
+.AccessoryWaterHydrantfil37 {fill:url(#AccessoryWaterHydrantid54)}
+.AccessoryWaterHydrantfil38 {fill:url(#AccessoryWaterHydrantid58)}
+.AccessoryWaterHydrantfil39 {fill:none}
+.AccessoryWaterHydrantstr5 {stroke:black;stroke-width:150;stroke-opacity:0.400000}
+.AccessoryWaterHydrantfil40 {fill:url(#AccessoryWaterHydrantid68)}
+.AccessoryWaterHydrantstr1 {stroke:black;stroke-width:150}
+.AccessoryWaterHydrantstr6 {stroke:black;stroke-width:400;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.400000}
+.NecklaceGladiatorArmor-Bigfil12 {fill:black;fill-opacity:0.200000}
+.NecklaceGladiatorArmor-Bigfil14 {fill:url(#NecklaceGladiatorArmor-Bigid129)}
+.NecklaceGladiatorArmor-Bigfil18 {fill:url(#NecklaceGladiatorArmor-Bigid146)}
+.NecklaceGladiatorArmor-Bigfil21 {fill:url(#NecklaceGladiatorArmor-Bigid29)}
+.NecklaceGladiatorArmor-Bigfil28 {fill:black;fill-opacity:0.349020}
+.NecklaceGladiatorArmor-Bigfil29 {fill:white;fill-opacity:0.200000}
+.NecklaceGladiatorArmor-Bigfil30 {fill:white;fill-rule:nonzero;fill-opacity:0.701961}
+.NecklaceGladiatorArmor-Bigfil33 {fill:black;fill-rule:nonzero;fill-opacity:0.501961}
+.NecklaceGladiatorArmor-Bigfil40 {fill:black;fill-rule:nonzero}
+.NecklaceGladiatorArmor-Bigfil41 {fill:white;fill-rule:nonzero;fill-opacity:0.200000}
+.NecklaceGladiatorArmor-Bigfil42 {fill:white;fill-rule:nonzero;fill-opacity:0.501961}
+.NecklaceGladiatorArmor-Bigfil43 {fill:black;fill-opacity:0.301961}
+.NecklaceGladiatorArmor-Bigfil44 {fill:black;fill-opacity:0.501961}
+.NecklaceGladiatorArmor-Bigfil45 {fill:black;fill-opacity:0.650980}
+.NecklaceGladiatorArmor-Bigfil49 {fill:url(#NecklaceGladiatorArmor-Bigid24)}
+.NecklaceGladiatorArmor-Bigfil56 {fill:#C9B5A1;fill-opacity:0.501961}
+.NecklaceGladiatorArmor-Bigfil59 {fill:url(#NecklaceGladiatorArmor-Bigid139)}
+.NecklaceGladiatorArmor-Bigfil60 {fill:#071C32}
+.NecklaceGladiatorArmor-Bigfil61 {fill:url(#NecklaceGladiatorArmor-Bigid10)}
+.NecklaceGladiatorArmor-Bigfil62 {fill:url(#NecklaceGladiatorArmor-Bigid149)}
+.NecklaceGladiatorArmor-Bigfil63 {fill:url(#NecklaceGladiatorArmor-Bigid153)}
+.NecklaceGladiatorArmor-Bigfil64 {fill:white;fill-opacity:0.149020}
+.NecklaceGladiatorArmor-Bigfil65 {fill:#004085}
+.NecklaceGladiatorArmor-Bigfil0 {fill:url(#NecklaceGladiatorArmor-Bigid124)}
+.NecklaceGladiatorArmor-Bigstr0 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256}
+.NecklaceGladiatorArmor-Bigfil1 {fill:none}
+.NecklaceGladiatorArmor-Bigstr1 {stroke:black;stroke-width:100;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256;stroke-opacity:0.501961}
+.NecklaceGladiatorArmor-Bigfil2 {fill:url(#NecklaceGladiatorArmor-Bigid382);fill-rule:nonzero}
+.NecklaceGladiatorArmor-Bigstr2 {stroke:black;stroke-width:75;stroke-miterlimit:22.9256}
+.NecklaceGladiatorArmor-Bigfil3 {fill:url(#NecklaceGladiatorArmor-Bigid118)}
+.NecklaceGladiatorArmor-Bigfil4 {fill:url(#NecklaceGladiatorArmor-Bigid369);fill-rule:nonzero}
+.NecklaceGladiatorArmor-Bigfil5 {fill:url(#NecklaceGladiatorArmor-Bigid140)}
+.NecklaceGladiatorArmor-Bigfil6 {fill:url(#NecklaceGladiatorArmor-Bigid384);fill-rule:nonzero}
+.NecklaceGladiatorArmor-Bigfil7 {fill:url(#NecklaceGladiatorArmor-Bigid120)}
+.NecklaceGladiatorArmor-Bigfil8 {fill:url(#NecklaceGladiatorArmor-Bigid391);fill-rule:nonzero}
+.NecklaceGladiatorArmor-Bigfil9 {fill:url(#NecklaceGladiatorArmor-Bigid138)}
+.NecklaceGladiatorArmor-Bigfil10 {fill:url(#NecklaceGladiatorArmor-Bigid351);fill-rule:nonzero}
+.NecklaceGladiatorArmor-Bigfil11 {fill:url(#NecklaceGladiatorArmor-Bigid107)}
+.NecklaceGladiatorArmor-Bigfil13 {fill:url(#NecklaceGladiatorArmor-Bigid21)}
+.NecklaceGladiatorArmor-Bigstr3 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256}
+.NecklaceGladiatorArmor-Bigstr4 {stroke:black;stroke-width:75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256;stroke-opacity:0.501961}
+.NecklaceGladiatorArmor-Bigstr5 {stroke:black;stroke-width:75;stroke-miterlimit:22.9256;stroke-opacity:0.501961}
+.NecklaceGladiatorArmor-Bigfil15 {fill:url(#NecklaceGladiatorArmor-Bigid410);fill-rule:nonzero}
+.NecklaceGladiatorArmor-Bigstr6 {stroke:black;stroke-width:100;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256}
+.NecklaceGladiatorArmor-Bigfil16 {fill:none}
+.NecklaceGladiatorArmor-Bigfil17 {fill:url(#NecklaceGladiatorArmor-Bigid82)}
+.NecklaceGladiatorArmor-Bigfil19 {fill:url(#NecklaceGladiatorArmor-Bigid383);fill-rule:nonzero}
+.NecklaceGladiatorArmor-Bigfil20 {fill:url(#NecklaceGladiatorArmor-Bigid45)}
+.NecklaceGladiatorArmor-Bigfil22 {fill:none}
+.NecklaceGladiatorArmor-Bigstr7 {stroke:#2B2A29;stroke-width:100;stroke-miterlimit:22.9256;stroke-opacity:0.701961}
+.NecklaceGladiatorArmor-Bigfil23 {fill:url(#NecklaceGladiatorArmor-Bigid372);fill-rule:nonzero}
+.NecklaceGladiatorArmor-Bigstr8 {stroke:black;stroke-width:75;stroke-miterlimit:22.9256}
+.NecklaceGladiatorArmor-Bigfil24 {fill:url(#NecklaceGladiatorArmor-Bigid374);fill-rule:nonzero}
+.NecklaceGladiatorArmor-Bigfil25 {fill:url(#NecklaceGladiatorArmor-Bigid371);fill-rule:nonzero}
+.NecklaceGladiatorArmor-Bigfil26 {fill:url(#NecklaceGladiatorArmor-Bigid373);fill-rule:nonzero}
+.NecklaceGladiatorArmor-Bigfil27 {fill:url(#NecklaceGladiatorArmor-Bigid346);fill-rule:nonzero}
+.NecklaceGladiatorArmor-Bigstr9 {stroke:black;stroke-width:100;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256;stroke-opacity:0.701961}
+.NecklaceGladiatorArmor-Bigfil31 {fill:url(#NecklaceGladiatorArmor-Bigid367);fill-rule:nonzero}
+.NecklaceGladiatorArmor-Bigfil32 {fill:url(#NecklaceGladiatorArmor-Bigid67)}
+.NecklaceGladiatorArmor-Bigstr10 {stroke:black;stroke-width:100;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256}
+.NecklaceGladiatorArmor-Bigfil34 {fill:url(#NecklaceGladiatorArmor-Bigid54)}
+.NecklaceGladiatorArmor-Bigfil35 {fill:url(#NecklaceGladiatorArmor-Bigid375);fill-rule:nonzero}
+.NecklaceGladiatorArmor-Bigfil36 {fill:url(#NecklaceGladiatorArmor-Bigid47)}
+.NecklaceGladiatorArmor-Bigfil37 {fill:url(#NecklaceGladiatorArmor-Bigid349);fill-rule:nonzero}
+.NecklaceGladiatorArmor-Bigfil38 {fill:url(#NecklaceGladiatorArmor-Bigid33)}
+.NecklaceGladiatorArmor-Bigfil39 {fill:url(#NecklaceGladiatorArmor-Bigid41)}
+.NecklaceGladiatorArmor-Bigstr11 {stroke:black;stroke-width:100;stroke-miterlimit:22.9256;stroke-opacity:0.501961}
+.NecklaceGladiatorArmor-Bigfil46 {fill:white;fill-rule:nonzero}
+.NecklaceGladiatorArmor-Bigfil47 {fill:url(#NecklaceGladiatorArmor-Bigid31)}
+.NecklaceGladiatorArmor-Bigfil48 {fill:url(#NecklaceGladiatorArmor-Bigid403);fill-rule:nonzero}
+.NecklaceGladiatorArmor-Bigfil50 {fill:url(#NecklaceGladiatorArmor-Bigid413);fill-rule:nonzero}
+.NecklaceGladiatorArmor-Bigstr12 {stroke:#202223;stroke-width:100;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256}
+.NecklaceGladiatorArmor-Bigfil51 {fill:url(#NecklaceGladiatorArmor-Bigid347);fill-rule:nonzero}
+.NecklaceGladiatorArmor-Bigfil52 {fill:url(#NecklaceGladiatorArmor-Bigid91)}
+.NecklaceGladiatorArmor-Bigstr13 {stroke:black;stroke-width:100;stroke-miterlimit:22.9256}
+.NecklaceGladiatorArmor-Bigfil53 {fill:url(#NecklaceGladiatorArmor-Bigid99)}
+.NecklaceGladiatorArmor-Bigfil54 {fill:url(#NecklaceGladiatorArmor-Bigid50)}
+.NecklaceGladiatorArmor-Bigfil55 {fill:url(#NecklaceGladiatorArmor-Bigid414);fill-rule:nonzero}
+.NecklaceGladiatorArmor-Bigfil57 {fill:url(#NecklaceGladiatorArmor-Bigid418);fill-rule:nonzero}
+.NecklaceGladiatorArmor-Bigstr14 {stroke:black;stroke-width:100;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256}
+.NecklaceGladiatorArmor-Bigfil58 {fill:url(#NecklaceGladiatorArmor-Bigid370);fill-rule:nonzero}
+.NecklaceGladiatorArmor-Bigstr15 {stroke:#163658;stroke-width:100;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256}
+.WeaponIcicleBack-Bigfil81 {fill:#A6EDFF;fill-opacity:0.149020}
+.WeaponIcicleBack-Bigfil82 {fill:#B7EEFF;fill-opacity:0.149020}
+.WeaponIcicleBack-Bigfil83 {fill:#C8F1FF;fill-opacity:0.149020}
+.WeaponIcicleBack-Bigfil84 {fill:#D9F4FF}
+.WeaponIcicleBack-Bigfil104 {fill:url(#WeaponIcicleBack-Bigid112)}
+.WeaponIcicleBack-Bigfil105 {fill:url(#WeaponIcicleBack-Bigid195)}
+.WeaponIcicleBack-Bigfil87 {fill:#0070CC;fill-opacity:0.450980}
+.WeaponIcicleBack-Bigfil88 {fill:#0050BF;fill-opacity:0.450980}
+.WeaponIcicleBack-Bigfil102 {fill:url(#WeaponIcicleBack-Bigid186);fill-opacity:0.800000}
+.WeaponIcicleBack-Bigfil106 {fill:url(#WeaponIcicleBack-Bigid190);fill-opacity:0.800000}
+.WeaponIcicleBack-Bigfil91 {fill:#D9F4FF;fill-opacity:0.800000}
+.WeaponIcicleBack-Bigfil92 {fill:#D4F6FF}
+.WeaponIcicleBack-Bigfil93 {fill:#D4F6FF;fill-opacity:0.501961}
+.WeaponIcicleBack-Bigfil94 {fill:#D4F6FF;fill-opacity:0.701961}
+.WeaponIcicleBack-Bigfil95 {fill:#0088C2;fill-opacity:0.301961}
+.WeaponIcicleBack-Bigfil96 {fill:#D9F4FF;fill-opacity:0.701961}
+.WeaponIcicleBack-Bigfil97 {fill:#267BBD;fill-opacity:0.450980}
+.WeaponIcicleBack-Bigfil98 {fill:#F0FDFF;fill-opacity:0.701961}
+.WeaponIcicleBack-Bigfil99 {fill:#005AA3;fill-opacity:0.450980}
+.WeaponIcicleBack-Bigfil80 {fill:none}
+.WeaponIcicleBack-Bigstr0 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256}
+.WeaponIcicleFront-Bigfil81 {fill:#A6EDFF;fill-opacity:0.149020}
+.WeaponIcicleFront-Bigfil82 {fill:#B7EEFF;fill-opacity:0.149020}
+.WeaponIcicleFront-Bigfil83 {fill:#C8F1FF;fill-opacity:0.149020}
+.WeaponIcicleFront-Bigfil84 {fill:#D9F4FF}
+.WeaponIcicleFront-Bigfil194 {fill:url(#WeaponIcicleFront-Bigid135)}
+.WeaponIcicleFront-Bigfil195 {fill:url(#WeaponIcicleFront-Bigid198)}
+.WeaponIcicleFront-Bigfil87 {fill:#0070CC;fill-opacity:0.450980}
+.WeaponIcicleFront-Bigfil91 {fill:#D9F4FF;fill-opacity:0.800000}
+.WeaponIcicleFront-Bigfil190 {fill:#D4F6FF;fill-opacity:0.568627}
+.WeaponIcicleFront-Bigfil94 {fill:#D4F6FF;fill-opacity:0.701961}
+.WeaponIcicleFront-Bigfil191 {fill:#D4F6FF;fill-opacity:0.850980}
+.WeaponIcicleFront-Bigfil95 {fill:#0088C2;fill-opacity:0.301961}
+.WeaponIcicleFront-Bigfil92 {fill:#D4F6FF}
+.WeaponIcicleFront-Bigfil80 {fill:none}
+.WeaponIcicleFront-Bigstr0 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256}
+.BraceleteMittensWeapon-Bigfil209 {fill:url(#BraceleteMittensWeapon-Bigid98)}
+.BraceleteMittensWeapon-Bigfil197 {fill:#D3E0F0}
+.BraceleteMittensWeapon-Bigfil199 {fill:black;fill-opacity:0.200000}
+.BraceleteMittensWeapon-Bigfil204 {fill:#F8DFDD;fill-opacity:0.101961}
+.BraceleteMittensWeapon-Bigfil211 {fill:url(#BraceleteMittensWeapon-Bigid110)}
+.BraceleteMittensWeapon-Bigfil213 {fill:#FFCCCC;fill-opacity:0.200000}
+.BraceleteMittensWeapon-Bigfil214 {fill:#FFCCCC;fill-opacity:0.321569}
+.BraceleteMittensWeapon-Bigfil215 {fill:#421100;fill-opacity:0.250980}
+.BraceleteMittensWeapon-Bigfil112 {fill:black;fill-rule:nonzero}
+.BraceleteMittensWeapon-Bigfil80 {fill:none}
+.BraceleteMittensWeapon-Bigstr0 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256}
+.BraceleteMittensWeapon-Bigfil210 {fill:url(#BraceleteMittensWeapon-Bigid92)}
+.BraceleteMittensWeapon-Bigfil212 {fill:url(#BraceleteMittensWeapon-Bigid125)}
+</style><linearGradient gradientUnits="objectBoundingBox" id="RightLeg-Bear0id151" x1="50%" x2="50%" xlink:href="#RightLeg-Bear0id150" y1="100%" y2="0%">
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="LeftLeg-Bear0id520" x1="50%" x2="50%" xlink:href="#LeftLeg-Bear0id150" y1="100%" y2="0%">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="RightHand-Bear5id75" x1="17042.3" x2="17994.1" y1="17293.3" y2="21110.7">
+   <stop offset="0" style="stop-opacity:1; stop-color:#302e2e"/>
+   <stop offset="0.0784314" style="stop-opacity:1; stop-color:#302e2e"/>
+   <stop offset="0.768627" style="stop-opacity:1; stop-color:#565656"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#565656"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="LeftHand-Bear5id76" x1="10265.3" x2="9313.56" xlink:href="#LeftHand-Bear5id75" y1="17293.3" y2="21110.7">
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="Body-Bear5id267" x1="50%" x2="50%" xlink:href="#Body-Bear5id266" y1="0%" y2="100%">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Body-Bear5id211" x1="13653.8" x2="13653.8" y1="17305.4" y2="21758.8">
+   <stop offset="0" style="stop-opacity:1; stop-color:#f2e6e6"/>
+   <stop offset="0.721569" style="stop-opacity:1; stop-color:#ffffff"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#ffffff"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Ears-Bear4id428" x1="7714.57" x2="9915.95" xlink:href="#Ears-Bear4id67" y1="8532.86" y2="11305">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Ears-Bear4id462" x1="19593.1" x2="17391.7" xlink:href="#Ears-Bear4id67" y1="8532.86" y2="11305">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Ears-Bear4id71" x1="7099.36" x2="10089.5" xlink:href="#Ears-Bear4id70" y1="8096.38" y2="11659.9">
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="Head-Bear4id321" x1="50%" x2="50%" y1="0%" y2="99.9999%">
+   <stop offset="0" style="stop-opacity:1; stop-color:#707070"/>
+   <stop offset="0.580392" style="stop-opacity:1; stop-color:#565656"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#302e2e"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Head-Bear4id818" x1="13653.8" x2="13653.8" xlink:href="#Head-Bear4id567" y1="17229.8" y2="8781.44">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Head-Bear4id410" x1="13653.8" x2="13653.8" xlink:href="#Head-Bear4id133" y1="14566.8" y2="11645">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Eyes-Bear5id813" x1="10417" x2="9722.34" xlink:href="#Eyes-Bear5id27" y1="14638.9" y2="11576.5">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Eyes-Bear5id674" x1="8577.26" x2="11725.2" xlink:href="#Eyes-Bear5id57" y1="13014.3" y2="13014.3">
+  </linearGradient><radialGradient cx="10299.3" cy="12950.1" fx="10299.3" fy="12950.1" gradientTransform="matrix(0.0585658 1.05063 -0.971888 0.090953 22282 952)" gradientUnits="userSpaceOnUse" id="Eyes-Bear5id1084" r="1461.35" xlink:href="#Eyes-Bear5id1055">
+  </radialGradient><linearGradient gradientUnits="userSpaceOnUse" id="Eyes-Bear5id812" x1="16890.7" x2="17585.3" xlink:href="#Eyes-Bear5id27" y1="14638.9" y2="11576.5">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Eyes-Bear5id774" x1="18730.4" x2="15582.5" xlink:href="#Eyes-Bear5id57" y1="13014.3" y2="13014.3">
+  </linearGradient><radialGradient cx="17008.4" cy="12950.1" fx="17008.4" fy="12950.1" gradientTransform="matrix(-0.0585658 1.05063 0.971888 0.090953 5418 -6097)" gradientUnits="userSpaceOnUse" id="Eyes-Bear5id1098" r="1461.35" xlink:href="#Eyes-Bear5id1055">
+  </radialGradient><linearGradient gradientUnits="userSpaceOnUse" id="Moustache-Bear7id112" x1="12480.5" x2="10817.7" xlink:href="#Moustache-Bear7id49" y1="16488.2" y2="16374.3">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Moustache-Bear7id347" x1="14827.2" x2="16489.9" xlink:href="#Moustache-Bear7id49" y1="16488.2" y2="16374.3">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Nose-Bear0id451" x1="13653.8" x2="13653.8" y1="14108.6" y2="14926.9">
+   <stop offset="0" style="stop-opacity:1; stop-color:#FFCCCC"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#453F2C"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Hair-Bear6id1014" x1="17919.4" x2="11063.8" xlink:href="#Hair-Bear6id49" y1="10137.2" y2="7426.22">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="LeftPawWeapon-Bear4id4" x1="9291.61" x2="9745.29" xlink:href="#LeftPawWeapon-Bear4id2" y1="21737.2" y2="22291.2">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="LeftPawWeapon-Bear4id3" x1="8756.72" x2="9051.56" xlink:href="#LeftPawWeapon-Bear4id2" y1="21885.6" y2="22429.5">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryWaterHydrantid35" x1="1412.61" x2="1346.62" y1="21900.7" y2="21420.5">
+   <stop offset="0" style="stop-opacity:1; stop-color:#C79191"/>
+   <stop offset="0.490196" style="stop-opacity:1; stop-color:#8C7777"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#EDCFCE"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryWaterHydrantid50" x1="1822.86" x2="1822.86" xlink:href="#AccessoryWaterHydrantid32" y1="22158.9" y2="21162.2">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryWaterHydrantid74" x1="5820.44" x2="5754.45" xlink:href="#AccessoryWaterHydrantid35" y1="21900.7" y2="21420.5">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryWaterHydrantid66" x1="5344.2" x2="5344.2" xlink:href="#AccessoryWaterHydrantid32" y1="22158.9" y2="21162.2">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryWaterHydrantid34" x1="5014.59" x2="5014.59" xlink:href="#AccessoryWaterHydrantid32" y1="22521" y2="20800.2">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryWaterHydrantid70" x1="1577.12" x2="5765.73" xlink:href="#AccessoryWaterHydrantid57" y1="25128.7" y2="25128.7">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryWaterHydrantid38" x1="3236.42" x2="4106.43" y1="17865.7" y2="17865.7">
+   <stop offset="0" style="stop-opacity:1; stop-color:#DF302F"/>
+   <stop offset="0.278431" style="stop-opacity:1; stop-color:#860203"/>
+   <stop offset="0.560784" style="stop-opacity:1; stop-color:#A61514"/>
+   <stop offset="0.780392" style="stop-opacity:1; stop-color:#FF8C96"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#D9342E"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryWaterHydrantid60" x1="1709.43" x2="5633.42" xlink:href="#AccessoryWaterHydrantid57" y1="19824.4" y2="19824.4">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryWaterHydrantid54" x1="2866.92" x2="4475.93" xlink:href="#AccessoryWaterHydrantid32" y1="22066.7" y2="21218.5">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryWaterHydrantid58" x1="3278.19" x2="4064.66" xlink:href="#AccessoryWaterHydrantid32" y1="21849.9" y2="21435.3">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryWaterHydrantid68" x1="3485.88" x2="3856.97" y1="21740.4" y2="21544.8">
+   <stop offset="0" style="stop-opacity:1; stop-color:#C79191"/>
+   <stop offset="0.670588" style="stop-opacity:1; stop-color:#8C7777"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#EDCFCE"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceGladiatorArmor-Bigid129" x1="10948.39" x2="9864.46" xlink:href="#NecklaceGladiatorArmor-Bigid0" y1="21904.5" y2="22301.12">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceGladiatorArmor-Bigid146" x1="16415.47" x2="17499.4" xlink:href="#NecklaceGladiatorArmor-Bigid0" y1="21904.5" y2="22301.12">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceGladiatorArmor-Bigid29" x1="12146.44" x2="15217.42" xlink:href="#NecklaceGladiatorArmor-Bigid12" y1="22772.25" y2="22772.25">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceGladiatorArmor-Bigid24" x1="11722.01" x2="15565.52" xlink:href="#NecklaceGladiatorArmor-Bigid0" y1="20918.84" y2="17186.72">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceGladiatorArmor-Bigid139" x1="8967.54" x2="9436.95" xlink:href="#NecklaceGladiatorArmor-Bigid121" y1="17436.05" y2="18712.31">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceGladiatorArmor-Bigid10" x1="11445.25" x2="10205.69" y1="19076.93" y2="16363.64">
+   <stop offset="0" style="stop-opacity:1; stop-color:#155AA3"/>
+   <stop offset="0.278431" style="stop-opacity:1; stop-color:#5488BF"/>
+   <stop offset="0.34902" style="stop-opacity:1; stop-color:#19518C"/>
+   <stop offset="0.431373" style="stop-opacity:1; stop-color:#2762A1"/>
+   <stop offset="0.568627" style="stop-opacity:1; stop-color:#447AB3"/>
+   <stop offset="0.690196" style="stop-opacity:1; stop-color:#275382"/>
+   <stop offset="0.780392" style="stop-opacity:1; stop-color:#11355C"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#0350A3"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceGladiatorArmor-Bigid149" x1="9553.13" x2="10031.31" xlink:href="#NecklaceGladiatorArmor-Bigid111" y1="18001.57" y2="17250.87">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceGladiatorArmor-Bigid153" x1="10655.51" x2="11112.34" xlink:href="#NecklaceGladiatorArmor-Bigid111" y1="17586.11" y2="16868.94">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceGladiatorArmor-Bigid124" x1="13023.04" x2="10430.05" xlink:href="#NecklaceGladiatorArmor-Bigid0" y1="20099.11" y2="19086.46">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceGladiatorArmor-Bigid382" x1="11059.33" x2="11258.28" xlink:href="#NecklaceGladiatorArmor-Bigid341" y1="20364.37" y2="21079.37">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceGladiatorArmor-Bigid118" x1="11153.86" x2="10893.02" xlink:href="#NecklaceGladiatorArmor-Bigid12" y1="20710.12" y2="20090.86">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceGladiatorArmor-Bigid369" x1="11343.03" x2="11659.02" xlink:href="#NecklaceGladiatorArmor-Bigid341" y1="20212.92" y2="20884.46">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceGladiatorArmor-Bigid140" x1="11494.17" x2="11133.23" xlink:href="#NecklaceGladiatorArmor-Bigid12" y1="20537.93" y2="19971.16">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceGladiatorArmor-Bigid384" x1="11619.91" x2="12033.37" xlink:href="#NecklaceGladiatorArmor-Bigid341" y1="19987.88" y2="20604.22">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceGladiatorArmor-Bigid120" x1="11818.25" x2="11376.12" xlink:href="#NecklaceGladiatorArmor-Bigid12" y1="20286.45" y2="19780.45">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceGladiatorArmor-Bigid391" x1="11900.56" x2="12622.52" xlink:href="#NecklaceGladiatorArmor-Bigid341" y1="19198.89" y2="19026.87">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceGladiatorArmor-Bigid138" x1="12249.61" x2="11621.01" xlink:href="#NecklaceGladiatorArmor-Bigid12" y1="19117.39" y2="19354.83">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceGladiatorArmor-Bigid351" x1="12017.75" x2="12759.83" xlink:href="#NecklaceGladiatorArmor-Bigid341" y1="19560.15" y2="19548.59">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceGladiatorArmor-Bigid107" x1="12376.17" x2="11711.06" xlink:href="#NecklaceGladiatorArmor-Bigid12" y1="19556.18" y2="19651.83">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceGladiatorArmor-Bigid21" x1="10094.12" x2="13031.08" xlink:href="#NecklaceGladiatorArmor-Bigid0" y1="22558.86" y2="22558.86">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceGladiatorArmor-Bigid410" x1="10806.23" x2="10306.62" xlink:href="#NecklaceGladiatorArmor-Bigid341" y1="21844.75" y2="22474.54">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceGladiatorArmor-Bigid82" x1="14332.78" x2="17269.74" xlink:href="#NecklaceGladiatorArmor-Bigid0" y1="22558.86" y2="22558.86">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceGladiatorArmor-Bigid383" x1="17211.77" x2="16757.98" xlink:href="#NecklaceGladiatorArmor-Bigid344" y1="21762.35" y2="22559.89">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceGladiatorArmor-Bigid45" x1="12163.36" x2="10439.21" xlink:href="#NecklaceGladiatorArmor-Bigid34" y1="20811.23" y2="22068.78">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceGladiatorArmor-Bigid372" x1="12980.11" x2="13569.88" xlink:href="#NecklaceGladiatorArmor-Bigid340" y1="22633.77" y2="22633.77">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceGladiatorArmor-Bigid374" x1="12980.11" x2="13569.88" xlink:href="#NecklaceGladiatorArmor-Bigid340" y1="23094.15" y2="23094.15">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceGladiatorArmor-Bigid371" x1="12980.11" x2="13569.88" xlink:href="#NecklaceGladiatorArmor-Bigid340" y1="23324.34" y2="23324.34">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceGladiatorArmor-Bigid373" x1="12980.11" x2="13569.88" xlink:href="#NecklaceGladiatorArmor-Bigid340" y1="22863.96" y2="22863.96">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceGladiatorArmor-Bigid346" x1="12686.96" x2="14684.29" xlink:href="#NecklaceGladiatorArmor-Bigid340" y1="23111.86" y2="23111.86">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceGladiatorArmor-Bigid367" x1="11926.38" x2="12700.73" xlink:href="#NecklaceGladiatorArmor-Bigid341" y1="22142.25" y2="22801.2">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceGladiatorArmor-Bigid67" x1="12007.28" x2="12630.47" xlink:href="#NecklaceGladiatorArmor-Bigid0" y1="22364.08" y2="22364.08">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceGladiatorArmor-Bigid54" x1="14621.9" x2="16072.44" xlink:href="#NecklaceGladiatorArmor-Bigid34" y1="22851.13" y2="20066.63">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceGladiatorArmor-Bigid375" x1="14663.13" x2="15437.48" xlink:href="#NecklaceGladiatorArmor-Bigid341" y1="22142.25" y2="22801.2">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceGladiatorArmor-Bigid47" x1="14732.22" x2="15356.58" xlink:href="#NecklaceGladiatorArmor-Bigid0" y1="22364.08" y2="22364.08">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceGladiatorArmor-Bigid349" x1="12099.22" x2="13847.36" xlink:href="#NecklaceGladiatorArmor-Bigid340" y1="21963.4" y2="22172.26">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceGladiatorArmor-Bigid33" x1="14300.33" x2="15954.55" xlink:href="#NecklaceGladiatorArmor-Bigid2" y1="22743.81" y2="20646.39">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceGladiatorArmor-Bigid41" x1="10860.62" x2="11728.74" xlink:href="#NecklaceGladiatorArmor-Bigid0" y1="22385.32" y2="20693.62">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceGladiatorArmor-Bigid31" x1="15475.93" x2="13049.65" xlink:href="#NecklaceGladiatorArmor-Bigid0" y1="20794.36" y2="17260.31">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceGladiatorArmor-Bigid403" x1="14252.88" x2="15938.07" xlink:href="#NecklaceGladiatorArmor-Bigid393" y1="19175.46" y2="20407.99">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceGladiatorArmor-Bigid413" x1="16951.43" x2="15688.8" xlink:href="#NecklaceGladiatorArmor-Bigid401" y1="20640.5" y2="20295.48">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceGladiatorArmor-Bigid347" x1="15094.53" x2="11322.64" xlink:href="#NecklaceGladiatorArmor-Bigid341" y1="19501.33" y2="19702.94">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceGladiatorArmor-Bigid91" x1="11616.73" x2="11086.32" xlink:href="#NecklaceGladiatorArmor-Bigid0" y1="20153.24" y2="19529.57">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceGladiatorArmor-Bigid99" x1="15111.77" x2="15120.96" xlink:href="#NecklaceGladiatorArmor-Bigid0" y1="20828.87" y2="20012.78">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceGladiatorArmor-Bigid50" x1="14910.63" x2="14919.82" xlink:href="#NecklaceGladiatorArmor-Bigid0" y1="20828.87" y2="20012.78">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceGladiatorArmor-Bigid414" x1="14124.33" x2="12318.13" xlink:href="#NecklaceGladiatorArmor-Bigid341" y1="19253.16" y2="18595.18">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceGladiatorArmor-Bigid418" x1="14037.87" x2="14334.8" xlink:href="#NecklaceGladiatorArmor-Bigid341" y1="19694.55" y2="19083.37">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceGladiatorArmor-Bigid370" x1="15788.37" x2="15804.2" xlink:href="#NecklaceGladiatorArmor-Bigid341" y1="20831.53" y2="20124.34">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="WeaponIcicleBack-Bigid112" x1="6170.18" x2="12992.99" xlink:href="#WeaponIcicleBack-Bigid111" y1="21875.89" y2="21862.86">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="WeaponIcicleBack-Bigid195" x1="6166.31" x2="12942.99" xlink:href="#WeaponIcicleBack-Bigid191" y1="21875.11" y2="21862.16">
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="WeaponIcicleBack-Bigid186" x1="0%" x2="100.128%" y1="50.1229%" y2="49.9802%">
+   <stop offset="0" style="stop-opacity:1; stop-color:#BAF1FF"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#A8F6FF"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="WeaponIcicleBack-Bigid190" x1="9022.29" x2="9479.06" xlink:href="#WeaponIcicleBack-Bigid186" y1="21853.66" y2="22102.16">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="WeaponIcicleFront-Bigid135" x1="6243.4" x2="12993.04" xlink:href="#WeaponIcicleFront-Bigid111" y1="21832.99" y2="21820.46">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="WeaponIcicleFront-Bigid198" x1="6224.18" x2="12943.03" xlink:href="#WeaponIcicleFront-Bigid191" y1="21903.5" y2="21890.63">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceleteMittensWeapon-Bigid98" x1="7320.81" x2="9922.6" xlink:href="#BraceleteMittensWeapon-Bigid0" y1="21478.5" y2="21069.27">
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="BraceleteMittensWeapon-Bigid110" x1="18.5078%" x2="71.9498%" xlink:href="#BraceleteMittensWeapon-Bigid0" y1="89.6597%" y2="2.61368%">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceleteMittensWeapon-Bigid92" x1="7985.86" x2="9975.32" xlink:href="#BraceleteMittensWeapon-Bigid0" y1="20117.77" y2="21005.72">
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="BraceleteMittensWeapon-Bigid125" x1="1.98629%" x2="99.3784%" xlink:href="#BraceleteMittensWeapon-Bigid0" y1="94.4996%" y2="10.0418%">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="RightLeg-Bear0id150" x1="15526.7" x2="15526.7" y1="24311.8" y2="20742.8">
+   <stop offset="0" style="stop-opacity:1; stop-color:#707070"/>
+   <stop offset="0.278431" style="stop-opacity:1; stop-color:#707070"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#565656"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="LeftLeg-Bear0id150" x1="15526.7" x2="15526.7" y1="24311.8" y2="20742.8">
+   <stop offset="0" style="stop-opacity:1; stop-color:#707070"/>
+   <stop offset="0.278431" style="stop-opacity:1; stop-color:#707070"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#565656"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="LeftHand-Bear5id75" x1="17042.3" x2="17994.1" y1="17293.3" y2="21110.7">
+   <stop offset="0" style="stop-opacity:1; stop-color:#302e2e"/>
+   <stop offset="0.0784314" style="stop-opacity:1; stop-color:#302e2e"/>
+   <stop offset="0.768627" style="stop-opacity:1; stop-color:#565656"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#565656"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Body-Bear5id266" x1="13653.8" x2="13653.8" y1="17442" y2="23250.9">
+   <stop offset="0" style="stop-opacity:1; stop-color:#302e2e"/>
+   <stop offset="0.0588235" style="stop-opacity:1; stop-color:#302e2e"/>
+   <stop offset="0.529412" style="stop-opacity:1; stop-color:#565656"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#707070"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Ears-Bear4id67" x1="19243.1" x2="17345.7" y1="8365.42" y2="10750.8">
+   <stop offset="0" style="stop-opacity:1; stop-color:#F2E6E6"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#B58383"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Ears-Bear4id70" x1="20208.3" x2="17218.2" y1="8096.38" y2="11659.9">
+   <stop offset="0" style="stop-opacity:1; stop-color:#ffffff"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#f2e6e6"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Head-Bear4id567" x1="12448.6" x2="14915.2" y1="11514.7" y2="11514.7">
+   <stop offset="0" style="stop-opacity:1; stop-color:#565656"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#707070"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Head-Bear4id133" x1="13681.9" x2="13681.9" y1="17844" y2="15520.7">
+   <stop offset="0" style="stop-opacity:1; stop-color:#f2e6e6"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#ffffff"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Eyes-Bear5id27" x1="16937.6" x2="16937.6" y1="14961.3" y2="11448.6">
+   <stop offset="0" style="stop-opacity:1; stop-color:#804d00"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:black"/>
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="Eyes-Bear5id57" x1="100%" x2="0%" y1="50.0003%" y2="50.0003%">
+   <stop offset="0" style="stop-opacity:1; stop-color:#804d00"/>
+   <stop offset="0.501961" style="stop-opacity:1; stop-color:#ffad31"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#804d00"/>
+  </linearGradient><radialGradient cx="16677.2" cy="12783.5" fx="16677.2" fy="12783.5" gradientTransform="matrix(-0.257879 1.16297 1.08696 0.253253 7083 -9849)" gradientUnits="userSpaceOnUse" id="Eyes-Bear5id1055" r="1194.51">
+   <stop offset="0" style="stop-opacity:1; stop-color:#663d00"/>
+   <stop offset="0.75" style="stop-opacity:1; stop-color:black"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:black"/>
+  </radialGradient><linearGradient gradientUnits="userSpaceOnUse" id="Moustache-Bear7id49" x1="13715.8" x2="13715.8" y1="6802.99" y2="8218.57">
+   <stop offset="0" style="stop-opacity:1; stop-color:#e0d0b8"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#fbf3e8"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Hair-Bear6id49" x1="13715.8" x2="13715.8" y1="6802.99" y2="8218.57">
+   <stop offset="0" style="stop-opacity:1; stop-color:#e0d0b8"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#fbf3e8"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="LeftPawWeapon-Bear4id2" x1="8252.48" x2="8396.62" y1="21721.4" y2="22238">
+   <stop offset="0" style="stop-opacity:1; stop-color:#F2C977"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:white"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryWaterHydrantid32" x1="2152.47" x2="2152.47" y1="22521" y2="20800.2">
+   <stop offset="0" style="stop-opacity:1; stop-color:#DF302F"/>
+   <stop offset="0.25098" style="stop-opacity:1; stop-color:#A61514"/>
+   <stop offset="0.670588" style="stop-opacity:1; stop-color:#E34242"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#D9342E"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryWaterHydrantid57" x1="2239.15" x2="5103.7" y1="21426.4" y2="21426.4">
+   <stop offset="0" style="stop-opacity:1; stop-color:#DF302F"/>
+   <stop offset="0.278431" style="stop-opacity:1; stop-color:#860203"/>
+   <stop offset="0.560784" style="stop-opacity:1; stop-color:#A61514"/>
+   <stop offset="0.780392" style="stop-opacity:1; stop-color:#FC606D"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#D9342E"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceGladiatorArmor-Bigid0" x1="10094.12" x2="13031.08" y1="22334.59" y2="22334.59">
+   <stop offset="0" style="stop-opacity:1; stop-color:#211F18"/>
+   <stop offset="0.188235" style="stop-opacity:1; stop-color:#27251E"/>
+   <stop offset="0.541176" style="stop-opacity:1; stop-color:#807762"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#242118"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceGladiatorArmor-Bigid12" x1="12211.47" x2="15152.39" y1="23042.87" y2="23042.87">
+   <stop offset="0" style="stop-opacity:1; stop-color:#211F18"/>
+   <stop offset="0.168627" style="stop-opacity:1; stop-color:#4F493A"/>
+   <stop offset="0.360784" style="stop-opacity:1; stop-color:#27251E"/>
+   <stop offset="0.678431" style="stop-opacity:1; stop-color:#807762"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#242118"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceGladiatorArmor-Bigid121" x1="8972.36" x2="9534.69" y1="17766.6" y2="19004.74">
+   <stop offset="0" style="stop-opacity:1; stop-color:#155AA3"/>
+   <stop offset="0.278431" style="stop-opacity:1; stop-color:#5488BF"/>
+   <stop offset="0.34902" style="stop-opacity:1; stop-color:#19518C"/>
+   <stop offset="0.470588" style="stop-opacity:1; stop-color:#7797BA"/>
+   <stop offset="0.619608" style="stop-opacity:1; stop-color:#2762A1"/>
+   <stop offset="0.690196" style="stop-opacity:1; stop-color:#275382"/>
+   <stop offset="0.780392" style="stop-opacity:1; stop-color:#11355C"/>
+   <stop offset="0.890196" style="stop-opacity:1; stop-color:#224C7A"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#0350A3"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceGladiatorArmor-Bigid111" x1="9598.09" x2="10019.55" y1="18287.35" y2="17503.41">
+   <stop offset="0" style="stop-opacity:1; stop-color:#3C6085"/>
+   <stop offset="0.270588" style="stop-opacity:1; stop-color:#3C6086"/>
+   <stop offset="0.490196" style="stop-opacity:1; stop-color:#608FBD"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#608FBD"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceGladiatorArmor-Bigid341" x1="15094.53" x2="11322.64" y1="19501.33" y2="19702.94">
+   <stop offset="0" style="stop-opacity:1; stop-color:#545454"/>
+   <stop offset="0.25098" style="stop-opacity:1; stop-color:#211F1F"/>
+   <stop offset="0.411765" style="stop-opacity:1; stop-color:#7A7A7A"/>
+   <stop offset="0.509804" style="stop-opacity:1; stop-color:#7A7A7A"/>
+   <stop offset="0.580392" style="stop-opacity:1; stop-color:#D9D9D9"/>
+   <stop offset="0.678431" style="stop-opacity:1; stop-color:#8B8B8B"/>
+   <stop offset="0.768627" style="stop-opacity:1; stop-color:#7B7B7B"/>
+   <stop offset="0.839216" style="stop-opacity:1; stop-color:#C4C4C4"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#7A7A7A"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceGladiatorArmor-Bigid344" x1="17211.77" x2="16757.98" y1="21538.08" y2="22335.62">
+   <stop offset="0" style="stop-opacity:1; stop-color:#545454"/>
+   <stop offset="0.25098" style="stop-opacity:1; stop-color:#211F1F"/>
+   <stop offset="0.411765" style="stop-opacity:1; stop-color:#7A7A7A"/>
+   <stop offset="0.509804" style="stop-opacity:1; stop-color:#7A7A7A"/>
+   <stop offset="0.619608" style="stop-opacity:1; stop-color:#8B8B8B"/>
+   <stop offset="0.721569" style="stop-opacity:1; stop-color:#D9D9D9"/>
+   <stop offset="0.768627" style="stop-opacity:1; stop-color:#7B7B7B"/>
+   <stop offset="0.909804" style="stop-opacity:1; stop-color:#C4C4C4"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#7A7A7A"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceGladiatorArmor-Bigid34" x1="14628.35" x2="15924.94" y1="23149.03" y2="20521.73">
+   <stop offset="0" style="stop-opacity:1; stop-color:#2B2C33"/>
+   <stop offset="0.301961" style="stop-opacity:1; stop-color:#26262E"/>
+   <stop offset="0.568627" style="stop-opacity:1; stop-color:#4E5078"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#4E5078"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceGladiatorArmor-Bigid340" x1="12686.96" x2="14684.29" y1="22887.58" y2="22887.58">
+   <stop offset="0" style="stop-opacity:1; stop-color:#828282"/>
+   <stop offset="0.141176" style="stop-opacity:1; stop-color:#7F7F7F"/>
+   <stop offset="0.25098" style="stop-opacity:1; stop-color:#3B3B3B"/>
+   <stop offset="0.411765" style="stop-opacity:1; stop-color:#7A7A7A"/>
+   <stop offset="0.509804" style="stop-opacity:1; stop-color:#7A7A7A"/>
+   <stop offset="0.580392" style="stop-opacity:1; stop-color:#D9D9D9"/>
+   <stop offset="0.678431" style="stop-opacity:1; stop-color:#8B8B8B"/>
+   <stop offset="0.768627" style="stop-opacity:1; stop-color:#7B7B7B"/>
+   <stop offset="0.839216" style="stop-opacity:1; stop-color:#C4C4C4"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#7A7A7A"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceGladiatorArmor-Bigid2" x1="14397.39" x2="15856.51" y1="22562.21" y2="20521.77">
+   <stop offset="0" style="stop-opacity:1; stop-color:#474134"/>
+   <stop offset="0.188235" style="stop-opacity:1; stop-color:#635E50"/>
+   <stop offset="0.541176" style="stop-opacity:1; stop-color:#807762"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#242118"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceGladiatorArmor-Bigid393" x1="14252.88" x2="15938.07" y1="19175.46" y2="20407.99">
+   <stop offset="0" style="stop-opacity:1; stop-color:#4A4A4A"/>
+   <stop offset="0.101961" style="stop-opacity:1; stop-color:#4E4E4E"/>
+   <stop offset="0.168627" style="stop-opacity:1; stop-color:#969696"/>
+   <stop offset="0.321569" style="stop-opacity:1; stop-color:#A4A4A4"/>
+   <stop offset="0.411765" style="stop-opacity:1; stop-color:#7A7A7A"/>
+   <stop offset="0.509804" style="stop-opacity:1; stop-color:#7A7A7A"/>
+   <stop offset="0.580392" style="stop-opacity:1; stop-color:#D9D9D9"/>
+   <stop offset="0.678431" style="stop-opacity:1; stop-color:#8B8B8B"/>
+   <stop offset="0.768627" style="stop-opacity:1; stop-color:#7B7B7B"/>
+   <stop offset="0.839216" style="stop-opacity:1; stop-color:#C4C4C4"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#7A7A7A"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceGladiatorArmor-Bigid401" x1="16552.89" x2="15528.77" y1="21199.53" y2="20885.44">
+   <stop offset="0" style="stop-opacity:1; stop-color:#4A4A4A"/>
+   <stop offset="0.101961" style="stop-opacity:1; stop-color:#4E4E4E"/>
+   <stop offset="0.321569" style="stop-opacity:1; stop-color:#A4A4A4"/>
+   <stop offset="0.411765" style="stop-opacity:1; stop-color:#7A7A7A"/>
+   <stop offset="0.509804" style="stop-opacity:1; stop-color:#7A7A7A"/>
+   <stop offset="0.6" style="stop-opacity:1; stop-color:#A3A3A3"/>
+   <stop offset="0.678431" style="stop-opacity:1; stop-color:#8B8B8B"/>
+   <stop offset="0.768627" style="stop-opacity:1; stop-color:#7B7B7B"/>
+   <stop offset="0.839216" style="stop-opacity:1; stop-color:#C4C4C4"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#7A7A7A"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="WeaponIcicleBack-Bigid111" x1="6389.12" x2="13211.93" y1="22242.95" y2="22229.92">
+   <stop offset="0" style="stop-opacity:1; stop-color:#3FB5FA"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:white"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="WeaponIcicleBack-Bigid191" x1="5700.05" x2="12476.73" y1="21775.11" y2="21762.16">
+   <stop offset="0" style="stop-opacity:1; stop-color:#2197FF"/>
+   <stop offset="0.509804" style="stop-opacity:1; stop-color:#78D4FF"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#80DDFF"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="WeaponIcicleFront-Bigid111" x1="6389.12" x2="13211.93" y1="22242.95" y2="22229.92">
+   <stop offset="0" style="stop-opacity:1; stop-color:#3FB5FA"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:white"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="WeaponIcicleFront-Bigid191" x1="5700.05" x2="12476.73" y1="21775.11" y2="21762.16">
+   <stop offset="0" style="stop-opacity:1; stop-color:#2197FF"/>
+   <stop offset="0.509804" style="stop-opacity:1; stop-color:#78D4FF"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#80DDFF"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceleteMittensWeapon-Bigid0" x1="14210.32" x2="16587.29" y1="19112.42" y2="19112.42">
+   <stop offset="0" style="stop-opacity:1; stop-color:#63231B"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#D22424"/>
+  </linearGradient></defs><g id="AccessoryWaterHydrant">
+  <metadata id="CorelCorpID_1Corel-Layer"/>
+  <g id="_3081483343424">
+   <path class="AccessoryWaterHydrantfil25 AccessoryWaterHydrantstr2" d="M1534 21913c-74,-37 -235,-75 -308,-113 0,-470 0,192 0,-279 73,-38 234,-75 308,-113 0,546 0,-41 0,505z" style="fill:#93f476"/>
+   <rect class="AccessoryWaterHydrantfil26 AccessoryWaterHydrantstr2" height="997" rx="179" ry="51" width="654" x="1496" y="21162"/>
+   <rect class="AccessoryWaterHydrantfil27 AccessoryWaterHydrantstr2" height="1721" rx="169" ry="75" width="731" x="1787" y="20800"/>
+   <path class="AccessoryWaterHydrantfil28 AccessoryWaterHydrantstr2" d="M5633 21913c74,-37 235,-75 309,-113 0,-470 0,192 0,-279 -74,-38 -235,-75 -309,-113 0,546 0,-41 0,505z" style="fill:#ede733"/>
+   <rect class="AccessoryWaterHydrantfil29 AccessoryWaterHydrantstr2" height="997" rx="179" ry="51" width="654" x="5017" y="21162"/>
+   <rect class="AccessoryWaterHydrantfil30 AccessoryWaterHydrantstr2" height="1721" rx="169" ry="75" width="731" x="4649" y="20800"/>
+   <path class="AccessoryWaterHydrantfil31 AccessoryWaterHydrantstr3" d="M5766 25404l0 -550c0,-147 -938,-265 -2095,-265 -1156,0 -2094,118 -2094,265l0 550c0,146 938,265 2094,265 1157,0 2095,-119 2095,-265z" style="fill:#d73c3e"/>
+   <path class="AccessoryWaterHydrantfil32" d="M3671 24589c1157,0 2095,118 2095,265 0,146 -938,352 -2095,352 -1156,0 -2094,-206 -2094,-352 0,-147 938,-265 2094,-265z" style="fill:#c489bc"/>
+   <path class="AccessoryWaterHydrantfil2 AccessoryWaterHydrantstr4" d="M3671 24589c1157,0 2095,118 2095,265 0,146 -938,352 -2095,352 -1156,0 -2094,-206 -2094,-352 0,-147 938,-265 2094,-265z" style="fill:#924be7"/>
+   <path class="AccessoryWaterHydrantfil33 AccessoryWaterHydrantstr3" d="M3671 17525c-415,0 -435,312 -435,457 0,145 0,114 0,222 0,15 83,-54 435,-54 353,0 435,69 435,54 0,-108 0,-77 0,-222 0,-145 -19,-457 -435,-457z" style="fill:#f869e6"/>
+   <path class="AccessoryWaterHydrantfil34 AccessoryWaterHydrantstr3" d="M3671 17910c-1161,0 -1432,1058 -1432,1550l0 480 0 273 0 4523c0,115 924,207 1432,207 509,0 1433,-92 1433,-207l0 -4523 0 -273 0 -480c0,-492 -271,-1550 -1433,-1550z" style="fill:#adbcc3"/>
+   <path class="AccessoryWaterHydrantfil35" d="M3583 24701l177 0c109,0 198,-88 198,-197l0 -4049c0,-108 -89,-197 -198,-197l-177 0c-109,0 -198,89 -198,197l0 4049c0,109 89,197 198,197z" style="fill:#9e55df"/>
+   <path class="AccessoryWaterHydrantfil35" d="M4394 24701l156 0c95,0 173,-77 173,-172l0 -4098c0,-96 -78,-173 -173,-173l-156 0c-95,0 -173,77 -173,173l0 4098c0,95 78,172 173,172z" style="fill:#fa62fc"/>
+   <path class="AccessoryWaterHydrantfil35" d="M2793 24701l155 0c96,0 173,-77 173,-172l0 -4098c0,-96 -77,-173 -173,-173l-155 0c-95,0 -173,77 -173,173l0 4098c0,95 78,172 173,172z" style="fill:#c34bc4"/>
+   <path class="AccessoryWaterHydrantfil36 AccessoryWaterHydrantstr3" d="M1996 20117c559,-29 654,-87 1675,-87 1021,0 1117,58 1676,87 157,8 286,-112 286,-249 0,0 0,0 0,0 0,-137 -85,-230 -286,-249 -556,-55 -791,-87 -1676,-87 -885,0 -1116,58 -1675,87 -157,8 -287,112 -287,249 0,0 0,0 0,0 0,137 130,257 287,249z" style="fill:#39c611"/>
+   <ellipse class="AccessoryWaterHydrantfil37 AccessoryWaterHydrantstr4" cx="3671" cy="21643" rx="911" ry="900"/>
+   <ellipse class="AccessoryWaterHydrantfil38 AccessoryWaterHydrantstr4" cx="3671" cy="21643" rx="445" ry="440"/>
+   <path class="AccessoryWaterHydrantfil39 AccessoryWaterHydrantstr5" d="M3671 22304c370,0 670,-296 670,-661 0,-366 -300,-662 -670,-662 -369,0 -669,296 -669,662 0,365 300,661 669,661z" style="fill:#fbf702"/>
+   <polygon class="AccessoryWaterHydrantfil40 AccessoryWaterHydrantstr1" points="3892,21643 3837,21737 3782,21831 3671,21831 3561,21831 3506,21737 3451,21643 3506,21548 3561,21454 3671,21454 3782,21454 3837,21548 "/>
+   <path class="AccessoryWaterHydrantfil39 AccessoryWaterHydrantstr6" d="M2852 19132c23,-315 94,-510 124,-608" style="fill:#5801c2"/>
+   <path class="AccessoryWaterHydrantfil39 AccessoryWaterHydrantstr6" d="M4491 19132c-23,-315 -94,-510 -124,-608" style="fill:#b49bd6"/>
+   <line class="AccessoryWaterHydrantfil39 AccessoryWaterHydrantstr6" x1="3671" x2="3673" y1="19132" y2="18510"/>
+  </g>
+ </g><g id="HairBack-Bear0">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_216Corel-Layer"/>
+  <rect class="HairBack-Bear0fil22" height="998" width="1061" x="13124" y="20899"/>
+ </g><g id="Tail-Bear0">
+  <metadata id="CorelCorpID_219Corel-Layer"/>
+  <rect class="Tail-Bear0fil22" height="1129" width="1129" x="13089" y="21055"/>
+ </g><g id="RightFoot-Bear2">
+  <metadata id="CorelCorpID_221Corel-Layer"/>
+  <path class="RightFoot-Bear2fil26" d="M17045 25080c-66,213 -260,328 -578,232 -82,82 -466,170 -720,2 -241,-159 -607,-457 -720,-564 -96,-91 -335,-220 -291,-565 777,87 1299,173 1927,-306 18,146 320,205 479,267 233,89 426,392 211,604 42,135 -122,330 -308,330z" style="fill:#7685b2"/>
+  <path class="RightFoot-Bear2fil14" d="M16490 25327c320,133 480,-45 565,-254 204,-15 307,-138 301,-308 28,-45 52,-79 86,-174 31,-139 -54,-325 -125,-351 31,144 -137,125 -191,129 232,292 -30,451 -178,321 -4,299 -321,400 -555,107 -111,282 -514,451 -1612,-364 1095,1261 1346,941 1709,894z" style="fill:#cde6d9"/>
+  <path class="RightFoot-Bear2fil32" d="M16963 25089c-68,167 -221,202 -384,173 53,-171 15,-486 -309,-550 160,131 191,345 122,563 -153,91 -454,76 -604,-23 -105,-69 -235,-166 -357,-262 -142,-112 -270,-229 -408,-342 -98,-80 -205,-212 -213,-454 5,-41 -24,-78 -65,-83 -41,-5 -84,23 -83,65 7,344 143,486 266,587 138,114 267,232 411,345 124,97 257,197 366,269 205,135 567,145 776,17 252,66 509,18 618,-243 169,-27 352,-197 334,-378 149,-177 94,-405 -60,-562 -136,-138 -294,-154 -454,-250 -66,-40 -120,-83 -125,-121l-137 73c20,64 119,137 185,176 138,83 316,117 424,227 53,54 98,127 105,203 -87,-137 -253,-261 -447,-225 213,57 340,284 356,532 -17,67 -81,130 -143,158 -9,-180 -141,-449 -459,-414 197,78 290,282 285,519z" style="fill:#2706ff"/>
+ </g><g id="LeftFoot-Bear2">
+  <metadata id="CorelCorpID_230Corel-Layer"/>
+  <path class="LeftFoot-Bear2fil26" d="M10263 25080c66,213 260,328 578,232 82,82 466,170 720,2 241,-159 607,-457 719,-564 96,-91 336,-220 292,-565 -777,87 -1299,173 -1927,-306 -19,146 -321,205 -479,267 -233,89 -427,392 -211,604 -42,135 121,330 308,330z" style="fill:#1cdb05"/>
+  <path class="LeftFoot-Bear2fil14" d="M10817 25327c-320,133 -479,-45 -565,-254 -203,-15 -307,-138 -301,-308 -27,-45 -52,-79 -85,-174 -32,-139 54,-325 124,-351 -30,144 137,125 192,129 -233,292 29,451 178,321 4,299 321,400 554,107 112,282 515,451 1613,-364 -1095,1261 -1346,941 -1710,894z" style="fill:#80d058"/>
+  <path class="LeftFoot-Bear2fil32" d="M10345 25089c68,167 220,202 384,173 -54,-171 -16,-486 309,-550 -160,131 -191,345 -122,563 153,91 454,76 604,-23 104,-69 234,-166 356,-262 143,-112 271,-229 409,-342 97,-80 205,-212 213,-454 -5,-41 24,-78 65,-83 41,-5 84,23 83,65 -7,344 -143,486 -266,587 -139,114 -268,232 -411,345 -124,97 -258,197 -367,269 -205,135 -567,145 -776,17 -251,66 -509,18 -617,-243 -169,-27 -352,-197 -335,-378 -149,-177 -93,-405 61,-562 136,-138 294,-154 454,-250 66,-40 120,-83 125,-121l137 73c-20,64 -120,137 -185,176 -139,83 -316,117 -425,227 -53,54 -97,127 -104,203 86,-137 252,-261 447,-225 -213,57 -341,284 -357,532 18,67 82,130 144,158 8,-180 141,-449 459,-414 -197,78 -291,282 -285,519z" style="fill:#5bf7a0"/>
+ </g><g id="RightLeg-Bear0">
+  <metadata id="CorelCorpID_224Corel-Layer"/>
+  <path class="RightLeg-Bear0fil437" d="M13654 20747c651,0 2263,-52 2620,230 303,239 971,977 969,1838 -2,444 -257,819 -524,1020 -578,425 -1151,626 -1983,350 7,-583 -643,-742 -1082,-749l0 -2689z" style="fill:#7d0e30"/>
+  <path class="RightLeg-Bear0fil14" d="M16988 23561c110,-131 245,-442 245,-600 2,-776 -323,-1481 -652,-1782 -248,370 -56,940 55,979 367,105 445,994 352,1403z" style="fill:#2e76de"/>
+  <path class="RightLeg-Bear0fil32" d="M16690 23782c-238,187 -417,303 -711,449 260,-35 573,-178 785,-337 332,-249 552,-662 553,-1079 1,-360 -110,-698 -263,-990 -227,-429 -547,-760 -734,-907 -32,-26 -79,-20 -105,12 -25,33 -20,80 13,105 175,139 478,451 693,860 144,273 248,587 247,920 -1,358 -198,746 -478,967zm-1745 794c71,68 -33,176 -104,108 -135,-130 -182,-317 -180,-500 3,-218 -99,-369 -246,-471 -213,-147 -519,-198 -761,-203l0 -149 1 0c265,5 604,62 845,229 186,129 314,320 310,596 -1,139 31,290 135,390z" style="fill:#5e7d58"/>
+ </g><g id="LeftLeg-Bear0">
+  <metadata id="CorelCorpID_233Corel-Layer"/>
+  <path class="LeftLeg-Bear0fil447" d="M13654 20747c-651,0 -2264,-52 -2620,230 -303,239 -971,977 -969,1838 1,444 256,819 524,1020 578,425 1150,626 1983,350 -7,-583 642,-742 1082,-749l0 -2689z" style="fill:#21703b"/>
+  <path class="LeftLeg-Bear0fil14" d="M10320 23561c-110,-131 -245,-442 -245,-600 -3,-776 323,-1481 652,-1782 248,370 56,940 -56,979 -366,105 -444,994 -351,1403z" style="fill:#e3bd50"/>
+  <path class="LeftLeg-Bear0fil32" d="M10618 23782c238,187 417,303 711,449 -260,-35 -573,-178 -785,-337 -332,-249 -552,-662 -554,-1079 -1,-360 110,-698 264,-990 226,-429 547,-760 734,-907 32,-26 79,-20 104,12 26,33 20,80 -12,105 -175,139 -478,451 -694,860 -143,273 -247,587 -246,920 1,358 198,746 478,967zm1745 794c-71,68 32,176 103,108 135,-130 183,-317 181,-500 -3,-218 98,-369 246,-471 212,-147 519,-198 761,-203l0 -149 -1 0c-265,5 -604,62 -845,229 -186,129 -314,320 -311,596 2,139 -31,290 -134,390z" style="fill:#a65879"/>
+ </g><g id="RightHand-Bear5">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_242Corel-Layer"/>
+  <path class="RightHand-Bear5fil456 RightHand-Bear5str10" d="M16111 17210c248,-30 492,3 728,83 741,-100 1607,552 999,646 614,70 1439,914 744,913 643,278 1142,1146 566,1047 46,117 84,228 114,332 160,558 -1806,1220 -1964,882 -68,-147 -295,-477 -571,-705 -149,-820 -321,-1468 -1092,-3106 169,-47 290,-69 476,-92z" style="fill:#bfdaf2"/>
+  <path class="RightHand-Bear5fil22 RightHand-Bear5str0" d="M16111 17210c248,-30 492,3 728,83 741,-100 1607,552 999,646 614,70 1439,914 744,913 643,278 1142,1146 566,1047 46,117 84,228 114,332 160,558 -1806,1220 -1964,882 -68,-147 -295,-477 -571,-705 -149,-820 -321,-1468 -1092,-3106 169,-47 290,-69 476,-92z" style="fill:#986ab1"/>
+  <path class="RightHand-Bear5fil14" d="M17217 20971c-131,-206 -302,-406 -490,-563 -50,-606 -203,-1164 -276,-1762 236,212 930,1618 766,2325z" style="fill:#b9fd1c"/>
+ </g><g id="LeftHand-Bear5">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_251Corel-Layer"/>
+  <path class="LeftHand-Bear5fil469" d="M11197 17210c-249,-30 -493,3 -728,83 -742,-100 -1608,552 -1000,646 -613,70 -1439,914 -743,913 -643,278 -1142,1146 -566,1047 -46,117 -84,228 -114,332 -160,558 1806,1220 1963,882 69,-147 296,-477 571,-705 149,-820 322,-1468 1092,-3106 -168,-47 -290,-69 -475,-92z" style="fill:#fbff05"/>
+  <path class="LeftHand-Bear5fil22 LeftHand-Bear5str0" d="M11197 17210c-249,-30 -493,3 -728,83 -742,-100 -1608,552 -1000,646 -613,70 -1439,914 -743,913 -643,278 -1142,1146 -566,1047 -46,117 -84,228 -114,332 -160,558 1806,1220 1963,882 69,-147 296,-477 571,-705 149,-820 322,-1468 1092,-3106 -168,-47 -290,-69 -475,-92z" style="fill:#db92d1"/>
+  <path class="LeftHand-Bear5fil14" d="M10090 20971c132,-206 303,-406 490,-563 51,-606 203,-1164 276,-1762 -235,212 -929,1618 -766,2325z" style="fill:#0669a9"/>
+ </g><g id="Body-Bear5">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_260Corel-Layer"/>
+  <path class="Body-Bear5fil476" d="M13654 23351c1692,-3 2768,-307 3233,-1926 302,-1052 -330,-2764 -1019,-3983 -551,110 -1409,139 -2214,150 -806,-11 -1663,-40 -2215,-150 -688,1219 -1321,2931 -1018,3983 465,1619 1541,1923 3233,1926z" style="fill:#578dee"/>
+  <path class="Body-Bear5fil14" d="M11416 22901c-455,-288 -787,-750 -995,-1476 -211,-735 34,-1792 435,-2779 -591,2230 70,3628 560,4255z" style="fill:#e1bfda"/>
+  <path class="Body-Bear5fil32" d="M11416 22901c-539,-241 -960,-968 -1067,-1455 -108,-487 -59,-1102 131,-1659 -71,577 -87,1191 13,1618 104,444 495,1184 923,1496z" style="fill:#7329e0"/>
+  <path class="Body-Bear5fil22" d="M12621 22856c-1016,-156 -1749,-629 -1932,-1889 -2,-17 -5,-34 -7,-51l0 -4c-2,-16 -4,-32 -5,-48l-1 -7c-1,-15 -3,-31 -4,-46l0 -8c-2,-15 -3,-30 -3,-46l-1 -8c-1,-16 -1,-31 -2,-47l0 -6c-1,-17 -1,-34 -1,-51l0 -5c0,-17 0,-34 0,-50l0 -8c0,-15 0,-31 1,-47l0 -9c1,-15 1,-30 2,-46l0 -11c1,-14 2,-29 3,-44l1 -12c1,-15 2,-29 3,-44l1 -13c1,-15 3,-31 4,-46l2 -14c1,-15 3,-30 5,-44l1 -15c2,-14 4,-27 5,-41l3 -18c2,-13 3,-26 5,-39l3 -18c2,-12 4,-25 6,-38 1,-7 2,-14 4,-22 2,-12 4,-25 6,-37l4 -23c2,-11 4,-23 6,-34 2,-9 4,-18 6,-28 2,-10 4,-21 6,-32 2,-9 4,-18 6,-27 2,-11 4,-21 7,-32l6 -27c2,-11 4,-21 7,-31 3,-13 6,-25 9,-37l5 -21c3,-14 6,-27 9,-40l5 -18c4,-14 7,-28 11,-42l4 -15c4,-15 8,-30 12,-46l3 -8c4,-16 9,-33 14,-49l1 -7m15 -50l9 -28c5,-17 10,-34 15,-52l2 -5c6,-17 11,-34 17,-51l1 -6c6,-18 12,-36 18,-54l0 -1c-142,1971 409,3124 1703,3596" style="fill:#82bb47"/>
+  <path class="Body-Bear5fil22" d="M12621 22856c-1016,-156 -1749,-629 -1932,-1889 -2,-17 -5,-34 -7,-51l0 -4c-2,-16 -4,-32 -5,-48l-1 -7c-1,-15 -3,-31 -4,-46l0 -8c-2,-15 -3,-30 -3,-46l-1 -8c-1,-16 -1,-31 -2,-47l0 -6c-1,-17 -1,-34 -1,-51l0 -5c0,-17 0,-34 0,-50l0 -8c0,-15 0,-31 1,-47l0 -9c1,-15 1,-30 2,-46l0 -11c1,-14 2,-29 3,-44l1 -12c1,-15 2,-29 3,-44l1 -13c1,-15 3,-31 4,-46l2 -14c1,-15 3,-30 5,-44l1 -15c2,-14 4,-27 5,-41l3 -18c2,-13 3,-26 5,-39l3 -18c2,-12 4,-25 6,-38 1,-7 2,-14 4,-22 2,-12 4,-25 6,-37l4 -23c2,-11 4,-23 6,-34 2,-9 4,-18 6,-28 2,-10 4,-21 6,-32 2,-9 4,-18 6,-27 2,-11 4,-21 7,-32l6 -27c2,-11 4,-21 7,-31 3,-13 6,-25 9,-37l5 -21c3,-14 6,-27 9,-40l5 -18c4,-14 7,-28 11,-42l4 -15c4,-15 8,-30 12,-46l3 -8c4,-16 9,-33 14,-49l1 -7m15 -50l9 -28c5,-17 10,-34 15,-52l2 -5c6,-17 11,-34 17,-51l1 -6c6,-18 12,-36 18,-54l0 -1c-142,1971 409,3124 1703,3596" style="fill:#9c5e3a"/>
+  <path class="Body-Bear5fil14" d="M15892 22901c455,-288 786,-750 995,-1476 211,-735 -34,-1792 -436,-2779 592,2230 -69,3628 -559,4255z" style="fill:#a816f0"/>
+  <path class="Body-Bear5fil32" d="M15892 22901c539,-241 960,-968 1067,-1455 107,-487 59,-1102 -132,-1659 72,577 87,1191 -12,1618 -104,444 -496,1184 -923,1496z" style="fill:#8f78b0"/>
+  <path class="Body-Bear5fil482" d="M12395 17319c-415,-117 -1437,533 -1326,1387 71,545 464,353 559,775 99,440 -305,508 -282,1089 32,765 484,1129 1019,1185 834,86 410,-1185 1289,-1185 879,0 455,1271 1289,1185 535,-56 987,-420 1018,-1185 24,-581 -380,-649 -281,-1089 95,-422 488,-230 559,-775 111,-854 -912,-1504 -1326,-1387 -407,115 -932,140 -1259,140 -327,0 -853,-25 -1259,-140z" style="fill:#e676cf"/>
+ </g><g id="WeaponIcicleBack-Big">
+    <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+     <metadata id="CorelCorpID_3Corel-Layer"/>
+  <g id="_2134942636608">
+   <g>
+    <path class="WeaponIcicleBack-Bigfil81" d="M8108 19502.65c76.63,23.02 144.55,59.56 205.48,115.34 9.42,3.05 18.55,6.34 27.5,9.92 180.39,18.85 288.39,9.85 470.75,119.48 253.06,152.1 366.78,412.51 413.21,687.82 231.72,193.46 463.44,386.93 695.16,580.39 310.01,29.48 519.33,232.53 632.05,527.7l93.44 78.02c-279.57,245.71 -690.71,678.03 -1112.23,1371.86l-282.18 -160.86c-351.25,-1.34 -641.22,-162.08 -811.61,-466.23 -329.22,-192.54 -658.44,-385.08 -987.66,-577.61 -458.8,15.86 -848.59,-193.11 -1056.36,-606.88 -213.03,-122.08 -426.06,-244.17 -639.1,-366.27 -112.61,-64.54 -185.31,-162.36 -214.62,-288.82 -113.09,-487.89 -149.35,-1084.11 257.31,-1453.54 422.8,-384.1 1069.05,-283.59 1568.39,-139.05 62.74,18.16 113.15,44.98 163.28,86.83 192.4,160.63 384.79,321.27 577.19,481.9z" style="fill:#f1e8f8"/>
+    <path class="WeaponIcicleBack-Bigfil82" d="M8036.69 19638.52c76.67,18.19 140.53,51.51 198.36,113.07 4.73,1.34 9.39,2.55 13.53,3.64 19.56,5.16 37.08,11.51 53.97,19.71 35.68,4.09 80.68,3.34 114.98,6.23 103.53,8.67 200.7,31.18 292.81,81.01 244.61,132.33 340.07,391.43 374.9,651.79 258.87,216.13 517.72,432.27 776.59,648.38 291.07,9.15 470.01,196.12 563.3,470.32l108.64 90.7c-252.14,238.44 -580.75,605.92 -921.21,1142.3l-322.57 -183.89c-327.62,11.05 -590.96,-132.56 -738.04,-423.73 -354.3,-207.21 -708.6,-414.42 -1062.9,-621.63 -433.16,29.35 -796.05,-160.83 -978.37,-561.72 -226.55,-129.84 -453.1,-259.67 -679.65,-389.51 -75.07,-43.03 -123.53,-108.25 -143.07,-192.55 -99.38,-428.76 -148.38,-981.22 212.05,-1308.65 376.48,-342.01 984.28,-233.79 1425.81,-105.98 41.82,12.11 75.43,29.98 108.86,57.88 200.67,167.55 401.34,335.09 602.01,502.63z" style="fill:#4e4688"/>
+    <path class="WeaponIcicleBack-Bigfil83" d="M7969.81 19778.09c63.39,10.21 120.13,31.62 164.79,85.41 3.94,4.74 7.54,9.78 11.34,14.58 15.2,8.94 49.5,18.27 64.4,22.19 15.7,4.14 28.76,9.82 42.1,18.37 22.2,7.17 86.53,7.88 109.18,9.09 83.33,4.49 161.84,14.61 239.33,47.98 242.99,104.64 318.38,371.62 342.27,615.1 288.29,240.69 576.57,481.39 864.86,722.08 272.44,-13.3 413.9,157.02 487.52,407.03l130.33 108.82c-212.76,214.85 -466.96,512.19 -731.57,910.89l-368.46 -210.03c-302.69,23.67 -535.59,-99.71 -658.24,-377.66 -381.34,-223.01 -762.66,-446.03 -1144,-669.05 -406.08,43.01 -739.15,-125.4 -894.86,-513.38 -241.06,-138.15 -482.12,-276.31 -723.17,-414.46 -37.55,-21.52 -61.78,-54.13 -71.55,-96.28 -85.18,-367.52 -145.52,-880.03 166.79,-1163.75 328.66,-298.58 901.32,-183.48 1283.24,-72.93 20.91,6.06 37.72,15 54.43,28.95 210.42,175.69 420.85,351.36 631.27,527.05z" style="fill:#e512da"/>
+   </g>
+   <path class="WeaponIcicleBack-Bigfil84" d="M6014.52 20420.04c-253.93,-1095.55 256.39,-1349.86 1262.2,-1058.72 221.74,185.13 443.5,370.28 665.24,555.42 179.72,16.01 47.75,66.58 264.45,123.71 144.67,98.15 576.69,-144.81 626.72,620.34 320.46,267.55 640.93,535.12 961.39,802.67 264.11,-39.75 350.74,128.34 403.09,336.55l141.82 118.41c-166.37,176.64 -353.43,400.37 -548.42,679.23l-398.32 -227.07c-300.88,38.95 -481.14,-83.53 -570.9,-327.19 -410.71,-240.2 -821.42,-480.4 -1232.13,-720.6 -273.5,40.82 -649.47,-5.82 -804.86,-461.29 -256.76,-147.15 -513.52,-294.31 -770.28,-441.46z" style="fill:#97e278"/>
+   <path class="WeaponIcicleBack-Bigfil104" d="M6274.03 20344.43c-457.83,-832.83 673.5,-1119.75 1026.1,-731.73 155.28,129.65 327.18,302.27 482.46,431.91 125.85,11.21 33.45,46.62 185.19,86.63 101.31,68.73 403.82,-101.41 438.87,434.4 224.4,187.35 1148.04,911.44 1372.45,1098.79 184.95,-27.83 222.1,94.27 258.76,240.06 50.51,42.05 92.73,111.14 145.48,187.1 -93.64,108.46 -191.97,230.8 -293.09,367.92 -163.35,-84.43 -324.61,-163.37 -482.34,-234.72 -210.69,27.28 -284.14,-124.72 -346.98,-295.36 -287.61,-168.2 -1197.61,-665.94 -1485.22,-834.14 -191.53,28.59 -567.36,-63.41 -676.17,-382.35 -179.81,-103.05 -445.71,-265.46 -625.51,-368.51z" style="fill:#34fb7d"/>
+   <path class="WeaponIcicleBack-Bigfil105" d="M6274.03 20344.43c-303.85,-529.67 76.44,-834.12 396.61,-879.41 -219.48,671.62 -20.52,918.76 623.83,826.73 82.84,326.66 450.06,448.54 643.27,435.44 273.16,190.76 1140.23,760 1413.41,950.77 48.93,175.13 169.48,339.05 381.68,328.78 108.52,74.01 197.48,178.68 291.74,276.88 -43.86,55.36 -88.48,113.75 -133.63,174.96 -162.97,-83.79 -324.43,-162.38 -483.03,-233.79 -210.69,27.28 -284.14,-124.73 -346.98,-295.36 -287.62,-168.2 -1197.62,-665.94 -1485.22,-834.14 -191.53,28.58 -567.36,-63.41 -676.17,-382.35 -179.81,-103.05 -445.71,-265.46 -625.51,-368.51z" style="fill:#9fc6f7"/>
+   <path class="WeaponIcicleBack-Bigfil87" d="M9950.15 22379.45c-84.64,-54.62 -170.64,-101.71 -240.88,-125.48 -40,-13.52 -219.21,-65.95 -261.83,-67.25 -191.89,-7.12 -352.98,-280 -4.53,-237.43 179.24,66.66 387.25,222.05 552.74,371.18 -15.09,19.35 -30.25,38.95 -45.5,58.98z" style="fill:#87888d"/>
+   <path class="WeaponIcicleBack-Bigfil88" d="M7507.53 20340.73c-54.07,83.33 -296.19,142.33 -470.75,241.83 -66.23,37.75 -110.87,80.54 -144.09,126.45 -76.54,-43.97 -167.94,-98.19 -261.37,-153.81 140.81,-92.9 520.98,-169.35 737.79,-245.59 152.12,-53.48 70.47,-201.59 223.94,-213.77 -41.87,11.1 -43.65,233.79 -85.52,244.89z" style="fill:#3ddf1c"/>
+   <path class="WeaponIcicleBack-Bigfil102" d="M7430.66 20408.62c-484.37,394.49 -436.5,344.8 -498.16,549.97 73.65,165.22 333.28,244.1 333.28,244.1 0,0 -1064.04,-378.31 164.88,-794.07z" style="fill:#375cad"/>
+   <path class="WeaponIcicleBack-Bigfil106" d="M9629.57 21825.5c0,0 -531.35,92.4 -544.36,215.3 -13.02,122.89 15.07,178.45 -44.46,178.56 -59.53,0.12 -402.75,-428.97 588.82,-393.86z" style="fill:#eb7d9a"/>
+   <path class="WeaponIcicleBack-Bigfil91" d="M10191.75 21843.24c-173.02,110.59 -320.17,208.75 -93.36,349.07l-8.84 10.79c-154.29,-65.38 -410.4,-221.26 102.14,-395.03l0.06 35.17z" style="fill:#9cb6e8"/>
+   <path class="WeaponIcicleBack-Bigfil92" d="M7109.47 19424.8c116.96,32.84 384.19,286.53 384.4,396.12 0.21,109.59 -273.76,-211.15 -390.66,-210.92 -116.9,0.22 -502.71,-1.9 -542.71,-164.34 -40,-162.43 432.01,-53.71 548.97,-20.86z" style="fill:#90cbc0"/>
+   <path class="WeaponIcicleBack-Bigfil93" d="M6912.32 19250.15c115.04,-23.13 643.07,414.49 664.75,522.34 21.69,107.84 -54,214.01 -169.02,237.13 -115.02,23.13 -597.92,-121.67 -619.61,-229.52 -21.68,-107.85 8.86,-506.82 123.88,-529.95z" style="fill:#484d1c"/>
+   <path class="WeaponIcicleBack-Bigfil84" d="M9889.96 21547.74c93.25,-47.71 272.39,289.97 157.83,236.53 -114.56,-53.44 -316.42,-93.95 -276.36,38.94 40.05,132.88 -84.7,-37.07 -84.8,-91.16 -0.1,-54.09 110.08,-136.6 203.33,-184.31z" style="fill:#fbb4ec"/>
+   <path class="WeaponIcicleBack-Bigfil94" d="M7691.15 20077.31c31.22,-0.06 17.23,41.59 17.29,70.86 0.06,29.27 -103.85,110.48 -135.07,110.54 -31.22,0.06 0.57,-88.17 0.52,-117.44 -0.06,-29.27 86.04,-63.9 117.26,-63.96z" style="fill:#12fcee"/>
+   <path class="WeaponIcicleBack-Bigfil95" d="M6042.73 19714.67c96.31,-19.36 550.8,359.34 556.62,437.37 1.83,24.62 381.35,103.81 552.18,471.1 124.02,266.63 331.97,440.56 605.5,478.34 422.53,58.34 733.89,275.83 915.08,518.9 195.14,30.73 356.76,269.17 357.25,275.83 0.59,7.9 122.54,33.36 177.43,151.37 39.85,85.68 106.69,141.57 194.56,153.7 46.13,6.36 230.82,99.14 498.24,245.56 -27.44,37.03 -55.08,75.18 -82.91,114.43 -193.22,-116.24 -314.52,-187 -327.67,-188.53 -160.43,-18.8 -418.6,8.84 -466.59,-85.81 -75.91,-55.65 -139.32,-222.83 -172.48,-282.12 3,10.57 2.73,15.91 -1.06,14.72 -1063.46,-335.82 -916.96,-621.79 -1169.48,-651.43 -499.36,-58.61 -747.41,-199.98 -896.77,-494.54 -275.3,-201.81 -640.85,-380.71 -723.1,-444.61 -120.24,-93.42 -90.3,-248.73 -120.53,-270.53 -97.5,-70.29 7.41,-424.38 103.73,-443.75z" style="fill:#541ee3"/>
+   <path class="WeaponIcicleBack-Bigfil96" d="M10004.59 21678.53c57.06,148.39 10.59,161.78 -120.81,98.16 -131.4,-63.62 -111.37,-44.06 -104.65,-97.73 18.71,-149.51 169.68,-145.48 225.46,-0.43z" style="fill:#8fce60"/>
+   <path class="WeaponIcicleBack-Bigfil97" d="M5901.93 20252.84c-32.15,-93.2 59.02,-322.46 82.13,-521.85 8.75,-75.65 1.69,-137.02 -14.1,-191.12 75.69,-34.99 198.07,-161.81 291.92,-203.35 -9.18,168.4 -226.35,465.93 -172.76,843.74 22.61,159.4 241.28,209.95 164.61,340.18 67.69,95.78 -303.58,-63.72 -351.8,-267.6z" style="fill:#ed3bf5"/>
+   <path class="WeaponIcicleBack-Bigfil80 WeaponIcicleBack-Bigstr0" d="M5988.06 20420.09c-253.93,-1095.55 256.39,-1349.86 1262.2,-1058.72 221.74,185.13 443.5,370.28 665.24,555.42 179.72,16.01 47.75,66.58 264.45,123.71 144.67,98.15 576.69,-144.81 626.72,620.34 320.46,267.55 640.93,535.12 961.39,802.67 264.11,-39.75 350.74,128.34 403.09,336.55l156.61 130.75c-165.57,176.97 -351.15,400.31 -544.3,677.67l-417.23 -237.85c-300.88,38.96 -481.14,-83.53 -570.9,-327.19 -410.71,-240.2 -821.42,-480.4 -1232.13,-720.6 -273.5,40.82 -649.47,-5.82 -804.86,-461.29 -256.76,-147.15 -513.52,-294.31 -770.28,-441.46z" style="fill:#c4b5ae"/>
+   <path class="WeaponIcicleBack-Bigfil98" d="M9304.05 21523.07c46.45,30.83 57.13,17.61 68.93,11.57 11.17,-5.72 -0.75,-24.82 0.03,-46.92 -205.26,-87.06 -353.66,-311.44 -408.56,-292.13 -151.07,-157.51 -348.49,-357.6 -537.2,-478.52 -310.99,-199.27 -731.19,-80.71 377.58,419.05 10.75,85.52 66.36,127.37 202.27,147.34 98.99,79.87 197.97,159.74 296.95,239.61z" style="fill:#297532"/>
+   <path class="WeaponIcicleBack-Bigfil87" d="M8175.79 21380.57c-133.98,-97.27 -447.07,-267.23 -582.63,-331.54 -38.16,-18.09 -272.07,-63.46 -314.69,-64.75 -191.88,-7.13 -300.12,-282.5 48.33,-239.94 241.13,50.16 523.6,247.36 722.02,396.76 110.26,83.01 714.01,465.19 849.85,583.32 -26.45,-32.24 -696.4,-311.61 -722.88,-343.85z" style="fill:#488a8c"/>
+   <path class="WeaponIcicleBack-Bigfil99" d="M6414.76 19879c0,0 118.41,-96.59 -21.7,-186.66 -160.97,69.07 -215.98,140 -187.07,360.07 25.32,192.95 171.81,379.83 424.46,399.76 -130.69,-72.69 -472.7,-377.89 -215.69,-573.17z" style="fill:#5c06d9"/>
+  </g>
+ </g><g id="LeftPawWeapon-Bear4">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_3Corel-Layer"/>
+  <path class="LeftPawWeapon-Bear4fil4 LeftPawWeapon-Bear4str0" d="M9184 21857c111,311 407,488 669,458 -172,-146 -283,-401 -254,-605 -107,110 -285,199 -415,147z" style="fill:#20b60c"/>
+  <path class="LeftPawWeapon-Bear4fil5 LeftPawWeapon-Bear4str0" d="M8604 21988c106,362 424,462 600,445 -118,-148 -180,-345 -111,-553 -111,145 -334,201 -489,108z" style="fill:#c98f60"/>
+  <path class="LeftPawWeapon-Bear4fil6 LeftPawWeapon-Bear4str0" d="M8105 21741c2,238 123,413 346,525 -75,-215 -7,-388 93,-573 -134,128 -313,130 -439,48z" style="fill:#7a8671"/>
+  <path class="LeftPawWeapon-Bear4fil0" d="M8064 20167c-174,495 -396,1082 -60,1254 -63,251 76,575 425,576 127,228 534,319 775,91 176,20 369,-1 539,-240 138,-193 112,-466 371,-913 -594,-215 -1455,-553 -2050,-768z" style="fill:#f171e7"/>
+  <path class="LeftPawWeapon-Bear4fil1" d="M7994 20142c14,-39 56,-59 95,-45 39,13 60,56 46,95l-20 56c-143,405 -301,846 -145,1036 15,-73 101,-165 188,-199 -121,132 -139,518 -27,687 44,65 128,121 216,143 -61,-167 -60,-383 89,-514 -69,241 -15,680 345,738 98,16 202,3 292,-46 -183,-92 -260,-325 -144,-530 -19,280 242,531 522,432 78,-28 156,-85 231,-190 53,-75 81,-170 114,-288 46,-161 104,-362 254,-620 20,-35 66,-48 102,-27 36,21 48,67 27,102 -140,242 -195,432 -239,586 -37,131 -68,238 -136,333 -95,134 -198,208 -303,245 -93,33 -184,37 -272,30 -27,22 -55,41 -84,57 -120,67 -259,85 -387,64 -129,-21 -249,-80 -331,-167 -14,-15 -28,-32 -40,-49 -34,-3 -65,-8 -95,-15 -127,-32 -223,-107 -286,-201 -76,-115 -102,-257 -85,-397 -314,-220 -119,-772 53,-1260l20 -56z" style="fill:#1ce47f"/>
+ </g><g id="NecklaceGladiatorArmor-Big">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2913148875424">
+   <g>
+    <g>
+     <path class="NecklaceGladiatorArmor-Bigfil0 NecklaceGladiatorArmor-Bigstr0" d="M11214.26 17529.73c391.72,330.4 1002.97,1083.5 1230.47,2141.67 -407.72,820.81 -1337.5,1260.24 -2136.84,1526 -21.69,109.37 33.76,243.79 150.36,405.45 1026.29,-277.64 2069.69,-781.73 2562.62,-1829.67 -134.33,-983.4 -625.61,-1773.09 -1132.44,-2268.68l-674.17 25.23z" style="fill:#765378"/>
+     <path class="NecklaceGladiatorArmor-Bigfil1 NecklaceGladiatorArmor-Bigstr1" d="M10793.42 21252.27c768.83,-300.05 1571.64,-845.68 1941.02,-1550.98 -92.76,-821.31 -649.53,-1696.28 -1100.42,-2226.5" style="fill:#677e26"/>
+    </g>
+    <g>
+     <g>
+      <path class="NecklaceGladiatorArmor-Bigfil2 NecklaceGladiatorArmor-Bigstr2" d="M11203.97 21027.27c16.08,38.17 60.86,55.75 100.01,39.26 39.14,-16.49 57.85,-60.81 41.77,-98.98l-232.11 -551.07c-16.08,-38.17 -60.85,-55.75 -100,-39.26 -39.15,16.49 -57.86,60.8 -41.78,98.98l232.11 551.07z" style="fill:#d7acdc"/>
+      <path class="NecklaceGladiatorArmor-Bigfil3 NecklaceGladiatorArmor-Bigstr2" d="M11082.97 20739.98l141.78 -59.72 -232.12 -551.07c-38.29,-90.91 -180.07,-31.2 -141.77,59.72l232.11 551.07z" style="fill:#5b1117"/>
+     </g>
+     <g>
+      <path class="NecklaceGladiatorArmor-Bigfil4 NecklaceGladiatorArmor-Bigstr2" d="M11596.74 20842.19c22.25,34.94 69.34,44.76 105.17,21.94 35.83,-22.81 46.84,-69.64 24.59,-104.58l-321.2 -504.36c-22.24,-34.94 -69.33,-44.77 -105.16,-21.95 -35.83,22.82 -46.85,69.65 -24.6,104.58l321.2 504.37z" style="fill:#66b6a4"/>
+      <path class="NecklaceGladiatorArmor-Bigfil5 NecklaceGladiatorArmor-Bigstr2" d="M11429.29 20579.25l129.76 -82.63 -321.19 -504.37c-52.99,-83.21 -182.76,-0.58 -129.77,82.63l321.2 504.37z" style="fill:#9a5b53"/>
+     </g>
+     <g>
+      <path class="NecklaceGladiatorArmor-Bigfil6 NecklaceGladiatorArmor-Bigstr2" d="M11965.44 20571.8c27.25,31.19 75.28,33.82 107.27,5.87 31.99,-27.95 35.83,-75.9 8.58,-107.09l-393.45 -450.28c-27.26,-31.19 -75.29,-33.82 -107.27,-5.87 -31.99,27.95 -35.83,75.9 -8.58,107.09l393.45 450.28z" style="fill:#6dc943"/>
+      <path class="NecklaceGladiatorArmor-Bigfil7 NecklaceGladiatorArmor-Bigstr2" d="M11760.33 20337.06l115.84 -101.22 -393.45 -450.29c-64.91,-74.28 -180.75,26.94 -115.84,101.23l393.45 450.28z" style="fill:#163fbf"/>
+     </g>
+     <g>
+      <path class="NecklaceGladiatorArmor-Bigfil8 NecklaceGladiatorArmor-Bigstr2" d="M12568.41 19079.19c38.75,-14.63 57.99,-58.72 42.98,-98.46 -15.01,-39.74 -58.59,-60.09 -97.34,-45.45l-559.38 211.29c-38.75,14.64 -58,58.72 -42.99,98.46 15.02,39.74 58.6,60.09 97.35,45.46l559.38 -211.3z" style="fill:#61d9fc"/>
+      <path class="NecklaceGladiatorArmor-Bigfil9 NecklaceGladiatorArmor-Bigstr2" d="M12276.79 19189.35l-54.36 -143.92 -559.38 211.3c-92.29,34.85 -37.93,178.77 54.36,143.91l559.38 -211.29z" style="fill:#45bb5a"/>
+     </g>
+     <g>
+      <path class="NecklaceGladiatorArmor-Bigfil10 NecklaceGladiatorArmor-Bigstr2" d="M12695.68 19587.95c40.99,-5.9 69.33,-44.77 63.28,-86.81 -6.04,-42.05 -44.18,-71.36 -85.18,-65.46l-591.87 85.11c-41,5.9 -69.34,44.76 -63.29,86.81 6.05,42.05 44.19,71.36 85.18,65.46l591.88 -85.11z" style="fill:#71b643"/>
+      <path class="NecklaceGladiatorArmor-Bigfil11 NecklaceGladiatorArmor-Bigstr2" d="M12387.12 19632.32l-21.9 -152.27 -591.87 85.11c-97.64,14.04 -75.75,166.32 21.9,152.28l591.87 -85.12z" style="fill:#d03fb4"/>
+     </g>
+    </g>
+    <path class="NecklaceGladiatorArmor-Bigfil12" d="M11172.85 20320.99c63.98,86.98 226.02,-32.21 162.04,-119.2l-135.2 -183.81c69.83,164.26 -37.79,236.93 -162.04,119.19l135.2 183.82z" style="fill:#ec9a20"/>
+   </g>
+   <g>
+    <g>
+     <path class="NecklaceGladiatorArmor-Bigfil13 NecklaceGladiatorArmor-Bigstr3" d="M13031.08 23025.55c-162.25,40.01 -389.14,381.23 -393.95,483.9 -452.64,-609.37 -1552.36,-1117.04 -2543.01,-1262.5 108.61,-237.98 312.29,-560.75 455.49,-638.69 1173.23,52.82 2203.95,403.65 2481.47,1417.29z" style="fill:#75476d"/>
+     <path class="NecklaceGladiatorArmor-Bigfil1 NecklaceGladiatorArmor-Bigstr4" d="M12692.53 23319.36c-465.87,-609.37 -1529.64,-1082.41 -2520.29,-1227.87m2588.54 1109.77c-465.87,-609.37 -1529.64,-1082.41 -2520.29,-1227.87m2596.37 1110.95c-465.87,-609.37 -1529.64,-1082.41 -2520.29,-1227.87m2596.39 1136.04c-442.05,-609.37 -1528.32,-1112.83 -2534.85,-1239.77" style="fill:#3ef38c"/>
+    </g>
+    <g>
+     <g>
+      <path class="NecklaceGladiatorArmor-Bigfil14" d="M10397.25 22594.88c108.46,-266.37 279.6,-568.32 510.45,-801.57 -260.73,-75.71 -397.98,-144.31 -513.44,-174.76 -221.72,193.35 -392.88,392.3 -543.99,643.77l546.98 332.56z" style="fill:#a2bf2a"/>
+      <line class="NecklaceGladiatorArmor-Bigfil1 NecklaceGladiatorArmor-Bigstr5" x1="10417.24" x2="9978.65" y1="22571.8" y2="22086.55"/>
+      <line class="NecklaceGladiatorArmor-Bigfil1 NecklaceGladiatorArmor-Bigstr5" x1="10497.98" x2="10059.39" y1="22431.29" y2="21946.05"/>
+      <line class="NecklaceGladiatorArmor-Bigfil1 NecklaceGladiatorArmor-Bigstr5" x1="10588.51" x2="10149.92" y1="22301.63" y2="21816.38"/>
+      <line class="NecklaceGladiatorArmor-Bigfil1 NecklaceGladiatorArmor-Bigstr5" x1="10669.25" x2="10230.66" y1="22161.12" y2="21675.88"/>
+      <line class="NecklaceGladiatorArmor-Bigfil1 NecklaceGladiatorArmor-Bigstr5" x1="10767.18" x2="10370.4" y1="22039.63" y2="21600.65"/>
+     </g>
+     <path class="NecklaceGladiatorArmor-Bigfil15 NecklaceGladiatorArmor-Bigstr6" d="M9850.27 22262.33c40.15,-64.85 67.11,-125.91 122.88,-205.73 143.71,89.45 240.33,151.38 334.47,205.58 111.25,-220.18 261,-433.03 394.39,-534.82 85.9,28.18 119.79,37.76 205.69,65.95 -233.06,222.56 -387.34,501 -510.45,801.57 -183.59,-111.63 -361.43,-219.75 -546.98,-332.55z" style="fill:#c8558c"/>
+     <path class="NecklaceGladiatorArmor-Bigfil16 NecklaceGladiatorArmor-Bigstr3" d="M10397.25 22594.88c108.46,-266.37 279.6,-568.32 510.45,-801.57 -260.73,-75.71 -397.98,-144.31 -513.44,-174.76 -221.72,193.35 -392.88,392.3 -543.99,643.77l546.98 332.56z" style="fill:#14dd79"/>
+    </g>
+    <g>
+     <path class="NecklaceGladiatorArmor-Bigfil17 NecklaceGladiatorArmor-Bigstr3" d="M14332.78 23025.55c162.25,40.01 389.14,381.23 393.95,483.9 452.64,-609.37 1552.36,-1117.04 2543.01,-1262.5 -108.61,-237.98 -312.29,-560.75 -455.49,-638.69 -1173.23,52.82 -2203.95,403.65 -2481.47,1417.29z" style="fill:#64d627"/>
+     <path class="NecklaceGladiatorArmor-Bigfil1 NecklaceGladiatorArmor-Bigstr4" d="M14671.33 23319.36c465.87,-609.37 1529.64,-1082.41 2520.29,-1227.87m-2588.54 1109.77c465.87,-609.37 1529.64,-1082.41 2520.29,-1227.87m-2596.37 1110.95c465.87,-609.37 1529.64,-1082.41 2520.29,-1227.87m-2596.39 1136.04c442.05,-609.37 1528.32,-1112.83 2534.85,-1239.77" style="fill:#e8e52f"/>
+    </g>
+    <g>
+     <g>
+      <path class="NecklaceGladiatorArmor-Bigfil18" d="M16966.61 22594.88c-108.46,-266.37 -279.6,-568.32 -510.45,-801.57 260.73,-75.71 397.98,-144.31 513.44,-174.76 221.72,193.35 392.88,392.3 543.99,643.77l-546.98 332.56z" style="fill:#8363ff"/>
+      <line class="NecklaceGladiatorArmor-Bigfil1 NecklaceGladiatorArmor-Bigstr5" x1="16946.62" x2="17385.21" y1="22571.8" y2="22086.55"/>
+      <line class="NecklaceGladiatorArmor-Bigfil1 NecklaceGladiatorArmor-Bigstr5" x1="16865.88" x2="17304.47" y1="22431.29" y2="21946.05"/>
+      <line class="NecklaceGladiatorArmor-Bigfil1 NecklaceGladiatorArmor-Bigstr5" x1="16775.35" x2="17213.94" y1="22301.63" y2="21816.38"/>
+      <line class="NecklaceGladiatorArmor-Bigfil1 NecklaceGladiatorArmor-Bigstr5" x1="16694.61" x2="17133.2" y1="22161.12" y2="21675.88"/>
+      <line class="NecklaceGladiatorArmor-Bigfil1 NecklaceGladiatorArmor-Bigstr5" x1="16596.68" x2="16993.46" y1="22039.63" y2="21600.65"/>
+     </g>
+     <path class="NecklaceGladiatorArmor-Bigfil19 NecklaceGladiatorArmor-Bigstr6" d="M17513.59 22262.33c-40.15,-64.85 -67.11,-125.91 -122.88,-205.73 -143.71,89.45 -240.33,151.38 -334.47,205.58 -111.25,-220.18 -261,-433.03 -394.39,-534.82 -85.9,28.18 -119.79,37.76 -205.69,65.95 233.06,222.56 387.34,501 510.45,801.57 183.59,-111.63 361.43,-219.75 546.98,-332.55z" style="fill:#3a2ff1"/>
+     <path class="NecklaceGladiatorArmor-Bigfil16 NecklaceGladiatorArmor-Bigstr3" d="M16966.61 22594.88c-108.46,-266.37 -279.6,-568.32 -510.45,-801.57 260.73,-75.71 397.98,-144.31 513.44,-174.76 221.72,193.35 392.88,392.3 543.99,643.77l-546.98 332.56z" style="fill:#801e55"/>
+    </g>
+    <path class="NecklaceGladiatorArmor-Bigfil20 NecklaceGladiatorArmor-Bigstr6" d="M10348.41 20632.63c509.29,430.05 1196.48,574.5 1985.77,1226.51 7.16,87.53 1.74,180.23 -39.76,238.41 -662.14,-13.41 -1831.81,543.53 -2025.64,-408.49 -13.37,-83.06 15.84,-151.33 115.05,-269.06 -112.02,-225.41 -83.81,-524.49 -35.42,-787.37z" style="fill:#b5fcfe"/>
+    <g>
+     <path class="NecklaceGladiatorArmor-Bigfil21" d="M13681.93 24318.48l-936.96 -555.54 -173.08 -929.96c-99.3,-368.03 -294.96,-653.59 -425.45,-1003.24 337.56,-407.67 807.37,-603.72 1535.49,-603.72 728.12,0 1197.93,196.05 1535.49,603.72 -222.63,596.55 -415.96,1172.13 -525.14,1889.7l-1010.35 599.04z" style="fill:#775b6a"/>
+     <line class="NecklaceGladiatorArmor-Bigfil22 NecklaceGladiatorArmor-Bigstr7" x1="13613.25" x2="13620.78" y1="22105.98" y2="23651.91"/>
+     <path class="NecklaceGladiatorArmor-Bigfil23 NecklaceGladiatorArmor-Bigstr8" d="M13526.49 22617.08c27.28,3.56 46.52,28.58 42.96,55.86 -3.56,27.28 -28.58,46.52 -55.86,42.96l-490.09 -65.44c-27.28,-3.56 -46.52,-28.58 -42.96,-55.86 3.56,-27.28 28.58,-46.52 55.86,-42.96l490.09 65.44z" style="fill:#7d233c"/>
+     <path class="NecklaceGladiatorArmor-Bigfil24 NecklaceGladiatorArmor-Bigstr8" d="M13526.49 23077.46c27.28,3.56 46.52,28.58 42.96,55.86 -3.56,27.28 -28.58,46.52 -55.86,42.96l-490.09 -65.44c-27.28,-3.56 -46.52,-28.58 -42.96,-55.86 3.56,-27.28 28.58,-46.52 55.86,-42.96l490.09 65.44z" style="fill:#a98f6e"/>
+     <path class="NecklaceGladiatorArmor-Bigfil25 NecklaceGladiatorArmor-Bigstr8" d="M13526.49 23307.65c27.28,3.56 46.52,28.58 42.96,55.86 -3.56,27.28 -28.58,46.52 -55.86,42.96l-490.09 -65.44c-27.28,-3.56 -46.52,-28.58 -42.96,-55.86 3.56,-27.28 28.58,-46.52 55.86,-42.96l490.09 65.44z" style="fill:#970379"/>
+     <path class="NecklaceGladiatorArmor-Bigfil26 NecklaceGladiatorArmor-Bigstr8" d="M13526.49 22847.27c27.28,3.56 46.52,28.58 42.96,55.86 -3.56,27.28 -28.58,46.52 -55.86,42.96l-490.09 -65.44c-27.28,-3.56 -46.52,-28.58 -42.96,-55.86 3.56,-27.28 28.58,-46.52 55.86,-42.96l490.09 65.44z" style="fill:#7d7be2"/>
+     <polygon class="NecklaceGladiatorArmor-Bigfil27 NecklaceGladiatorArmor-Bigstr6" points="13681.93,23686.8 13144.33,23342.1 12987.7,22535.32 12737.54,22511.38 12908.8,23364.49 12686.96,23451.23 12716.65,23699.79 13046.3,23556.05 13681.93,23963.6 14317.56,23556.05 14647.21,23699.79 14676.9,23451.23 14455.06,23364.49 14626.32,22511.38 14684.29,22260.11 14424.79,22271.8 14376.16,22535.32 14219.53,23342.1 "/>
+     <path class="NecklaceGladiatorArmor-Bigfil28" d="M13681.93 22131.79c-341.55,1.06 -687.48,122.45 -918.69,347.71 -8.26,-19.64 -22.75,-42.35 -32.67,-59.54 102.92,-220.19 633.56,-494.72 951.36,-526.65l0 -142.21c-405.96,2.6 -924.99,203.67 -1138.16,466.49 -74.19,-164.05 -124.2,-276.37 -165.68,-345.78 222.89,-302.02 933.88,-468.8 1303.84,-474.48l0 -171.31c-388.84,-4.44 -1091.04,93.59 -1535.49,603.72 124.06,287.47 186.39,233.24 425.45,1003.24l198.71 945.15c181.14,127.43 557.15,301.22 911.33,540.35 -850.41,-668.78 -552.34,-1281.89 -356.06,-1498 120.78,-54.09 244.15,-121.33 356.06,-158.36 0,-176.78 0,-353.55 0,-530.33z" style="fill:#56be5c"/>
+     <path class="NecklaceGladiatorArmor-Bigfil29" d="M14516.73 21796.56c-379.95,-150.84 -1278.19,-150.84 -1658.14,0 409.13,-314.24 1249.01,-314.24 1658.14,0z" style="fill:#e991f4"/>
+     <path class="NecklaceGladiatorArmor-Bigfil28" d="M13681.93 22131.79c341.55,1.06 687.48,122.45 918.69,347.71 8.26,-19.64 22.75,-42.35 32.67,-59.54 -102.92,-220.19 -633.56,-494.72 -951.36,-526.65l0 -142.21c405.96,2.6 924.99,203.67 1138.16,466.49 74.19,-164.05 124.2,-276.37 165.68,-345.78 -222.89,-302.02 -933.88,-468.8 -1303.84,-474.48l0 -171.31c388.84,-4.44 1091.04,93.59 1535.49,603.72 -114.88,266.2 -159.29,472.5 -355.04,1112.98 -15.64,51.17 -32.25,105.13 -49.94,162.1 -113.37,-27.27 -322.89,-391.9 -413.81,-459.93 -314.22,23.34 -525.15,43.35 -716.7,17.23l0 -530.33z" style="fill:#821e01"/>
+     <path class="NecklaceGladiatorArmor-Bigfil22 NecklaceGladiatorArmor-Bigstr9" d="M15093.44 22066.77c-673.03,-769.83 -2149.99,-769.83 -2823.02,0" style="fill:#392777"/>
+     <path class="NecklaceGladiatorArmor-Bigfil16 NecklaceGladiatorArmor-Bigstr3" d="M13681.93 24318.48l-936.96 -555.54 -173.08 -929.96c-99.3,-368.03 -294.96,-653.59 -425.45,-1003.24 337.56,-407.67 807.37,-603.72 1535.49,-603.72 728.12,0 1197.93,196.05 1535.49,603.72 -222.63,596.55 -415.96,1172.13 -525.14,1889.7l-1010.35 599.04z" style="fill:#e72608"/>
+     <path class="NecklaceGladiatorArmor-Bigfil30" d="M14421.22 23406.67l20.06 50.4 176.13 69.26 4.93 -42.35 -201.12 -77.31zm-47.74 -105.24l29.32 59.75 117.16 -574.44 -34.61 -45.58 -111.87 560.27zm-132.48 135.23l13.75 -55.85 -572.82 358.91 -540.38 -326.55 540.38 386.38 559.07 -362.89z" style="fill:#18a11e"/>
+    </g>
+    <g>
+     <polygon class="NecklaceGladiatorArmor-Bigfil31 NecklaceGladiatorArmor-Bigstr6" points="12812.48,22558.55 12431.73,22992.88 11814.62,22497.1 11888.65,21950.57 "/>
+     <polygon class="NecklaceGladiatorArmor-Bigfil32 NecklaceGladiatorArmor-Bigstr10" points="12067.53,21979.44 12007.28,22424.29 12411.11,22748.71 12630.47,22498.5 "/>
+     <line class="NecklaceGladiatorArmor-Bigfil1 NecklaceGladiatorArmor-Bigstr5" x1="12510.72" x2="12045.24" y1="22631.74" y2="22258.07"/>
+    </g>
+    <path class="NecklaceGladiatorArmor-Bigfil33" d="M13681.93 22013.53l-35.38 461.01 -446.43 165.45 -665.57 -32.07 -416.58 -352.29 48.61 -294.86 551.14 -275.91 584.62 63.5 379.59 265.17zm-1351.39 128.11l274.34 -43.59 493.69 58.98 354.39 244.11 31.87 -14.48 31.17 -260.93 -318.41 -249.36 -477.1 -70.89 -289.06 167.62 -100.89 168.54zm952.6 336.67l-227.31 -165.91 -446.02 -53.29 -259.99 107.68 166.84 130.65 573.57 68.53 192.91 -87.66z" style="fill:#5e337e"/>
+    <path class="NecklaceGladiatorArmor-Bigfil34 NecklaceGladiatorArmor-Bigstr6" d="M16951.52 20462.02c-628.98,475.99 -2392.33,1446.85 -3323.52,1684.03 -7.16,87.53 -22.67,199.91 18.83,258.09 626.49,-54.58 3510.54,409.08 3426.56,-691.09 -11.15,-98.2 -64.86,-220.91 -183.63,-297.96 190.1,-398.95 92.72,-756.37 61.76,-953.07z" style="fill:#8e2158"/>
+    <g>
+     <polygon class="NecklaceGladiatorArmor-Bigfil35 NecklaceGladiatorArmor-Bigstr6" points="14551.38,22558.55 14932.13,22992.88 15549.24,22497.1 15475.21,21950.57 14565.52,22253.69 "/>
+     <polygon class="NecklaceGladiatorArmor-Bigfil36 NecklaceGladiatorArmor-Bigstr10" points="15296.33,21979.44 15356.58,22424.29 14952.75,22748.71 14733.39,22498.5 14732.22,22260.25 "/>
+     <line class="NecklaceGladiatorArmor-Bigfil1 NecklaceGladiatorArmor-Bigstr5" x1="14853.14" x2="15318.62" y1="22631.74" y2="22258.07"/>
+     <line class="NecklaceGladiatorArmor-Bigfil1 NecklaceGladiatorArmor-Bigstr5" x1="14761.76" x2="15309.48" y1="22475.57" y2="22060.26"/>
+    </g>
+    <path class="NecklaceGladiatorArmor-Bigfil37 NecklaceGladiatorArmor-Bigstr10" d="M13421.74 21561.41l406.87 318.62c31.56,24.66 46.06,63.04 41.66,100.09l-45.87 384.28c-4.91,41.13 -31.84,74.26 -67.59,89.03l-476.74 216.65c-19.06,8.64 -39.31,11.41 -58.67,9.07l-633.32 -75.18c-24.68,-2.95 -46.52,-13.79 -63.24,-29.72l-406.87 -318.62c-31.56,-24.66 -46.06,-63.04 -41.66,-100.09l45.87 -384.28c4.91,-41.13 31.84,-74.26 67.59,-89.03l476.74 -216.64c19.06,-8.64 39.31,-11.41 58.67,-9.08 211.44,25.23 421.89,49.92 633.32,75.18 24.68,2.95 46.52,13.79 63.24,29.72zm-1091.2 580.23l356.3 -147.57c14.79,-6.12 30.54,-7.98 45.62,-6.16l493.69 58.98c15.08,1.79 29.95,7.31 42.88,16.74l311.51 227.37 31.87 -14.48 31.17 -260.93 -341.24 -267.23c-191.3,-22.85 -381.51,-46.02 -572.81,-68.86l-395.36 179.64 -31.17 260.93 27.54 21.57zm1080.18 226.53l-227.31 -165.91 -446.02 -53.29 -259.99 107.68 166.84 130.65 573.57 68.53 192.91 -87.66z" style="fill:#3c334f"/>
+    <path class="NecklaceGladiatorArmor-Bigfil38 NecklaceGladiatorArmor-Bigstr3" d="M16940.03 21401.87c34.89,-89.96 129.86,-341.6 21.83,-467.5 -1008.95,684.38 -2517.21,1100.97 -3744.71,1292.5 -9.74,80.4 -37.28,170.78 0.66,228.96 901.02,-53.65 3221.62,-129.14 3837.74,-799.31 8.71,-110.12 -41.89,-218.4 -115.52,-254.65z" style="fill:#334798"/>
+    <path class="NecklaceGladiatorArmor-Bigfil39 NecklaceGladiatorArmor-Bigstr3" d="M10340.57 21406.69c-12.54,-152.61 -33.74,-380.34 5.49,-466.12 680.4,416.04 1173.55,679.54 2000.27,929.28 7.16,87.53 -1.83,192.04 -43.33,250.22 -586.64,77.36 -1514.95,-92.82 -2060.68,-468.05 -12.09,-91.94 50.81,-195.52 98.25,-245.33z" style="fill:#ad5931"/>
+    <path class="NecklaceGladiatorArmor-Bigfil1 NecklaceGladiatorArmor-Bigstr11" d="M16960.65 21171.55c-688,548.1 -2195.61,983.02 -3720.04,1102.27" style="fill:#3fc5ad"/>
+    <path class="NecklaceGladiatorArmor-Bigfil1 NecklaceGladiatorArmor-Bigstr11" d="M16959.38 21499.09c-426.86,482.43 -2132.74,730.75 -3682.53,870.38" style="fill:#1dc535"/>
+    <path class="NecklaceGladiatorArmor-Bigfil40" d="M16958.86 21445.8c-177.82,110.59 -613.91,304.36 -856.55,352.78 236.74,-96.76 641.01,-335.57 793.68,-468.72 15.89,29.17 46.98,86.77 62.87,115.94z" style="fill:#1421c3"/>
+    <path class="NecklaceGladiatorArmor-Bigfil40" d="M10347.61 21425.31c177.82,110.59 716.23,319.56 964.16,357.4 -236.74,-96.76 -761.84,-315.87 -914.51,-449.02 -15.89,29.17 -33.76,62.45 -49.65,91.62z" style="fill:#f94bbe"/>
+    <path class="NecklaceGladiatorArmor-Bigfil1 NecklaceGladiatorArmor-Bigstr11" d="M10364.31 21149.78c408.1,311.24 1222.46,727.64 1969.73,812.59" style="fill:#5e068c"/>
+    <path class="NecklaceGladiatorArmor-Bigfil1 NecklaceGladiatorArmor-Bigstr11" d="M10330.12 21488.52c339.18,243.2 1126.67,498.78 2010.81,559.5" style="fill:#834321"/>
+    <path class="NecklaceGladiatorArmor-Bigfil40" d="M16964.13 20771.8c-171.73,119.83 -505.14,307.99 -744.88,369.19 225.78,-121.91 596.15,-336.81 741.57,-477.84 17.41,28.29 -14.1,80.36 3.31,108.65z" style="fill:#7e7c33"/>
+    <path class="NecklaceGladiatorArmor-Bigfil40" d="M15632.43 21484.77c-335.68,68.96 -533.41,233.33 -861.86,353.56 391.72,-20.02 563.27,-229.6 861.86,-353.56z" style="fill:#6b9c01"/>
+    <path class="NecklaceGladiatorArmor-Bigfil41" d="M16400.04 20970.48l-140.47 4.02c-248.48,171.07 -1403.28,783.37 -1865.7,953.13 226.03,-59.73 1882.16,-751.96 2006.17,-957.15z" style="fill:#89c8de"/>
+    <polygon class="NecklaceGladiatorArmor-Bigfil30" points="13763.83,21951.79 13756.7,22057.47 13808.99,22047.24 13813.5,21941.29 13363.36,21586.62 12704.02,21507.77 12250.52,21721.81 12710.34,21543.57 13339.71,21624.34 "/>
+    <polygon class="NecklaceGladiatorArmor-Bigfil42" points="13231.97,22101.27 13283.85,22139.72 13229.76,22147.32 13212.62,22124.68 12720.31,22070.57 12396.94,22170.56 12715.25,22037.98 "/>
+    <path class="NecklaceGladiatorArmor-Bigfil43" d="M10279.48 21729.87c191.48,73.66 495.85,176.9 687.33,250.56 -236.06,18.88 -264.08,157.9 -88.23,293.84 -347.09,-69.03 -542.31,-291.09 -599.1,-544.4z" style="fill:#52722d"/>
+    <path class="NecklaceGladiatorArmor-Bigfil33" d="M11856.07 22191.15l161.05 -51.15 498.93 518.1 -65.97 46.16 -226.45 -106.17c-90.42,-24.12 -158.66,53.8 -113.63,136.31l-295.38 -237.3 41.45 -305.95z" style="fill:#841a85"/>
+    <path class="NecklaceGladiatorArmor-Bigfil43" d="M10348.41 20632.63c220.38,137.76 661.63,508.45 998.91,550.45 -132.93,-0.63 -204.51,207.21 -112.45,257.22 -113.88,9.11 -156.58,22.02 -191.19,141.85 -19.02,65.85 223.45,162.75 326.86,215.85 -133.42,5.02 -364.12,-77.69 -379.21,-33.22 -38.43,126.44 20.06,201.9 90.03,255.98 -187.69,-37.33 -679.85,-234.73 -780.83,-342.28 -90.97,-24.38 -70.62,-126.84 40.04,-271.79 -105.06,-226.4 -17.66,-665.03 7.84,-774.06z" style="fill:#cb673d"/>
+    <path class="NecklaceGladiatorArmor-Bigfil44" d="M16961.86 20934.37c-227.07,166.41 -1016.42,523.38 -1169.38,606.48 352.01,-78.21 497.88,-46.78 532.49,73.05 7.11,89.66 -390.14,239.47 -575.57,295.22 217.32,13.62 612.83,-157.06 627.92,-112.59 127.78,170.26 -614.53,497.11 -1744.03,623.43 249.56,17.69 560.69,42.44 910,33.24 37.01,-0.97 -236.58,281.45 -594.94,576 478.17,-220.28 799.32,-538.87 869.8,-594.97 588.58,-38.22 1138.45,-167.38 1229.61,-508.34 44.59,-47.5 42.99,-430.27 -98.1,-549.19 46.06,-149.89 67.4,-410.86 12.2,-442.33z" style="fill:#87ae50"/>
+    <path class="NecklaceGladiatorArmor-Bigfil40" d="M11004.94 22146.46c-353.27,27.91 -598.45,-164.2 -661.32,-242.9l15.21 -85.89c91.18,129.46 371.52,290.95 646.11,328.79z" style="fill:#6c3c2d"/>
+    <path class="NecklaceGladiatorArmor-Bigfil40" d="M10922.94 21111.47c-224.53,-84.19 -428.18,-223.5 -589.55,-274.31l10.39 -80.86c156.11,88.1 382.3,237.74 579.16,355.17z" style="fill:#79ac48"/>
+    <polygon class="NecklaceGladiatorArmor-Bigfil30" points="17001.75,22485.82 17409.67,22235.25 17389.93,22206.8 17019.84,22427.31 16871.08,22223.87 "/>
+    <path class="NecklaceGladiatorArmor-Bigfil44" d="M10568.74 22185.98c-54.39,87.21 -155.98,375.82 -171.49,408.9 -175.64,-121.82 -351.27,-243.64 -526.91,-365.46 144.2,-176.07 288.41,-352.14 432.61,-528.2 29.42,317.01 181.64,421 265.79,484.76z" style="fill:#442e69"/>
+    <path class="NecklaceGladiatorArmor-Bigfil45" d="M10607.85 22207.2l-66.25 142.2c674.41,170.01 1525.74,455.37 2142.78,1132.63 -22.86,-167.48 -63.87,-497.94 -109.17,-631.24l-143.48 142.09 -617.11 -495.78 44.35 -327.39 -266.37 28c-395.28,65.79 -514.75,106.29 -984.75,9.49z" style="fill:#dc2883"/>
+    <path class="NecklaceGladiatorArmor-Bigfil40" d="M16212 22255.6c300.97,-16.49 663.11,-185.11 833.75,-292.81l28.11 -164.71c-164.99,211.68 -574.7,358.31 -861.86,457.52z" style="fill:#337902"/>
+    <polygon class="NecklaceGladiatorArmor-Bigfil30" points="14938.27,22923.71 15492.42,22473.96 15490.26,22449.09 15466.53,22449.25 14940.61,22873.14 14617.65,22543.11 14609.17,22456.95 14605.74,22541.38 "/>
+    <path class="NecklaceGladiatorArmor-Bigfil30" d="M12425.52 22923.43l-305.81 -246.52c-36.77,-26.62 -5.87,-42.43 16.78,-24.05l285.87 222.14 228.95 -210.15 -225.79 258.58z" style="fill:#13e40d"/>
+   </g>
+  </g>
+  <g id="_2913148842720">
+   <path class="NecklaceGladiatorArmor-Bigfil46 NecklaceGladiatorArmor-Bigstr2" d="M12568.53 18384.81c35.29,-21.68 48.57,-64.23 29.65,-95.03 -18.92,-30.8 -62.87,-38.19 -98.17,-16.51l-509.51 312.96c-35.3,21.68 -48.57,64.23 -29.65,95.03 18.91,30.8 62.86,38.19 98.16,16.51l509.52 -312.96z" style="fill:#7b8b84"/>
+   <path class="NecklaceGladiatorArmor-Bigfil47 NecklaceGladiatorArmor-Bigstr3" d="M12037.78 17474.47l-473.02 464.43c1010.96,1029.24 3521.11,2363.36 5396.06,2724.25 -2.58,-216.07 -16.81,-368.53 -56.21,-500.77 -1368.99,-394.4 -3784.37,-1519.02 -4866.83,-2687.91z" style="fill:#cf0492"/>
+   <path class="NecklaceGladiatorArmor-Bigfil48 NecklaceGladiatorArmor-Bigstr6" d="M14201.37 19254.63c387.31,240.65 1473.01,730.02 1947.59,894.18l-138.29 180.01c-658.48,-260.09 -1332.47,-564.96 -1976.24,-900.59l166.94 -173.6z" style="fill:#326266"/>
+   <path class="NecklaceGladiatorArmor-Bigfil49" d="M11235.28 17333.17c259.07,619.26 591.49,1360.1 1093.62,1846.03 1082.46,979.08 3138.85,1024.7 4575.71,983.18 69.63,165.14 102.31,463.75 59.52,609.42 -1864.37,8.36 -3721.16,-63.64 -4876.93,-777.3 -563.44,-290.03 -975.74,351.53 -1743.42,761.8 -61.56,-258.12 -46.39,-393.12 11.86,-631.08 487.98,-380.59 1563.28,-986.32 278.09,-2538.05 218.37,-143.75 310.28,-220.66 601.55,-254z" style="fill:#c6c7cd"/>
+   <path class="NecklaceGladiatorArmor-Bigfil50 NecklaceGladiatorArmor-Bigstr12" d="M15687.33 20355.03c253.83,5.92 815.9,2.92 1246.06,-0.39l37.08 216.17c-393.32,1.86 -959.91,-7.37 -1353,-14.29l69.86 -201.49z" style="fill:#506c1e"/>
+   <path class="NecklaceGladiatorArmor-Bigfil44" d="M12181.29 19846.6c1221.08,666.42 2084.18,654.53 3302.17,695.39 54.72,44.48 182.03,172.21 332.1,289.6 15.45,10.28 197.73,-35.43 424.39,-45.35 310.41,-13.59 691.37,5.13 724.41,8.57 50.44,81.68 8.33,120.5 -88.25,161.85 -178.16,-2.99 -526.54,21.22 -716.64,18.24 -1243.36,-19.51 -2578.99,-130.03 -3323.21,-392.51 -209.48,214.22 -959.26,743.66 -1171,786.83l-187.4 -103.61c263.17,-138.15 997.92,-597.68 1155.86,-792.57 -182.3,-71.8 -363.46,-156.34 -546.52,-256.29 -414.8,-242.85 -1283.77,393.3 -1277.68,509.38 20.76,49.84 304.54,306.07 417.94,397.58 -403.86,-167.51 -670.11,-371.13 -862.51,-389.9 -10.91,-247.41 7.07,-353.16 30.35,-593.63 79.77,-47.1 207.84,-143.98 359.46,-292.28 -124.16,172.35 -118.42,282.45 -21.26,378.17 521.26,-370.65 1057.62,-565.65 1447.79,-379.47z" style="fill:#f3e4bc"/>
+   <path class="NecklaceGladiatorArmor-Bigfil51 NecklaceGladiatorArmor-Bigstr6" d="M11317.91 19066.65c126.85,150.17 317,415.7 479.72,514.18 937.61,585.85 2079.75,930.83 3301.63,952.2l-4.51 -242.24c-1188.4,-20.78 -2292.98,-408.11 -3205.21,-1011.18 -191.55,-137.26 -392.2,-447.88 -557.19,-608.37l-14.44 395.41z" style="fill:#3ba0d3"/>
+   <path class="NecklaceGladiatorArmor-Bigfil16 NecklaceGladiatorArmor-Bigstr3" d="M11235.28 17333.17c259.07,619.26 591.49,1360.1 1093.62,1846.03 1082.46,979.08 3065.22,964.98 4575.71,983.18 59.35,159.56 92.74,400.11 90.98,581.31 -1864.37,8.36 -3752.62,-35.53 -4908.39,-749.19 -563.44,-290.03 -979.16,336.99 -1746.84,747.26 -0.61,-263.62 44.44,-459.3 76.22,-613.06 487.98,-380.59 1502.34,-989.8 217.15,-2541.53 218.37,-143.75 310.28,-220.66 601.55,-254z" style="fill:#443636"/>
+   <path class="NecklaceGladiatorArmor-Bigfil52 NecklaceGladiatorArmor-Bigstr13" d="M11486.93 20155.86c29.37,34.54 87.49,33.36 129.8,-2.62 42.32,-35.99 52.81,-93.16 23.43,-127.7l-424.04 -498.59c-29.37,-34.54 -87.49,-33.37 -129.8,2.62 -42.32,35.99 -52.81,93.16 -23.43,127.7l424.04 498.59z" style="fill:#d3af26"/>
+   <path class="NecklaceGladiatorArmor-Bigfil53 NecklaceGladiatorArmor-Bigstr13" d="M15103.23 20746.93c12.16,45.33 67.19,82.6 122.91,83.23 55.72,0.62 91.03,-35.62 78.88,-80.96l-175.52 -654.48c-12.16,-45.34 -67.19,-82.6 -122.91,-83.23 -55.72,-0.63 -91.03,35.62 -78.88,80.95l175.52 654.49z" style="fill:#d3ce3b"/>
+   <path class="NecklaceGladiatorArmor-Bigfil54 NecklaceGladiatorArmor-Bigstr13" d="M14902.09 20746.93c12.16,45.33 67.19,82.6 122.91,83.23 55.72,0.62 91.03,-35.62 78.88,-80.96l-175.52 -654.48c-12.16,-45.34 -67.19,-82.6 -122.91,-83.23 -55.72,-0.63 -91.03,35.62 -78.88,80.95l175.52 654.49z" style="fill:#6bf6c6"/>
+   <path class="NecklaceGladiatorArmor-Bigfil55 NecklaceGladiatorArmor-Bigstr6" d="M14123.79 19235.96c-426.83,-221.58 -693.69,-372.67 -1080.78,-617.7 -228.74,-100.32 -383.83,-153.04 -680.37,-216.42 563.86,414.38 1074.26,685.45 1715.4,1051.29l45.75 -217.17z" style="fill:#2ead14"/>
+   <path class="NecklaceGladiatorArmor-Bigfil30" d="M13928.94 19204.94c-312.81,-160.54 -619.61,-341.35 -925.35,-537.17l-241.36 -100.46c376.81,240.27 737.31,462.35 1142.42,674.33l24.29 -36.7z" style="fill:#9f8e92"/>
+   <path class="NecklaceGladiatorArmor-Bigfil56" d="M12860.32 18310.07c-179.47,-136.29 -179.37,-17.8 -111.18,26.14 411,264.81 1332.15,856.96 2327.19,1260.87 -1165.08,-572.49 -1888,-1015.86 -2216.01,-1287.01z" style="fill:#6d7387"/>
+   <polygon class="NecklaceGladiatorArmor-Bigfil57 NecklaceGladiatorArmor-Bigstr14" points="14344.75,19087.87 13823.24,19222.5 14061.59,19705.49 14407.85,19864.23 14169.49,19381.24 14691,19246.62 "/>
+   <polygon class="NecklaceGladiatorArmor-Bigfil58 NecklaceGladiatorArmor-Bigstr14" points="15815.57,20124.28 15380.47,20477.93 15815.57,20831.58 16212.1,20831.58 15777,20477.93 16212.1,20124.28 "/>
+   <path class="NecklaceGladiatorArmor-Bigfil44" d="M16121.95 20758.3l-325.66 -280.37 415.81 -353.65 692.51 38.11c89.49,199.14 166.62,412.71 59.52,609.4l-842.18 -13.49z" style="fill:#975396"/>
+   <polygon class="NecklaceGladiatorArmor-Bigfil42" points="14340.08,19140.74 13895.33,19255.74 14011.83,19489.84 13970.63,19284.62 14345.72,19178.97 14535.04,19229.06 "/>
+   <polygon class="NecklaceGladiatorArmor-Bigfil42" points="15831.32,20176.47 15459.09,20477.29 15662.56,20641.54 15539.58,20472.16 15852.38,20208.87 16067.18,20175.85 "/>
+   <path class="NecklaceGladiatorArmor-Bigfil44" d="M15925.97 20599.01c-29.62,75.8 -151.17,133.02 -246.5,121.96l105.33 103.6 375.79 -5.5 -234.62 -220.06z" style="fill:#e9777a"/>
+   <path class="NecklaceGladiatorArmor-Bigfil30" d="M14735.54 20320.8c-1151.95,-48.19 -2478.96,-691.88 -2973.59,-1080.72l-77.76 37.24c326.38,275.59 1570.04,1020.94 3051.35,1043.48z" style="fill:#cb4842"/>
+   <path class="NecklaceGladiatorArmor-Bigfil30" d="M14439.23 19444.54l-45.91 16.77c254.92,145.16 865.11,429.17 1234.96,542.61 -406.75,-185.2 -788.68,-354.14 -1189.05,-559.38z" style="fill:#416384"/>
+   <polygon class="NecklaceGladiatorArmor-Bigfil44" points="14488.79,19426.44 14295.05,19343 14147,19381.24 14226.11,19511.88 14391.76,19621.01 14360.8,19473.2 "/>
+   <path class="NecklaceGladiatorArmor-Bigfil12" d="M11082.21 19663.17c-69.79,-82.4 83.72,-212.4 153.51,-130l147.46 174.13c-143.6,-106 -239.23,-18.17 -153.5,129.99l-147.47 -174.12z" style="fill:#0eea7a"/>
+   <path class="NecklaceGladiatorArmor-Bigfil44" d="M12243 18559.47l-332.16 172.69 269.11 290.26 225.8 -122.71c587.18,398.62 1775.04,1057.91 1945.76,1066.73l392.13 65.34c-280.82,-97.4 -2315.43,-1303.13 -2500.64,-1472.31z" style="fill:#93947c"/>
+   <path class="NecklaceGladiatorArmor-Bigfil44" d="M14259.12 19557.16c-56.3,58.76 -201.08,33.53 -284.98,-13.06l68.43 167.7 349.46 138.29 -132.91 -292.93z" style="fill:#67a469"/>
+   <path class="NecklaceGladiatorArmor-Bigfil56" d="M12206.25 19179.73c-156.98,-146.87 -177.94,-40.15 -124.41,20.84 280.03,319.07 1436.34,927 2484.62,951.97 -1318.73,-164.15 -2068.07,-655.29 -2360.21,-972.81z" style="fill:#18926f"/>
+   <path class="NecklaceGladiatorArmor-Bigfil44" d="M12478.19 18677.4c-104.74,-78.52 -152.73,-114.51 -257.47,-193.02 31.21,-98.73 44.39,-166.62 60.4,-267.32 -87.43,-204.31 -198.38,-480.03 -285.82,-684.35 104.23,18.52 208.45,37.04 312.68,55.55 72.16,195.38 197.24,403.96 269.39,599.34 -15.42,167.67 -67.44,320.13 -99.18,489.8z" style="fill:#f74233"/>
+   <path class="NecklaceGladiatorArmor-Bigfil44" d="M11160.36 19445.04c89.53,-159.31 106.26,-339.1 97.25,-455.79l707.28 -285.19c65.52,114.26 159.41,200.26 218.18,304.15 -85.45,84.19 -949.1,431.22 -1022.71,436.83z" style="fill:#2502bb"/>
+   <g>
+    <path class="NecklaceGladiatorArmor-Bigfil59" d="M9886.84 18815.11l-577.35 -1376.82 -543.78 200.51 -58.51 -133.42 -225.64 70.22 42.01 152.47 259.27 693.07c43.22,134.07 95,252.82 250.09,279.69l853.91 114.28z" style="fill:#4dc7bd"/>
+    <line class="NecklaceGladiatorArmor-Bigfil16 NecklaceGladiatorArmor-Bigstr6" x1="8745.37" x2="9088.66" y1="17645.8" y2="18598.9"/>
+    <path class="NecklaceGladiatorArmor-Bigfil60" d="M9825.09 18806.84c-67.67,-163.43 -38.24,-118.14 -116.86,-312.2 -184.36,5.83 -661.52,-23.13 -953.35,-159.39 43.23,134.08 102.4,348.52 278.05,365.58 264.06,35.34 528.11,70.67 792.16,106.01z" style="fill:#7e28f7"/>
+    <path class="NecklaceGladiatorArmor-Bigfil16 NecklaceGladiatorArmor-Bigstr3" d="M9886.84 18815.11c-142.83,-344.92 -425.6,-1035.48 -568.43,-1380.4l-554.72 199.44 -45.31 -132.79 -284.75 91.44 301.26 845.53c61.38,140.74 144.46,219.16 298.04,262.5l853.91 114.28z" style="fill:#6ad9a5"/>
+    <path class="NecklaceGladiatorArmor-Bigfil61" d="M12430.69 18279.36l-84.98 298.43 -1520.98 609.17 -946.86 -155.86 -657.62 -1585.61 181.27 -437.93 461.84 190.97 451.72 -195.69 197.19 -409.5 422.47 198.91 413.29 -127.29 216.31 -411.35 183.87 376.6c258.27,507.94 551.6,1084.57 682.48,1649.15z" style="fill:#78f067"/>
+    <polygon class="NecklaceGladiatorArmor-Bigfil43" points="10961.45,16770.08 11096.6,17087.65 11521.08,16931.57 11374.03,16621.45 "/>
+    <polygon class="NecklaceGladiatorArmor-Bigfil43" points="10344.54,17019.02 10467.93,17318.99 9914.24,17505.42 9784.73,17219.6 "/>
+    <polygon class="NecklaceGladiatorArmor-Bigfil28" points="10512.26,16593.34 10317.63,16953.63 10729.42,17954.66 11048.53,17836.45 "/>
+    <polygon class="NecklaceGladiatorArmor-Bigfil62" points="9400.09,16978.78 9821.82,17117.43 10275.01,18131.34 9946.14,18251.91 "/>
+    <polygon class="NecklaceGladiatorArmor-Bigfil63" points="10502.47,16563.32 10953.67,16767.87 11377.38,17715.89 11048.52,17836.45 "/>
+    <polygon class="NecklaceGladiatorArmor-Bigfil29" points="9847.95,18778.63 10727.65,18910.68 12150.43,18352.67 12267.43,17969.01 12073.48,18285.8 10718.61,18807.45 "/>
+    <polygon class="NecklaceGladiatorArmor-Bigfil64" points="9400.09,16978.78 9843.5,17158.7 10275.01,18131.34 9946.14,18251.91 "/>
+    <polygon class="NecklaceGladiatorArmor-Bigfil28" points="9400.08,16978.78 9205.45,17339.06 9626.18,18371.76 9946.13,18251.92 "/>
+    <polygon class="NecklaceGladiatorArmor-Bigfil64" points="10502.47,16563.32 10953.67,16767.87 11377.38,17715.89 11048.52,17836.45 "/>
+    <polygon class="NecklaceGladiatorArmor-Bigfil28" points="11584.5,16290.88 11389.87,16651.17 11818.79,17567.84 12162.37,17457.47 "/>
+    <path class="NecklaceGladiatorArmor-Bigfil16 NecklaceGladiatorArmor-Bigstr15" d="M11464.56 17729.18l330.41 180.51 254.61 553.52m-2389.04 -78.91l2501.83 -926.83m-1936.25 1449.1l1345.14 -512.56m-1483.45 481.51l-217.2 -553.35m1781.06 242.53l-136.38 -289.52 -285.64 -156.19 -988.74 346.08 -86.28 -221.56" style="fill:#3e1d83"/>
+    <polygon class="NecklaceGladiatorArmor-Bigfil65" points="10824.73,19186.96 12345.71,18577.79 12430.69,18279.35 12302.56,17853.81 12150.43,18352.67 10727.65,18910.68 9778.72,18768.24 9877.87,19031.1 "/>
+    <path class="NecklaceGladiatorArmor-Bigfil16 NecklaceGladiatorArmor-Bigstr3" d="M12430.69 18279.36l-84.98 298.43 -1520.98 609.17 -946.86 -155.86 -657.62 -1585.61 179.83 -466.71 443.42 199.66 471.58 -175.6 187.39 -439.51 483.26 213.2 362.3 -111.58 216.31 -411.34 183.87 376.6c258.27,507.94 551.6,1084.57 682.48,1649.15z" style="fill:#288449"/>
+    <path class="NecklaceGladiatorArmor-Bigfil43" d="M9254.19 17458.68l401.37 1036.68c-215.13,-1.77 -425.25,-24.55 -629.76,-70.99l-369.71 -113 -209.2 -681.38 272.32 -97.25 44.48 101.41 490.5 -175.47z" style="fill:#f92b16"/>
+   </g>
+  </g>
+ </g><g id="Ears-Bear4">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_264Corel-Layer"/>
+  <g>
+        <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="rotate" values="0;0;0;0;0;0;10;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0"/>
+        <g>
+            <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0;0;0;0;0;2000 -2000;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0"/>
+            <path class="Ears-Bear4fil495 Ears-Bear4str4" d="M7834 12261c-2053,-1143 -1847,-3360 -770,-4288 908,-783 2981,-661 3859,791 -1605,514 -2115,1894 -3089,3497z" style="fill:#57593c"/>
+            <path class="Ears-Bear4fil496" d="M8222 11644c-1354,-540 -1606,-2542 -464,-3198 859,-493 2064,-260 2838,672 -1108,434 -1802,1598 -2374,2526z" style="fill:#098103"/>
+            <path class="Ears-Bear4fil14" d="M7224 9005c119,-228 296,-422 534,-559 839,-482 2008,-271 2783,608l-211 186c-122,64 -238,136 -349,217 -318,-931 -2139,-1137 -2757,-452z" style="fill:#eec83c"/>
+        </g>
+    </g>
+    <g>
+        <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="rotate" values="0;0;0;0;0;0;-10;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0"/>
+        <g>
+            <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0;0;0;0;0;-2500 2500;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0"/>
+            <path class="Ears-Bear4fil497 Ears-Bear4str4" d="M19474 12261c2053,-1143 1847,-3360 770,-4288 -908,-783 -2981,-661 -3860,791 1605,514 2116,1894 3090,3497z" style="fill:#326ee3"/>
+            <path class="Ears-Bear4fil498" d="M19086 11644c1354,-540 1606,-2542 464,-3198 -859,-493 -2065,-260 -2838,672 1107,434 1802,1598 2374,2526z" style="fill:#250d2f"/>
+            <path class="Ears-Bear4fil14" d="M20084 9005c-120,-228 -297,-422 -534,-559 -839,-482 -2009,-271 -2783,608l211 186c121,64 238,136 349,217 318,-931 2138,-1137 2757,-452z" style="fill:#a06137"/>
+        </g>
+    </g>
+ </g><g id="BraceleteMittensWeapon-Big">
+     <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+     <metadata id="CorelCorpID_12Corel-Layer"/>
+  <g>
+   <path class="BraceleteMittensWeapon-Bigfil209" d="M8122.46 20116.09c0,0 -1118.75,1159.79 -677.12,1788.5 431.41,1058.3 1508.23,525.96 1524.03,287.09 115.44,-89.52 99.02,105.01 389.1,173.64 290.07,68.64 430.97,-201.94 447.76,-381.43l97.09 -1037.15c-594.14,-78.34 -1187.84,-329.02 -1780.86,-830.65z" style="fill:#4cbdf9"/>
+   <path class="BraceleteMittensWeapon-Bigfil197" d="M8257.76 20705.51c-25.91,-24.7 -27.03,-69.98 -70.36,-72.52 -59.53,5.25 -37.39,48.5 -23.06,73.9 16.69,29.64 30.55,60.91 47.7,88.05 -15.14,29.95 -30.5,60.2 -45.85,90.69 -73.37,-21.07 -94.84,-6.78 -147.32,-10.65 -15.1,-47.07 -38.21,-67.77 -20.66,-101.63 19.47,-37.13 71.19,-78.84 69.3,-117.04 -4.9,-26.3 -34.06,-33.65 -54.03,-22.2 -20.02,11.49 -36.36,44.2 -52.06,63.94 -17,-17.31 -10.38,-68.73 -58.04,-59.24 -50.13,9.63 -24.32,64.34 -21.29,83.13 -24.86,0.99 -48.82,-16.97 -73.34,-17.28 -21.76,-0.21 -46.84,22.25 -38.6,47.93 8.29,26.38 105.96,45.67 141.78,62.98 8.96,27.21 18.05,54.82 27.17,82.99 -23.73,27.94 -55.56,28.42 -110.4,98.07 -107.53,-44.91 -90.39,-40.51 -101.59,-131.15 -3.49,-28.15 -5.44,-90.02 -60.69,-57.96 -34.47,28.58 -10.17,63.55 -15.06,99.98 -14.86,-6.48 -70.7,-28.62 -126.88,-45.8 -11.78,21.2 -23.4,42.75 -34.89,64.63 50.35,22.96 103.81,43.59 118.53,52.88 -31.08,22.08 -78.54,23.38 -88.96,67.48 -4.03,63.79 57.45,33.72 85.43,20.34 101.9,-48.85 84.33,-50.51 180.97,6.25 -22.75,63.91 -20.29,95.9 -23,152.32 -33.53,11.1 -66.86,22.02 -100.25,32.79 -30.05,-18.47 -53.96,-37.49 -79.71,-57.38 -31.93,-24.9 -42.9,-35.77 -76.64,-26.42 -49.16,59.75 -4.16,77.51 44.26,113.99 -21.86,22.21 -90.56,18.72 -80.11,79.54 10.45,60.71 72.2,14.67 99.71,17.08 -31.1,70.61 -76.7,141.02 12.8,146.65 39.91,-36.08 59.08,-110.35 84.02,-161.38 20.45,-41.7 82.85,-46.97 116.32,-58.21 31.34,44.46 42.73,85.24 98.66,131.08 -67.95,138.88 -36.39,110.06 -194.53,142.34 -19.19,3.92 -36.46,5.73 -50.01,26.8 -15.83,25.06 -12.13,51.78 4.61,67.69 29.45,28.1 77.27,-1.6 117.19,2.93 -22.1,46.75 -139.98,264.97 -100.93,301.09 4.33,4.11 9.15,5.62 14.65,5.07 1.92,6.18 5.41,10.9 10.3,14.06 45.24,27.54 151.64,-206.13 176.19,-252.79 24.97,40.02 27.44,107.21 66.96,126.44 22.75,10.92 47.58,1.75 58.9,-29.51 9.43,-26.26 0.77,-46.68 -7.6,-69.82 -63.94,-181.24 -69.36,-135.11 2.04,-275.58 70.28,29.16 111.39,17.66 169.78,24.04 12.6,41.09 51.07,111.45 27.52,157.49 -28.78,56.85 -81.99,119.35 -87.73,185.3 67.56,107.05 100.4,12.27 144.35,-64.41 23.22,31.96 25.86,135.43 94.78,115.65 71.42,-20.64 10.04,-106.99 14.32,-147.04 77.89,39.28 136.91,87.23 156.53,-12.53 -20.4,-48.1 -41.94,-54.85 -94.98,-78.68 -41.28,-18.16 -78.97,-34.74 -120.21,-57.88 -14.58,-43.27 -29.04,-85.74 -43.23,-127.4 49.77,-36.73 81.5,-53.78 124.95,-116.82 136.16,65.58 118.97,47.54 158.42,193.45 11.31,41.56 35.91,135.91 103.06,90.68 39.46,-41.75 -6.12,-100.59 -11.71,-151.71 54.85,24.39 410.76,240.67 428.33,178.81 17.06,-59.71 -345.51,-250.34 -391.43,-276.51 35.8,-30.22 99.96,-27.21 97.19,-85.95 -19.94,-81.87 -90.16,-40.38 -123.94,-24.64 -105.26,49.21 -85.52,64.52 -220.58,-15.5 23.02,-97.77 -1.33,-127.19 6.3,-166.98 33.72,-10.43 67.66,-20.91 101.72,-31.42 47.89,20.69 157.27,101.3 194.11,90.7 36.21,-10.19 36.24,-51.59 14.31,-72.66 -24.03,-23.23 -65.69,-32.72 -87.62,-56.28 22.41,-10.78 105.15,-26.75 67.56,-79.5 -34.59,-48.53 -81.35,-5.35 -113.99,-7.88 6.13,-27.32 24.94,-64.27 18.79,-89.25 -5.88,-24.19 -37.94,-42.02 -67.29,-27.19 -38.16,25.55 -36.33,96.22 -55.99,137.96 -17.98,38.07 -55.68,32.44 -110.56,51.35 -41.47,-40.51 -44.32,-67.03 -112.78,-109.98 15.4,-31.24 30.67,-62.2 45.71,-92.86 35.07,-5.61 72.3,-16.52 110.75,-24.58 34.01,-7.03 90.99,-20.93 49.46,-68 -34.68,-28.74 -75.59,1.72 -115.4,0.77 16.3,-32.93 95.58,-178.84 52.32,-193.24 -3.64,-1.18 -7.55,-1.13 -11.6,0.12 -1.85,-3.4 -4.48,-5.86 -8.15,-7.17 -41.21,-15.86 -108.33,131.11 -124.7,163.19zm-272.57 662.94c0,0 0.11,-0.16 0.22,-0.32 -0.94,-0.33 -1.92,-0.8 -2.89,-1.26 -0.83,-0.5 -1.69,-1.13 -2.55,-1.76 -0.11,0.16 -0.25,0.19 -0.25,0.19 -1.77,-0.82 45.82,26.24 -5.27,-2.9 -51.08,-29.13 -133.83,-184.33 -80.62,-282.55 75.31,-139.03 215.29,-105.97 281.61,-80.05 46.35,18.12 149.62,166.98 102.8,279.2 -46.82,112.22 -233.99,123.35 -287.71,92.62 -53.73,-30.74 -3.51,-2.07 -5.34,-3.17z" style="fill:#a77a3b"/>
+   <path class="BraceleteMittensWeapon-Bigfil80 BraceleteMittensWeapon-Bigstr0" d="M8122.46 20116.09c0,0 -1118.75,1159.79 -677.12,1788.5 431.41,1058.3 1508.23,525.96 1524.03,287.09 115.44,-89.52 99.02,105.01 389.1,173.64 290.07,68.64 430.97,-201.94 447.76,-381.43l97.09 -1037.15c-594.14,-78.34 -1187.84,-329.02 -1780.86,-830.65z" style="fill:#605ec5"/>
+   <path class="BraceleteMittensWeapon-Bigfil210 BraceleteMittensWeapon-Bigstr0" d="M8082.85 19978.75c625.2,374.13 1259.8,668.28 1911.2,885.97 25.27,97.85 -33.82,184.77 -104.7,229.34 -685.86,-233.31 -1324.67,-531.25 -1913.13,-898.36 0.24,-74.48 34.24,-160.06 106.63,-216.95z" style="fill:#90428d"/>
+   <path class="BraceleteMittensWeapon-Bigfil199" d="M8349.82 20475.21c-586.15,1027.01 -37.91,1866.8 375.52,1885.43 -153.18,188.16 -569.18,174.51 -928.12,-41.47 -339.46,-204.21 -213.32,-250.32 -361.69,-437.23 -80.88,-70.77 -97.69,-1040.84 501.35,-1570.83 86.95,-76.92 343.88,114.42 412.94,164.1z" style="fill:#7766e5"/>
+  </g>
+  <path class="BraceleteMittensWeapon-Bigfil204" d="M9446.85 21340.51c148,0 288.18,294.29 288.18,494.48 0,200.19 -147.83,387.58 -295.83,387.58 -148.01,0 -240.11,-174.68 -175.05,-362.48 65.06,-187.8 34.7,-519.58 182.7,-519.58z" style="fill:#b70d6e"/>
+  <g>
+   <g>
+    <g>
+     <path class="BraceleteMittensWeapon-Bigfil211" d="M17469.4 20866.41c0,0 122.78,1534.34 852.14,1615.78 1030.44,360.42 1330.33,-747.11 1169.31,-909.47 8.92,-139.27 137.8,-4.49 370.37,-168.75 232.58,-164.25 127.98,-436.23 10.11,-561.76l-681.08 -725.4c-431.82,375.8 -986.72,642.29 -1720.85,749.6z" style="fill:#254707"/>
+     <path class="BraceleteMittensWeapon-Bigfil80 BraceleteMittensWeapon-Bigstr0" d="M17469.4 20866.41c0,0 122.78,1534.34 852.14,1615.78 1030.44,360.42 1330.33,-747.11 1169.31,-909.47 8.92,-139.27 137.8,-4.49 370.37,-168.75 232.58,-164.25 127.98,-436.23 10.11,-561.76l-681.08 -725.4c-431.82,375.8 -986.72,642.29 -1720.85,749.6z" style="fill:#be9a23"/>
+     <path class="BraceleteMittensWeapon-Bigfil212 BraceleteMittensWeapon-Bigstr0" d="M17346.02 20807.9c663.21,-210.97 1275.11,-479.24 1842.88,-807.9 86.04,43.78 110.89,141.06 97.98,219.98 -600.76,343.46 -1218.03,612.35 -1852.98,801.46 -53.16,-47.27 -92.93,-125.73 -87.88,-213.54z" style="fill:#d999ff"/>
+     <path class="BraceleteMittensWeapon-Bigfil213" d="M18465.71 20740.43c747.85,-250.27 1191.11,282.74 1031.64,654.69 215.59,-1.29 532.03,-175.24 286.44,-508.61 -54.65,-74.18 -126.46,-137.14 -197.2,-223.81 -101.46,-132.11 -261.44,-276.08 -320.36,-326.83 -73.47,49.19 -119.39,53.58 -280.03,146.02 -134.41,77.36 -279.12,152.51 -520.49,258.54z" style="fill:#c4f881"/>
+    </g>
+    <path class="BraceleteMittensWeapon-Bigfil214" d="M18972.66 20206.79c39.46,3.85 46.94,54.21 28.9,81.83 9.65,-4.06 136.18,-72.32 147.38,-77.91 32.75,-18.45 46.39,-27.56 64.93,-34.53 0.43,-11.95 -1.15,-33.64 -18.03,-65.53 -17.87,-33.71 -36.06,-1.65 -63.22,11.15 -48.43,22.81 -112.66,60.72 -159.96,84.99z" style="fill:#88e2ba"/>
+    <path class="BraceleteMittensWeapon-Bigfil215" d="M17741.08 21050.4c-231.05,49.89 111.91,988.72 438.24,1196.76 326.33,208.04 763.32,246.22 1040,-99.51 276.68,-345.73 -45.97,-86.18 -562.27,-203.32 -701.03,-161.53 -726.61,-526.23 -915.97,-893.93z" style="fill:#542549"/>
+   </g>
+   <path class="BraceleteMittensWeapon-Bigfil112" d="M19543.43 21433.13c21.3,13.18 32.48,55.56 24.96,94.63 -7.52,39.07 -120.82,92.14 -142.13,78.96 -20.43,-16.69 -35.92,-80.43 -45.07,-155.24 -204.25,57.07 -402.06,25.12 -596.19,-329.61 119.49,89.58 291.09,311.19 574.22,211.72l0.01 0.1c8.02,-4.59 16.85,-4.79 25.35,0.47l158.85 98.97z" style="fill:#ded7fc"/>
+   <path class="BraceleteMittensWeapon-Bigfil215" d="M18797.39 21144.56c-113.63,24.54 -27.12,263.11 133.35,365.42 160.47,102.31 411.17,237.91 547.23,67.87 136.08,-170.03 -121.19,-218.12 -312.27,-216.81 -344.79,-79.45 -143.43,13.46 -368.31,-216.48z" style="fill:#7d728e"/>
+  </g>
+ </g><g id="Head-Bear4">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_271Corel-Layer"/>
+  <path class="Head-Bear4fil517" d="M13654 7273c-2617,0 -4867,1752 -6043,4159 -278,567 -495,1171 -644,1797 -523,2205 1261,3491 3236,4070 1146,336 2280,345 3451,345 1171,0 2305,-9 3451,-345 1974,-579 3759,-1865 3235,-4070 -148,-626 -366,-1230 -643,-1797 -1176,-2407 -3426,-4159 -6043,-4159z" style="fill:#64241b"/>
+  <path class="Head-Bear4fil32" d="M8207 10400c-323,432 -873,1854 -955,2101 -83,246 -154,494 -214,746 -230,969 -3,1755 493,2378 608,765 1621,1288 2692,1602 233,68 1645,361 2255,401 -690,66 -2074,-192 -2295,-257 -1096,-321 -2136,-860 -2766,-1652 -523,-657 -763,-1487 -521,-2507 61,-256 133,-510 217,-759 78,-234 501,-1357 1094,-2053z" style="fill:#fc1524"/>
+  <path class="Head-Bear4fil14" d="M8054 10635c-161,256 -309,522 -443,797 -278,567 -495,1171 -644,1797 -523,2205 1261,3491 3236,4070 620,182 1236,268 1857,308 140,6 280,13 418,21l0 0c-4165,-880 -6084,-2665 -4424,-6993z" style="fill:#0da537"/>
+  <path class="Head-Bear4fil32" d="M12866 7326c-601,115 -1457,466 -1734,598 -279,132 -1100,569 -1629,994 484,-570 1385,-1044 1568,-1130 176,-84 969,-436 1795,-462z" style="fill:#982cf3"/>
+  <path class="Head-Bear4fil32" d="M19100 10400c324,432 873,1854 956,2101 82,246 154,494 213,746 230,969 3,1755 -492,2378 -608,765 -1621,1288 -2693,1602 -232,68 -1644,361 -2255,401 690,66 2074,-192 2296,-257 1096,-321 2136,-860 2766,-1652 522,-657 763,-1487 520,-2507 -60,-256 -133,-510 -216,-759 -79,-234 -501,-1357 -1095,-2053z" style="fill:#e36af5"/>
+  <path class="Head-Bear4fil32" d="M14442 7326c600,115 1457,466 1734,598 279,132 1099,569 1629,994 -485,-570 -1385,-1044 -1568,-1130 -177,-84 -969,-436 -1795,-462z" style="fill:#993237"/>
+  <path class="Head-Bear4fil518" d="M13654 9359c-684,-1645 -4586,572 -5426,2315 -539,1121 -404,3066 626,3537 1485,680 2708,-206 2723,535 13,665 782,1475 2077,1484 1294,-9 2064,-819 2077,-1484 14,-741 1238,145 2723,-535 1029,-471 1165,-2416 625,-3537 -839,-1743 -4741,-3960 -5425,-2315z" style="fill:#ecd876"/>
+  <path class="Head-Bear4fil519" d="M13654 14309c-261,86 -522,172 -783,258 -598,-824 -1051,-2922 783,-2922 1834,0 1381,2098 782,2922 -261,-86 -521,-172 -782,-258z" style="fill:#f75376"/>
+ </g><g id="Mouth-Bear5">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_280Corel-Layer"/>
+  <path class="Mouth-Bear5fil22 Mouth-Bear5str0" d="M12420 15398c354,380 1208,220 1234,-572" style="fill:#eb2b5a"/>
+  <path class="Mouth-Bear5fil22 Mouth-Bear5str0" d="M14887 15398c-353,380 -1208,220 -1233,-572" style="fill:#65de37"/>
+  <path class="Mouth-Bear5fil100" d="M13666 14959c37,245 252,535 399,641 -123,-61 -307,-119 -411,-119 -104,0 -289,58 -411,119 146,-106 362,-396 399,-641l12 0 12 0z" style="fill:#9a77fb"/>
+  <path class="Mouth-Bear5fil152 Mouth-Bear5str9" d="M12810 15585c52,152 192,265 332,317 95,-82 159,-230 175,-419 -145,76 -331,126 -507,102z" style="fill:#794bd9"/>
+  <path class="Mouth-Bear5fil152 Mouth-Bear5str9" d="M14498 15585c-53,152 -192,265 -332,317 -96,-82 -159,-230 -175,-419 144,76 331,126 507,102z" style="fill:#c4f96c"/>
+ </g><g id="Eyes-Bear5">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_290Corel-Layer"/>
+  <path class="Eyes-Bear5fil552" d="M8820 14576c732,428 2019,189 2520,-324 751,-769 287,-2594 -479,-2784 -678,-169 -1448,103 -1899,664 -660,819 -734,2098 -142,2444z"/>
+  <path class="Eyes-Bear5fil553" d="M10425 11408c-490,21 -908,179 -1270,526 -943,905 -568,2203 -30,2504 708,397 1993,84 2312,-357 456,-630 536,-2611 -1012,-2673z"/>
+  <path class="Eyes-Bear5fil554" d="M10410 11431c734,-52 1263,562 1287,1373 34,1196 -515,1589 -1361,1662 -847,73 -1509,-507 -1493,-1368 17,-860 832,-1615 1567,-1667z"/>
+  <path class="Eyes-Bear5fil152" d="M10212 14082c196,-20 220,-87 232,-328 13,241 37,308 233,328 -196,20 -220,87 -233,329 -12,-242 -36,-309 -232,-329z"/>
+  <path class="Eyes-Bear5fil152" d="M9991 14172c86,-8 96,-38 102,-144 5,106 16,136 101,144 -85,9 -96,38 -101,144 -6,-106 -16,-135 -102,-144z"/>
+  <path class="Eyes-Bear5fil152" d="M10549 13673c86,-9 97,-38 102,-144 6,106 16,135 102,144 -86,8 -96,38 -102,144 -5,-106 -16,-136 -102,-144z"/>
+  <path class="Eyes-Bear5fil152" d="M9022 12859c121,-12 136,-54 144,-203 7,149 22,191 143,203 -121,12 -136,54 -143,203 -8,-149 -23,-191 -144,-203z"/>
+  <path class="Eyes-Bear5fil152" d="M11038 13903c86,-8 97,-38 102,-144 6,106 16,136 102,144 -86,9 -96,39 -102,144 -5,-105 -16,-135 -102,-144z"/>
+  <path class="Eyes-Bear5fil152" d="M8592 13479c-8,951 712,1231 1377,1141 -604,-76 -1182,-380 -1377,-1141z"/>
+  <path class="Eyes-Bear5fil157" d="M11483 14053c524,-990 98,-2427 -692,-2629 -599,-153 -1404,166 -1849,709 -299,364 -463,675 -500,1012l-1 17c449,-867 1405,-1379 2063,-1272 936,153 1111,1290 979,2163z"/>
+  <circle class="Eyes-Bear5fil152" r="235" transform="matrix(1.55653 -1.44003 0.848674 0.620922 9560.72 12041.3)"/>
+  <circle class="Eyes-Bear5fil152" r="235" transform="matrix(0.231366 -0.483919 0.323456 0.106841 8974.24 12527.5)"/>
+  <circle class="Eyes-Bear5fil152" r="235" transform="matrix(0.535512 -0.0305649 0.0623147 0.334896 10370.4 11668.2)"/>
+  <path class="Eyes-Bear5fil152" d="M10883 13064c173,-17 195,-76 206,-290 11,214 32,273 206,290 -174,18 -195,77 -206,291 -11,-214 -33,-273 -206,-291z"/>
+  <path class="Eyes-Bear5fil155" d="M12359 8700c-113,-24 -414,256 -840,404 -392,135 -763,85 -845,252 -91,185 269,613 488,667 180,45 597,-80 920,-388 382,-364 415,-907 277,-935z"/>
+  <path class="Eyes-Bear5fil14" d="M12359 8700c-113,-24 -414,256 -840,404 -392,135 -763,85 -845,252 -91,185 269,613 488,667 180,45 597,-80 920,-388 382,-364 415,-907 277,-935z"/>
+  <path class="Eyes-Bear5fil22 Eyes-Bear5str4" d="M8820 14576c732,428 2019,189 2520,-324 751,-769 287,-2594 -479,-2784 -678,-169 -1448,103 -1899,664 -660,819 -734,2098 -142,2444z"/>
+  <circle class="Eyes-Bear5fil152" r="235" transform="matrix(0.524035 0.0816328 -0.149565 0.73298 11340.1 13620.9)"/>
+  <path class="Eyes-Bear5fil555" d="M18488 14576c-732,428 -2019,189 -2520,-324 -751,-769 -288,-2594 479,-2784 677,-169 1448,103 1899,664 660,819 733,2098 142,2444z"/>
+  <path class="Eyes-Bear5fil556" d="M16883 11408c490,21 908,179 1270,526 943,905 567,2203 30,2504 -709,397 -1994,84 -2313,-357 -455,-630 -535,-2611 1013,-2673z"/>
+  <path class="Eyes-Bear5fil557" d="M16898 11431c-734,-52 -1264,562 -1287,1373 -34,1196 514,1589 1361,1662 847,73 1508,-507 1492,-1368 -16,-860 -831,-1615 -1566,-1667z"/>
+  <path class="Eyes-Bear5fil152" d="M17096 14082c-196,-20 -220,-87 -233,-328 -12,241 -36,308 -232,328 196,20 220,87 232,329 13,-242 37,-309 233,-329z"/>
+  <path class="Eyes-Bear5fil152" d="M17317 14172c-86,-8 -97,-38 -102,-144 -5,106 -16,136 -102,144 86,9 97,38 102,144 5,-106 16,-135 102,-144z"/>
+  <path class="Eyes-Bear5fil152" d="M16758 13673c-86,-9 -96,-38 -102,-144 -5,106 -16,135 -102,144 86,8 97,38 102,144 6,-106 16,-136 102,-144z"/>
+  <path class="Eyes-Bear5fil152" d="M18286 12859c-121,-12 -136,-54 -144,-203 -8,149 -22,191 -144,203 122,12 136,54 144,203 8,-149 23,-191 144,-203z"/>
+  <path class="Eyes-Bear5fil152" d="M16269 13903c-86,-8 -96,-38 -102,-144 -5,106 -16,136 -102,144 86,9 97,39 102,144 6,-105 16,-135 102,-144z"/>
+  <path class="Eyes-Bear5fil152" d="M18716 13479c8,951 -713,1231 -1377,1141 604,-76 1181,-380 1377,-1141z"/>
+  <path class="Eyes-Bear5fil157" d="M15825 14053c-525,-990 -98,-2427 692,-2629 599,-153 1404,166 1849,709 298,364 463,675 499,1012l2 17c-450,-867 -1405,-1379 -2063,-1272 -937,153 -1111,1290 -979,2163z"/>
+  <circle class="Eyes-Bear5fil152" r="235" transform="matrix(-1.55653 -1.44003 -0.848674 0.620922 17746.9 12041.3)"/>
+  <circle class="Eyes-Bear5fil152" r="235" transform="matrix(-0.231366 -0.483919 -0.323456 0.106841 18333.4 12527.5)"/>
+  <circle class="Eyes-Bear5fil152" r="235" transform="matrix(-0.535512 -0.0305649 -0.0623147 0.334896 16937.3 11668.2)"/>
+  <path class="Eyes-Bear5fil152" d="M16425 13064c-174,-17 -195,-76 -206,-290 -11,214 -32,273 -206,290 174,18 195,77 206,291 11,-214 32,-273 206,-291z"/>
+  <path class="Eyes-Bear5fil155" d="M14948 8700c113,-24 414,256 841,404 391,135 763,85 845,252 91,185 -269,613 -489,667 -180,45 -597,-80 -920,-388 -382,-364 -414,-907 -277,-935z"/>
+  <path class="Eyes-Bear5fil14" d="M14948 8700c113,-24 414,256 841,404 391,135 763,85 845,252 91,185 -269,613 -489,667 -180,45 -597,-80 -920,-388 -382,-364 -414,-907 -277,-935z"/>
+  <path class="Eyes-Bear5fil22 Eyes-Bear5str4" d="M18488 14576c-732,428 -2019,189 -2520,-324 -751,-769 -288,-2594 479,-2784 677,-169 1448,103 1899,664 660,819 733,2098 142,2444z"/>
+  <circle class="Eyes-Bear5fil152" r="235" transform="matrix(-0.524035 0.0816328 0.149565 0.73298 15967.6 13620.9)"/>
+ </g><g id="Moustache-Bear7">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_303Corel-Layer"/>
+  <path class="Moustache-Bear7fil596" d="M12397 14375c-291,148 -87,659 -433,707 -1194,163 -19,1359 -736,3406 107,-1171 -377,-2344 -322,-3069 50,-666 599,-928 1491,-1044z" style="fill:#3d626b"/>
+  <path class="Moustache-Bear7fil32" d="M11983 15078c-25,34 -643,-100 -511,1114 57,573 170,1368 -170,2337 -13,39 -56,59 -95,46 -34,-12 -54,-46 -49,-80 100,-1107 -360,-2137 -291,-3066 61,-886 1136,-1038 1530,-1054 -520,117 -1376,206 -1438,1077 -51,682 389,1992 343,2755 143,-686 97,-1556 52,-2000 -117,-1127 474,-1128 629,-1129z" style="fill:#23ef54"/>
+  <path class="Moustache-Bear7fil597" d="M14911 14375c290,148 87,659 432,707 1195,163 20,1359 737,3406 -107,-1171 376,-2344 322,-3069 -50,-666 -599,-928 -1491,-1044z" style="fill:#2bb713"/>
+  <path class="Moustache-Bear7fil32" d="M15325 15078c25,34 643,-100 511,1114 -57,573 -170,1368 169,2337 14,39 56,59 95,46 34,-12 54,-46 50,-80 -100,-1107 360,-2137 290,-3066 -61,-886 -1135,-1038 -1529,-1054 520,117 1375,206 1437,1077 51,682 -389,1992 -342,2755 -143,-686 -97,-1556 -53,-2000 118,-1127 -473,-1128 -628,-1129z" style="fill:#a8db79"/>
+ </g><g id="Nose-Bear0">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_304Corel-Layer"/>
+  <path class="Nose-Bear0fil598 Nose-Bear0str0" d="M13654 14109c-356,0 -852,135 -813,337 34,185 361,481 813,481 452,0 778,-296 813,-481 38,-202 -457,-337 -813,-337z" style="fill:#ed5165"/>
+ </g><g id="Hair-Bear6">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_311Corel-Layer"/>
+  <path class="Hair-Bear6fil604 Hair-Bear6str0" d="M10351 8216c2142,-3077 7439,-2664 8281,28 -895,-581 -1727,-687 -2342,-655 1265,441 2133,2254 917,3911 -225,-1422 -1330,-2985 -2530,-3124 915,730 402,2379 -375,3011 -210,-3128 -2662,-3441 -3951,-3171z" style="fill:#b70187"/>
+  <path class="Hair-Bear6fil14" d="M10442 8188c3674,-1623 4544,2406 3856,3152 -134,-2224 -1799,-3599 -3856,-3152z" style="fill:#0353cc"/>
+  <path class="Hair-Bear6fil14" d="M14690 8380c2258,-150 2899,2242 2497,2999 -574,-2033 -1559,-2853 -2497,-2999z" style="fill:#d385c1"/>
+ </g><g id="WeaponIcicleFront-Big">
+       <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+     <metadata id="CorelCorpID_9Corel-Layer"/>
+  <g>
+   <g>
+    <path class="WeaponIcicleFront-Bigfil81" d="M10552.15 21543.3c85.48,71.37 170.95,142.73 256.42,214.11 234.65,90.87 441.99,233.37 546.63,456.39 117.56,98.17 235.13,196.32 352.71,294.48 254.51,78.4 429.58,220.4 545.66,455.58 103.75,86.62 207.51,173.24 311.26,259.87 241.22,100.72 388.8,233.84 535.47,447.07 412.57,344.45 825.14,688.93 1237.71,1033.39 179.31,149.72 214.56,409.41 81.63,601.51 -132.93,192.08 -388.39,250.61 -591.68,135.55 -345.89,-195.76 -702.88,-370.54 -1048.46,-567.12 -137.28,-78.09 -264.98,-172.42 -399.46,-253.63 -248.59,-74.71 -460.8,-165.27 -627.55,-363.09 -158.57,-91.46 -318.17,-181.12 -477.36,-271.47 -233.38,-39.66 -431.97,-149.48 -583.7,-332.63 -166.55,-94.94 -333.11,-189.89 -499.67,-284.83 -257.48,-47.3 -470.54,-158.39 -635.07,-362l-181.77 -103.63 225.12 -272.87 469.97 -834.81c10.07,-11 20.1,-21.84 30.07,-32.51 9.2,-9.85 13.03,-27.57 15.1,-47.73l90.68 -161.08c10.01,-4.94 20.45,-8.8 31.47,-11.36 153.68,-35.63 221.32,-52.73 314.82,0.81z" style="fill:#24cb14"/>
+    <path class="WeaponIcicleFront-Bigfil82" d="M10425.13 21632.67c102.21,85.33 204.43,170.67 306.64,256.01 215.44,79.26 413.77,205.51 499.87,417.36 134.64,112.43 269.3,224.86 403.95,337.28 240.44,67.22 394.84,190.96 496.62,414.62 118.12,98.6 236.22,197.22 354.34,295.84 233.31,93.27 363.63,213.74 501.58,418.79 417.92,348.91 835.83,697.84 1253.74,1046.76 119.55,99.82 143.05,272.94 54.43,401 -88.63,128.06 -258.93,167.09 -394.46,90.37 -345.81,-195.71 -702.71,-370.43 -1048.17,-566.95 -141.64,-80.57 -273.21,-178.59 -412.73,-261.6 -233.77,-68.8 -436.26,-148.2 -589.5,-340.82 -174.64,-100.99 -350.61,-199.66 -526,-299.33 -217.61,-31.16 -398.78,-130.21 -534.98,-304.9 -182.37,-103.96 -364.74,-207.92 -547.12,-311.87 -241.89,-39.67 -437.38,-138.32 -586.78,-334.48l-184.76 -105.33 128.24 -155.44 608.1 -1080.16c10.53,-3.7 20.48,-6.07 28.06,-6.61 158.81,-11.3 164.7,50 188.93,89.46z" style="fill:#3481f5"/>
+    <path class="WeaponIcicleFront-Bigfil83" d="M10237.38 21545c15.87,36.05 46.22,134.18 58.22,174.92 120.15,100.33 240.31,200.64 360.45,300.96 191.79,66.61 384.51,174.72 448.24,374.24 153.59,128.26 307.2,256.51 460.8,384.74 118.04,29.77 231.36,79.18 318.07,167.27 60.09,61.02 95.81,127.65 126.03,203.5 133.38,111.36 266.74,222.71 400.11,334.06 114.53,43.96 219.97,103.25 309.2,189.06 63.94,61.49 109.79,127.6 157.02,200.19 423.4,353.5 846.81,707.03 1270.22,1060.54 59.77,49.9 71.51,136.47 27.21,200.5 -44.31,64.03 -129.46,83.53 -197.23,45.18 -345.73,-195.67 -702.54,-370.35 -1047.89,-566.8 -146.23,-83.18 -281.9,-185.17 -426.84,-269.92 -216.56,-62.66 -410.81,-130.17 -548.5,-316.93 -192.01,-111.38 -385.72,-219.76 -578.64,-329.53 -200.83,-22.32 -362.35,-108.87 -482.12,-274.81 -199.4,-113.66 -398.78,-227.33 -598.18,-340.99 -225.33,-32.03 -401.42,-116.14 -534.98,-304.95l-189.89 -108.24 31.36 -38.01 600.49 -1066.65c12.69,-6.19 25.27,-12.08 36.85,-18.33z" style="fill:#852ad9"/>
+   </g>
+   <path class="WeaponIcicleFront-Bigfil84" d="M10121.14 21704.35c31.23,33.71 70.62,72.37 76.47,95.66 139.39,116.39 278.8,232.76 418.18,349.14 269.14,88.19 367.19,201.16 389.4,325.13 175.1,146.21 350.22,292.42 525.33,438.61 279.67,60.93 338.26,190.37 386.78,322.92 149.97,125.2 299.93,250.42 449.89,375.62 263.67,95.06 344.37,227.05 429.08,358.24 429.21,358.35 858.43,716.73 1287.64,1075.09 -364.85,-206.5 -684.61,-360.16 -1047.6,-566.64 -132.27,-75.24 -310.55,-203.34 -441.78,-278.59 -192.84,-55.32 -384.73,-110.45 -503.78,-290.96 -211.04,-122.88 -424.34,-241.89 -636.51,-362.83 -164.09,-11.95 -312.61,-70.91 -424.09,-241.75 -217.86,-124.19 -435.74,-248.39 -653.61,-372.58 -180.36,-21.52 -351.33,-74.66 -478.98,-273.03l-237.34 -135.3 373.12 -662.77 5.78 -184.03 82.02 28.07z" style="fill:#16049d"/>
+   <path class="WeaponIcicleFront-Bigfil194" d="M10024.44 21876.11c6.62,11.96 11.91,22.37 13.42,28.38 126.32,105.17 200.67,379.42 518.04,507.29 300.89,121.25 592.25,315.56 820.02,625.18 500.39,457.99 1035.83,790.78 1621.72,1258.3 -891.74,-494.74 -2123.81,-1351.43 -3258.82,-1912.59 47.29,-84.02 94.8,-165.2 141.06,-249.77 9.36,-17.13 18.88,-34.26 28.52,-51.39 9.02,-16.01 18.16,-32.03 27.45,-48.04 9.54,-29.97 29.35,-60.45 52.12,-92.59 12.16,-21.59 24.31,-43.18 36.47,-64.77z" style="fill:#11e710"/>
+   <path class="WeaponIcicleFront-Bigfil195" d="M9880.09 22131.92c177.77,171.23 300.69,374.06 574.09,417.5 282.21,44.85 499.78,216.95 665.93,479.22 636.53,457.65 1281.91,914.64 1827.49,1242.63 -873.35,-496.11 -2076.99,-1331.76 -3208.2,-1888.7l140.69 -250.65z" style="fill:#bc17c3"/>
+   <path class="WeaponIcicleFront-Bigfil87" d="M10276.27 22637.17c-85.38,-90.3 -306.26,-271.84 -484.64,-348.51 19.65,-34.54 34.03,-59.59 53.58,-95.07 100.08,78.33 185.79,158.3 262.95,235.5 111.26,111.32 239.46,90.18 375.3,208.32 -26.45,-32.25 -180.72,32 -207.19,-0.24z" style="fill:#ed66c9"/>
+   <path class="WeaponIcicleFront-Bigfil91" d="M10191.75 21843.24c-190.31,121.64 -349.39,228.25 -13.85,392.46 0,0 -202.64,-60.64 -269.4,-153.63l8.59 -17.23 19.36 -33.02 5.68 -17.19 40.3 -71.59 41.21 -65.5c43.34,-22.71 98.59,-45.92 168.05,-69.47l0.06 35.17z" style="fill:#0f0db8"/>
+   <path class="WeaponIcicleFront-Bigfil190" d="M11106.63 22666.73c310.98,248.5 543.42,474.51 519.19,504.83 -24.22,30.31 -266.23,-159.84 -577.18,-408.32 -191.33,-152.87 -468.7,-280.5 -628.41,-316.38 -80.16,-18 70.15,-163.51 79.46,-175.16 24.22,-30.31 295.95,146.53 606.94,395.03z" style="fill:#c46eb9"/>
+   <path class="WeaponIcicleFront-Bigfil94" d="M11727.22 23163.52c57.06,148.4 10.58,161.78 -120.82,98.16 -131.4,-63.62 -111.36,-44.06 -104.64,-97.73 18.71,-149.51 169.68,-145.48 225.46,-0.43z" style="fill:#f8d905"/>
+   <path class="WeaponIcicleFront-Bigfil191" d="M12405.69 23722.27c57.7,-0.11 263.63,216.96 263.73,271.06 0.11,54.09 -189.13,-73.69 -246.82,-73.58 -57.69,0.11 -134.39,-88.24 -134.5,-142.33 -0.1,-54.09 59.91,-55.04 117.59,-55.15z" style="fill:#5e9d8c"/>
+   <path class="WeaponIcicleFront-Bigfil95" d="M9748.98 22365.41c960.19,507.76 3672.49,2139.45 3824.08,2365.92 106.48,159.06 -1043.02,-522.13 -2149.42,-1192.7 -139.01,14.28 -260.2,-58.82 -361.52,-219.59 -241.81,-147.15 -474.33,-289.1 -683.02,-416.32 -228.51,3.88 -400.29,-86.49 -492.51,-299.3 -77.6,-46.87 -145.89,-87.86 -203.04,-121.78l65.43 -116.23z" style="fill:#e3d2ff"/>
+   <path class="WeaponIcicleFront-Bigfil92" d="M10672.3 22290.39c48.79,-0.09 204.37,142.51 204.46,188.26 0.09,45.74 -69.39,-39.42 -118.18,-39.33 -48.79,0.1 -147.96,-46.72 -148.05,-92.46 -0.08,-45.74 12.98,-56.38 61.77,-56.47z" style="fill:#26be7f"/>
+   <path class="WeaponIcicleFront-Bigfil92" d="M11939.79 23416.05c95.07,75.96 166.13,145.06 158.72,154.33 -7.4,9.26 -90.47,-44.8 -185.54,-120.77 -95.06,-75.96 -166.12,-145.06 -158.72,-154.32 7.41,-9.27 90.48,44.79 185.54,120.76z" style="fill:#cdea7e"/>
+   <path class="WeaponIcicleFront-Bigfil80 WeaponIcicleFront-Bigstr0" d="M10090.94 21594.53c18.62,45.44 76.22,189.66 80.21,205.53 139.39,116.39 278.8,232.76 418.18,349.14 269.14,88.19 367.19,201.16 389.4,325.13 175.1,146.21 350.22,292.42 525.33,438.61 279.67,60.94 338.26,190.37 386.78,322.92 149.97,125.2 299.93,250.42 449.89,375.62 263.67,95.06 344.37,227.06 429.08,358.24 429.21,358.35 858.43,716.73 1287.64,1075.09 -364.85,-206.5 -684.61,-360.16 -1047.6,-566.64 -132.27,-75.24 -310.55,-203.34 -441.78,-278.59 -192.84,-55.32 -384.73,-110.45 -503.78,-290.96 -211.04,-122.88 -424.34,-241.89 -636.51,-362.83 -164.09,-11.95 -312.61,-70.91 -424.09,-241.74 -217.86,-124.2 -435.74,-248.4 -653.61,-372.59 -180.36,-21.52 -351.33,-74.66 -478.98,-273.03l-217.33 -123.89" style="fill:#0f29e2"/>
+  </g>
+ </g></svg>

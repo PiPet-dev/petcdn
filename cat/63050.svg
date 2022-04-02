@@ -1,0 +1,908 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd" version="1.1" viewBox="0 0 29000 29000" xml:space="preserve"><defs><style type="text/css">.Tail-Cat6fil31 {fill:url(#Tail-Cat6id927)}
+.Tail-Cat6fil26 {fill:#fef2f2}
+.Tail-Cat6fil14 {fill:black;fill-opacity:0.200000}
+.Tail-Cat6fil32 {fill:black;fill-rule:nonzero}
+.Tail-Cat6fil22 {fill:none}
+.Tail-Cat6str0 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.RightFoot-Cat0fil26 {fill:#fef2f2}
+.RightFoot-Cat0fil14 {fill:black;fill-opacity:0.200000}
+.RightFoot-Cat0fil22 {fill:none}
+.RightFoot-Cat0fil32 {fill:black;fill-rule:nonzero}
+.LeftFoot-Cat0fil26 {fill:#fef2f2}
+.LeftFoot-Cat0fil14 {fill:black;fill-opacity:0.200000}
+.LeftFoot-Cat0fil22 {fill:none}
+.LeftFoot-Cat0fil32 {fill:black;fill-rule:nonzero}
+.RightHand-Cat0fil48 {fill:url(#RightHand-Cat0id246)}
+.RightHand-Cat0fil14 {fill:black;fill-opacity:0.200000}
+.RightHand-Cat0fil22 {fill:none}
+.RightHand-Cat0str0 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.RightPaw-Cat0fil26 {fill:#fef2f2}
+.RightPaw-Cat0fil14 {fill:black;fill-opacity:0.200000}
+.RightPaw-Cat0fil32 {fill:black;fill-rule:nonzero}
+.LeftHand-Cat0fil55 {fill:url(#LeftHand-Cat0id849)}
+.LeftHand-Cat0fil14 {fill:black;fill-opacity:0.200000}
+.LeftHand-Cat0fil22 {fill:none}
+.LeftHand-Cat0str0 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.LeftPaw-Cat0fil26 {fill:#fef2f2}
+.LeftPaw-Cat0fil14 {fill:black;fill-opacity:0.200000}
+.LeftPaw-Cat0fil32 {fill:black;fill-rule:nonzero}
+.Body-Cat2fil62 {fill:url(#Body-Cat2id318)}
+.Body-Cat2fil14 {fill:black;fill-opacity:0.200000}
+.Body-Cat2fil32 {fill:black;fill-rule:nonzero}
+.Body-Cat2fil64 {fill:url(#Body-Cat2id245)}
+.Ears-Cat6fil105 {fill:url(#Ears-Cat6id61)}
+.Ears-Cat6fil106 {fill:url(#Ears-Cat6id391)}
+.Ears-Cat6fil14 {fill:black;fill-opacity:0.200000}
+.Ears-Cat6fil108 {fill:url(#Ears-Cat6id73)}
+.Ears-Cat6fil109 {fill:url(#Ears-Cat6id485)}
+.Ears-Cat6fil104 {fill:url(#Ears-Cat6id288)}
+.Ears-Cat6str0 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.Ears-Cat6fil107 {fill:url(#Ears-Cat6id93)}
+.Head-Cat6fil146 {fill:url(#Head-Cat6id32)}
+.Head-Cat6fil147 {fill:url(#Head-Cat6id44)}
+.Head-Cat6fil32 {fill:black;fill-rule:nonzero}
+.Head-Cat6fil14 {fill:black;fill-opacity:0.200000}
+.Mouth-Cat4fil100 {fill:black}
+.Mouth-Cat4fil22 {fill:none}
+.Mouth-Cat4str0 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.Eyes-Cat6fil184 {fill:url(#Eyes-Cat6id861)}
+.Eyes-Cat6fil185 {fill:url(#Eyes-Cat6id1071)}
+.Eyes-Cat6fil186 {fill:url(#Eyes-Cat6id612)}
+.Eyes-Cat6fil152 {fill:white}
+.Eyes-Cat6fil157 {fill:black;fill-opacity:0.501961}
+.Eyes-Cat6fil187 {fill:url(#Eyes-Cat6id901)}
+.Eyes-Cat6fil188 {fill:url(#Eyes-Cat6id1067)}
+.Eyes-Cat6fil189 {fill:url(#Eyes-Cat6id624)}
+.Eyes-Cat6fil155 {fill:#cc975c}
+.Eyes-Cat6fil14 {fill:black;fill-opacity:0.200000}
+.Eyes-Cat6fil22 {fill:none}
+.Eyes-Cat6str4 {stroke:black;stroke-width:150}
+.Moustache-Cat0fil22 {fill:none}
+.Nose-Cat0fil221 {fill:url(#Nose-Cat0id921)}
+.Nose-Cat0str0 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.HatWoodElfBack-Mediumfil19new {fill:url(#HatWoodElfBack-Mediumid1new)}
+.HatWoodElfBack-Mediumstr0new {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.BraceletSteel-Mediumfil57new {fill:url(#BraceletSteel-Mediumid666new);fill-rule:nonzero}
+.BraceletSteel-Mediumstr4new {stroke:black;stroke-width:100}
+.BraceletSteel-Mediumfil58new {fill:url(#BraceletSteel-Mediumid686new);fill-rule:nonzero}
+.HatWoodElf-Mediumfil14new {fill:black;fill-opacity:0.200000}
+.HatWoodElf-Mediumfil709new {fill:url(#HatWoodElf-Mediumid41new)}
+.HatWoodElf-Mediumfil283new {fill:#FFFF99;fill-opacity:0.200000}
+.HatWoodElf-Mediumfil1new {fill:none}
+.HatWoodElf-Mediumstr1new {stroke:#99FF99;stroke-width:50;stroke-opacity:0.501961}
+.HatWoodElf-Mediumfil33new {fill:none}
+.HatWoodElf-Mediumstr0new {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.WeaponBflyKnifeBack-Mediumfil23 {fill:black}
+.WeaponBflyKnifeBack-Mediumfil25 {fill:url(#WeaponBflyKnifeBack-Mediumid10)}
+.WeaponBflyKnifeBack-Mediumstr0 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.WeaponBflyKnifeBack-Mediumfil24 {fill:url(#WeaponBflyKnifeBack-Mediumid20)}
+.WeaponBflyKnifeBack-Mediumstr1 {stroke:black;stroke-width:150}
+.WeaponBflyKnife-Mediumfil26 {fill:url(#WeaponBflyKnife-Mediumid21)}
+.WeaponBflyKnife-Mediumfil27 {fill:white;fill-opacity:0.501961}
+.WeaponBflyKnife-Mediumfil28 {fill:#820000}
+.WeaponBflyKnife-Mediumfil23 {fill:black}
+.WeaponBflyKnife-Mediumfil29 {fill:url(#WeaponBflyKnife-Mediumid5)}
+.WeaponBflyKnife-Mediumfil30 {fill:url(#WeaponBflyKnife-Mediumid15)}
+.WeaponBflyKnife-Mediumfil31 {fill:white;fill-opacity:0.301961}
+.WeaponBflyKnife-Mediumfil14 {fill:none}
+.WeaponBflyKnife-Mediumstr0 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.AccessoryBannerDropfil55 {fill:url(#AccessoryBannerDropid30)}
+.AccessoryBannerDropfil56 {fill:url(#AccessoryBannerDropid57)}
+.AccessoryBannerDropfil57 {fill:url(#AccessoryBannerDropid56)}
+.AccessoryBannerDropfil58 {fill:url(#AccessoryBannerDropid61);fill-opacity:0.200000}
+.AccessoryBannerDropfil17 {fill:black;fill-opacity:0.200000}
+.AccessoryBannerDropfil31 {fill:url(#AccessoryBannerDropid49)}
+.AccessoryBannerDropstr0 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.AccessoryBannerDropfil19 {fill:url(#AccessoryBannerDropid17)}
+.AccessoryBannerDropfil51 {fill:url(#AccessoryBannerDropid8)}
+.AccessoryBannerDropfil52 {fill:url(#AccessoryBannerDropid2)}
+.AccessoryBannerDropfil53 {fill:url(#AccessoryBannerDropid5)}
+.AccessoryBannerDropfil33 {fill:url(#AccessoryBannerDropid37)}
+.AccessoryBannerDropfil24 {fill:url(#AccessoryBannerDropid45)}
+.AccessoryBannerDropfil54 {fill:url(#AccessoryBannerDropid55)}
+.AccessoryBannerDropfil11 {fill:none}
+.AccessoryBannerDropfil59 {fill:url(#AccessoryBannerDropid25)}
+.AccessoryBannerDropstr1 {stroke:black;stroke-width:150}
+.AccessoryBannerDropfil26 {fill:url(#AccessoryBannerDropid20)}
+.NecklaceKimonoBack4-Mediumfil265 {fill:#2E0E0E}
+.NecklaceKimonoBack4-Mediumstr24 {stroke:black;stroke-width:150;stroke-linejoin:round;stroke-miterlimit:22.9256}
+.NecklaceKimono4-Mediumfil5 {fill:black;fill-opacity:0.400000}
+.NecklaceKimono4-Mediumfil1 {fill:black}
+.NecklaceKimono4-Mediumfil272 {fill:#B3B368;fill-rule:nonzero}
+.NecklaceKimono4-Mediumfil273 {fill:#B3B368}
+.NecklaceKimono4-Mediumfil12 {fill:black;fill-opacity:0.301961}
+.NecklaceKimono4-Mediumfil277 {fill:#BDBD48}
+.NecklaceKimono4-Mediumfil278 {fill:#BD3024}
+.NecklaceKimono4-Mediumfil286 {fill:#FFFF66}
+.NecklaceKimono4-Mediumfil123 {fill:black;fill-opacity:0.200000}
+.NecklaceKimono4-Mediumfil280 {fill:#9FB865}
+.NecklaceKimono4-Mediumfil281 {fill:#E81C1C}
+.NecklaceKimono4-Mediumfil4 {fill:black;fill-opacity:0.301961}
+.NecklaceKimono4-Mediumfil179 {fill:black;fill-rule:nonzero}
+.NecklaceKimono4-Mediumfil287 {fill:#1A1A1A;fill-rule:nonzero}
+.NecklaceKimono4-Mediumfil175 {fill:white}
+.NecklaceKimono4-Mediumfil266 {fill:#FFFFB8}
+.NecklaceKimono4-Mediumstr0 {stroke:black;stroke-width:150;stroke-linejoin:round;stroke-miterlimit:22.9256}
+.NecklaceKimono4-Mediumfil9 {fill:none}
+.NecklaceKimono4-Mediumstr1 {stroke:black;stroke-width:100;stroke-miterlimit:22.9256}
+.NecklaceKimono4-Mediumfil268 {fill:#F2FA96}
+.NecklaceKimono4-Mediumfil269 {fill:#B4AF6F}
+.NecklaceKimono4-Mediumstr21 {stroke:black;stroke-width:100;stroke-linejoin:round;stroke-miterlimit:22.9256}
+.NecklaceKimono4-Mediumfil284 {fill:#FFFF99}
+.NecklaceKimono4-Mediumfil274 {fill:#D6D671}
+.NecklaceKimono4-Mediumfil285 {fill:url(#NecklaceKimono4-Mediumid2)}
+.NecklaceKimono4-Mediumstr27 {stroke:#6D3C19;stroke-width:150;stroke-miterlimit:22.9256}
+</style><linearGradient gradientUnits="objectBoundingBox" id="Tail-Cat6id927" x1="26.3028%" x2="73.6972%" xlink:href="#Tail-Cat6id925" y1="80.6558%" y2="19.3442%">
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="RightHand-Cat0id246" x1="31.4718%" x2="68.5282%" y1="2.00058%" y2="97.9991%">
+   <stop offset="0" style="stop-opacity:1; stop-color:#d6c89a"/>
+   <stop offset="0.878431" style="stop-opacity:1; stop-color:#fdf0c4"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#fdf0c4"/>
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="LeftHand-Cat0id849" x1="71.9477%" x2="28.0523%" xlink:href="#LeftHand-Cat0id246" y1="2.1954%" y2="97.8043%">
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="Body-Cat2id318" x1="50%" x2="50%" xlink:href="#Body-Cat2id36" y1="0.000186021%" y2="100%">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Body-Cat2id245" x1="13681.9" x2="13681.9" y1="22974.9" y2="18175.1">
+   <stop offset="0" style="stop-opacity:1; stop-color:#fef2f2"/>
+   <stop offset="0.65098" style="stop-opacity:1; stop-color:#fef2f2"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#f2dada"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Ears-Cat6id61" x1="6344" x2="10713.3" y1="10122.8" y2="11711.6">
+   <stop offset="0" style="stop-opacity:1; stop-color:#F5E2E2"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#C49D9D"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Ears-Cat6id391" x1="7496.54" x2="10242.5" xlink:href="#Ears-Cat6id114" y1="9584.66" y2="10114.6">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Ears-Cat6id73" x1="21020.1" x2="16650.4" xlink:href="#Ears-Cat6id61" y1="10122" y2="11712.4">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Ears-Cat6id485" x1="19867.1" x2="17121.7" xlink:href="#Ears-Cat6id114" y1="9585.28" y2="10114">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Ears-Cat6id288" x1="6917.52" x2="10726" xlink:href="#Ears-Cat6id93" y1="8315.58" y2="13258.5">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Head-Cat6id32" x1="13681.9" x2="13681.9" y1="17986.7" y2="7484.8">
+   <stop offset="0" style="stop-opacity:1; stop-color:#d6c89a"/>
+   <stop offset="0.0313725" style="stop-opacity:1; stop-color:#d6c89a"/>
+   <stop offset="0.329412" style="stop-opacity:1; stop-color:#fdf0c4"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#fffaeb"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Head-Cat6id44" x1="13681.9" x2="13681.9" y1="13069.4" y2="17334.3">
+   <stop offset="0" style="stop-opacity:1; stop-color:#fef2f2"/>
+   <stop offset="0.541176" style="stop-opacity:1; stop-color:#fef2f2"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#f2dada"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Eyes-Cat6id861" x1="10767.7" x2="10191.5" xlink:href="#Eyes-Cat6id27" y1="14582.6" y2="11695.8">
+  </linearGradient><radialGradient cx="10752" cy="13305.3" fx="10752" fy="13305.3" gradientTransform="matrix(0.810963 -0 -0 1 2033 0)" gradientUnits="userSpaceOnUse" id="Eyes-Cat6id1071" r="1458.03" xlink:href="#Eyes-Cat6id1039">
+  </radialGradient><linearGradient gradientUnits="userSpaceOnUse" id="Eyes-Cat6id612" x1="10562.8" x2="10941.3" xlink:href="#Eyes-Cat6id384" y1="11901.5" y2="13839.3">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Eyes-Cat6id901" x1="16596.1" x2="17172.3" xlink:href="#Eyes-Cat6id27" y1="14582.6" y2="11695.8">
+  </linearGradient><radialGradient cx="16611.8" cy="13305.3" fx="16611.8" fy="13305.3" gradientTransform="matrix(-0.810963 -0 -0 1 30083 0)" gradientUnits="userSpaceOnUse" id="Eyes-Cat6id1067" r="1458.03" xlink:href="#Eyes-Cat6id1039">
+  </radialGradient><linearGradient gradientUnits="userSpaceOnUse" id="Eyes-Cat6id624" x1="16422.5" x2="16801.1" xlink:href="#Eyes-Cat6id384" y1="11901.5" y2="13839.3">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Nose-Cat0id921" x1="13681.9" x2="13681.9" y1="13407.9" y2="13968.6">
+   <stop offset="0" style="stop-opacity:1; stop-color:#FFCCCC"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#DB9092"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="HatWoodElfBack-Mediumid1new" x1="13682.1" x2="13682.1" y1="18374" y2="9671.4">
+   <stop offset="0" style="stop-opacity:1; stop-color:#47472A"/>
+   <stop offset="0.360784" style="stop-opacity:1; stop-color:black"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:black"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletSteel-Mediumid666new" x1="8808.47" x2="10149.2" xlink:href="#BraceletSteel-Mediumid663new" y1="19708.3" y2="20807.9">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletSteel-Mediumid686new" x1="18555.4" x2="17214.7" xlink:href="#BraceletSteel-Mediumid663new" y1="19708.3" y2="20807.9">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="HatWoodElf-Mediumid41new" x1="14566.4" x2="12797.4" xlink:href="#HatWoodElf-Mediumid17new" y1="6286.13" y2="17100.7">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="WeaponBflyKnifeBack-Mediumid10" x1="7610.92" x2="7717.74" xlink:href="#WeaponBflyKnifeBack-Mediumid4" y1="19919.5" y2="19877.8">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="WeaponBflyKnifeBack-Mediumid20" x1="7155" x2="10206.4" xlink:href="#WeaponBflyKnifeBack-Mediumid18" y1="20686" y2="21753.5">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="WeaponBflyKnife-Mediumid21" x1="9678.73" x2="12556.5" xlink:href="#WeaponBflyKnife-Mediumid19" y1="23619.9" y2="23321.3">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="WeaponBflyKnife-Mediumid5" x1="10045" x2="10174.8" xlink:href="#WeaponBflyKnife-Mediumid4" y1="22278.7" y2="22228">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="WeaponBflyKnife-Mediumid15" x1="9745.2" x2="9875.04" xlink:href="#WeaponBflyKnife-Mediumid4" y1="22603.1" y2="22552.4">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryBannerDropid30" x1="6090.82" x2="6090.82" y1="20470.1" y2="6588.77">
+   <stop offset="0" style="stop-opacity:1; stop-color:#F1D542"/>
+   <stop offset="0.521569" style="stop-opacity:1; stop-color:#E6C14A"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#A86D2B"/>
+  </linearGradient><radialGradient cx="6017.42" cy="17982" fx="6017.42" fy="17982" gradientTransform="matrix(3.04948E-017 -0.498017 1 6.12325E-017 -11965 20979)" gradientUnits="userSpaceOnUse" id="AccessoryBannerDropid57" r="5331.21" xlink:href="#AccessoryBannerDropid56">
+  </radialGradient><radialGradient cx="5973.37" cy="14016.3" fx="5973.37" fy="14016.3" gradientTransform="matrix(3.65686E-017 -0.59721 1 6.12324E-017 -8043 17584)" gradientUnits="userSpaceOnUse" id="AccessoryBannerDropid61" r="4652.27" xlink:href="#AccessoryBannerDropid56">
+  </radialGradient><linearGradient gradientUnits="objectBoundingBox" id="AccessoryBannerDropid49" x1="50%" x2="50%" xlink:href="#AccessoryBannerDropid0" y1="100%" y2="0%">
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="AccessoryBannerDropid17" x1="0%" x2="100%" xlink:href="#AccessoryBannerDropid0" y1="49.9991%" y2="49.9991%">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryBannerDropid8" x1="5973.37" x2="5973.37" xlink:href="#AccessoryBannerDropid0" y1="5414.05" y2="2741.05">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryBannerDropid2" x1="5973.37" x2="5973.37" xlink:href="#AccessoryBannerDropid0" y1="5055.52" y2="6213.29">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryBannerDropid5" x1="5973.37" x2="5973.37" xlink:href="#AccessoryBannerDropid0" y1="6337.67" y2="5080.75">
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="AccessoryBannerDropid37" x1="50.0003%" x2="50.0003%" xlink:href="#AccessoryBannerDropid0" y1="100%" y2="0%">
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="AccessoryBannerDropid45" x1="50.0003%" x2="50.0003%" xlink:href="#AccessoryBannerDropid0" y1="100%" y2="0%">
+  </linearGradient><radialGradient cx="5973.37" cy="19105.3" fx="5973.37" fy="19105.3" gradientTransform="matrix(2.84804E-017 -0.46512 1 6.12325E-017 -13132 21884)" gradientUnits="userSpaceOnUse" id="AccessoryBannerDropid55" r="5281.21">
+   <stop offset="0" style="stop-opacity:1; stop-color:#817473"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#D6CFC9"/>
+  </radialGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryBannerDropid25" x1="5087.28" x2="6859.46" xlink:href="#AccessoryBannerDropid0" y1="23766.1" y2="23766.1">
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="AccessoryBannerDropid20" x1="0%" x2="100%" xlink:href="#AccessoryBannerDropid0" y1="50%" y2="50%">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceKimono4-Mediumid2" x1="12126.99" x2="7141.55" y1="20290.48" y2="22588.08">
+   <stop offset="0" style="stop-opacity:1; stop-color:#F2FA96"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#F2FA96"/>
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="Tail-Cat6id925" x1="56.9199%" x2="43.0801%" y1="93.4294%" y2="6.57062%">
+   <stop offset="0" style="stop-opacity:1; stop-color:#d6c89a"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#fffaeb"/>
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="LeftHand-Cat0id246" x1="31.4718%" x2="68.5282%" y1="2.00058%" y2="97.9991%">
+   <stop offset="0" style="stop-opacity:1; stop-color:#d6c89a"/>
+   <stop offset="0.878431" style="stop-opacity:1; stop-color:#fdf0c4"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#fdf0c4"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Body-Cat2id36" x1="13681.9" x2="13681.9" y1="17936.7" y2="7484.8">
+   <stop offset="0" style="stop-opacity:1; stop-color:#d6c89a"/>
+   <stop offset="0.0313725" style="stop-opacity:1; stop-color:#d6c89a"/>
+   <stop offset="0.529412" style="stop-opacity:1; stop-color:#fdf0c4"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#fffaeb"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Ears-Cat6id114" x1="7986.1" x2="9822.34" y1="9926.47" y2="10545.7">
+   <stop offset="0" style="stop-opacity:1; stop-color:#E4BBB9"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#B88383"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Ears-Cat6id93" x1="20445.8" x2="16638.5" y1="8315.13" y2="13258.9">
+   <stop offset="0" style="stop-opacity:1; stop-color:#fffaeb"/>
+   <stop offset="0.501961" style="stop-opacity:1; stop-color:#fdf0c4"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#d6c89a"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Eyes-Cat6id27" x1="16937.6" x2="16937.6" y1="14961.3" y2="11448.6">
+   <stop offset="0" style="stop-opacity:1; stop-color:#490a80"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:black"/>
+  </linearGradient><radialGradient cx="49.9999%" cy="50.0002%" fx="49.9999%" fy="50.0002%" gradientUnits="objectBoundingBox" id="Eyes-Cat6id1039" r="50.0001%">
+   <stop offset="0" style="stop-opacity:1; stop-color:#af54ff"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#490a80"/>
+  </radialGradient><linearGradient gradientUnits="userSpaceOnUse" id="Eyes-Cat6id384" x1="16417.8" x2="16417.8" y1="11784.3" y2="14068.5">
+   <stop offset="0" style="stop-opacity:1; stop-color:black"/>
+   <stop offset="0.45" style="stop-opacity:1; stop-color:black"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#380366"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletSteel-Mediumid663new" x1="19208.4" x2="16994.4" y1="19855.6" y2="20661.5">
+   <stop offset="0" style="stop-opacity:1; stop-color:#424352"/>
+   <stop offset="0.109804" style="stop-opacity:1; stop-color:#848690"/>
+   <stop offset="0.25098" style="stop-opacity:1; stop-color:#FFFFFC"/>
+   <stop offset="0.470588" style="stop-opacity:1; stop-color:#8D8F99"/>
+   <stop offset="0.780392" style="stop-opacity:1; stop-color:#16171A"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#42444D"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="HatWoodElf-Mediumid17new" x1="8523.78" x2="8243.96" y1="23340.6" y2="25051.2">
+   <stop offset="0" style="stop-opacity:1; stop-color:#B3B38A"/>
+   <stop offset="0.34902" style="stop-opacity:1; stop-color:#999966"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#66663A"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="WeaponBflyKnifeBack-Mediumid4" x1="7396.97" x2="7498.27" y1="20414.6" y2="20335.1">
+   <stop offset="0" style="stop-opacity:1; stop-color:#949494"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#fef2f2"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="WeaponBflyKnifeBack-Mediumid18" x1="8182.77" x2="11085" y1="21305.8" y2="22034">
+   <stop offset="0" style="stop-opacity:1; stop-color:#993A3A"/>
+   <stop offset="0.54902" style="stop-opacity:1; stop-color:#820000"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#820000"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="WeaponBflyKnife-Mediumid19" x1="10875" x2="13461.4" y1="23847.2" y2="23101">
+   <stop offset="0" style="stop-opacity:1; stop-color:#6B6B6B"/>
+   <stop offset="0.321569" style="stop-opacity:1; stop-color:#EBEBEB"/>
+   <stop offset="0.419608" style="stop-opacity:1; stop-color:#B0B0B0"/>
+   <stop offset="0.619608" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#878787"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="WeaponBflyKnife-Mediumid4" x1="7396.97" x2="7498.27" y1="20414.6" y2="20335.1">
+   <stop offset="0" style="stop-opacity:1; stop-color:#949494"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#fef2f2"/>
+  </linearGradient><radialGradient cx="5973.37" cy="10795.1" fx="5973.37" fy="10795.1" gradientTransform="matrix(5.10109E-017 -0.833071 1 6.12324E-017 -4822 15771)" gradientUnits="userSpaceOnUse" id="AccessoryBannerDropid56" r="5281.21">
+   <stop offset="0" style="stop-opacity:1; stop-color:#4D191C"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#7F2A2E"/>
+  </radialGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryBannerDropid0" x1="5973.37" x2="5973.37" y1="5158.24" y2="6316.01">
+   <stop offset="0" style="stop-opacity:1; stop-color:#1C1717"/>
+   <stop offset="0.501961" style="stop-opacity:1; stop-color:#463A3B"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#1A1616"/>
+  </linearGradient></defs><g id="AccessoryBannerDrop">
+  <metadata id="CorelCorpID_4Corel-Layer"/>
+  <g>
+   <g id="_3081457729776">
+    <rect class="AccessoryBannerDropfil31 AccessoryBannerDropstr0" height="18430" rx="326" ry="1812" width="651" x="5648" y="5852"/>
+    <path class="AccessoryBannerDropfil19 AccessoryBannerDropstr0" d="M782 7137l0 0c0,152 125,277 277,277l10129 0c152,0 277,-125 277,-277l0 0c0,-153 -125,-277 -277,-277l-10129 0c-152,0 -277,124 -277,277z" style="fill:#f6395f"/>
+    <polygon class="AccessoryBannerDropfil51 AccessoryBannerDropstr0" points="5973,5414 5405,4710 5973,2741 6542,4710 "/>
+    <polygon class="AccessoryBannerDropfil52 AccessoryBannerDropstr0" points="5973,5056 6496,5819 5973,6213 5451,5819 "/>
+    <polygon class="AccessoryBannerDropfil53 AccessoryBannerDropstr0" points="5973,6338 7705,5081 5973,5695 4242,5081 "/>
+    <path class="AccessoryBannerDropfil33 AccessoryBannerDropstr0" d="M1578 6715c88,0 174,10 256,29l0 786c-82,18 -168,28 -256,28 -33,0 -66,-1 -99,-4 -495,78 -856,369 -865,1249 -161,-219 -256,-494 -256,-793 0,-337 121,-643 319,-873 -198,-231 -319,-537 -319,-874 0,-299 95,-574 256,-793 9,880 370,1171 865,1249 33,-3 66,-4 99,-4z" style="fill:#91faeb"/>
+    <path class="AccessoryBannerDropfil24 AccessoryBannerDropstr0" d="M11368 6715c-88,0 -173,10 -256,29l0 786c83,18 168,28 256,28 34,0 67,-1 100,-4 494,78 856,369 865,1249 160,-219 256,-494 256,-793 0,-337 -121,-643 -319,-873 198,-231 319,-537 319,-874 0,-299 -96,-574 -256,-793 -9,880 -371,1171 -865,1249 -33,-3 -66,-4 -100,-4z" style="fill:#8e154c"/>
+   </g>
+   <g id="_3081457790480">
+   <animateTransform additive="sum" attributeName="transform" dur="5" repeatCount="indefinite" type="rotate" values="0;0.5;0;-0.5;0"/>
+    <path class="AccessoryBannerDropfil54 AccessoryBannerDropstr0" d="M6061 21407c144,-167 288,-335 431,-503 0,-500 -88,-999 -88,-1499 -144,167 -287,335 -431,503 -143,-168 -287,-336 -430,-503 0,500 0,906 0,1405 143,168 375,430 518,597zm-871 -914c-267,-594 -534,-625 -801,-937 0,-500 0,-999 0,-1499 267,312 534,624 801,936 0,500 0,1000 0,1500zm-1153 -1348c-201,-235 -402,-564 -603,-705 0,-500 0,-1000 0,-1499 201,234 402,469 603,704 0,500 0,1000 0,1500zm-956 -842c-226,88 -453,82 -680,264 0,-500 0,-1000 0,-1499 227,-88 454,-177 680,-265 0,500 0,1000 0,1500zm-1032 401c-243,94 -485,1 -728,283 59,-500 118,-1000 176,-1499 184,-95 368,-189 552,-283 0,499 0,999 0,1499zm4707 1789c267,-406 535,-531 802,-937 0,-500 0,-999 0,-1499 -267,312 -535,624 -802,936 0,500 0,1000 0,1500zm1154 -1348c201,-423 402,-376 603,-705 0,-500 0,-1000 0,-1499 -201,234 -402,469 -603,704 0,500 0,1000 0,1500zm955 -842c227,-100 454,176 680,264 0,-500 0,-1000 0,-1499 -226,-88 -453,-177 -680,-265 0,500 0,1000 0,1500zm1033 401c242,1 485,282 728,283 -59,-500 -118,-1000 -177,-1499 -183,-95 -367,-189 -551,-283 0,499 0,999 0,1499z" style="fill:#f42e93"/>
+    <path class="AccessoryBannerDropfil55" d="M5973 20470c-905,-1058 -1810,-2115 -2715,-3173 -646,251 -1291,502 -1937,753 352,-3793 0,-7585 0,-11378 1081,0 1457,-187 2538,0 0,375 176,750 176,1125 940,164 2937,166 3876,0 0,-375 177,-750 177,-1125 1080,-187 1457,0 2538,0 0,3793 528,7585 0,11378 -646,-251 -1291,-502 -1937,-753 -905,1058 -1810,2115 -2716,3173z" style="fill:#1a269a"/>
+    <path class="AccessoryBannerDropfil56" d="M10626 18050l0 -562 -1937 -941 -2716 2986 -2715 -2986 -1937 941 0 562 1937 -753 2715 3173 2716 -3173 1937 753zm-3730 -405l-923 -981 -922 981 922 951 923 -951zm-2004 -163l1004 -1067 77 -83 78 83 1003 1067 148 -152 -1229 -1306 -1228 1306 147 152zm-400 -412l1357 -1444 124 -132 125 132 1357 1444 1234 -1272 2025 1034 0 374 -2025 -1033 -2716 2798 -2715 -2798 -1849 940 0 -375 1849 -940 1234 1272z" style="fill:#bb64e8"/>
+    <path class="AccessoryBannerDropfil57" d="M5150 12083l574 611 498 0 575 -611 0 -530 -575 -611 -498 0 -574 611 0 530zm-3790 -5411l3151 3352 1063 -1131c110,-117 255,-175 399,-175 145,0 290,58 400,175l1063 1131 3150 -3352 40 0 0 621 -2879 3062 539 573 2340 -2489 0 398 -2153 2290 250 266c110,117 165,271 165,425 0,154 -55,308 -165,425l-2350 2500c-110,117 -255,175 -400,175 -144,0 -289,-58 -399,-175l-2350 -2500c-110,-117 -165,-271 -165,-425 0,-154 55,-308 165,-425l250 -266 -2153 -2290 0 -398 2340 2489 539 -573 -2879 -3062 0 -621 39 0zm2113 5306l2350 2500c41,43 96,65 150,65 55,0 109,-22 151,-65l2350 -2500c41,-44 61,-102 61,-160 0,-58 -20,-116 -61,-160l-2350 -2500c-42,-44 -96,-66 -151,-66 -54,0 -109,22 -150,66l-2350 2500c-41,44 -62,102 -62,160 0,58 21,116 62,160zm856 469l1053 1120 225 -753c3,-11 9,-21 16,-29l-559 -594c-7,7 -16,13 -27,17l-708 239zm1406 388c0,7 -1,14 -3,21l-229 767 941 0 -230 -767c-2,-7 -3,-14 -3,-21l-476 0zm589 -50c7,8 13,18 16,29l225 753 1053 -1120 -709 -239c-10,-4 -19,-10 -26,-17l-559 594zm605 -714c7,0 13,1 20,3l721 244 0 -1000 -721 243c-7,3 -13,4 -20,4l0 506zm-46 -626c7,-7 16,-13 26,-17l709 -239 -1053 -1121 -225 754c-3,11 -9,21 -16,29l559 594zm-672 -644c0,-7 1,-14 3,-21l230 -767 -941 0 229 767c2,7 3,14 3,21l476 0zm-588 50c-7,-8 -13,-18 -16,-29l-225 -754 -1053 1121 708 239c11,4 20,10 27,17l559 -594zm-605 714c-7,0 -14,-1 -20,-4l-721 -243 0 1000 721 -244c6,-2 13,-3 20,-3l0 -506z" style="fill:#5a920f"/>
+    <path class="AccessoryBannerDropfil58" d="M6299 15840l4327 -4602 0 795 -3953 4205 -374 -398zm-1025 398l-3953 -4205 0 -795 4327 4602 -374 398zm-3953 -3092l0 -397 3616 3847 -186 199 -3430 -3649zm5688 3450l3617 -3847 0 397 -3430 3649 -187 -199z" style="fill:#f7a79e"/>
+    <path class="AccessoryBannerDropfil11 AccessoryBannerDropstr0" d="M5973 20470c-905,-1058 -1810,-2115 -2715,-3173 -646,251 -1291,502 -1937,753 352,-3793 0,-7585 0,-11378 1081,0 1457,-187 2538,0 0,375 176,750 176,1125 940,164 2937,166 3876,0 0,-375 177,-750 177,-1125 1080,-187 1457,0 2538,0 0,3793 528,7585 0,11378 -646,-251 -1291,-502 -1937,-753 -905,1058 -1810,2115 -2716,3173z" style="fill:#a2090f"/>
+    <path class="AccessoryBannerDropfil17" d="M1434 16373c1313,2669 6699,-3503 8584,-9718 198,10 399,17 608,17 0,3793 528,7585 0,11378 -646,-251 -1291,-502 -1937,-753 -905,1058 -1810,2115 -2716,3173 -905,-1058 -1810,-2115 -2715,-3173 -646,251 -1291,502 -1937,753 52,-559 89,-1118 113,-1677z" style="fill:#47e765"/>
+    <path class="AccessoryBannerDropfil17" d="M1469 15219c1149,-619 2511,-1534 2666,-1445 178,103 -1514,2184 -2733,3223 36,-592 57,-1185 67,-1778z" style="fill:#f57845"/>
+    <path class="AccessoryBannerDropfil17" d="M2369 7257c116,-179 3455,2398 4632,1472 1176,-927 1809,-1315 1917,-1315 109,0 -1648,2512 -2700,2351 -1052,-161 -3966,-2328 -3849,-2508z" style="fill:#e37143"/>
+   </g>
+   <path class="AccessoryBannerDropfil59 AccessoryBannerDropstr1" d="M5235 24039l1477 0c197,0 197,-546 0,-546l-1477 0c-197,0 -197,546 0,546z" style="fill:#1ee1c5"/>
+    <path class="AccessoryBannerDropfil26 AccessoryBannerDropstr1" d="M4857 24702l2232 0c298,0 33,-843 -264,-843l-1703 0c-298,0 -562,843 -265,843z" style="fill:#0dcc35"/>
+  </g>
+ </g><g id="Tail-Cat6">
+  <path class="Tail-Cat6fil31" d="M12493 21526c-108,-680 356,-1318 1035,-1426 680,-108 1318,356 1426,1035 72,449 608,789 1013,871 739,150 1483,-534 1408,-1680 -158,-2421 1027,-5777 4064,-5078 111,31 166,90 145,159 -33,107 -311,154 -146,195 2925,724 2687,3276 1452,5366 -27,45 -121,128 -214,120 -167,-15 -170,-375 -233,-240 -388,832 -900,1361 -1351,1361 -340,-1 -479,-524 -569,-313 -571,1351 -2022,2423 -3323,2632 -1260,201 -2607,-168 -3570,-1011 -591,-519 -1010,-1199 -1137,-1991z" style="fill:#e6c251"/>
+  <path class="Tail-Cat6fil26" d="M23454 19790c-146,399 -338,796 -564,1178 -27,45 -121,128 -214,120 -167,-15 -170,-375 -233,-240 -388,832 -900,1361 -1351,1361 -262,-1 -405,-312 -498,-358l-3 -8c-336,-494 -535,-1000 -668,-1511 -264,-1011 230,-1403 99,-2233 -101,-639 469,-1155 810,-657 675,987 1062,451 1598,580 641,154 1007,639 1024,1768z" style="fill:#c9501b"/>
+  <path class="Tail-Cat6fil14" d="M12493 21526c-26,-167 -18,-332 19,-487 213,-178 462,-344 585,-418 304,-15 814,942 1117,926 875,2545 4568,3180 6172,593 -8,32 -18,63 -27,94 -653,1189 -1969,2103 -3159,2294 -1260,201 -2607,-168 -3570,-1011 -591,-519 -1010,-1199 -1137,-1991z" style="fill:#b91d60"/>
+  <path class="Tail-Cat6fil22 Tail-Cat6str0" d="M12493 21526c-108,-680 356,-1318 1035,-1426 680,-108 1318,356 1426,1035 72,449 608,789 1013,871 739,150 1483,-534 1408,-1680 -158,-2421 1027,-5777 4064,-5078 111,31 166,90 145,159 -33,107 -311,154 -146,195 2925,724 2530,3652 1546,5232 -66,105 -215,262 -308,254 -167,-15 -170,-375 -233,-240 -388,832 -900,1361 -1351,1361 -340,-1 -479,-524 -569,-313 -571,1351 -2022,2423 -3323,2632 -1260,201 -2607,-168 -3570,-1011 -591,-519 -1010,-1199 -1137,-1991z" style="fill:#8a3deb"/>
+  <path class="Tail-Cat6fil14" d="M22029 21494c-153,311 -399,598 -760,695 -667,178 -1177,-1232 -1355,-1898 -68,-160 -245,81 -398,75 -284,-206 -410,-617 -481,-903 -14,-55 -63,-427 -73,-471 79,276 473,1128 815,914 670,-419 881,2197 2252,1588z" style="fill:#2fce3c"/>
+  <path class="Tail-Cat6fil32" d="M20750 21900c25,33 19,80 -14,105 -33,25 -80,19 -105,-14 -170,-223 -337,-492 -482,-803 -123,-262 -229,-555 -309,-878 -15,9 -32,20 -50,32 -116,74 -262,168 -396,42 -103,-97 -205,-253 -290,-447 -56,-127 -267,-730 -144,-1113 27,388 227,930 281,1054 77,174 167,314 256,397 48,46 139,-13 212,-59 45,-30 85,-56 126,-65 70,-17 121,3 142,90 77,324 184,619 308,884 140,301 302,561 465,775z" style="fill:#5be5cf"/>
+ </g><g id="RightFoot-Cat0">
+  <path class="RightFoot-Cat0fil26" d="M17107 25230c-124,214 -404,285 -611,106 -71,70 -277,145 -526,65 -410,-131 -508,-461 -851,-710 -221,-159 -124,-477 -114,-668 364,340 783,-165 1076,-248 374,-102 737,158 534,413 199,95 520,237 673,411 169,192 121,631 -181,631z" style="fill:#0f4c7d"/>
+  <path class="RightFoot-Cat0fil14" d="M17107 25230c-124,214 -404,285 -611,106 -71,70 -277,145 -526,65 -410,-131 -518,-492 -872,-726 -156,-103 -135,-387 -103,-573 18,-14 37,-27 56,-38 -60,533 1445,1528 1433,860 214,342 596,186 545,-150 127,134 271,-14 143,-274 182,62 215,288 209,441 -17,153 -106,289 -274,289z" style="fill:#92e88b"/>
+  <path class="RightFoot-Cat0fil22" d="M16655 24186c278,231 480,239 633,413 169,192 121,631 -181,631 -124,214 -404,285 -611,106 -71,70 -277,145 -526,65 -410,-131 -520,-489 -872,-726 -156,-105 -138,-331 -109,-524" style="fill:#77abe2"/>
+  <path class="RightFoot-Cat0fil32" d="M16703 24128c-31,-26 -78,-22 -105,10 -27,31 -22,79 9,105 144,120 266,182 373,236 100,50 184,92 252,169 81,92 97,256 55,370 -18,49 -49,94 -96,118 7,-269 -115,-534 -402,-526 186,95 268,253 247,592 -49,79 -127,137 -220,155 -79,15 -160,-2 -228,-45 38,-218 10,-484 -289,-538 139,98 163,330 142,511 -32,29 -98,60 -189,72 -75,9 -164,4 -260,-27 -221,-71 -352,-219 -489,-375 -104,-118 -211,-239 -363,-342 -57,-38 -82,-102 -91,-176 -11,-85 -1,-183 13,-274 15,-98 -130,-119 -144,-22 -16,102 -31,212 -18,314 14,114 57,216 157,282 136,92 236,206 333,317 151,171 295,335 557,419 119,38 230,44 323,32 93,-11 171,-41 226,-75 103,70 225,98 348,74 125,-24 233,-98 305,-202 136,-15 232,-107 279,-232 61,-166 34,-387 -84,-521 -86,-98 -183,-147 -296,-204 -100,-50 -214,-108 -345,-217z" style="fill:#be41bc"/>
+ </g><g id="LeftFoot-Cat0">
+ <path class="LeftFoot-Cat0fil26" d="M10257 25230c124,214 404,285 611,106 71,70 277,145 526,65 410,-131 508,-461 851,-710 221,-159 124,-477 114,-668 -364,340 -783,-165 -1076,-248 -374,-102 -737,158 -535,413 -198,95 -519,237 -672,411 -169,192 -121,631 181,631z" style="fill:#edd154"/>
+  <path class="LeftFoot-Cat0fil14" d="M10257 25230c124,214 404,285 611,106 71,70 277,145 526,65 410,-131 518,-492 871,-726 157,-103 136,-387 103,-573 -17,-14 -36,-27 -55,-38 60,533 -1445,1528 -1434,860 -213,342 -595,186 -544,-150 -127,134 -271,-14 -143,-274 -182,62 -215,288 -209,441 17,153 106,289 274,289z" style="fill:#207f95"/>
+  <path class="LeftFoot-Cat0fil22" d="M10708 24186c-277,231 -480,239 -632,413 -169,192 -121,631 181,631 124,214 404,285 611,106 71,70 277,145 526,65 410,-131 520,-489 871,-726 156,-105 139,-331 110,-524" style="fill:#4a5bc7"/>
+  <path class="LeftFoot-Cat0fil32" d="M10660 24128c32,-26 79,-22 106,10 26,31 22,79 -10,105 -143,120 -266,182 -373,236 -99,50 -183,92 -251,169 -81,92 -97,256 -55,370 18,49 49,94 96,118 -7,-269 115,-534 402,-526 -186,95 -268,253 -247,592 49,79 127,137 220,155 79,15 160,-2 228,-45 -39,-218 -11,-484 289,-538 -139,98 -163,330 -142,511 31,29 98,60 189,72 75,9 163,4 259,-27 222,-71 353,-219 490,-375 104,-118 210,-239 363,-342 56,-38 82,-102 91,-176 11,-85 0,-183 -14,-274 -14,-98 131,-119 145,-22 16,102 31,212 18,314 -14,114 -58,216 -157,282 -136,92 -236,206 -333,317 -151,171 -296,335 -557,419 -119,38 -230,44 -323,32 -93,-11 -171,-41 -226,-75 -103,70 -226,98 -349,74 -124,-24 -233,-98 -304,-202 -136,-15 -232,-107 -279,-232 -61,-166 -34,-387 84,-521 86,-98 183,-147 296,-204 100,-50 214,-108 344,-217z" style="fill:#2c5d83"/>
+ </g><g id="NecklaceKimonoBack4-Medium">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_52Corel-Layer"/>
+  <g>
+   <path class="NecklaceKimonoBack4-Mediumfil265 NecklaceKimonoBack4-Mediumstr24" d="M10065.08 23026.4c886.42,-928.54 355.01,-3281.77 -1629.98,-3190.14 -491.31,709.48 2109.46,2007.27 1629.98,3190.14z" style="fill:#278965"/>
+   <path class="NecklaceKimonoBack4-Mediumfil265 NecklaceKimonoBack4-Mediumstr24" d="M17301.51 23026.4c-886.42,-928.54 -355.01,-3281.77 1629.98,-3190.14 491.31,709.48 -2109.46,2007.27 -1629.98,3190.14z" style="fill:#d7cf33"/>
+  </g>
+ </g><g id="RightHand-Cat0">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <path class="RightHand-Cat0fil48" d="M16231 17709c1007,345 1819,1401 2257,2165 289,504 -636,1265 -911,1014 -627,-574 -1209,-620 -1689,-543 -742,120 -1353,-1920 -931,-2545 422,-21 934,-40 1274,-91z" style="fill:#0db140"/>
+  <path class="RightHand-Cat0fil14" d="M17512 20830c-602,-518 -1160,-559 -1624,-485 -171,28 -335,-59 -481,-217 -325,-472 753,-1098 1039,-656 261,403 734,847 1111,1126 -2,93 16,193 -45,232l0 0 0 0z" style="fill:#090c78"/>
+  <path class="RightHand-Cat0fil22 RightHand-Cat0str0" d="M16477 20333c340,47 711,200 1100,555 275,251 1152,-509 864,-1013 -438,-763 -1203,-1821 -2210,-2166 -90,-31 -172,-59 -246,-84" style="fill:#147079"/>
+ </g><g id="LeftHand-Cat0">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <path class="LeftHand-Cat0fil55" d="M11133 17709c-1007,345 -1819,1401 -2257,2165 -289,504 636,1265 911,1014 627,-574 1209,-620 1689,-543 742,120 1352,-1920 931,-2545 -422,-21 -934,-40 -1274,-91z" style="fill:#3b82f8"/>
+  <path class="LeftHand-Cat0fil14" d="M9852 20830c602,-518 1160,-559 1624,-485 171,28 335,-59 481,-217 325,-472 -753,-1098 -1039,-656 -261,403 -734,847 -1111,1126 2,93 -16,193 45,232l0 0 0 0z" style="fill:#957cdd"/>
+  <path class="LeftHand-Cat0fil22 LeftHand-Cat0str0" d="M10887 20333c-340,47 -711,200 -1100,555 -275,251 -1153,-509 -864,-1013 438,-763 1203,-1821 2210,-2166 90,-31 171,-59 246,-84" style="fill:#95b517"/>
+ </g><g id="Body-Cat2">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <path class="Body-Cat2fil62" d="M13682 23135c-1548,0 -2752,-291 -2993,-1956 -147,-1014 391,-2287 991,-3420 634,80 1289,123 2002,142 713,-19 1367,-62 2002,-142 600,1133 1137,2406 991,3420 -242,1665 -1445,1956 -2993,1956z" style="fill:#4899c1"/>
+  <path class="Body-Cat2fil14" d="M12621 23067c-1016,-156 -1749,-629 -1932,-1888 -75,-519 29,-1106 229,-1707 -223,2001 402,3257 1703,3595z" style="fill:#0d0d67"/>
+  <path class="Body-Cat2fil32" d="M11012 22144c-250,-321 -348,-641 -397,-954 -59,-377 -24,-998 184,-1320 -78,421 -93,905 -36,1298 50,341 104,572 249,976z" style="fill:#b6c04e"/>
+  <path class="Body-Cat2fil64" d="M13682 18774c-280,-805 -1716,-780 -2057,-36 -868,1890 -798,4237 2057,4237 2855,0 2925,-2347 2057,-4237 -341,-744 -1777,-769 -2057,36z" style="fill:#bfc782"/>
+  <path class="Body-Cat2fil14" d="M14743 23067c1016,-156 1749,-629 1932,-1888 75,-519 -29,-1106 -229,-1707 223,2001 -402,3257 -1703,3595z" style="fill:#3334bb"/>
+  <path class="Body-Cat2fil32" d="M16352 22144c250,-321 347,-641 397,-954 59,-377 24,-998 -184,-1320 78,421 93,905 36,1298 -50,341 -104,572 -249,976z" style="fill:#d090e3"/>
+ </g><g id="WeaponBflyKnifeBack-Medium">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_12Corel-Layer"/>
+  <g id="_2367108374560">
+   <polygon class="WeaponBflyKnifeBack-Mediumfil23 WeaponBflyKnifeBack-Mediumstr0" points="7757,19914 7140,20628 7039,20538 7640,19818 "/>
+   <path class="WeaponBflyKnifeBack-Mediumfil24 WeaponBflyKnifeBack-Mediumstr1" d="M10019 22352c-840,-780 -1681,-1559 -2521,-2338 -51,-49 220,-331 265,-285l2440 2424c52,52 58,136 7,192 -50,54 -137,57 -191,7zm-112 130c-840,-779 -1681,-1559 -2521,-2338 -52,-47 -313,244 -264,285l2601 2252c55,48 140,48 191,-8 51,-54 47,-140 -7,-191z" style="fill:#4ca643"/>
+   <circle class="WeaponBflyKnifeBack-Mediumfil23" r="48" transform="matrix(2.80864 0.290914 -0.290914 2.80864 7664.33 19898.6)"/>
+   <path class="WeaponBflyKnifeBack-Mediumfil25" d="M7670 19842c31,3 54,31 51,62 -3,32 -31,54 -63,51 -31,-3 -53,-31 -50,-62 3,-31 31,-54 62,-51z" style="fill:#f2ab78"/>
+  </g>
+ </g><g id="RightPaw-Cat0">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <g id="_2842391375968">
+   <path class="RightPaw-Cat0fil26" d="M17501 20836c-31,672 506,1059 828,766 253,397 884,103 809,-293 203,-535 -266,-1036 -634,-1325 -198,-64 -364,-248 -462,44 -114,341 -157,279 -402,398 -164,79 -11,352 -139,410z" style="fill:#22b481"/>
+   <path class="RightPaw-Cat0fil14" d="M17501 20836c-31,672 506,1059 828,766 341,429 911,24 753,-293 -65,297 -520,408 -657,-118 -113,412 -522,237 -614,26 -96,-216 -45,-462 -254,-619 -2,93 16,193 -45,232l0 0 0 1c-2,0 -3,1 -5,2l0 0 0 0 0 0 0 0 -1 1 0 0 0 0c-2,1 -3,2 -5,2z" style="fill:#bee783"/>
+   <path class="RightPaw-Cat0fil32" d="M17437 20673c-79,-58 -168,63 -89,121 29,21 57,43 84,65 -4,302 99,551 246,712 55,61 118,109 183,144 146,76 312,82 454,-8 209,238 583,191 784,-34 86,-97 135,-221 116,-357 83,-234 46,-463 -52,-673 -133,-282 -403,-498 -588,-704 -34,-37 -181,-286 -215,-345 -58,-79 -178,10 -120,89 36,48 75,120 112,186 6,12 81,153 124,188 201,164 431,392 551,649 38,81 65,165 77,251 -53,-69 -156,-152 -275,-139 81,67 126,143 171,252 66,158 113,363 -12,503 -142,159 -412,205 -563,33 116,-164 118,-464 -80,-548 55,102 48,374 -55,477 -86,86 -222,119 -360,47 -49,-26 -97,-63 -141,-112 -129,-140 -218,-365 -207,-639 2,-22 -6,-44 -23,-60 -37,-34 -82,-68 -122,-98z" style="fill:#897bb3"/>
+  </g>
+ </g><g id="LeftPaw-Cat0">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <path class="LeftPaw-Cat0fil26" d="M9863 20836c31,672 -506,1059 -828,766 -253,397 -884,103 -809,-293 -203,-535 266,-1036 634,-1325 198,-64 364,-248 462,44 114,341 157,279 402,398 164,79 11,352 139,410z" style="fill:#4e5be8"/>
+  <path class="LeftPaw-Cat0fil14" d="M9863 20836c31,672 -506,1059 -828,766 -341,429 -911,24 -754,-293 66,297 521,408 658,-118 113,412 522,237 614,26 95,-216 45,-462 254,-619 2,93 -16,193 45,232l0 0 0 1c2,0 3,1 5,2l0 0 0 0 0 0 0 0 0 1 1 0 0 0c1,1 3,2 5,2z" style="fill:#37b1c8"/>
+  <path class="LeftPaw-Cat0fil32" d="M9927 20673c79,-58 168,63 88,121 -28,21 -56,43 -83,65 4,302 -100,551 -246,712 -56,61 -118,109 -183,144 -146,76 -312,82 -454,-8 -209,238 -583,191 -784,-34 -86,-97 -135,-221 -116,-357 -83,-234 -46,-463 52,-673 133,-282 403,-498 588,-704 34,-37 180,-286 214,-345 59,-79 179,10 121,89 -36,48 -76,120 -112,186 -6,12 -81,153 -124,188 -201,164 -431,392 -551,649 -38,81 -66,165 -77,251 53,-69 156,-152 275,-139 -81,67 -126,143 -172,252 -65,158 -113,363 13,503 142,159 412,205 562,33 -115,-164 -117,-464 81,-548 -55,102 -48,374 55,477 86,86 222,119 359,47 50,-26 98,-63 142,-112 128,-140 218,-365 207,-639 -2,-22 6,-44 23,-60 37,-34 81,-68 122,-98z" style="fill:#1aa1af"/>
+ </g><g id="Ears-Cat6">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <g>
+        <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="rotate" values="0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;10;0"/>
+        <g>
+            <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;2000 -2000;0"/>
+            <path class="Ears-Cat6fil104 Ears-Cat6str0" d="M7642 14127c-1456,-1789 -2054,-5206 -1174,-6322 1052,-557 3872,-481 5119,348 -982,1268 -2964,4706 -3945,5974z" style="fill:#68f666"/>
+            <path class="Ears-Cat6fil105" d="M10628 9364c-821,-1239 -2647,-1616 -3993,-1275 -674,2062 463,4748 1193,5776 122,-945 1199,-3536 2800,-4501z" style="fill:#6468fb"/>
+            <path class="Ears-Cat6fil106" d="M10275 9879c-678,-1343 -2545,-1678 -2777,-954 -237,738 835,875 1367,1037 -381,-34 -1240,59 -1161,666 83,643 744,537 1432,464 202,-315 901,-1016 1139,-1213z" style="fill:#0a8be4"/>
+            <path class="Ears-Cat6fil14" d="M10628 9364c-821,-1239 -2647,-1616 -3993,-1275 1734,78 3064,1062 2666,2547 383,-515 830,-972 1327,-1272z" style="fill:#f008ad"/>
+		    </g>
+  </g>
+  <g>
+        <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="rotate" values="0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-10;0"/>
+        <g>
+            <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;-2500 2500;0"/>
+			      <path class="Ears-Cat6fil107 Ears-Cat6str0" d="M19722 14127c1456,-1789 2054,-5206 1174,-6322 -1052,-557 -3872,-481 -5119,348 981,1268 2963,4706 3945,5974z" style="fill:#808ca0"/>
+            <path class="Ears-Cat6fil108" d="M16736 9364c821,-1239 2647,-1616 3993,-1275 674,2062 -463,4748 -1193,5776 -122,-945 -1199,-3536 -2800,-4501z" style="fill:#c59e47"/>
+            <path class="Ears-Cat6fil109" d="M17089 9879c678,-1343 2545,-1678 2777,-954 237,738 -835,875 -1367,1037 381,-34 1240,59 1161,666 -83,643 -744,537 -1432,464 -202,-315 -901,-1016 -1139,-1213z" style="fill:#35da54"/>
+            <path class="Ears-Cat6fil14" d="M16736 9364c821,-1239 2647,-1616 3993,-1275 -1734,78 -3065,1062 -2666,2547 -383,-515 -830,-972 -1327,-1272z" style="fill:#119c16"/>
+		    </g>
+  </g>
+ </g><g id="BraceletSteel-Medium">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_19Corel-Layer"/>
+  <path class="BraceletSteel-Mediumfil57new BraceletSteel-Mediumstr4new" d="M8743 19983c-151,-67 -236,-210 -167,-360 70,-150 216,-158 370,-99 394,150 1163,722 1389,1066 91,139 106,280 -23,383 -130,103 -302,47 -400,-86 -244,-332 -771,-729 -1169,-904z" style="fill:#0919fe"/>
+  <path class="BraceletSteel-Mediumfil58new BraceletSteel-Mediumstr4new" d="M18621 19983c151,-67 236,-210 167,-360 -70,-150 -216,-158 -371,-99 -393,150 -1162,722 -1389,1066 -90,139 -105,280 24,383 130,103 302,47 400,-86 244,-332 771,-729 1169,-904z" style="fill:#86bcff"/>
+ </g><g id="NecklaceKimono4-Medium">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_53Corel-Layer"/>
+  <g>
+   <path class="NecklaceKimono4-Mediumfil266 NecklaceKimono4-Mediumstr0" d="M14322.23 22197.05c-16.84,193.38 -79.11,1081.43 -155.08,1303.8 -298.86,874.7 -1041.64,1677.22 -2288.85,1196.43 749.04,-98.56 1362.06,-717.21 1800.04,-1543.99 167.09,-315.42 308.72,-661.14 422.71,-1019.78l221.18 63.54z" style="fill:#f22a5a"/>
+   <path class="NecklaceKimono4-Mediumfil266 NecklaceKimono4-Mediumstr0" d="M13033.39 22197.05c16.84,193.38 79.11,1081.43 155.08,1303.8 298.86,874.7 1041.64,1677.22 2288.85,1196.43 -749.04,-98.56 -1362.06,-717.21 -1800.04,-1543.99 -167.09,-315.42 -308.72,-661.14 -422.71,-1019.78l-221.18 63.54z" style="fill:#13cfe8"/>
+   <path class="NecklaceKimono4-Mediumfil5" d="M13368.88 23950.68c226.96,483.62 854.4,879.83 1397.78,918.83 -500.46,-161.54 -1190.01,-666.6 -1397.78,-918.83z" style="fill:#15da3e"/>
+   <path class="NecklaceKimono4-Mediumfil266 NecklaceKimono4-Mediumstr0" d="M10612.85 24389.97c524.92,-632.89 930.92,-1966.14 742.89,-2888.98 426.32,59.58 2613.13,617.76 2745.31,632.52 -113.99,358.64 -255.62,704.36 -422.71,1019.78 -664.41,1254.23 -1731.58,2029.79 -3065.49,1236.68z" style="fill:#417ec8"/>
+   <path class="NecklaceKimono4-Mediumfil266 NecklaceKimono4-Mediumstr0" d="M16742.77 24389.97c-524.92,-632.89 -930.92,-1966.14 -742.89,-2888.98 -426.32,59.58 -2613.13,617.76 -2745.31,632.52 113.99,358.64 255.62,704.36 422.71,1019.78 664.41,1254.23 1731.58,2029.79 3065.49,1236.68z" style="fill:#8b4153"/>
+   <g>
+    <path class="NecklaceKimono4-Mediumfil9 NecklaceKimono4-Mediumstr1" d="M13548.52 24218.5c-410.18,299.56 -873.19,503.91 -1329.72,582.05" style="fill:#ec33be"/>
+    <path class="NecklaceKimono4-Mediumfil9 NecklaceKimono4-Mediumstr1" d="M13573.05 22989.1c-748.79,818.18 -1766.9,1519.3 -2616.37,1574.14" style="fill:#c3afdd"/>
+    <path class="NecklaceKimono4-Mediumfil9 NecklaceKimono4-Mediumstr1" d="M13387.71 22513.4c750.44,1003.95 2000.27,1984.58 3011.23,2049.84" style="fill:#13feeb"/>
+    <path class="NecklaceKimono4-Mediumfil9 NecklaceKimono4-Mediumstr1" d="M13301.95 23771.07c507.19,543.01 1177.73,917.01 1834.87,1029.48" style="fill:#ca3a65"/>
+   </g>
+   <path class="NecklaceKimono4-Mediumfil175 NecklaceKimono4-Mediumstr0" d="M14177.92 19282.83c-124.94,-160.3 -298.4,-310.43 -496.66,-449.07 -493.21,-344.89 -1130.77,-882 -1567.46,-1065.97 -219.7,-92.55 -433.8,15.59 -614.66,9.83l1864.41 2337.01c244.35,-274.62 626.35,-516.83 814.37,-831.8z" style="fill:#b66a30"/>
+   <path class="NecklaceKimono4-Mediumfil175 NecklaceKimono4-Mediumstr0" d="M13184.6 19282.83c124.94,-160.3 298.4,-310.43 496.66,-449.07 493.21,-344.89 1133.91,-882 1570.6,-1065.97 219.7,-92.55 430.66,15.59 611.52,9.83l-1864.41 2337.01c-244.35,-274.62 -626.35,-516.83 -814.37,-831.8z" style="fill:#c81c55"/>
+   <path class="NecklaceKimono4-Mediumfil266 NecklaceKimono4-Mediumstr0" d="M13683.3 21376.14c563.34,0 1112.08,-25.44 1620.07,-96.88 154.64,-1285.92 764.56,-2874.94 1966.88,-3392.24l-487.19 -432.01 -1531.2 312.78c-13.17,376.27 -778.04,1506.8 -1568.56,1790.97 -790.53,-284.17 -1556.33,-1414.7 -1569.5,-1790.97l-1530.27 -312.78 -487.19 432.01c1202.32,517.3 1812.24,2106.32 1966.88,3392.24 507.99,71.44 1056.73,96.88 1620.08,96.88z" style="fill:#f53a44"/>
+   <path class="NecklaceKimono4-Mediumfil268 NecklaceKimono4-Mediumstr0" d="M12113.8 17767.79c-155.63,-26.14 -218.38,-21.42 -485.4,-79.59 520.59,779.26 1261.39,1590.79 1942.73,2196.32l244.94 -240.81c-44.68,-38.52 -89.13,-77.45 -133.24,-116.66 -758.38,-674.23 -1420.61,-1436.11 -1569.03,-1759.26z" style="fill:#8601f6"/>
+   <g>
+    <path class="NecklaceKimono4-Mediumfil269 NecklaceKimono4-Mediumstr21" d="M12910.57 19227.57l763.25 185.54c35.63,8.65 55.56,48.45 44.75,86.45l-167.84 590c-10.81,38 -48.62,61.11 -84.07,51.76l-759.11 -200.12c-35.45,-9.35 -55.57,-48.43 -44.75,-86.45l163.7 -575.42c10.81,-38.02 48.45,-60.41 84.07,-51.76z" style="fill:#db3822"/>
+    <path class="NecklaceKimono4-Mediumfil269 NecklaceKimono4-Mediumstr21" d="M12877.45 19032.75l983.02 382.99c33.75,13.13 37.72,82.88 17.67,115.17l-284.6 458c-20.07,32.31 -47.65,58.01 -81.81,46.23l-841.44 -289.73c-34.19,-11.77 -53.3,-51.82 -42.49,-89.02l167.84 -577.41c10.82,-37.21 48.05,-59.37 81.81,-46.23z" style="fill:#767277"/>
+   </g>
+   <path class="NecklaceKimono4-Mediumfil1" d="M16694.19 20294.81c-93.67,873.66 -2127.84,1105.12 -3012.26,1081.32l0 182.37c1291.46,17.59 2848.32,-292.61 3085.98,-1116.55 7.17,-43.87 -20.21,-145.17 -73.72,-147.14z" style="fill:#882d16"/>
+   <path class="NecklaceKimono4-Mediumfil268 NecklaceKimono4-Mediumstr0" d="M15251.86 17767.79c155.63,-26.14 218.38,-21.42 485.4,-79.59 -895.77,1340.86 -2443.52,2777.29 -3218.54,3095.33l-748.83 -44.42c529.63,-111.71 1257.24,-629.14 1912.94,-1212.06 758.39,-674.23 1420.61,-1436.11 1569.03,-1759.26z" style="fill:#f94b5e"/>
+   <path class="NecklaceKimono4-Mediumfil175 NecklaceKimono4-Mediumstr21" d="M12421.71 21290.13l770.54 463.38c376.62,-370.55 965.39,-757.53 1255.18,-1149.19 -192.57,-119.59 -467.17,-238.09 -765.5,-334.95l-1574.27 -511.09c235.94,1310.9 146.34,1009.94 314.05,1531.85z" style="fill:#e6e1d4"/>
+   <path class="NecklaceKimono4-Mediumfil175 NecklaceKimono4-Mediumstr21" d="M14942.15 21290.13l-770.54 463.38c-376.62,-370.55 -965.39,-757.53 -1255.18,-1149.19 192.57,-119.59 467.17,-238.09 765.5,-334.95l1574.27 -511.09c-235.94,1310.9 -146.34,1009.94 -314.05,1531.85z" style="fill:#56f174"/>
+   <path class="NecklaceKimono4-Mediumfil284 NecklaceKimono4-Mediumstr0" d="M13677.81 22379.77c-1094.58,0 -2977.9,-114.49 -3034.35,-815.13 -63.74,-351.64 25.01,-1494.09 230.53,-1699.08 350.35,895.23 5394.81,882.76 5586.48,0 205.52,204.99 294.27,1347.44 230.53,1699.08 -56.45,700.64 -1918.61,815.13 -3013.19,815.13z" style="fill:#837374"/>
+   <path class="NecklaceKimono4-Mediumfil272" d="M13717.28 20591.9l398.43 398.43c19.52,19.52 19.52,51.18 0,70.7l-398.43 398.43c-19.52,19.52 -51.18,19.52 -70.7,0l-398.43 -398.43c-19.52,-19.52 -19.52,-51.18 0,-70.7l398.43 -398.43c19.52,-19.52 51.18,-19.52 70.7,0zm292.38 433.78l-327.73 -327.73 -327.73 327.73 327.73 327.73 327.73 -327.73z" style="fill:#89cc81"/>
+   <path class="NecklaceKimono4-Mediumfil272" d="M13717.28 21388.76l398.43 398.43c19.52,19.52 19.52,51.18 0,70.7l-398.43 398.43c-19.52,19.52 -51.18,19.52 -70.7,0l-398.43 -398.43c-19.52,-19.52 -19.52,-51.18 0,-70.7l398.43 -398.43c19.52,-19.52 51.18,-19.52 70.7,0zm292.38 433.78l-327.73 -327.73 -327.73 327.73 327.73 327.73 327.73 -327.73z" style="fill:#4678be"/>
+   <path class="NecklaceKimono4-Mediumfil272" d="M12920.42 20591.9l398.43 398.43c19.52,19.52 19.52,51.18 0,70.7l-398.43 398.43c-19.52,19.52 -51.18,19.52 -70.7,0l-398.43 -398.43c-19.52,-19.52 -19.52,-51.18 0,-70.7l398.43 -398.43c19.52,-19.52 51.18,-19.52 70.7,0zm292.38 433.78l-327.73 -327.73 -327.73 327.73 327.73 327.73 327.73 -327.73z" style="fill:#dd4207"/>
+   <path class="NecklaceKimono4-Mediumfil272" d="M12920.42 21388.76l398.43 398.43c19.52,19.52 19.52,51.18 0,70.7l-398.43 398.43c-19.52,19.52 -51.18,19.52 -70.7,0l-398.43 -398.43c-19.52,-19.52 -19.52,-51.18 0,-70.7l398.43 -398.43c19.52,-19.52 51.18,-19.52 70.7,0zm292.38 433.78l-327.73 -327.73 -327.73 327.73 327.73 327.73 327.73 -327.73z" style="fill:#646807"/>
+   <path class="NecklaceKimono4-Mediumfil272" d="M14514.14 20591.9l398.43 398.43c19.52,19.52 19.52,51.18 0,70.7l-398.43 398.43c-19.52,19.52 -51.18,19.52 -70.7,0l-398.43 -398.43c-19.52,-19.52 -19.52,-51.18 0,-70.7l398.43 -398.43c19.52,-19.52 51.18,-19.52 70.7,0zm292.38 433.78l-327.73 -327.73 -327.73 327.73 327.73 327.73 327.73 -327.73z" style="fill:#8631c0"/>
+   <path class="NecklaceKimono4-Mediumfil272" d="M14514.14 21388.76l398.43 398.43c19.52,19.52 19.52,51.18 0,70.7l-398.43 398.43c-19.52,19.52 -51.18,19.52 -70.7,0l-398.43 -398.43c-19.52,-19.52 -19.52,-51.18 0,-70.7l398.43 -398.43c19.52,-19.52 51.18,-19.52 70.7,0zm292.38 433.78l-327.73 -327.73 -327.73 327.73 327.73 327.73 327.73 -327.73z" style="fill:#9e71ed"/>
+   <path class="NecklaceKimono4-Mediumfil273" d="M13681.93 20970.6c1010.82,-1.92 1851.3,-20.48 2742.93,-97.53l-69.37 105.88c-354.71,49.04 -1448.78,115.68 -2673.56,115.68 -1224.78,0 -2318.85,-66.64 -2673.56,-115.68l-69.37 -105.88c891.63,77.05 1732.11,95.61 2742.93,97.53z" style="fill:#41f704"/>
+   <path class="NecklaceKimono4-Mediumfil273" d="M13681.93 21785.72c1010.82,-1.92 1851.3,-20.48 2742.93,-97.53l-69.37 105.88c-354.71,49.04 -1448.78,115.68 -2673.56,115.68 -1224.78,0 -2318.85,-66.64 -2673.56,-115.68l-69.37 -105.88c891.63,77.05 1732.11,95.61 2742.93,97.53z" style="fill:#eca758"/>
+   <path class="NecklaceKimono4-Mediumfil9 NecklaceKimono4-Mediumstr0" d="M13677.81 22379.77c-1094.58,0 -2977.9,-114.49 -3034.35,-815.13 -63.74,-351.64 25.01,-1494.09 230.53,-1699.08 350.35,895.23 5394.81,882.76 5586.48,0 205.52,204.99 294.27,1347.44 230.53,1699.08 -56.45,700.64 -1918.61,815.13 -3013.19,815.13z" style="fill:#ebf3c2"/>
+   <g>
+    <path class="NecklaceKimono4-Mediumfil274 NecklaceKimono4-Mediumstr21" d="M12573.26 21215.51c105.19,-22.76 279.3,-7.3 381.89,49.59 87.61,-45.59 249.34,-39.57 335.73,39.11 112.98,-54.57 258.25,-56.82 359.55,-3.14 74.95,-37.8 215.44,-46.34 353.31,3.14 126.64,-53.5 255.04,-53.65 323.44,-8.26 104.27,-81.79 206.17,-85.34 306.98,-74.78 314.22,-73.17 498.9,361.83 31.77,303.62 -56.08,37.61 -159.45,42.74 -277.42,33.6 -169.39,71.25 -299.61,24.46 -351.74,3.01 -110.12,34.3 -269.5,52.94 -375.56,23.07 -115.13,44.76 -238,34.43 -345.7,-13.28 -167.6,50.54 -294.58,28.19 -354.77,-42.83 -90.14,20.34 -255.44,19.36 -308.63,-26.75 -329.46,-2.12 -285.42,-241.41 -78.85,-286.1z" style="fill:#84447a"/>
+    <path class="NecklaceKimono4-Mediumfil1" d="M12827.92 21395.66c-39.55,15.43 -116.67,53.31 -112.52,87.17 -34.08,-6.09 -50.6,-26.97 -75.79,-30.98 89.95,-36.64 132.64,-54.03 188.31,-56.19z" style="fill:#f48d68"/>
+    <path class="NecklaceKimono4-Mediumfil1" d="M13104.57 21428.99c-39.55,15.43 -98.18,41.28 -94.02,75.15 -34.09,-6.1 -99.99,-12.48 -125.18,-16.5 89.94,-36.65 163.55,-56.49 219.2,-58.65z" style="fill:#3428e9"/>
+    <path class="NecklaceKimono4-Mediumfil1" d="M13420.63 21448.75c-31.78,21.36 -88.98,59.97 -72.43,92.99 -34.61,-0.86 -67.02,-4.11 -92.43,-4.24 71.72,-50.16 112.84,-78.12 164.86,-88.75z" style="fill:#db8509"/>
+    <path class="NecklaceKimono4-Mediumfil1" d="M13749.99 21467.7c-31.78,21.36 -88.98,59.97 -72.43,92.99 -34.61,-0.86 -73.81,-3.96 -99.2,-4.11 71.7,-50.15 119.62,-78.24 171.63,-88.88z" style="fill:#c0023b"/>
+    <path class="NecklaceKimono4-Mediumfil1" d="M14136.26 21439.97c-31.78,21.37 -88.98,59.98 -72.43,93 -34.61,-0.86 -69.29,-4.39 -94.68,-4.54 71.7,-50.14 115.1,-77.82 167.11,-88.46z" style="fill:#1d3ccf"/>
+    <path class="NecklaceKimono4-Mediumfil1" d="M12873.48 21365.79c35.9,-18.56 62.93,-40.7 40.47,-68.19 40.42,15.43 87.78,-8.96 110.76,-11.99 -81.36,43.75 -97.01,73.71 -151.23,80.18z" style="fill:#f611da"/>
+    <path class="NecklaceKimono4-Mediumfil1" d="M13534.58 21418.27c31.98,-21.24 89.53,-59.64 73.25,-92.68 34.63,0.97 109.25,-9.94 134.69,-9.71 -72.19,49.87 -155.8,91.95 -207.94,102.39z" style="fill:#5aa18c"/>
+    <path class="NecklaceKimono4-Mediumfil1" d="M13908.63 21430.18c28.68,-23.13 81.63,-52.02 61,-84.32 33.78,6.3 100.8,-22.42 125.93,-23.61 -64.46,54.13 -136.86,94.5 -186.93,107.93z" style="fill:#852a04"/>
+    <path class="NecklaceKimono4-Mediumfil1" d="M14248.43 21409.22c28.68,-23.14 55.37,-62.81 19.39,-93.56 34.34,-0.97 128.22,-21.93 153.34,-23.13 -64.45,54.15 -122.66,103.26 -172.73,116.69z" style="fill:#8c49e7"/>
+    <path class="NecklaceKimono4-Mediumfil1" d="M13180.2 21407.64c42.19,-17.87 103.28,-45.54 58.17,-85.66 34.66,1.27 96.59,6.63 122.03,7.08 -73.28,49.19 -109.31,73.79 -180.2,78.58z" style="fill:#f3a3fb"/>
+    <path class="NecklaceKimono4-Mediumfil12" d="M14473.95 21442.23c-21.72,34.11 195.68,0.29 305.05,-30.78 19.18,14.5 10.3,23.27 26.78,16.44 74.54,-31.05 -38.18,-160.28 -128.52,-137.82 48.05,-108.81 314.97,48.42 220.27,161.64 -74.98,89.64 -1038.88,161.52 -1228.65,79.72 5.97,-5.79 10.44,-18.91 20.36,-31.84 -92.32,53.58 -186.22,136.85 -368.06,28.19 16.12,-5.67 51.2,-58.77 98.87,-78.85 -188.14,77.98 -194.76,257.46 -472.05,46.58 -109.64,24.48 -225.64,25.31 -285.93,-24.61 -60.71,21.21 -269.26,-58.34 -179.81,-141.05 7.77,57.83 186.37,71.95 253.33,51.6 67.2,-20.35 37.26,-122.68 -31.29,-138.11 77.84,-14.78 231.88,36.66 237.28,59.32 18.99,25.59 -80.75,77.93 -116.83,94.23 -108.18,110.41 438.42,-71.84 265.79,-134.57 55.23,-23.25 173.29,81.1 213.1,95.54 -42.12,23.72 -73.59,44.79 -130.8,65.41 -16.1,0.89 -26.73,1.06 -48.38,5.75 -18.92,77.4 253.54,-1.82 339.71,5.82 -15.68,4.41 -30.18,9.1 -43.77,13.96 -29.67,32.03 109.74,31.07 235.18,5.56 63.52,-14.78 104.13,-15.68 172.2,-12.74 -35.62,8.6 -51.08,15.76 -77.78,26.07 -25.41,33.66 53.7,42.91 174.58,11.05 113.43,-29.94 180.93,-63.95 277.2,-62.69 -34.43,10.41 -21.06,3.36 -65.51,23.92 -19.53,9.14 -39.18,20.88 -59.36,33.71 1.18,-0.55 272.16,-51.28 321.68,-64.31 107.02,-30.24 195.9,-151.31 54.3,-143.5 25.28,-21.33 157.56,-12.07 179.55,6.43 39.68,11.05 9.17,70.89 -50.25,88.57 -43.27,30.18 -96.91,47.77 -108.24,81.36z" style="fill:#109410"/>
+    <path class="NecklaceKimono4-Mediumfil1" d="M14504.95 21441.29c-31.78,21.37 -88.98,59.98 -72.43,93 -34.62,-0.86 -69.29,-4.39 -94.69,-4.54 71.71,-50.14 115.1,-77.82 167.12,-88.46z" style="fill:#e75a51"/>
+    <path class="NecklaceKimono4-Mediumfil1" d="M14779 21411.45c-31.78,21.37 -88.98,59.98 -72.43,93 -34.61,-0.86 -69.29,-4.4 -94.69,-4.54 71.71,-50.15 115.1,-77.82 167.12,-88.46z" style="fill:#c8e2ed"/>
+    <path class="NecklaceKimono4-Mediumfil1" d="M14597.76 21347.35c28.68,-23.14 54.05,-52.89 18.06,-83.64 34.36,-0.97 129.55,-31.85 154.68,-33.05 -64.46,54.15 -122.67,103.27 -172.74,116.69z" style="fill:#25c79e"/>
+   </g>
+   <rect class="NecklaceKimono4-Mediumfil269 NecklaceKimono4-Mediumstr21" height="714.45" rx="67.81" ry="67.81" transform="matrix(0.266476 1.51289 -1.16653 0.216868 15524.9 18930.8)" width="946.68"/>
+   <path class="NecklaceKimono4-Mediumfil285 NecklaceKimono4-Mediumstr0" d="M10777.47 19894.31c53.91,775.29 -124.71,1462.57 -255.99,2175.58 7.73,-1785.37 -1295.8,-2322.58 -2086.38,-2233.63 648.08,-863.82 977.51,-1315.15 1661.24,-1949.24 1871.29,805.12 2390.88,4000.84 1908.9,4814.69 -435.12,4369.2 -8169.58,1148.6 -3317.88,1115.95 1119.73,-72.34 1604.55,-835.06 1834.12,-1747.77 248.48,-1135.08 255.12,-1576.38 255.99,-2175.58z" style="fill:#ed85b7"/>
+   <g>
+    <path class="NecklaceKimono4-Mediumfil277" d="M11212.76 19314.63c19.61,19.93 81.3,22.2 125.76,24.41 0.57,7.3 1.78,14.65 3.69,21.98 0.62,2.39 1.31,4.75 2.07,7.08 -97.67,132.75 -454.46,97.58 -546.74,-1.07 16.39,-25.62 34.29,-43.3 76.45,-72.5 -38.41,-33.99 -54.09,-53.66 -67.34,-81.04 103.3,-87.05 461.76,-79.78 543.04,63.59 -4.14,8.95 -7.23,18.4 -9.17,28.17 -44.41,-3.06 -105.93,-8.1 -127.76,9.38z" style="fill:#1beffe"/>
+    <path class="NecklaceKimono4-Mediumfil277" d="M11371.69 19563.1c25.02,-12.49 46.25,-70.46 62.09,-112.06 9.53,2.32 19.4,3.54 29.43,3.53 96.03,133.93 -47.66,462.34 -169.99,519.61 -19.31,-23.5 -30.59,-45.98 -45.33,-95.11 -44.19,26.04 -67.74,34.87 -97.88,39.01 -50.87,-125.14 66.81,-463.78 228.27,-496.8 7.29,6.74 15.35,12.57 23.99,17.39 -16.64,41.29 -40.46,98.26 -30.58,124.43z" style="fill:#25aa34"/>
+    <path class="NecklaceKimono4-Mediumfil277" d="M10980.2 19115.94c94.72,32.57 141.87,10.31 249.23,28.92 -20.07,-42.04 -46.62,-131.29 -60.96,-195.49 -14.99,-67.13 -59.07,-85.03 -171.01,-106.17 -2.63,40.13 -3.54,81.4 5.24,124.51 -36.06,-2.61 -73.63,2.16 -111.88,10.21 2.54,55.45 51.67,125.04 89.38,138.02z" style="fill:#231425"/>
+    <path class="NecklaceKimono4-Mediumfil277" d="M11110.86 19722.88c60.25,-80.02 53.65,-131.74 104.53,-228.1 -46.19,6.1 -139.28,3.77 -204.77,-2.43 -68.47,-6.49 -99.12,29.9 -153.82,129.83 37.36,14.9 76.33,28.52 120.04,33.49 -13.63,33.5 -20.7,70.7 -24.87,109.56 53.53,14.73 134.89,-10.5 158.89,-42.35z" style="fill:#d72197"/>
+    <path class="NecklaceKimono4-Mediumfil277" d="M11630.48 19690.28c-25.96,-19.48 -54.03,-40.43 -86.65,-74.02 -8.47,45.81 -39.45,133.63 -65.58,194 -27.33,63.12 -2.2,103.51 75.94,186.41 25.71,-30.92 50.71,-63.78 68.95,-103.81 27.64,23.31 60.83,41.52 96.51,57.5 2.79,-4.23 5.33,-8.8 7.63,-13.61 -30.75,-83.88 -63.03,-166.14 -96.8,-246.47z" style="fill:#6ce144"/>
+    <path class="NecklaceKimono4-Mediumfil278" d="M11518.63 19441.62c-7.5,3.7 -15.48,6.69 -23.88,8.88 -66.83,17.41 -135.12,-22.65 -152.54,-89.48 -14.94,-57.36 12.45,-115.79 62.78,-142.22 38.98,72.16 76.95,146.4 113.64,222.82z" style="fill:#5aad86"/>
+   </g>
+   <g>
+    <path class="NecklaceKimono4-Mediumfil278" d="M11841.11 21528.87c-12.9,24.82 4.01,84.2 15.64,127.17 -9.32,3.83 -17.98,8.69 -25.88,14.43 -156.41,-51.9 -233.21,-402.06 -167.9,-520.3 29.43,7.67 51.77,19.23 92.57,50.31 20.45,-47.04 34.31,-68.03 56.26,-89.09 114.7,71.34 218.54,414.43 107.35,536.07 -9.7,-1.15 -19.64,-1.17 -29.64,0.04 -10.82,-43.19 -25.03,-103.26 -48.4,-118.63z" style="fill:#484d49"/>
+    <path class="NecklaceKimono4-Mediumfil278" d="M11653.91 21756.81c19.61,19.93 81.3,22.2 125.76,24.41 0.57,7.3 1.78,14.65 3.69,21.98 0.62,2.39 1.32,4.75 2.07,7.08 -97.67,132.75 -454.46,97.58 -546.74,-1.08 16.39,-25.61 34.29,-43.29 76.45,-72.49 -38.41,-33.98 -54.09,-53.65 -67.34,-81.03 103.3,-87.06 461.76,-79.79 543.04,63.58 -4.14,8.95 -7.23,18.4 -9.17,28.17 -44.41,-3.06 -105.93,-8.1 -127.76,9.38z" style="fill:#3706a2"/>
+    <path class="NecklaceKimono4-Mediumfil278" d="M11812.84 22005.28c25.02,-12.49 46.25,-70.45 62.09,-112.06 9.53,2.32 19.4,3.54 29.43,3.53 96.03,133.93 -47.67,462.34 -170,519.62 -19.3,-23.51 -30.58,-46 -45.32,-95.12 -44.19,26.04 -67.74,34.87 -97.88,39.01 -50.86,-125.15 66.81,-463.77 228.26,-496.81 7.3,6.74 15.36,12.59 24,17.41 -16.63,41.31 -40.45,98.26 -30.58,124.42z" style="fill:#b12f07"/>
+    <path class="NecklaceKimono4-Mediumfil278" d="M12075.32 21893.63c-18.2,-19.51 -43.81,-39.76 -64.47,-56.41 5.18,-8.42 9.38,-17.45 12.46,-26.89 16.22,-5.16 33.63,-7.21 51.81,-6.65 0.34,29.94 0.38,59.92 0.2,89.95zm-5.18 201.56c-66.23,-66.89 -112.51,-145.31 -104.73,-214.35 8.76,-4.9 16.79,-10.76 23.98,-17.44 25.87,21.67 59.03,50.02 85.72,61.91 -0.7,56.47 -2.41,113.12 -4.97,169.88z" style="fill:#a1300b"/>
+    <path class="NecklaceKimono4-Mediumfil278" d="M12071.17 21647.73c-23.65,11.32 -49.93,28.8 -71.53,42.91 -6.46,-7.58 -13.76,-14.33 -21.74,-20.12 0.33,-54.91 34.92,-111.64 85.76,-161.95 3.1,46.23 5.61,92.62 7.51,139.16zm3.34 112.04c-16.95,-1.79 -32.9,-5.82 -47.49,-12.45 -0.48,-2.39 -1.02,-4.79 -1.64,-7.18 -1.91,-7.33 -4.43,-14.34 -7.5,-20.99 16.96,-10.63 36.96,-22.96 54.51,-35.77 0.86,25.43 1.62,50.88 2.12,76.39z" style="fill:#17e167"/>
+    <path class="NecklaceKimono4-Mediumfil278" d="M11958.21 21246.3c-1.71,100.15 34.03,138.11 49.5,245.97 12.45,-11.82 30.72,-26.46 51.67,-41.91 -8.15,-104.63 -19.27,-208.36 -33.19,-311 -37.4,29.2 -67.45,76.38 -67.98,106.94z" style="fill:#7d5d41"/>
+    <path class="NecklaceKimono4-Mediumfil278" d="M11421.35 21558.12c94.72,32.57 141.87,10.31 249.24,28.93 -20.08,-42.05 -46.63,-131.31 -60.97,-195.5 -14.99,-67.13 -59.06,-85.03 -171.01,-106.17 -2.63,40.13 -3.54,81.4 5.24,124.51 -36.06,-2.62 -73.63,2.16 -111.88,10.21 2.54,55.45 51.67,125.03 89.38,138.02z" style="fill:#aa7f30"/>
+    <path class="NecklaceKimono4-Mediumfil278" d="M11552.01 22165.06c60.25,-80.02 53.65,-131.74 104.53,-228.1 -46.19,6.1 -139.28,3.77 -204.77,-2.43 -68.47,-6.49 -99.12,29.9 -153.82,129.83 37.36,14.9 76.33,28.52 120.04,33.49 -13.63,33.5 -20.7,70.7 -24.87,109.56 53.53,14.73 134.89,-10.5 158.89,-42.35z" style="fill:#163451"/>
+    <path class="NecklaceKimono4-Mediumfil278" d="M12068.45 22130.07c-25.07,-18.82 -52.17,-39.41 -83.47,-71.63 -8.47,45.82 -39.46,133.63 -65.59,194 -27.32,63.11 -2.19,103.51 75.95,186.41 19.94,-23.98 39.45,-49.13 55.71,-77.88 7.6,-77.14 13.37,-154.13 17.4,-230.9z" style="fill:#03ba31"/>
+    <path class="NecklaceKimono4-Mediumfil286" d="M11872.84 21650.66c66.83,-17.41 135.12,22.65 152.54,89.48 17.41,66.83 -22.65,135.13 -89.48,152.54 -66.83,17.41 -135.13,-22.65 -152.54,-89.48 -17.41,-66.83 22.65,-135.12 89.48,-152.54z" style="fill:#466c9a"/>
+   </g>
+   <g>
+    <path class="NecklaceKimono4-Mediumfil278" d="M8957.96 19144.49c72.18,-93.33 142.15,-182.16 211.74,-268.1 45.88,137.73 51.42,303.88 -39.47,362.99 -11.51,-41.62 -26.32,-121.25 -53.75,-139.29 -15.14,29.13 10.79,105.87 21.05,147.81 -55.81,-3.74 -103.11,-44.88 -139.57,-103.41z" style="fill:#20ebe8"/>
+    <path class="NecklaceKimono4-Mediumfil278" d="M8713.31 19465.67c69.06,-91.64 134.92,-178.51 198.79,-261.67 63.37,24.42 111.92,62.56 126.26,115.94 -43.14,-1.91 -123.45,-12.43 -149.08,8.09 23.02,23.4 104.02,22.45 147.08,25.65 -37.97,94.78 -185.67,124.12 -323.05,111.99z" style="fill:#98a7e3"/>
+    <path class="NecklaceKimono4-Mediumfil278" d="M9069.34 19889.57c-85.91,-22.89 -171.14,-39.16 -254.36,-49.38 7.75,-164.03 126.02,-415.51 271.61,-407.97 -15.15,40.43 -49.97,113.57 -38.38,144.28 29.37,-14.66 53.5,-91.99 69.85,-131.95 101.43,84.6 41.98,309.96 -48.72,445.02z" style="fill:#d3cf45"/>
+    <path class="NecklaceKimono4-Mediumfil278" d="M9333.63 19502.13c-4.87,-32.46 -70.95,-79.31 -103.9,-107.21 150.32,-94.55 452.88,166.17 470.62,308.87 -28.32,11.1 -53.19,14.88 -104.47,13.72 11.11,50.07 12.23,75.2 6.86,105.14 -143.44,10.34 -458,-235.77 -394.47,-401.61 33.78,26.9 92.57,82.62 125.36,81.09z" style="fill:#fefd68"/>
+    <path class="NecklaceKimono4-Mediumfil278" d="M9351.1 19207.69c-32.38,-5.4 -97.35,42.98 -134.07,65.7 -43.47,-172.19 297.98,-379.37 439.19,-352.15 1.8,30.37 -2.29,55.19 -19.23,103.59 51.05,4.92 75.29,11.61 102.1,25.98 -34.49,139.61 -365.75,362.72 -503.84,251.05 36.02,-23.81 107.18,-62.51 115.85,-94.17z" style="fill:#2399f5"/>
+    <path class="NecklaceKimono4-Mediumfil278" d="M9194.17 18846.28c37.85,-46.43 75.66,-92.06 113.71,-137.15 14.65,27.61 26.6,55.51 33.62,83.98 38.29,-21.67 77.82,-33.56 116.8,-43.46 14.49,113 11.08,160.45 -48.13,195.45 -56.62,33.48 -133.31,86.31 -167.09,118.39 -13.9,-96.89 -44.14,-137.38 -48.91,-217.21z" style="fill:#aafeaf"/>
+    <path class="NecklaceKimono4-Mediumfil278" d="M8574.22 19650.76c37.35,-49.79 73.68,-98.19 109.14,-145.32l3.78 0.31c65.49,6.2 158.58,8.53 204.77,2.43 -50.88,96.36 -44.28,148.08 -104.53,228.1 -24,31.85 -105.36,57.08 -158.89,42.35 4.17,-38.86 11.24,-76.06 24.87,-109.56 -28.06,-3.19 -54.16,-9.94 -79.14,-18.31z" style="fill:#4045d5"/>
+    <path class="NecklaceKimono4-Mediumfil278" d="M9271.94 19955.73c-38.69,-15.08 -77.47,-28.64 -116.23,-40.95 -15.17,-30.49 -15.46,-57.59 -0.94,-91.12 26.13,-60.37 57.11,-148.19 65.58,-194 75.92,78.17 127.15,87.87 184.64,169.9 22.87,32.67 21.72,117.84 -8.82,164.2 -35.68,-15.98 -68.87,-34.19 -96.51,-57.5 -8.09,17.75 -17.5,34.08 -27.72,49.47z" style="fill:#4de9e8"/>
+    <path class="NecklaceKimono4-Mediumfil278" d="M9656.02 19231.74c-95.78,29.32 -120.84,75.04 -218.64,123.09 40.96,22.22 114.9,78.82 164.24,122.33 51.58,45.49 97.76,34.07 200.75,-14.62 -21.46,-34.01 -44.98,-67.94 -77.43,-97.66 30.72,-19.08 58.3,-45.02 84.52,-74.01 -34.65,-43.38 -115.3,-70.79 -153.44,-59.13z" style="fill:#002d24"/>
+    <path class="NecklaceKimono4-Mediumfil286" d="M9108.21 19221.88c66.83,-17.41 135.13,22.65 152.54,89.48 17.41,66.83 -22.65,135.13 -89.48,152.54 -66.83,17.41 -135.12,-22.65 -152.54,-89.48 -17.41,-66.83 22.65,-135.12 89.48,-152.54z" style="fill:#037715"/>
+   </g>
+   <g>
+    <path class="NecklaceKimono4-Mediumfil277" d="M9278.04 23995.83c27.04,-13.5 49.26,-84.71 64.32,-121.5 125.57,104.74 -16.65,443.87 -136.57,500.01 -17.78,-21.64 -28.17,-42.34 -41.74,-87.58 -40.69,23.98 -62.37,32.11 -90.13,35.92 -49.86,-122.66 76.15,-468.16 239.46,-459.7 -13.95,37.22 -46.01,104.57 -35.34,132.85z" style="fill:#22bfbd"/>
+    <path class="NecklaceKimono4-Mediumfil277" d="M9540.85 23927.35c-4.49,-29.89 -65.33,-73.03 -95.67,-98.72 138.41,-87.06 417,153.01 433.33,284.4 -26.07,10.22 -48.97,13.7 -96.19,12.63 10.23,46.11 11.26,69.25 6.32,96.81 -132.08,9.52 -421.72,-217.09 -363.22,-369.79 31.1,24.77 85.24,76.08 115.43,74.67z" style="fill:#77ccb2"/>
+    <path class="NecklaceKimono4-Mediumfil277" d="M9556.37 23658c94.15,-54.62 185.27,-118.93 271.82,-194.58 -2.23,7.41 -4.89,15.49 -8.02,24.44 47.01,4.53 69.33,10.69 94.02,23.92 -31.76,128.55 -336.78,333.99 -463.93,231.16 32.5,-21.48 96.06,-56.12 106.11,-84.94z" style="fill:#547f76"/>
+    <path class="NecklaceKimono4-Mediumfil277" d="M9606.56 24201.21c-52.94,-75.53 -100.11,-84.46 -170.02,-156.44 -7.8,42.18 -36.32,123.05 -60.38,178.63 -25.17,58.12 -2.03,95.31 69.92,171.64 23.68,-28.47 46.7,-58.72 63.49,-95.58 25.45,21.46 56.01,38.23 88.86,52.94 28.12,-42.68 29.18,-121.11 8.13,-151.19z" style="fill:#f0d2c1"/>
+    <path class="NecklaceKimono4-Mediumfil277" d="M9837.7 23678.38c-88.2,27 -111.27,69.09 -201.32,113.34 37.71,20.46 105.8,72.57 151.23,112.64 47.49,41.88 90.01,31.37 184.84,-13.47 -19.76,-31.31 -41.41,-62.55 -71.29,-89.92 28.28,-17.57 53.68,-41.45 77.82,-68.15 -31.9,-39.94 -106.17,-65.18 -141.28,-54.44z" style="fill:#fd79b4"/>
+    <path class="NecklaceKimono4-Mediumfil278" d="M9249.02 23801.27c69.51,-25.56 138.36,-54.99 206.05,-88.82 8.43,11.44 14.87,24.65 18.67,39.24 16.03,61.54 -20.85,124.43 -82.39,140.46 -61.53,16.03 -124.41,-20.86 -140.45,-82.39 -0.74,-2.83 -1.36,-5.66 -1.88,-8.49z" style="fill:#8346f5"/>
+   </g>
+   <path class="NecklaceKimono4-Mediumfil123" d="M10704.56 20860.09c8.32,-100.15 43.98,-288.53 311.38,-555.62 -117.06,239.98 -40.38,555.23 58.71,619.78 10.58,-81.13 37.18,-198.67 165.04,-246.42 -8.79,114.68 19.68,261.19 104.53,340.05 581.54,-261.19 -191.59,-1868.32 -1113.68,-2722.4 -616.99,322.72 -1611.39,1245.09 -1236.85,1607.27 -126.03,-74.66 -294.05,-61.49 -438.13,-67.32l-120.46 -9.15c340.89,-495.45 956.72,-1217.2 1498.48,-1774.58 -12.05,-8.6 -24.1,-17.21 -36.15,-25.48l187.48 -139.2 7.38 4.04 4.05 -4.04 528.02 304.87c-24.46,-10.25 -56.67,-12.24 -94.83,-7.34 899.91,730.44 1720.24,2227.92 1464.28,4517.16 -1152.29,1336.6 -3141.46,2542.04 -4739.59,1748.57 -215.75,-89.65 -357.85,-428.43 359.63,-545.61 547.1,-177.45 2627.53,343.48 2947.21,-2101.72 76.53,-392.83 124.04,-708.82 143.5,-942.86z" style="fill:#8de0a3"/>
+   <g>
+    <path class="NecklaceKimono4-Mediumfil280" d="M8206.08 24212.72c-69.05,43.23 -296.35,82.2 -393.76,45.07 152.03,83.14 282.4,32.58 421.01,6.97 -173.82,301.82 -424.17,140.43 -602.23,-57.89l55.95 -11.93c127.81,-22.12 386.73,-115.7 519.03,17.78z" style="fill:#d44e8c"/>
+    <path class="NecklaceKimono4-Mediumfil280" d="M10532.95 20325.07c130.47,-293.5 -125.79,-392.37 -370.31,-417.31l21.51 48.17c25.21,122.71 71.96,322.23 348.8,369.14z" style="fill:#2ba11f"/>
+    <path class="NecklaceKimono4-Mediumfil280" d="M8896.34 23854.07c-59.48,47.07 -255.29,112.97 -339.19,94.84 130.96,50 243.26,-12.1 362.66,-53.88 -149.73,284.72 -365.39,181.3 -518.77,35.79l48.19 -18.23c110.1,-37.24 333.14,-154.68 447.11,-58.52z" style="fill:#5139ac"/>
+    <path class="NecklaceKimono4-Mediumfil280" d="M11118.39 23284.61c-129.88,-259.1 89.93,-387.93 303.29,-445.31l-16.37 48.46c-15.72,119.37 -46.33,314.25 -286.92,396.85z" style="fill:#6118fd"/>
+    <path class="NecklaceKimono4-Mediumfil280" d="M9782.75 19026.66c80.77,-10.64 280.84,-125.35 332.29,-216.01 -64.27,160.92 -196.98,204.96 -320.16,273.48 326.23,122.01 416.47,-161.86 427.45,-428.15l-50.73 26.43c-112.63,64.34 -371.85,157.08 -388.85,344.25z" style="fill:#1ce7d3"/>
+    <path class="NecklaceKimono4-Mediumfil280" d="M11349.73 22246.24c-49.25,64.9 -247.98,181.9 -352.22,181.7 171.62,23.86 275.61,-69.62 396.15,-142.69 -55.58,343.83 -346.88,281.64 -583.66,159.29l48.09 -30.98c111.67,-65.98 320.62,-245.25 491.64,-167.32z" style="fill:#788df2"/>
+    <path class="NecklaceKimono4-Mediumfil280" d="M10764 23262.8c-39.21,71.42 -218.67,216.26 -321.81,231.33 173.27,-1.53 262.44,-109.24 370.97,-199.18 -4.61,348.27 -301.87,329.42 -554.03,243.08l43.04 -37.69c100.8,-81.63 281.24,-289.58 461.83,-237.54z" style="fill:#a90c7b"/>
+    <path class="NecklaceKimono4-Mediumfil280" d="M11167.66 21709.42c130.47,-293.5 -125.79,-392.37 -370.31,-417.31l21.51 48.17c25.21,122.71 71.96,322.23 348.8,369.14z" style="fill:#4b5f80"/>
+    <path class="NecklaceKimono4-Mediumfil280" d="M11684.44 20361.8c-80.38,-13.32 -276.53,-134.6 -324.94,-226.92 58.89,162.97 190.07,211.39 310.91,283.96 -330.1,111.12 -410.87,-175.58 -413.01,-442.1l49.82 28.1c110.44,68.04 366.44,169.33 377.22,356.96z" style="fill:#83a0bf"/>
+   </g>
+   <path class="NecklaceKimono4-Mediumfil281" d="M12005.24 22701.71c-130.53,3160.28 -4694.67,2313.35 -4739.59,1748.57 1927.56,789.11 4126.8,-1057.97 4739.59,-1748.57z" style="fill:#d1a3f5"/>
+   <path class="NecklaceKimono4-Mediumfil5" d="M10211.49 20800.89c164.18,-41.54 201.84,-611.08 251.77,-974.18 54.09,-313.62 31.84,-715.63 -15.69,-1029.12 159.56,192.64 314.9,754.24 349.74,1082.91 9.02,647.94 -36.71,1268.66 -237.46,1812.29 -59.31,-192.29 -113.79,-534.28 -348.36,-891.9z" style="fill:#8f4c47"/>
+   <path class="NecklaceKimono4-Mediumfil9 NecklaceKimono4-Mediumstr27" d="M10777.47 19894.32c-60.42,-747.79 -458.93,-1622.05 -985.61,-1752.86" style="fill:#87aad6"/>
+   <path class="NecklaceKimono4-Mediumfil281" d="M8613.24 19579.57c477.74,-17.6 984.74,150.86 1420.5,541.34 358.93,321.63 626.94,780.78 677.31,1377.29l-199.22 16.4c-45.62,-540.34 -287.32,-955.29 -610.91,-1245.25 -396.05,-354.89 -1034.25,-448.98 -1465.82,-433.09l178.14 -256.69z" style="fill:#0ab743"/>
+   <path class="NecklaceKimono4-Mediumfil268 NecklaceKimono4-Mediumstr0" d="M16589.12 19894.31c-53.91,775.29 124.71,1462.57 255.99,2175.58 -7.73,-1785.37 1295.8,-2322.58 2086.38,-2233.63 -648.08,-863.82 -977.51,-1315.15 -1661.24,-1949.24 -1871.29,805.12 -2390.88,4000.84 -1908.9,4814.69 435.12,4369.2 8169.58,1148.6 3317.88,1115.95 -1119.73,-72.34 -1604.55,-835.06 -1834.12,-1747.77 -248.48,-1135.08 -255.12,-1576.38 -255.99,-2175.58z" style="fill:#3e9fc9"/>
+   <g>
+    <path class="NecklaceKimono4-Mediumfil277" d="M16407.71 21597.02c-13.28,25.53 9.46,92.82 18.45,129.6 -155.37,-10.4 -235.63,-351.29 -174.66,-461.67 25.81,6.72 45.4,16.86 81.18,44.11 17.93,-41.25 30.08,-59.65 49.32,-78.12 107.08,66.6 203.39,403.31 72.84,488.21 -10.09,-36.49 -23.08,-106.32 -47.13,-122.13z" style="fill:#dde9c4"/>
+    <path class="NecklaceKimono4-Mediumfil277" d="M16243.56 21796.88c20.19,20.52 91.21,19.69 128.97,22.5 -57.91,144.56 -406.92,115.54 -493.06,23.45 14.38,-22.47 30.07,-37.97 67.04,-63.57 -33.69,-29.8 -47.43,-47.05 -59.05,-71.06 96.43,-81.26 446.41,-68.8 486.82,81.59 -37.82,-1.67 -108.25,-10.9 -130.72,7.09z" style="fill:#a9ad85"/>
+    <path class="NecklaceKimono4-Mediumfil277" d="M16382.92 22014.76c25.75,-12.86 46.91,-80.66 61.25,-115.71 119.59,99.75 -15.86,422.71 -130.06,476.17 -16.93,-20.61 -26.82,-40.32 -39.75,-83.4 -38.75,22.83 -59.4,30.58 -85.82,34.2 -47.49,-116.81 72.52,-445.82 228.03,-437.78 -13.28,35.46 -43.81,99.59 -33.65,126.52z" style="fill:#7fe88f"/>
+    <path class="NecklaceKimono4-Mediumfil277" d="M16888.65 22138.45c-31.73,-71.01 -60.93,-144.04 -87.75,-218.82 -86.61,-66.45 -190.59,-107 -258.82,-64.09 28.9,24.47 86.84,65.54 91.11,94 -28.75,1.35 -80.3,-47.51 -109.92,-71.1 -55.71,145.42 220.12,361.22 345.89,352.16 4.72,-26.25 3.73,-48.29 -6.01,-92.19 9.44,0.21 17.86,0.22 25.5,0.04z" style="fill:#3ab57b"/>
+    <path class="NecklaceKimono4-Mediumfil277" d="M16682.64 21515.43l5.77 31.15c-0.05,-11.81 0.19,-23.35 0.25,-35.05l-6.02 3.9zm68.87 256.24c-22.94,-73.78 -43.94,-148.9 -63.1,-225.09l-6.65 -30.57c-94.59,62.18 -171.26,151.97 -150.81,232.96 32.2,-19.92 89.17,-62.34 117.56,-57.6 -7.6,27.76 -70,61.69 -101.58,82.57 49.61,40.12 127.65,30.94 204.58,-2.27z" style="fill:#cbac09"/>
+    <path class="NecklaceKimono4-Mediumfil277" d="M16646.16 21324.5c9.84,50.54 19.6,101.16 29.16,151.88 4.63,-2.91 9.19,-5.74 13.65,-8.46 0.99,-56.14 3.26,-111.04 6.84,-164.65 -16.67,5.68 -33.28,12.48 -49.65,21.23zm27.27 153.07c-11.13,-51.62 -21.74,-101.79 -31.87,-150.56l-1.46 0.82c-7.6,-30.78 -21.76,-60.81 -38.83,-90.53 -45.56,17.14 -90.27,76.97 -90.88,111.93 -1.5,87.83 29.84,121.11 43.41,215.69 24.53,-23.29 74.86,-59.07 119.63,-87.35z" style="fill:#9ca677"/>
+    <path class="NecklaceKimono4-Mediumfil277" d="M16039.63 21622.66c83.07,28.56 124.41,9.05 218.55,25.36 -17.6,-36.86 -40.88,-115.13 -53.46,-171.42 -13.14,-58.86 -51.79,-74.56 -149.95,-93.1 -2.3,35.19 -3.1,71.38 4.6,109.18 -31.63,-2.29 -64.57,1.9 -98.11,8.95 2.23,48.63 45.31,109.65 78.37,121.03z" style="fill:#2d60d0"/>
+    <path class="NecklaceKimono4-Mediumfil277" d="M16154.21 22154.86c52.83,-70.17 47.04,-115.51 91.66,-200.01 -40.5,5.35 -122.13,3.31 -179.56,-2.13 -60.04,-5.69 -86.91,26.22 -134.88,113.85 32.76,13.06 66.93,25 105.26,29.36 -11.95,29.37 -18.15,61.99 -21.8,96.07 46.93,12.91 118.27,-9.21 139.32,-37.14z" style="fill:#a9aff2"/>
+    <path class="NecklaceKimono4-Mediumfil277" d="M16695.76 22210.35c-50.4,-71.93 -95.32,-80.44 -161.89,-148.97 -7.43,40.16 -34.6,117.17 -57.52,170.1 -23.96,55.35 -1.92,90.76 66.6,163.46 22.54,-27.12 44.46,-55.93 60.45,-91.03 24.24,20.44 53.35,36.41 84.63,50.42 26.78,-40.65 27.79,-115.33 7.73,-143.98z" style="fill:#de0bb2"/>
+    <path class="NecklaceKimono4-Mediumfil277" d="M16778.93 21856.32c-6.24,-18.49 -12.38,-37.05 -18.35,-55.73 -10.87,6.52 -22.84,13.13 -36.41,19.8 14.6,7.92 33.98,20.84 54.76,35.93z" style="fill:#a7cd04"/>
+    <path class="NecklaceKimono4-Mediumfil278" d="M16435.53 21703.81c58.6,-15.27 118.49,19.86 133.76,78.46 15.27,58.6 -19.86,118.48 -78.46,133.75 -58.6,15.27 -118.49,-19.86 -133.76,-78.46 -15.27,-58.6 19.86,-118.48 78.46,-133.75z" style="fill:#9a7652"/>
+   </g>
+   <path class="NecklaceKimono4-Mediumfil278" d="M17143.43 24080.65c66.28,15.44 124.51,42.59 158.63,82.75 -53.48,-26.89 -106.39,-54.5 -158.63,-82.75z" style="fill:#08bff7"/>
+   <path class="NecklaceKimono4-Mediumfil278" d="M17548.71 24280.03l1.26 -3.67c93.12,-29.62 225.24,42.07 320.84,133.27 -108.99,-39.44 -216.49,-82.83 -322.1,-129.6z" style="fill:#382724"/>
+   <g>
+    <path class="NecklaceKimono4-Mediumfil280" d="M15598.65 21302.69c85.53,-23.47 284.26,-176.89 326.28,-282.31 -45.41,183.09 -181.99,250.3 -304.66,342.49 369.94,83.13 425.1,-236.41 397.4,-525.23l-50.79 36.05c-111.91,86.11 -377.69,224.62 -368.23,429z" style="fill:#0a36f7"/>
+    <path class="NecklaceKimono4-Mediumfil280" d="M16241.66 20557.39c119.32,-268.39 -115.03,-358.81 -338.64,-381.61l19.67 44.05c23.06,112.21 65.81,294.67 318.97,337.56z" style="fill:#69137c"/>
+    <path class="NecklaceKimono4-Mediumfil280" d="M16089.67 18933.05c62.05,29.5 256.25,40.01 334.23,-0.58 -119.26,84.45 -233.39,54.79 -351.99,46.83 174.99,235.9 368.99,76.33 498.83,-107.13l-48.02 -4.54c-109.22,-6.09 -335.22,-59.27 -433.05,65.42z" style="fill:#95dc60"/>
+    <path class="NecklaceKimono4-Mediumfil280" d="M16746.78 23712.65c291.3,37.61 310.95,-212.81 268.89,-433.6l-36.59 31.44c-100.94,54.17 -263.57,147.3 -232.3,402.16z" style="fill:#e92141"/>
+    <path class="NecklaceKimono4-Mediumfil280" d="M17137.19 18965.53c-47.62,51.08 -120.48,235.82 -108.01,323.63 -39.91,-141.11 24.78,-242.53 70.71,-354.89 -276.5,97.57 -190.92,333.87 -62.25,515.35l19.83 -45.1c41.14,-103.84 164.06,-306.37 79.72,-438.99z" style="fill:#1845ad"/>
+    <path class="NecklaceKimono4-Mediumfil280" d="M19280.76 24036.55c57,38.36 247.5,77.52 330.62,48.93 -130.44,65.85 -238.92,19.61 -355.03,-5.82 138.12,259.21 353.61,130.14 509.19,-32.07l-46.82 -11.6c-107.11,-22.2 -322.74,-108.27 -437.96,0.56z" style="fill:#331c3d"/>
+    <path class="NecklaceKimono4-Mediumfil280" d="M16724.2 23133.73c-39.32,-56.35 -202.85,-161.62 -290.69,-164.96 145.42,-14.33 229.9,67.94 329.01,133.57 -35.26,-291.6 -282.81,-248.99 -486.45,-153.87l39.48 27.73c91.88,59.35 261.92,217.44 408.65,157.53z" style="fill:#16671e"/>
+    <path class="NecklaceKimono4-Mediumfil280" d="M18831.42 24417.39c-68.11,9.06 -256.18,-40.45 -317.97,-102.98 87.64,116.93 205.37,123.67 320.7,152.44 -238.86,170.93 -374.62,-40.42 -442,-254.84l47.11 10.39c105.83,27.68 337.25,46.32 392.16,194.99z" style="fill:#2fedb5"/>
+    <path class="NecklaceKimono4-Mediumfil280" d="M15867.8 22307.97c119.32,-268.39 -115.03,-358.81 -338.64,-381.61l19.67 44.05c23.06,112.21 65.81,294.67 318.97,337.56z" style="fill:#bd8452"/>
+    <path class="NecklaceKimono4-Mediumfil280" d="M17841.33 19347.17c62.05,29.5 256.25,40.01 334.23,-0.58 -119.26,84.45 -233.39,54.79 -351.99,46.83 174.99,235.9 368.99,76.33 498.83,-107.13l-48.02 -4.54c-109.22,-6.09 -335.22,-59.27 -433.05,65.42z" style="fill:#25ffdd"/>
+   </g>
+   <g>
+    <path class="NecklaceKimono4-Mediumfil278" d="M17367.77 23994.9c-12.9,24.82 4.01,84.19 15.65,127.16 -9.32,3.83 -18,8.71 -25.9,14.45 -156.42,-51.91 -233.2,-402.07 -167.9,-520.31 29.44,7.67 51.78,19.23 92.58,50.31 20.45,-47.04 34.31,-68.03 56.26,-89.09 114.7,71.34 218.54,414.43 107.35,536.07 -9.7,-1.15 -19.64,-1.17 -29.65,0.04 -10.81,-43.19 -25.02,-103.26 -48.39,-118.63z" style="fill:#7e4615"/>
+    <path class="NecklaceKimono4-Mediumfil278" d="M17642.39 24102.5c-27.58,-4.6 -78.81,29.83 -116.08,54.17 -6.46,-7.58 -13.77,-14.33 -21.75,-20.12 0.99,-164.81 310.3,-346.07 442.95,-320.5 1.8,30.37 -2.29,55.19 -19.23,103.59 51.05,4.92 75.29,11.61 102.1,25.98 -32.4,131.15 -326.67,335.96 -476.7,267.73 -0.48,-2.39 -1.02,-4.79 -1.64,-7.18 -1.91,-7.33 -4.43,-14.34 -7.5,-20.99 37.72,-23.63 90.46,-55.71 97.85,-82.68z" style="fill:#69185c"/>
+    <path class="NecklaceKimono4-Mediumfil278" d="M17484.87 23712.32c-1.71,100.16 34.03,138.12 49.5,245.98 33.78,-32.08 110.47,-84.91 167.09,-118.39 59.21,-35 62.62,-82.45 48.13,-195.45 -38.98,9.9 -78.51,21.79 -116.8,43.46 -8.66,-35.11 -24.81,-69.36 -44.28,-103.25 -51.95,19.55 -102.95,87.78 -103.64,127.65z" style="fill:#86839e"/>
+    <path class="NecklaceKimono4-Mediumfil278" d="M17076.48 24044.01c34.49,0.59 71.22,0.47 120.76,9.06 -20.07,-42.04 -46.62,-131.29 -60.96,-195.49 -14.99,-67.13 -59.07,-85.03 -171.01,-106.17 -2.63,40.13 -3.54,81.4 5.24,124.51 -36.06,-2.61 -73.63,2.16 -111.88,10.21 0.52,11.28 2.97,23.15 6.85,35 68.99,41.87 139.29,82.96 211,122.88z" style="fill:#4d9e06"/>
+    <path class="NecklaceKimono4-Mediumfil278" d="M17947.31 24126.55c-95.78,29.32 -120.84,75.04 -218.64,123.09 40.96,22.22 114.9,78.82 164.24,122.33 51.58,45.49 97.76,34.07 200.75,-14.62 -21.46,-34.01 -44.98,-67.94 -77.43,-97.66 30.72,-19.08 58.3,-45.02 84.52,-74.01 -34.65,-43.38 -115.3,-70.79 -153.44,-59.13z" style="fill:#1cd1d9"/>
+    <path class="NecklaceKimono4-Mediumfil286" d="M17399.5 24116.69c66.83,-17.41 135.13,22.65 152.54,89.48 6.61,25.36 4.93,50.94 -3.34,73.86 -76.13,-33.71 -151.33,-69.03 -225.36,-105.88 16.2,-27.47 42.86,-48.78 76.16,-57.46z" style="fill:#0da7dc"/>
+   </g>
+   <g>
+    <path class="NecklaceKimono4-Mediumfil278" d="M16788.75 20072.23c-15.14,29.13 10.79,105.87 21.05,147.81 -177.2,-11.86 -268.72,-400.63 -199.2,-526.51 29.44,7.67 51.78,19.23 92.58,50.31 20.45,-47.04 34.31,-68.03 56.26,-89.09 122.11,75.95 231.94,459.94 83.06,556.77 -11.51,-41.62 -26.32,-121.25 -53.75,-139.29z" style="fill:#31ee36"/>
+    <path class="NecklaceKimono4-Mediumfil278" d="M16547.15 20415.48c-8.68,-286.58 -1.53,-297.46 76.14,-260.05 60.6,29.18 118.28,102.91 127.34,136.65 -43.14,-1.91 -123.45,-12.43 -149.08,8.09 23.02,23.4 104.02,22.45 147.08,25.65 -33.73,84.22 -78.7,91.96 -201.48,89.66z" style="fill:#06041c"/>
+    <path class="NecklaceKimono4-Mediumfil278" d="M16760.48 20548.64c29.37,-14.66 53.5,-91.99 69.85,-131.95 136.38,113.75 -18.08,482.06 -148.32,543.03 -19.31,-23.5 -30.59,-45.98 -45.33,-95.11 -44.19,26.04 -10.86,-35.24 -41,-31.1 -54.15,-133.22 25.82,-438.33 203.18,-429.15 -15.15,40.43 -49.97,113.57 -38.38,144.28z" style="fill:#8829e0"/>
+    <path class="NecklaceKimono4-Mediumfil278" d="M17135.14 20732.26c57.08,-79.49 118.57,-152.08 183.47,-218.18 -105.89,-113.69 -275.61,-210.55 -376.61,-147.02 32.95,27.9 99.03,74.75 103.9,107.21 -32.79,1.53 -91.58,-54.19 -125.36,-81.09 -42.38,110.64 83.5,256.97 214.6,339.08z" style="fill:#61962b"/>
+    <path class="NecklaceKimono4-Mediumfil278" d="M17063.37 20179.83c-32.38,-5.4 -97.35,42.98 -134.07,65.7 -43.47,-172.19 297.98,-379.37 439.19,-352.15 1.8,30.37 -2.29,55.19 -19.23,103.59 51.05,4.92 75.29,11.61 102.1,25.98 -34.49,139.61 -365.75,362.72 -503.84,251.05 36.02,-23.81 107.18,-62.51 115.85,-94.17z" style="fill:#45358e"/>
+    <path class="NecklaceKimono4-Mediumfil278" d="M16905.85 19789.65c-1.71,100.16 34.03,138.12 49.5,245.98 33.78,-32.08 110.47,-84.91 167.09,-118.39 59.21,-35 62.62,-82.45 48.13,-195.45 -38.98,9.9 -78.51,21.79 -116.8,43.46 -8.66,-35.11 -24.81,-69.36 -44.28,-103.25 -51.95,19.55 -102.95,87.78 -103.64,127.65z" style="fill:#70c785"/>
+    <path class="NecklaceKimono4-Mediumfil278" d="M16531.76 19882.9c12.53,13.28 20.58,30 25.5,52.01 14.34,64.2 40.89,153.45 60.96,195.49 -64.25,-11.14 -54.02,-6.31 -98.25,-8.69 -0.12,-32.11 11.84,-205.89 11.79,-238.81z" style="fill:#985380"/>
+    <path class="NecklaceKimono4-Mediumfil278" d="M17031.41 20893.41c25.76,-44.62 52.74,-87.5 80.94,-128.56 -55.52,-75.78 -105.98,-87.11 -179.73,-163.05 -8.47,45.81 -39.45,133.63 -65.58,194 -27.33,63.12 -2.2,103.51 75.94,186.41 25.71,-30.92 50.71,-63.78 68.95,-103.81 6.22,5.25 12.73,10.25 19.48,15.01z" style="fill:#ce279a"/>
+    <path class="NecklaceKimono4-Mediumfil278" d="M17358.37 20474.84c37.02,-35.48 75.02,-68.97 113.87,-100.48 -10.54,-12.94 -22.08,-25.48 -35.03,-37.34 30.72,-19.08 58.3,-45.02 84.52,-74.01 -34.65,-43.38 -115.3,-70.79 -153.44,-59.13 -95.78,29.32 -120.84,75.04 -218.64,123.09 40.96,22.22 114.9,78.82 164.24,122.33 14.78,13.04 29.12,21.39 44.48,25.54z" style="fill:#64e9f8"/>
+    <path class="NecklaceKimono4-Mediumfil286" d="M16820.48 20194.02c66.83,-17.41 135.13,22.65 152.54,89.48 17.41,66.83 -22.65,135.13 -89.48,152.54 -66.83,17.41 -135.12,-22.65 -152.54,-89.48 -17.41,-66.83 22.65,-135.12 89.48,-152.54z" style="fill:#185149"/>
+   </g>
+   <g>
+    <path class="NecklaceKimono4-Mediumfil277" d="M17472.98 18437.99c22.96,15.94 84,6.74 128.1,0.66 1.92,7.07 4.47,14.07 7.7,20.92 1.06,2.23 2.17,4.42 3.35,6.57 -71.36,148.56 -428.48,180.16 -537.46,100.33 11.36,-28.21 25.67,-48.91 61.68,-85.42 -44.04,-26.28 -63.1,-42.7 -81.2,-67.15 85.37,-104.69 438.96,-164.02 545.42,-38.2 -2.41,9.56 -3.69,19.42 -3.79,29.38 -44.21,5.23 -105.59,11.68 -123.8,32.91z" style="fill:#7ddb89"/>
+    <path class="NecklaceKimono4-Mediumfil277" d="M17675.22 18652.68c22.27,-16.92 32.39,-77.82 40.24,-121.63 9.79,0.51 19.72,-0.12 29.57,-1.99 119.2,113.8 38.9,463.16 -70.69,542.12 -23.33,-19.51 -38.59,-39.51 -62.18,-85.06 -38.6,33.79 -60.1,46.83 -88.95,56.49 -73.19,-113.54 -20.35,-468.13 132.19,-530.52 8.41,5.28 17.42,9.51 26.8,12.64 -8.7,43.66 -21.54,104.06 -6.98,127.95z" style="fill:#cd73fb"/>
+    <path class="NecklaceKimono4-Mediumfil277" d="M17207.61 18285.86c99.11,14.45 141.32,-16.17 250.27,-17.79 -27.52,-37.59 -70.16,-120.37 -96.16,-180.8 -27.17,-63.18 -73.81,-72.6 -187.73,-72.62 4.86,39.93 11.62,80.65 28.24,121.38 -35.92,4.13 -71.95,15.78 -108.05,30.78 12.78,54.02 73.96,113.29 113.43,119.05z" style="fill:#e5f03f"/>
+    <path class="NecklaceKimono4-Mediumfil277" d="M17448.54 18858.05c44.37,-89.8 28.3,-139.4 60.43,-243.53 -44.26,14.56 -136.17,29.53 -201.67,35.59 -68.49,6.32 -91.86,47.76 -127.08,156.1 39.47,7.71 80.29,13.87 124.17,10.65 -7.19,35.44 -7.24,73.31 -4.13,112.27 55.34,4.55 130.61,-35.33 148.28,-71.08z" style="fill:#e84f9e"/>
+    <path class="NecklaceKimono4-Mediumfil277" d="M17953.11 18729.66c-29.12,-14.32 -60.59,-29.71 -98.87,-56.66 0.17,46.58 -13.99,138.62 -28.47,202.79 -15.16,67.09 17.03,102.12 109.18,169.1 19.54,-35.15 38.01,-72.08 48.51,-114.8 31.48,17.78 67.47,29.52 105.5,38.61 1.95,-4.67 3.6,-9.64 4.97,-14.79 -45.77,-76.72 -92.74,-151.57 -140.82,-224.25z" style="fill:#504ff4"/>
+    <path class="NecklaceKimono4-Mediumfil278" d="M17797.09 18506.06c-6.68,5.02 -13.97,9.44 -21.82,13.15 -62.44,29.5 -136.98,2.8 -166.49,-59.64 -25.31,-53.6 -9.23,-116.09 35.32,-151.4 51.69,63.68 102.76,129.6 152.99,197.89z" style="fill:#4e10f8"/>
+   </g>
+   <path class="NecklaceKimono4-Mediumfil281" d="M18753.35 19579.57c-477.74,-17.6 -984.74,150.86 -1420.5,541.34 -358.93,321.63 -626.94,780.78 -677.31,1377.29l199.22 16.4c45.62,-540.34 287.32,-955.29 610.91,-1245.25 396.05,-354.89 1034.25,-448.98 1465.82,-433.09l-178.14 -256.69z" style="fill:#19bb6b"/>
+   <path class="NecklaceKimono4-Mediumfil4" d="M16849.53 21877.09c-252.97,-592.69 -269.89,-1752.34 -260.41,-1982.77 69.65,-351.79 124.78,-723.61 284,-1040.84 -146.79,1502.19 -135.05,1896.68 679.5,1427.2 -318.39,228.55 -706.7,1034.98 -703.09,1596.41z" style="fill:#b54c17"/>
+   <path class="NecklaceKimono4-Mediumfil9 NecklaceKimono4-Mediumstr27" d="M16589.12 19894.32c60.42,-747.79 458.93,-1622.05 985.61,-1752.86" style="fill:#5f544f"/>
+   <path class="NecklaceKimono4-Mediumfil123" d="M15365.66 20885.4c-105.15,594.54 -101.87,1189.61 -4.31,1902.84 160.69,225.21 376.45,395.11 696.49,654.21 -204.29,-819.87 269.46,-1409.15 750.58,-1576.58 -296.14,-509.19 -125.29,-1718.44 -266.26,-2084.41 -22.05,-85.72 -126.45,-144.88 -327.18,-201.82 219.28,748.04 64.43,904.27 -105.69,1124.81 -37.95,-56.51 -153.73,-116.88 -225.28,-117.76 55.5,118.51 -25.58,268 -55.25,282.06 -96.63,45.83 -363.5,27.13 -463.1,16.65z" style="fill:#111cfa"/>
+   <path class="NecklaceKimono4-Mediumfil281" d="M15361.35 22701.71c130.53,3160.28 4694.67,2313.35 4739.59,1748.57 -1927.56,789.11 -4126.8,-1057.97 -4739.59,-1748.57z" style="fill:#ff729b"/>
+   <path class="NecklaceKimono4-Mediumfil9 NecklaceKimono4-Mediumstr0" d="M16589.12 19894.31c-53.91,775.29 124.71,1462.57 255.99,2175.58 -7.73,-1785.37 1295.8,-2322.58 2086.38,-2233.63 -648.08,-863.82 -977.51,-1315.15 -1661.24,-1949.24 -1871.29,805.12 -2390.88,4000.84 -1908.9,4814.69 435.12,4369.2 8169.58,1148.6 3317.88,1115.95 -1119.73,-72.34 -1604.55,-835.06 -1834.12,-1747.77 -248.48,-1135.08 -255.12,-1576.38 -255.99,-2175.58z" style="fill:#e1a268"/>
+   <path class="NecklaceKimono4-Mediumfil5" d="M15360.7 22803.57c-19.46,1.57 -38.93,3.1 -58.39,4.62 175.62,740.41 537.25,1359.96 1096.63,1755.05 -571.49,-100.02 -663.96,-154.83 -926.58,-268.26 -537.8,-277.38 -732.84,-916.01 -784.08,-1304.78 -34.49,-2.59 -118.88,-65.98 -136.67,-108.75 -661.46,28.49 -1176.74,-13.12 -1814.72,-49.51l-121.81 73.99c-47.75,252.9 -386.2,1016.07 -936.09,1465.19 -85.3,84.56 -610.74,181.37 -744.9,192.12 442.81,-171.68 1025.87,-1135.49 1059.72,-1761.22l31.3 -542.39c481.21,135.94 1979.64,156.08 3287.31,18.92 11.42,126.23 36.86,398.79 48.28,525.02z" style="fill:#96c19e"/>
+   <path class="NecklaceKimono4-Mediumfil274 NecklaceKimono4-Mediumstr0" d="M15361.35 22701.71c-395.26,-2306.7 959,-4574.74 1908.9,-4814.69l-421.29 -378.5c-770.89,369.64 -1444.34,1492.87 -1761.82,2620.51 -262.67,932.95 -387.96,1704.93 -254.41,2486.5l528.62 86.18z" style="fill:#59c85b"/>
+   <path class="NecklaceKimono4-Mediumfil5" d="M15026.04 18184.51c123.13,3 397.58,-3.75 653.58,-19.44 -212.87,274.76 -394.52,508.35 -559.46,855.65 -395.82,-134.89 -501.82,-313.33 -765.92,-181.84 -120.58,27.27 -509.41,501.08 -250.12,857.02 68.63,101.92 243.31,53.35 130.42,123.45 -280.48,274.41 -53.32,1004.53 524.09,618.12 -168.02,677.8 -334.36,1326.67 -277.94,1972.92l320.87 -24.73c-150.44,-1135.02 368.97,-3096.28 1204.61,-4148.01 412.96,-36.52 827.83,-104.11 1263.28,-350.63l-485.3 -432.01c-174.86,104.11 -1191.02,243.06 -1532.29,312.78l-225.82 416.72z" style="fill:#8e6d66"/>
+   <path class="NecklaceKimono4-Mediumfil5" d="M15051.05 18043.56l-120.48 54.46c-312.91,380.53 -790.12,828.49 -1248.64,1143.59l-278.63 -188.59 209.89 -196.09 -135.52 -97.64 -238.69 135.24 -455.38 -238.78c103.81,176.9 251.17,353.81 460.83,530.71l261.63 216.06 -605.31 412.71 -139.67 -38.99 13.82 101.17 295.15 136.89c459.48,-253.46 1836.14,-1525.57 1981,-1970.74z" style="fill:#5b5cc8"/>
+   <path class="NecklaceKimono4-Mediumfil4" d="M13681.92 23182.43c388.51,790.29 825.9,1230.61 1742.48,1575.71 -168.11,-25.98 -279.16,85.26 -448.57,69.86 -105.48,-64.44 -353.03,-162.91 -448.55,-204.61 -685.66,-299.34 -1181.99,-730.01 -1225.33,-852.32l379.97 -588.64z" style="fill:#cd95ae"/>
+   <path class="NecklaceKimono4-Mediumfil4" d="M13290.07 23811.42c-318.97,419.36 -666.37,683.68 -1305.26,924.23 108.94,39.61 205.04,58.18 360.77,71.19 134.59,-32.7 382.15,-141.75 477.66,-183.45 292.38,-127.64 550.35,-279.18 753.41,-420.48 -122.84,-110.35 -247.8,-302.44 -286.58,-391.49z" style="fill:#d10b04"/>
+   <path class="NecklaceKimono4-Mediumfil4" d="M16183.25 24669.52c-216.23,55.8 -593.17,98.79 -893.14,35.97 -899.97,-357.54 -1441.47,-1098.37 -1537.73,-1384.71 177.2,255.44 1622.27,1475.62 2430.87,1348.74z" style="fill:#13badc"/>
+   <path class="NecklaceKimono4-Mediumfil5" d="M13660.38 24392.36c-314.36,305.39 -775.44,482.33 -1108.43,448.8 281.14,-90.75 661.87,-237.65 929.52,-459.96l-38.32 -65.42c1.75,-1.31 61.83,-45.2 74.27,-53.37 34.18,38.86 139.45,132.6 142.96,129.95z" style="fill:#9d93b9"/>
+   <path class="NecklaceKimono4-Mediumfil4" d="M11064.67 24629.84c216.23,55.8 674.43,117.15 974.4,54.33 853.79,-228.9 1572.77,-1236.31 1638.21,-1530.88l-111.9 -123.52 -144.27 119.95c-14.85,14.82 23.27,92.06 51.28,121.29 -319.66,395.37 -1109.95,1500.86 -2407.72,1358.83z" style="fill:#6650df"/>
+   <path class="NecklaceKimono4-Mediumfil9 NecklaceKimono4-Mediumstr0" d="M10777.47 19894.31c53.91,775.29 -124.71,1462.57 -255.99,2175.58 7.73,-1785.37 -1295.8,-2322.58 -2086.38,-2233.63 648.08,-863.82 977.51,-1315.15 1661.24,-1949.24 1871.29,805.12 2390.88,4000.84 1908.9,4814.69 -435.12,4369.2 -8169.58,1148.6 -3317.88,1115.95 1119.73,-72.34 1604.55,-835.06 1834.12,-1747.77 248.48,-1135.08 255.12,-1576.38 255.99,-2175.58z" style="fill:#bd94c3"/>
+   <g>
+    <line class="NecklaceKimono4-Mediumfil9 NecklaceKimono4-Mediumstr1" x1="12415.49" x2="12586.34" y1="19858.21" y2="20476.61"/>
+    <line class="NecklaceKimono4-Mediumfil9 NecklaceKimono4-Mediumstr1" x1="12626.74" x2="12782.44" y1="19945.17" y2="20508.74"/>
+    <line class="NecklaceKimono4-Mediumfil9 NecklaceKimono4-Mediumstr1" x1="12807.76" x2="12949.22" y1="19979.01" y2="20491.02"/>
+    <line class="NecklaceKimono4-Mediumfil9 NecklaceKimono4-Mediumstr1" x1="13017.28" x2="13141.82" y1="20068.78" y2="20519.55"/>
+    <line class="NecklaceKimono4-Mediumfil9 NecklaceKimono4-Mediumstr1" x1="13219.39" x2="13328.67" y1="20119" y2="20514.54"/>
+    <line class="NecklaceKimono4-Mediumfil9 NecklaceKimono4-Mediumstr1" x1="13434.91" x2="13476.22" y1="20181.91" y2="20331.41"/>
+   </g>
+   <line class="NecklaceKimono4-Mediumfil9 NecklaceKimono4-Mediumstr1" x1="13707.55" x2="13626.55" y1="20223.2" y2="20536.74"/>
+   <g>
+    <g>
+     <line class="NecklaceKimono4-Mediumfil9 NecklaceKimono4-Mediumstr1" x1="14935.09" x2="14764.24" y1="19858.21" y2="20476.61"/>
+     <line class="NecklaceKimono4-Mediumfil9 NecklaceKimono4-Mediumstr1" x1="14723.84" x2="14568.14" y1="19945.17" y2="20508.74"/>
+     <line class="NecklaceKimono4-Mediumfil9 NecklaceKimono4-Mediumstr1" x1="14542.82" x2="14401.36" y1="19979.01" y2="20491.02"/>
+     <line class="NecklaceKimono4-Mediumfil9 NecklaceKimono4-Mediumstr1" x1="14333.3" x2="14208.76" y1="20068.78" y2="20519.55"/>
+     <line class="NecklaceKimono4-Mediumfil9 NecklaceKimono4-Mediumstr1" x1="14131.19" x2="14021.91" y1="20119" y2="20514.54"/>
+     <line class="NecklaceKimono4-Mediumfil9 NecklaceKimono4-Mediumstr1" x1="13915.67" x2="13834.67" y1="20181.91" y2="20495.45"/>
+    </g>
+    <line class="NecklaceKimono4-Mediumfil9 NecklaceKimono4-Mediumstr1" x1="13493.86" x2="13439.5" y1="20334.46" y2="20544.89"/>
+   </g>
+   <path class="NecklaceKimono4-Mediumfil274 NecklaceKimono4-Mediumstr0" d="M12005.24 22701.71c395.26,-2306.7 -959,-4574.74 -1908.9,-4814.69l421.29 -378.5c770.89,369.64 1444.34,1492.87 1761.82,2620.51 262.67,932.95 387.96,1704.93 254.41,2486.5l-528.62 86.18z" style="fill:#62bf20"/>
+   <path class="NecklaceKimono4-Mediumfil280" d="M17841.33 19347.17c62.05,29.5 256.25,40.01 334.23,-0.58 -119.26,84.45 -233.39,54.79 -351.99,46.83 174.99,235.9 368.99,76.33 498.83,-107.13l-48.02 -4.54c-109.22,-6.09 -335.22,-59.27 -433.05,65.42z" style="fill:#c73e4a"/>
+   <path class="NecklaceKimono4-Mediumfil9 NecklaceKimono4-Mediumstr0" d="M7251.03 24480.48c1927.56,789.11 4141.42,-1088.17 4754.21,-1778.77" style="fill:#055145"/>
+   <path class="NecklaceKimono4-Mediumfil9 NecklaceKimono4-Mediumstr0" d="M20153.36 24447.68c-1927.56,789.11 -4181.26,-1055.37 -4794.05,-1745.97" style="fill:#b1bad2"/>
+   <path class="NecklaceKimono4-Mediumfil4" d="M19141.44 24881.67c-1422.69,400.04 -3622.23,-134.46 -3782.14,-2093.43 259.54,955.06 1780.12,2318.17 3782.14,2093.43z" style="fill:#839c58"/>
+   <path class="NecklaceKimono4-Mediumfil4" d="M11352.01 24203.18c-849.08,427.25 -2528.21,607.52 -3766.39,473.09 1010.61,492.7 2989.8,470.15 3766.39,-473.09z" style="fill:#1a31f8"/>
+   <path class="NecklaceKimono4-Mediumfil179" d="M10001.11 23304.05c-377.09,467.44 -990.01,769 -1487.59,883.75 354.29,-154.99 1130.55,-623.18 1370.99,-977.51l116.6 93.76z" style="fill:#50fd80"/>
+   <path class="NecklaceKimono4-Mediumfil179" d="M17365.48 23304.05c377.09,467.44 990.01,769 1487.59,883.75 -354.29,-154.99 -1130.55,-623.18 -1370.99,-977.51l-116.6 93.76z" style="fill:#80a38c"/>
+   <g>
+    <g>
+     <g id="_2183822549568">
+      <g>
+       <g>
+        <path class="NecklaceKimono4-Mediumfil175 NecklaceKimono4-Mediumstr21" d="M15294.69 19875.67c20.85,43.14 16.33,113.93 -21.45,155.09 36.96,36.24 38.92,102.11 -15.52,136.41 44.56,46.69 51.91,105.93 16.46,146.6 103.25,204.76 -265.84,210.88 -211.07,-3.14 -33.96,-46.18 -30.47,-94.46 -0.58,-136.52 -43.72,-68.89 -32.31,-120.4 17.5,-144.12 -18.48,-36.98 -24.25,-104.35 7.53,-125.5 -11.4,-134.27 166.16,-113.55 207.13,-28.82z" style="fill:#c0476c"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M15151.08 20092.28c-12.89,-16.3 -34.97,-26.78 -59.68,-25.48 3.14,-13.83 23.27,-66.8 25.23,-77.02 30.46,37.1 30.68,79.79 34.45,102.5z" style="fill:#91a5ae"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M15147.74 20230c-16.62,-15.61 -41.89,-16.49 -65.74,-8.44 -0.32,-16.96 11.36,-75.7 10.76,-88.15 38.92,35.24 45.7,71.08 54.98,96.59z" style="fill:#0a7751"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M15148.47 20361.74c-16.96,-13.2 -41.61,-18.47 -65.22,-12.1 -0.73,-14.1 14.41,-64.56 13.51,-74.91 39.67,29.81 41.84,65.68 51.71,87.01z" style="fill:#bcd90a"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M15189.44 20265.31c16.86,13.28 32.53,20.63 56.18,14.37 0.65,14.11 -7.3,64.72 -6.47,75.08 -39.49,-29.99 -39.99,-68.08 -49.71,-89.45z" style="fill:#96ecfe"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M15187.37 20100.01c12.89,16.3 34.97,26.77 59.68,25.48 -3.14,13.82 -23.74,70.1 -25.7,80.32 -30.45,-37.1 -30.2,-83.09 -33.98,-105.8z" style="fill:#dabcad"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M15202.45 19967.35c12.89,16.29 34.97,26.78 59.68,25.48 -3.14,13.82 -23.27,66.8 -25.23,77.02 -30.46,-37.1 -30.68,-79.79 -34.45,-102.5z" style="fill:#01a655"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M15172.15 19969.51c-12.89,-16.29 -34.97,-26.78 -59.68,-25.48 3.14,-13.82 23.27,-66.8 25.23,-77.02 30.46,37.1 30.67,79.79 34.45,102.5z" style="fill:#b4f880"/>
+       </g>
+       <g>
+        <path class="NecklaceKimono4-Mediumfil175 NecklaceKimono4-Mediumstr21" d="M15399.2 19871.1c34.61,43.14 52.67,113.93 28.02,155.09 48.52,36.24 71.49,102.11 27.99,136.41 59.45,46.69 85.69,105.93 63.21,146.6 168.56,204.76 -198.58,210.88 -212.07,-3.14 -48.69,-46.18 -60.6,-94.46 -44.12,-136.52 -65.7,-68.89 -70.72,-120.4 -28.46,-144.12 -30.28,-36.98 -57.54,-104.35 -32.5,-125.5 -54.23,-134.27 129.93,-113.55 197.93,-28.82z" style="fill:#1f2b82"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M15324.68 20087.71c-18.09,-16.3 -43.51,-26.78 -67.81,-25.48 -1.27,-13.83 1.96,-66.8 0.66,-77.02 42.3,37.1 56.13,79.79 67.15,102.5z" style="fill:#a7ae17"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M15365.26 20225.43c-21.6,-15.61 -47.14,-16.49 -68.43,-8.44 -5.73,-16.96 -12.78,-75.7 -17.35,-88.15 50.15,35.24 68.37,71.08 85.78,96.59z" style="fill:#488374"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M15408.01 20357.17c-21.17,-13.2 -47.5,-18.47 -69.08,-12.1 -5.23,-14.1 -6.18,-64.56 -10.38,-74.91 49.18,29.81 62.79,65.68 79.46,87.01z" style="fill:#2af6ca"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M15418.22 20260.74c21.1,13.28 39.12,20.63 60.77,14.37 5.15,14.11 13.34,64.72 17.48,75.08 -49.06,-29.99 -61.71,-68.08 -78.25,-89.45z" style="fill:#0ef782"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M15363.43 20095.44c18.09,16.3 43.51,26.77 67.81,25.48 1.27,13.82 -1.38,70.1 -0.08,80.32 -42.29,-37.1 -56.7,-83.09 -67.73,-105.8z" style="fill:#9a800e"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M15336.2 19962.78c18.09,16.29 43.51,26.78 67.81,25.48 1.27,13.82 -1.97,66.8 -0.67,77.02 -42.29,-37.1 -56.12,-79.79 -67.14,-102.5z" style="fill:#96a353"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M15306.59 19964.94c-18.09,-16.29 -43.51,-26.78 -67.81,-25.48 -1.27,-13.82 1.97,-66.8 0.67,-77.02 42.29,37.1 56.12,79.79 67.14,102.5z" style="fill:#b7eee3"/>
+       </g>
+       <path class="NecklaceKimono4-Mediumfil12" d="M15269.87 20015.17c-36.67,-44.97 -45.51,-78.97 -18.86,-102.97 -25.96,-24.98 -27.89,-116.94 48.32,-79.53 -41.39,2.49 -13.1,82.18 13.27,109.72 26.39,27.63 47.13,-24.25 46.92,-52.01 43.1,29.59 50.42,121.38 22.45,124.79 -15.68,7.46 -57.22,-35.34 -75.38,-50.23 -99.83,-45.38 66.97,157.86 84.08,88.23 54.7,10.1 157.56,319.9 27.55,207.56 40.8,-20.32 -64.42,-105.81 -54.79,-165.3 -11.19,2.13 -31.61,1.14 -38.76,-7.73 -60.34,-8.6 49.33,120.69 58.3,155.75 -5.93,-6.46 -11.84,-12.42 -17.71,-18.02 -54.13,-23.51 38.89,118.09 42.74,131.74 -4.79,-2.98 -31.02,-30.11 -34.37,-26.32 -4.51,5.12 85.56,98.38 128.13,24.08 20.48,26.31 29.25,81.52 5.81,87.6 -29.19,5.13 -93.05,-9.98 -97.45,-12.69 -101.54,-62.61 -220.53,-379.71 -140.25,-414.67z" style="fill:#0aa57a"/>
+      </g>
+      <g>
+       <path class="NecklaceKimono4-Mediumfil175 NecklaceKimono4-Mediumstr21" d="M15483.12 21500.41c-168.59,-105.14 -104.76,-949.57 -131.88,-1250.3l-273.11 31.06c-54.53,318.91 -27.06,1150.55 -175.23,1277.09l117.22 -13.39 114.61 -50.19 71.7 32.37 89.74 -55.77 186.95 29.13z" style="fill:#64e404"/>
+       <g>
+        <path class="NecklaceKimono4-Mediumfil287" d="M15051.81 21412c70.56,-96.16 128.07,-746.71 99.47,-901.97 -12.92,158.26 -65.69,744.6 -99.47,901.97z" style="fill:#dc468a"/>
+        <path class="NecklaceKimono4-Mediumfil287" d="M15316.44 21323.43c-57.06,-86.13 -90.85,-634.72 -62.68,-780.59 16.7,156.92 39.41,625.15 62.68,780.59z" style="fill:#b12391"/>
+        <path class="NecklaceKimono4-Mediumfil287" d="M15250 21384.85c-48.08,-103.12 -72.73,-627.8 -51.44,-767.67 17.93,156.92 43.55,610.96 51.44,767.67z" style="fill:#4cb92c"/>
+        <path class="NecklaceKimono4-Mediumfil287" d="M15116.42 21408.63c66.49,-105.22 82.84,-287.82 47.52,-426.52 -14.08,157.85 -12.65,272.04 -47.52,426.52z" style="fill:#3118d3"/>
+       </g>
+       <path class="NecklaceKimono4-Mediumfil175 NecklaceKimono4-Mediumstr21" d="M15311.71 21547.16c154.85,-143.9 -2.72,-984.19 -9.56,-1294.55l245.66 -26.36c43.82,268.24 208.7,1142.04 369.28,1237.12l-142.83 25.77 -118.88 -25.29 -67.24 48.7 -94.93 -36.47 -181.5 71.08z" style="fill:#4fc7c9"/>
+       <g>
+        <path class="NecklaceKimono4-Mediumfil179" d="M15728.9 21365.41c-67.58,-82.82 -213.41,-782.2 -207.8,-941.44 23.22,154.65 165.86,797.6 207.8,941.44z" style="fill:#29b769"/>
+        <path class="NecklaceKimono4-Mediumfil179" d="M15457.04 21387.22c56.28,-97.86 42.45,-728.13 -20.6,-865.93 9.8,162.56 42.4,705.16 20.6,865.93z" style="fill:#2087f3"/>
+        <path class="NecklaceKimono4-Mediumfil179" d="M15530.19 21382.93c45.61,-112.62 24.6,-636.55 -30.99,-769.97 9.24,155.39 39.47,607.16 30.99,769.97z" style="fill:#1f47ae"/>
+        <path class="NecklaceKimono4-Mediumfil179" d="M15664.71 21376.54c-67.46,-91.23 -93.78,-270.08 -92.41,-410.77 49.1,148 41.66,264.73 92.41,410.77z" style="fill:#2b20db"/>
+       </g>
+       <path class="NecklaceKimono4-Mediumfil175 NecklaceKimono4-Mediumstr21" d="M15008.02 20235.81c11.7,-23.04 190.61,-54.25 202.5,-34.81 123.81,-108.14 178.31,231.2 41.85,163.91 -6.79,50.26 -205.66,70.2 -232.25,48.17 -52.98,-44.26 -35.15,-134.97 -12.1,-177.27z" style="fill:#2587c3"/>
+       <path class="NecklaceKimono4-Mediumfil175 NecklaceKimono4-Mediumstr21" d="M15275.4 20181.67c13.37,-23.04 177.67,-40.34 228.15,-34.8 120.81,-17.04 157.49,166.38 60.14,185.07 -56.07,31.83 -246.6,49.03 -276.31,27 -59.2,-44.26 -38.3,-134.97 -11.98,-177.27z" style="fill:#853e96"/>
+      </g>
+      <g>
+       <g>
+        <g>
+         <path class="NecklaceKimono4-Mediumfil175" d="M15227.86 19539.59c33.41,29.36 48.44,48.95 64.11,74.05 73.53,27.64 156.77,99.85 206.73,177.73 71.92,10.04 166.99,86.93 204.8,148.67 55.17,20.16 113.35,57.42 168.45,104.96 41.98,17.16 79.46,20.04 108.9,7.58 21.12,-8.94 11.16,-40.79 22.72,-65.96 9.69,-15.85 38.02,-22.29 48.15,-40.9 15.37,-28.23 16.28,-62.21 -2.52,-96.69 -9.59,-17.59 -32.6,-12.6 -44.66,-28.2 -13.99,-18.08 -14.02,-57.61 -38.3,-66.41 -72.74,-1.76 -140.88,-13.2 -195.31,-35.29 -69.46,20.38 -191.55,13.55 -251.6,-27.28 -89.3,24.18 -199.47,21.82 -272.53,-7.05 -21.07,5.98 -52.53,10.31 -83.21,11.68l64.27 -156.89zm-231.88 -8.49c85.75,-14.27 183.77,-3.47 262.04,13.79 90.27,-19.31 182.62,-11.28 260.93,14.8 130.39,-20.9 225.03,-6.85 265.76,29.58 70.82,-25.81 194.79,-3.44 231.92,20.55 59.65,-7.5 134.02,41.14 156.87,114.27 55.93,17.01 70.54,181.91 38.35,200.01 31.64,67.86 8.81,151.58 -47.6,154.56 11.71,35.03 -106.17,152.88 -159.05,127.95 -66.02,38.86 -153.79,24.99 -192.97,-20.61 -43.62,-7.15 -150.53,-73.79 -185.69,-140.46 -54.65,-0.34 -134.23,-53.46 -216.85,-156.48 -75.54,-33.24 -149.38,-89.28 -203.32,-164.18 -69.61,-39.76 -156.41,-125.63 -210.39,-193.78z" style="fill:#04f173"/>
+         <path class="NecklaceKimono4-Mediumfil9 NecklaceKimono4-Mediumstr21" d="M15227.86 19539.59c33.41,29.36 48.44,48.95 64.11,74.05 73.53,27.64 156.77,99.85 206.73,177.73 71.92,10.04 166.99,86.93 204.8,148.67 55.17,20.16 113.35,57.42 168.45,104.96 41.98,17.16 79.46,20.04 108.9,7.58 21.12,-8.94 11.16,-40.79 22.72,-65.96 9.69,-15.85 38.02,-22.29 48.15,-40.9 15.37,-28.23 16.28,-62.21 -2.52,-96.69 -9.59,-17.59 -32.6,-12.6 -44.66,-28.2 -13.99,-18.08 -14.02,-57.61 -38.3,-66.41 -72.74,-1.76 -140.88,-13.2 -195.31,-35.29 -69.46,20.38 -191.55,13.55 -251.6,-27.28 -89.3,24.18 -199.47,21.82 -272.53,-7.05 -21.07,5.98 -52.53,10.31 -83.21,11.68m-167.61 -165.38c85.75,-14.27 183.77,-3.47 262.04,13.79 90.27,-19.31 182.62,-11.28 260.93,14.8 130.39,-20.9 225.03,-6.85 265.76,29.58 70.82,-25.81 194.79,-3.44 231.92,20.55 59.65,-7.5 134.02,41.14 156.87,114.27 55.93,17.01 70.54,181.91 38.35,200.01 31.64,67.86 8.81,151.58 -47.6,154.56 11.71,35.03 -106.17,152.88 -159.05,127.95 -66.02,38.86 -153.79,24.99 -192.97,-20.61 -43.62,-7.15 -150.53,-73.79 -185.69,-140.46 -54.65,-0.34 -134.23,-53.46 -216.85,-156.48 -75.54,-33.24 -149.38,-89.28 -203.32,-164.18 -69.61,-39.76 -156.41,-125.63 -210.39,-193.78z" id="1" style="fill:#918206"/>
+        </g>
+        <path class="NecklaceKimono4-Mediumfil1" d="M15761.34 20064.23c18.51,25.75 52.43,79.17 40.55,91.05 21.39,14.22 36.78,13.75 52.44,24.46 -41.67,-59.2 -61.45,-87.31 -92.99,-115.51z" style="fill:#a4e6c7"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M15586.09 19939.8c18.51,25.75 45.12,65.15 33.24,77.03 21.39,14.22 61.23,43.94 76.9,54.65 -41.67,-59.21 -78.61,-103.49 -110.14,-131.68z" style="fill:#8df79f"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M15391.79 19790.4c12.37,24.38 34.58,68.33 15.78,73.78 20.23,16.64 39.85,31.21 54.55,43.62 -27.36,-55.82 -43.27,-87.5 -70.33,-117.4z" style="fill:#e5fbb7"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M15195.51 19636.27c12.37,24.38 34.58,68.32 15.77,73.78 20.23,16.63 43.74,34.59 58.44,46.98 -27.36,-55.8 -47.16,-90.86 -74.21,-120.76z" style="fill:#cfb24f"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M15711.06 20025.74c-15.53,-25.25 -24.93,-47.62 -4.26,-47.9 -27.66,-13.49 -48.17,-46.76 -60.6,-59.28 34.73,57.92 35.37,77.91 64.86,107.18z" style="fill:#3630d8"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M15326.03 19718.68c-12.52,-24.42 -34.99,-68.45 -16.33,-74.05 -20.27,-16.6 -60.31,-57.71 -75.05,-70.09 12.75,49.28 52.99,109.29 91.38,144.14z" style="fill:#9250b3"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M15521.47 19883.52c-19.36,-28.05 -46.88,-69.4 -9.6,-63.76 -20.37,-16.49 -57.63,-44.68 -72.44,-56.98 28.53,56.19 42.45,83.99 82.04,120.74z" style="fill:#2e923b"/>
+        <path class="NecklaceKimono4-Mediumfil12" d="M15083.91 19552.17c-37.05,3.02 32.14,157.86 130.05,124.05 38.3,67.34 69.2,147.65 204.62,192.2 8.55,33.54 17.2,123.18 224.51,169.86 56.45,63.88 123.2,121.14 172,130.2 29.11,38.51 171.8,108.14 143.33,30.23 -20.7,19.96 -127.77,-61.87 -160.73,-103.1 -33.11,-41.33 6.79,-57.04 50.69,-29.76 -40.8,-44.26 -136.25,-97.17 -145.71,-90.5 -18.13,1.2 22.94,58.46 39.21,82.86 31.54,98.48 -243.04,-231.73 -125.8,-172.8 -25.38,-36.66 -112.75,-64.65 -139.78,-78.25 17.68,30.43 17.9,39.81 45.17,76.36 9.04,8.27 53.43,43.72 64.61,56.28 -10.74,41.1 -172.13,-140.61 -224.03,-179.75 7.81,9.51 14.88,18.56 21.36,27.21 8.17,27.74 -72.06,-41.07 -137.35,-113.11 -32.53,-37.24 -55.73,-57.55 -95.86,-89.75 18.16,21.02 25.08,31.55 37.61,48.89 5.24,26.31 -43.03,-8.71 -103.9,-81.12z" style="fill:#750fa0"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M15907.7 20138.24c-14.68,-23.19 -41.07,-64.99 -22.99,-72.26 -21.7,-14.68 -65.31,-51.98 -81.12,-62.97 17.18,47.91 62.71,104.01 104.11,135.23z" style="fill:#32a0b4"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M15956.75 20127.13c21.35,22.3 31.42,53.49 13.34,60.75 21.7,14.68 52.83,12.3 68.63,23.28 -17.17,-47.9 -40.56,-52.81 -81.97,-84.03z" style="fill:#918ff0"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M16098.06 20019.49c20.45,23.31 45.89,28.81 71.65,18.88 -4.14,25.52 -9.21,50.2 -0.3,68 -51.49,-29.71 -60.13,-42.87 -71.35,-86.88z" style="fill:#0bcd32"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M16025.81 20126.66c-7.15,-41.88 -37.38,-49.46 -52.44,-41.9 23.18,-12.9 49.14,-31.32 43.03,-48.74 28.28,45.09 19.05,56.54 9.41,90.64z" style="fill:#375048"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M15897.17 19665.91c31.01,-6.66 92.01,-23.48 91.18,-40.27 25.4,3.82 36.49,14.5 55.29,17.08 -70.63,15.91 -104.16,23.46 -146.47,23.19z" style="fill:#962c02"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M15683.74 19640.5c31.01,-6.66 77.19,-18 76.36,-34.79 25.4,3.82 74.87,8.54 93.68,11.12 -70.64,15.91 -127.74,23.93 -170.04,23.67z" style="fill:#6683ac"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M15439.45 19620.79c25.53,-9.76 71.49,-27.42 61.22,-44.09 26.16,1.25 50.48,3.62 69.71,4.29 -57.74,23.01 -90.81,35.81 -130.93,39.8z" style="fill:#ebb71a"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M15190.49 19603.28c25.54,-9.77 71.5,-27.43 61.22,-44.1 26.16,1.25 55.64,3.72 74.86,4.4 -57.74,23 -95.95,35.7 -136.08,39.7z" style="fill:#dfd1bc"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M15834.07 19660.69c-28.46,8.29 -50.45,18.56 -35.32,32.63 -29.55,-8.56 -67.09,2.33 -84.7,3.27 64.61,-19.62 78.51,-34.01 120.02,-35.9z" style="fill:#fcaa06"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M15598.07 19638.82c-33.17,7.8 -81.34,19.98 -49.92,40.83 -26.16,-1.46 -72.7,-5.58 -91.93,-6.4 58.86,-22.49 87.83,-33.76 141.85,-34.43z" style="fill:#9f5d32"/>
+        <path class="NecklaceKimono4-Mediumfil12" d="M15051.32 19590.7c-15.46,-13.43 153.62,-63.59 179.67,-4.66 73.59,-24.19 150.4,-62.98 280.69,-5.09 -12.6,2.4 -42.8,27.73 -80.28,36.49 147.83,-33.93 165.13,-122.22 360.71,-11.67 84.72,-9.45 172.63,-7.09 214.88,18.95 47.43,-9 199.94,35.18 126.53,73.81 -1.94,-28.69 -136.23,-39.91 -188.34,-31.48 -52.29,8.42 -33.26,46.84 17.59,56.09 -59.95,5.42 -166.22,-19.44 -168.75,-30.73 -12.63,-13.06 56.25,-27.93 84.69,-35.1 89.49,-51.82 -335.7,8.6 -209.25,43.63 -43.42,10.14 -126.96,-27.77 -156.12,-35.84 33.53,-10.68 58.8,-20.32 103.54,-29.11 12.25,-0.06 20.32,0.12 37.03,-1.68 19.63,-37.68 -192.15,-5.15 -256.88,-10.98 12.17,-1.81 23.48,-3.77 34.1,-5.83 24.67,-15.08 -80.99,-17.93 -177.74,-8.37 -49.11,5.77 -79.94,5.25 -131.29,2.17 27.56,-3.38 39.76,-6.54 60.69,-10.99 21.54,-15.98 -37.74,-22.42 -131.47,-9.61z" style="fill:#89a7ea"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M16055.34 19709.31c-26.45,7.32 -74.07,20.6 -65.55,38.12 -25.94,-3.68 -83.31,-5.31 -102.4,-7.78 44.9,-23.98 116.3,-35 167.95,-30.34z" style="fill:#aee738"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M16084.23 19750.47c30.8,-2.2 59.19,-18.56 50.67,-36.08 25.94,3.69 47.41,26.35 66.5,28.82 -44.89,23.98 -65.52,11.92 -117.17,7.26z" style="fill:#669a4d"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M16125.59 19894.43c27.43,14.17 61.24,14.54 63.09,-4.85 20.22,16.66 19.82,46.52 34.82,58.57 -50.81,-2.91 -70.38,-21.96 -97.91,-53.72z" style="fill:#92bf1f"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M16122.32 19855.09c-23.49,-19.97 -58.7,-29.93 -67.72,-13.83 -15.04,-20.05 -15.15,-29.26 -26.43,-43.87 50.54,-1.4 76.99,22.63 94.15,57.7z" style="fill:#8373d8"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M16118.49 20002.11c-23.49,-19.97 -58.59,-37.64 -67.61,-21.55 -15.04,-20.04 3.56,-45.01 -7.72,-59.62 52.05,16.98 65.34,41.68 75.33,81.17z" style="fill:#6f8784"/>
+        <g>
+         <path class="NecklaceKimono4-Mediumfil175" d="M15211.45 19538.68c-44.47,-0.67 -68.76,3.76 -97.22,11.84 -73.06,-28.87 -183.23,-31.22 -272.53,-7.04 -60.05,-40.83 -182.14,-47.66 -251.6,-27.29 -54.43,-22.08 -122.57,-33.53 -195.32,-35.28 -42.64,-15.46 -72.35,-38.49 -85.8,-67.48 -9.65,-20.8 19.11,-37.73 27.43,-64.15 3.47,-18.24 -13.22,-42.04 -8.23,-62.63 7.56,-31.24 29.7,-57.05 66.78,-69.98 18.92,-6.59 32.62,12.54 52.02,9.08 22.52,-4.01 49.07,-33.29 72.98,-23.51 55.09,47.53 113.28,84.79 168.45,104.95 37.81,61.74 132.88,138.63 204.8,148.67 49.96,77.88 133.2,150.09 206.72,177.73 11.61,18.58 32.02,42.9 53.84,64.52l57.68 -159.43zm177.57 149.36c-53.98,-68.14 -133.88,-125.93 -203.48,-165.68 -53.94,-74.91 -127.78,-130.95 -203.33,-164.19 -82.62,-103.02 -162.2,-156.14 -216.84,-156.48 -35.16,-66.66 -142.07,-133.31 -185.7,-140.45 -39.17,-45.61 -126.94,-59.48 -192.97,-20.62 -52.87,-24.92 -174.4,87.48 -162.69,122.51 -69.01,29.06 -108.29,106.44 -68.48,146.51 -32.19,18.11 -23.93,184.58 32,201.6 22.85,73.13 97.22,121.77 156.86,114.26 37.13,23.99 161.11,46.36 231.93,20.55 40.73,36.44 135.37,50.48 265.76,29.59 78.31,26.07 170.66,34.1 260.92,14.8 78.28,17.25 200.27,11.88 286.02,-2.4z" style="fill:#08526b"/>
+         <path class="NecklaceKimono4-Mediumfil9 NecklaceKimono4-Mediumstr21" d="M15211.45 19538.68c-44.47,-0.67 -68.76,3.76 -97.22,11.84 -73.06,-28.87 -183.23,-31.22 -272.53,-7.04 -60.05,-40.83 -182.14,-47.66 -251.6,-27.29 -54.43,-22.08 -122.57,-33.53 -195.32,-35.28 -42.64,-15.46 -72.35,-38.49 -85.8,-67.48 -9.65,-20.8 19.11,-37.73 27.43,-64.15 3.47,-18.24 -13.22,-42.04 -8.23,-62.63 7.56,-31.24 29.7,-57.05 66.78,-69.98 18.92,-6.59 32.62,12.54 52.02,9.08 22.52,-4.01 49.07,-33.29 72.98,-23.51 55.09,47.53 113.28,84.79 168.45,104.95 37.81,61.74 132.88,138.63 204.8,148.67 49.96,77.88 133.2,150.09 206.72,177.73 11.61,18.58 32.02,42.9 53.84,64.52m235.25 -10.07c-53.98,-68.14 -133.88,-125.93 -203.48,-165.68 -53.94,-74.91 -127.78,-130.95 -203.33,-164.19 -82.62,-103.02 -162.2,-156.14 -216.84,-156.48 -35.16,-66.66 -142.07,-133.31 -185.7,-140.45 -39.17,-45.61 -126.94,-59.48 -192.97,-20.62 -52.87,-24.92 -174.4,87.48 -162.69,122.51 -69.01,29.06 -108.29,106.44 -68.48,146.51 -32.19,18.11 -23.93,184.58 32,201.6 22.85,73.13 97.22,121.77 156.86,114.26 37.13,23.99 161.11,46.36 231.93,20.55 40.73,36.44 135.37,50.48 265.76,29.59 78.31,26.07 170.66,34.1 260.92,14.8 78.28,17.25 200.27,11.88 286.02,-2.4z" id="1" style="fill:#00765b"/>
+        </g>
+        <path class="NecklaceKimono4-Mediumfil1" d="M14463.86 19569.42c-31.01,6.65 -92.01,23.48 -91.18,40.26 -25.4,-3.81 -36.49,-14.5 -55.29,-17.07 70.63,-15.91 104.16,-23.46 146.47,-23.19z" style="fill:#1abfdf"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M14677.28 19594.83c-31,6.66 -77.18,18 -76.35,34.79 -25.4,-3.83 -74.88,-8.54 -93.68,-11.12 70.63,-15.92 127.74,-23.93 170.03,-23.67z" style="fill:#1d307d"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M14921.58 19614.53c-25.53,9.77 -71.5,27.43 -61.22,44.1 -26.16,-1.25 -50.48,-3.63 -69.71,-4.3 57.74,-23 90.8,-35.8 130.93,-39.8z" style="fill:#e3a784"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M15170.53 19632.05c-25.53,9.77 -71.49,27.43 -61.21,44.09 -26.16,-1.25 -55.64,-3.71 -74.86,-4.39 57.74,-23 95.95,-35.7 136.07,-39.7z" style="fill:#49b238"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M14526.96 19574.63c28.46,-8.28 50.45,-18.55 35.32,-32.63 29.55,8.57 67.09,-2.32 84.7,-3.26 -64.61,19.61 -78.51,34 -120.02,35.89z" style="fill:#8c1f5a"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M15018.47 19605.52c25.67,-9.7 71.88,-27.26 61.81,-43.93 26.17,1.31 83.44,-2.29 102.68,-1.56 -42.53,27.96 -112.64,45.42 -164.49,45.49z" style="fill:#de3f1f"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M14762.96 19596.5c33.17,-7.8 81.33,-19.97 49.91,-40.82 26.17,1.45 72.71,5.57 91.94,6.4 -58.86,22.49 -87.83,33.75 -141.85,34.42z" style="fill:#bf54b9"/>
+        <path class="NecklaceKimono4-Mediumfil12" d="M15309.71 19644.63c25.42,27.11 -129.8,95.43 -179.67,4.65 -73.59,24.2 -150.41,62.98 -280.69,5.09 12.6,-2.4 42.8,-27.72 80.28,-36.49 -147.84,33.94 -165.13,122.23 -360.71,11.68 -84.72,9.45 -172.63,7.08 -214.88,-18.96 -47.43,9 -199.94,-35.17 -126.53,-73.8 1.94,28.68 136.23,39.91 188.34,31.48 52.29,-8.42 33.25,-46.84 -17.6,-56.09 59.96,-5.42 171.02,29.02 173.56,40.32 12.63,13.06 -64.85,28.92 -89.49,25.51 -89.49,51.82 335.7,-8.61 209.25,-43.63 43.41,-10.14 126.96,27.77 156.12,35.83 -33.53,10.69 -39.98,17.48 -84.72,26.28 -12.26,0.05 -39.14,2.72 -55.86,4.52 -19.62,37.68 192.15,5.15 256.89,10.98 -12.17,1.8 -23.49,3.76 -34.1,5.83 -24.67,15.07 80.99,17.93 177.74,8.36 49.11,-5.76 79.94,-5.24 131.29,-2.17 -27.56,3.39 -39.76,6.55 -60.69,10.99 -21.54,15.98 37.74,22.43 131.47,9.62z" style="fill:#1b9aea"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M14305.69 19526.02c26.45,-7.33 74.07,-20.6 65.55,-38.12 25.94,3.68 83.3,5.31 102.4,7.78 -44.9,23.98 -116.3,34.99 -167.95,30.34z" style="fill:#a9ad75"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M14276.79 19484.86c-30.79,2.2 -59.19,18.56 -50.66,36.07 -25.94,-3.68 -47.42,-26.34 -66.5,-28.81 44.89,-23.98 65.51,-11.92 117.16,-7.26z" style="fill:#d61834"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M14244.32 19310.22c-30.81,3.54 -53.35,-9.45 -65.78,-34.11 -14.07,21.7 -26.88,43.4 -45.44,50.61 58.12,12.54 73.36,8.58 111.22,-16.5z" style="fill:#760c0a"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M14225.92 19438.15c33.42,-26.24 60.91,-11.57 67,4.15 -8.52,-25.12 -15.4,-56.2 0.82,-65.01 -51.23,14.43 -52.07,29.12 -67.82,60.86z" style="fill:#51384e"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M14630.57 19183c-18.51,-25.75 -52.44,-79.17 -40.55,-91.05 -21.39,-14.22 -36.78,-13.75 -52.45,-24.46 41.68,59.21 61.46,87.31 93,115.51z" style="fill:#2b5b7c"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M14805.82 19307.44c-18.51,-25.75 -45.13,-65.16 -33.24,-77.04 -21.39,-14.22 -61.23,-43.94 -76.9,-54.65 41.67,59.21 78.61,103.49 110.14,131.69z" style="fill:#090625"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M15000.12 19456.83c-12.37,-24.38 -34.58,-68.33 -15.78,-73.78 -20.23,-16.63 -39.85,-31.21 -54.56,-43.62 27.36,55.82 43.28,87.5 70.34,117.4z" style="fill:#4112b6"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M15196.4 19610.96c-12.37,-24.38 -34.58,-68.32 -15.78,-73.77 -20.22,-16.64 -43.73,-34.6 -58.43,-46.99 27.36,55.8 47.16,90.86 74.21,120.76z" style="fill:#ad405c"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M14680.84 19221.49c15.53,25.25 24.94,47.62 4.27,47.9 27.66,13.49 48.17,46.76 60.6,59.28 -34.73,-57.92 -35.37,-77.91 -64.87,-107.18z" style="fill:#64b451"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M14870.44 19363.71c19.36,28.05 46.88,69.41 9.6,63.77 20.36,16.48 57.63,44.67 72.44,56.97 -28.54,-56.18 -42.45,-83.98 -82.04,-120.74z" style="fill:#47bd57"/>
+        <path class="NecklaceKimono4-Mediumfil12" d="M15308 19695.06c20.47,0.43 -71.18,-150.25 -130.05,-124.05 -70.99,-124.83 -284.8,-329.56 -429.14,-362.06 -56.45,-63.87 -123.19,-121.13 -171.99,-130.2 -29.11,-38.51 -171.81,-108.14 -143.33,-30.23 20.69,-19.96 127.76,61.87 160.73,103.1 33.1,41.34 -6.8,57.04 -50.69,29.76 40.79,44.26 147.49,94.87 156.95,88.2 18.12,-1.2 -28.9,-65.09 -50.45,-80.56 -31.54,-98.48 243.04,231.73 125.8,172.8 25.38,36.66 112.75,64.65 139.77,78.25 -17.67,-30.43 -29.94,-54.54 -57.2,-91.09 -9.04,-8.27 -15.14,-13.55 -26.32,-26.11 10.75,-41.1 145.88,125.17 197.77,164.31 -89.14,-108.51 94.38,62.05 116,85.9 32.53,37.24 55.73,57.55 95.86,89.75 -18.16,-21.02 -25.08,-31.55 -37.61,-48.89 -5.24,-26.31 43.02,8.71 103.9,81.12z" style="fill:#3abfc4"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M14484.2 19108.99c14.69,23.19 41.07,64.99 23,72.26 21.7,14.68 65.31,51.98 81.12,62.97 -17.18,-47.91 -62.71,-104.01 -104.12,-135.23z" style="fill:#6a0bad"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M14435.16 19120.1c-21.35,-22.3 -31.42,-53.49 -13.34,-60.75 -21.7,-14.68 -52.83,-12.3 -68.63,-23.28 17.17,47.91 40.55,52.81 81.97,84.03z" style="fill:#d85069"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M14307.86 19199.04c-29.85,-7.91 -55.15,-30.33 -43.51,-45.95 -26.16,-1.22 -45.91,21.18 -65.12,20.05 39.61,31.95 66.91,30.96 108.63,25.9z" style="fill:#0abe6d"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M14336.7 19172.08c30.81,0.97 63.59,17.22 59.47,35.21 24.6,-4.77 30.87,-11.52 49.04,-14.77 -36.52,-34.97 -72.25,-34.91 -108.51,-20.44z" style="fill:#41cc77"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M14240.84 19283.62c30.82,0.97 68.7,11.43 64.58,29.42 24.6,-4.76 27.58,-35.76 45.74,-39.01 -49.97,-22.35 -76.41,-12.97 -110.32,9.59z" style="fill:#880685"/>
+       </g>
+       <g id="_2183822555328">
+        <g>
+         <path class="NecklaceKimono4-Mediumfil175" d="M15142.21 19543.05c42.87,-11.83 67.5,-13.65 97.08,-12.99 63.45,-46.31 169.49,-76.29 262,-75.34 47.86,-54.62 164.3,-91.93 236.66,-89.68 47.12,-35.06 110.19,-63.27 180.16,-83.26 37.39,-25.69 60.35,-55.44 66.08,-86.88 4.11,-22.57 -27.98,-31.72 -42.68,-55.19 -7.94,-16.79 2.22,-44.02 -7.78,-62.7 -15.18,-28.33 -43.09,-47.74 -82.23,-50.93 -19.97,-1.63 -28.42,20.34 -48.07,21.87 -22.8,1.78 -55.86,-19.88 -76.54,-4.41 -41.38,59.85 -88.33,110.55 -136.65,143.94 -21.07,69.26 -93.75,167.58 -160.84,195.39 -28.77,87.94 -91.18,178.76 -155.39,224 -6.56,20.9 -20.2,49.57 -35.88,75.98l-95.92 -139.8zm-134.3 189.21c35.1,-79.52 97.91,-155.54 155.27,-211.53 33.38,-86.06 90.75,-158.87 155.51,-210.04 54.06,-120.48 117.73,-191.91 170.53,-205.97 17.27,-73.37 103.99,-164.75 144.41,-182.64 26.45,-53.99 107.92,-89.48 181.59,-68.47 44.91,-37.42 190.8,40.81 188.28,77.66 74.09,10.78 131.56,75.79 103.11,124.59 35.71,9.43 69.57,172.63 19.72,203.16 -3.72,76.53 -63.47,142.3 -123.09,150.04 -29.9,32.55 -144.27,85.38 -219.3,78.21 -30.26,45.5 -118.33,82.89 -249.79,95.46 -69.23,44.93 -156.6,75.92 -248.82,79.93 -71.42,36.38 -190.84,61.86 -277.42,69.6z" style="fill:#e475fa"/>
+         <path class="NecklaceKimono4-Mediumfil9 NecklaceKimono4-Mediumstr21" d="M15142.21 19543.05c42.87,-11.83 67.5,-13.65 97.08,-12.99 63.45,-46.31 169.49,-76.29 262,-75.34 47.86,-54.62 164.3,-91.93 236.66,-89.68 47.12,-35.06 110.19,-63.27 180.16,-83.26 37.39,-25.69 60.35,-55.44 66.08,-86.88 4.11,-22.57 -27.98,-31.72 -42.68,-55.19 -7.94,-16.79 2.22,-44.02 -7.78,-62.7 -15.18,-28.33 -43.09,-47.74 -82.23,-50.93 -19.97,-1.63 -28.42,20.34 -48.07,21.87 -22.8,1.78 -55.86,-19.88 -76.54,-4.41 -41.38,59.85 -88.33,110.55 -136.65,143.94 -21.07,69.26 -93.75,167.58 -160.84,195.39 -28.77,87.94 -91.18,178.76 -155.39,224 -6.56,20.9 -20.2,49.57 -35.88,75.98m-230.22 49.41c35.1,-79.52 97.91,-155.54 155.27,-211.53 33.38,-86.06 90.75,-158.87 155.51,-210.04 54.06,-120.48 117.73,-191.91 170.53,-205.97 17.27,-73.37 103.99,-164.75 144.41,-182.64 26.45,-53.99 107.92,-89.48 181.59,-68.47 44.91,-37.42 190.8,40.81 188.28,77.66 74.09,10.78 131.56,75.79 103.11,124.59 35.71,9.43 69.57,172.63 19.72,203.16 -3.72,76.53 -63.47,142.3 -123.09,150.04 -29.9,32.55 -144.27,85.38 -219.3,78.21 -30.26,45.5 -118.33,82.89 -249.79,95.46 -69.23,44.93 -156.6,75.92 -248.82,79.93 -71.42,36.38 -190.84,61.86 -277.42,69.6z" id="1" style="fill:#1ef51a"/>
+        </g>
+        <path class="NecklaceKimono4-Mediumfil1" d="M15873.51 19384.81c31.69,-1.35 94.96,-0.41 98.38,16.05 23.62,-10.08 31.67,-23.21 49.22,-30.43 -72.37,2.36 -106.71,3.49 -147.6,14.38z" style="fill:#1efa06"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M15673.33 19463.08c31.69,-1.35 79.23,-1.99 82.65,14.47 23.62,-10.09 70.32,-27.1 87.88,-34.32 -72.37,2.36 -129.65,8.95 -170.53,19.85z" style="fill:#1ec06e"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M15441.84 19543.58c27.17,3.03 76.1,8.56 70.34,27.28 25.01,-7.79 47.95,-16.2 66.4,-21.69 -61.68,-7.74 -96.9,-11.82 -136.74,-5.59z" style="fill:#231096"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M15205.29 19623.13c27.17,3.03 76.1,8.57 70.34,27.28 25,-7.78 52.91,-17.58 71.34,-23.07 -61.66,-7.75 -101.84,-10.43 -141.68,-4.21z" style="fill:#9da86c"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M15813.75 19405.73c-29.63,-0.86 -53.49,-5.27 -42.39,-22.7 -26.45,15.72 -65.52,14.62 -82.8,18.14 67.47,2.73 84.54,13.17 125.19,4.56z" style="fill:#faa6ec"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M15345.8 19559.21c-27.29,-2.93 -76.43,-8.3 -70.87,-26.97 -25,7.85 -81.34,18.77 -99.77,24.31 48.19,16.37 120.44,15.64 170.64,2.66z" style="fill:#e4bf58"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M15590.84 19486.24c-34.07,0.79 -83.75,1.12 -58.58,-26.96 -24.96,7.98 -68.97,23.67 -87.38,29.31 62.63,6.97 93.5,10.58 145.96,-2.35z" style="fill:#36125b"/>
+        <path class="NecklaceKimono4-Mediumfil12" d="M15073.76 19670.3c-17.8,32.64 149.61,59.73 175.06,-40.67 77.31,4.91 161.41,23.13 272.95,-65.66 -12.8,0.85 -48.4,-16.07 -86.87,-15.13 151.61,-4.33 190.55,76.78 352.05,-79.4 84.37,-12.15 168.86,-36.55 203.21,-72.38 48.17,-3.21 184.67,-84.32 103.91,-103.25 5.33,28.25 -121.82,72.88 -174.38,77.83 -52.72,5 -43.96,-36.98 2.93,-58.71 -59.39,9.83 -155.99,60.61 -155.61,72.18 -8.94,15.81 61.47,12.88 90.8,12.67 99.64,27.65 -327.08,76.09 -213.5,10.39 -44.57,1.1 -115.9,58.8 -142.09,73.94 35.13,1.91 62.02,4.88 107.53,2.14 11.88,-3.03 19.64,-5.22 36.27,-7.68 28.47,31.53 -184.68,53.3 -245.87,75.22 12.23,-1.32 23.68,-2.26 34.47,-2.93 27.66,8.38 -73.88,37.72 -169.92,52.78 -48.99,6.78 -78.7,15.03 -127.63,30.92 27.53,-3.65 40.13,-3.66 61.51,-4.62 24.87,10.05 -30.88,31.19 -124.82,42.36z" style="fill:#90b8c9"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M16015.69 19303.04c-27.45,-0.44 -76.87,-1.32 -73.04,-20.42 -24.18,10.09 -79.29,26.09 -97.14,33.29 49.48,11.91 121.36,4.62 170.18,-12.87z" style="fill:#512ba0"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M16033.3 19255.93c30.36,-5.61 61.96,3.08 58.11,22.18 24.18,-10.09 39.27,-37.42 57.12,-44.61 -49.48,-11.92 -66.41,4.93 -115.23,22.43z" style="fill:#125818"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M16020.82 19078.74c30.71,-4.32 49.26,-22.56 55.09,-49.55 19.08,17.46 36.93,35.24 56.7,37.55 -53.09,26.76 -68.84,26.76 -111.79,12z" style="fill:#64fbab"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M16070.79 19197.93c-38.93,-16.99 -61.85,4.13 -63.79,20.87 1.93,-26.46 0.76,-58.27 -17.15,-62.72 53.22,1.09 57.72,15.1 80.94,41.85z" style="fill:#25a233"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M15614.99 19052.73c11.45,-29.57 30.85,-89.81 16.36,-98.32 17.12,-19.14 32.13,-22.55 44.6,-36.86 -25.44,67.78 -37.53,99.96 -60.96,135.18z" style="fill:#a7620f"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M15476.66 19217.24c11.45,-29.58 27.3,-74.41 12.81,-82.92 17.12,-19.14 48.21,-57.92 60.68,-72.23 -25.44,67.79 -50.06,119.93 -73.49,155.15z" style="fill:#cf9417"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M15326.17 19410.68c5.84,-26.7 16.29,-74.82 -3.28,-75.37 15.4,-21.18 30.72,-40.22 41.84,-55.93 -12.45,60.9 -19.88,95.56 -38.56,131.3z" style="fill:#5c304f"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M15174.96 19609.23c5.84,-26.71 16.28,-74.83 -3.29,-75.38 15.4,-21.18 33.63,-44.48 44.74,-60.17 -12.44,60.89 -22.79,99.8 -41.45,135.55z" style="fill:#3f6478"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M15576.01 19102.63c-8.68,28.34 -12.16,52.36 7.91,47.43 -23.37,20.01 -34.86,57.37 -43.74,72.61 19.05,-64.78 14.64,-84.3 35.83,-120.04z" style="fill:#ac9a40"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M15428.27 19287.95c-11.68,32.02 -27.92,78.97 6.74,64.13 -15.56,21.08 -44.54,57.73 -55.78,73.36 13.49,-61.55 19.96,-91.96 49.04,-137.49z" style="fill:#c06ffb"/>
+        <path class="NecklaceKimono4-Mediumfil12" d="M15088.09 19718.68c-19.71,5.57 31.11,-163.32 94.67,-152.77 20.14,-74.8 29.85,-160.3 149.73,-237.47 -4.91,11.85 -0.3,50.99 -13.53,87.13 52.73,-142.21 -11.61,-205.11 188.11,-307.99 38.58,-76.01 88.78,-148.22 133.73,-169.26 18.5,-44.59 139.1,-147.87 131.12,-65.31 -25.04,-14.11 -108.1,92.01 -129.64,140.21 -21.64,48.33 20.92,53.5 56.55,16.06 -28.36,53.1 -118.36,129.3 -129.19,125.22 -17.84,3.4 8.17,-65.9 28.03,-91.05 5.77,-103.25 -176.96,285.4 -78.3,198.89 -15.35,41.86 -92.87,90.91 -115.61,110.87 9.45,-33.89 15.26,-60.31 32.46,-102.54 6.67,-10.28 11.24,-16.92 18.91,-31.89 -20.74,-37.07 -109.72,157.83 -150.11,208.76 5.17,-11.16 9.74,-21.7 13.83,-31.71 0.93,-28.89 -59.42,57.88 -104.49,144.02 -22.13,44.23 -39.47,69.72 -70.21,110.97 12.29,-24.91 16.33,-36.84 24.1,-56.78 -1.54,-26.78 -39.45,19.25 -80.16,104.64z" style="fill:#812e77"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M15738.04 18944.3c-8.38,26.13 -23.4,73.23 -4.08,75.72 -17.31,19.67 -50.14,66.73 -62.68,81.34 4.58,-50.69 34.54,-116.43 66.76,-157.06z" style="fill:#d33192"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M15796.74 18954.29c15.05,-26.96 16.96,-59.67 -2.37,-62.16 17.31,-19.66 48.04,-25.19 60.57,-39.79 -4.57,50.69 -25.97,61.32 -58.2,101.95z" style="fill:#b62d68"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M15931.36 18987.11c26.9,-15.16 45.76,-43.22 30.56,-55.41 25.02,-7.76 49.77,8.95 68.08,3.02 -30.31,40.89 -56.98,46.8 -98.64,52.39z" style="fill:#0f962e"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M15896.68 18968.27c-29.59,8.68 -57.22,32.66 -48.72,49.03 -25,1.57 -32.77,-3.39 -51.17,-1.97 26.55,-43.02 61.15,-51.95 99.89,-47.06z" style="fill:#ad65f4"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M16017.5 19052.12c-29.58,8.69 -63.61,28.34 -55.11,44.71 -25.01,1.58 -35.68,-27.67 -54.08,-26.25 42.75,-34.2 70.69,-31.77 109.19,-18.46z" style="fill:#9333e7"/>
+        <g>
+         <path class="NecklaceKimono4-Mediumfil175" d="M15132.44 19556.26c-24.95,36.82 -34.57,59.56 -43.43,87.79 -64.21,45.25 -126.62,136.07 -155.39,224 -67.09,27.81 -139.77,126.13 -160.84,195.39 -48.32,33.39 -95.27,84.09 -136.65,143.95 -36.32,27.17 -71.86,39.38 -103.48,34.72 -22.69,-3.34 -21.07,-36.67 -38.59,-58.12 -13.36,-12.91 -42.4,-12.02 -56.89,-27.49 -21.96,-23.45 -31.4,-56.12 -21.86,-94.22 4.86,-19.43 28.37,-20.39 36.13,-38.51 8.99,-21.02 -0.92,-59.29 20.36,-73.91 69.97,-19.99 133.04,-48.21 180.17,-83.27 72.36,2.26 188.8,-35.05 236.65,-89.67 92.52,0.95 198.56,-29.04 262,-75.35 21.9,0.49 53.44,-3.24 83.48,-9.62l-101.66 -135.69zm222.3 -66.52c-86.59,7.75 -178.73,42.85 -250.16,79.23 -92.22,4.01 -179.58,35.01 -248.82,79.94 -131.45,12.56 -219.52,49.95 -249.78,95.46 -75.03,-7.17 -189.4,45.65 -219.31,78.21 -59.62,7.73 -119.36,73.51 -123.09,150.03 -49.85,30.54 -22.54,193.81 13.18,203.24 -13.56,73.63 29.59,148.92 84.93,137.62 -2.52,36.85 141.2,121.27 186.11,83.84 73.68,21.02 155.14,-14.48 181.59,-68.47 40.42,-17.88 127.14,-109.27 144.41,-182.64 52.8,-14.06 116.47,-85.49 170.53,-205.97 64.76,-51.17 122.13,-123.98 155.51,-210.04 57.37,-55.98 119.79,-160.92 154.9,-240.45z" style="fill:#53b371"/>
+         <path class="NecklaceKimono4-Mediumfil9 NecklaceKimono4-Mediumstr21" d="M15132.44 19556.26c-24.95,36.82 -34.57,59.56 -43.43,87.79 -64.21,45.25 -126.62,136.07 -155.39,224 -67.09,27.81 -139.77,126.13 -160.84,195.39 -48.32,33.39 -95.27,84.09 -136.65,143.95 -36.32,27.17 -71.86,39.38 -103.48,34.72 -22.69,-3.34 -21.07,-36.67 -38.59,-58.12 -13.36,-12.91 -42.4,-12.02 -56.89,-27.49 -21.96,-23.45 -31.4,-56.12 -21.86,-94.22 4.86,-19.43 28.37,-20.39 36.13,-38.51 8.99,-21.02 -0.92,-59.29 20.36,-73.91 69.97,-19.99 133.04,-48.21 180.17,-83.27 72.36,2.26 188.8,-35.05 236.65,-89.67 92.52,0.95 198.56,-29.04 262,-75.35 21.9,0.49 53.44,-3.24 83.48,-9.62m120.64 -202.21c-86.59,7.75 -178.73,42.85 -250.16,79.23 -92.22,4.01 -179.58,35.01 -248.82,79.94 -131.45,12.56 -219.52,49.95 -249.78,95.46 -75.03,-7.17 -189.4,45.65 -219.31,78.21 -59.62,7.73 -119.36,73.51 -123.09,150.03 -49.85,30.54 -22.54,193.81 13.18,203.24 -13.56,73.63 29.59,148.92 84.93,137.62 -2.52,36.85 141.2,121.27 186.11,83.84 73.68,21.02 155.14,-14.48 181.59,-68.47 40.42,-17.88 127.14,-109.27 144.41,-182.64 52.8,-14.06 116.47,-85.49 170.53,-205.97 64.76,-51.17 122.13,-123.98 155.51,-210.04 57.37,-55.98 119.79,-160.92 154.9,-240.45z" id="1" style="fill:#57dc9f"/>
+        </g>
+        <path class="NecklaceKimono4-Mediumfil1" d="M14748.03 20198.19c-11.45,29.58 -30.85,89.81 -16.36,98.32 -17.12,19.15 -32.13,22.56 -44.6,36.86 25.44,-67.78 37.53,-99.95 60.96,-135.18z" style="fill:#b06432"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M14886.36 20033.69c-11.44,29.57 -27.29,74.4 -12.8,82.92 -17.13,19.14 -48.22,57.92 -60.69,72.22 25.44,-67.78 50.06,-119.92 73.49,-155.14z" style="fill:#1a4dee"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M15036.85 19840.24c-5.84,26.7 -16.29,74.82 3.28,75.37 -15.4,21.19 -30.72,40.22 -41.84,55.94 12.45,-60.91 19.89,-95.57 38.56,-131.31z" style="fill:#ac76cd"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M15188.06 19641.7c-5.83,26.7 -16.28,74.82 3.29,75.37 -15.4,21.19 -33.63,44.48 -44.74,60.17 12.44,-60.89 22.79,-99.8 41.45,-135.54z" style="fill:#ef2223"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M14787.01 20148.29c8.68,-28.34 12.16,-52.36 -7.91,-47.43 23.37,-20.01 34.86,-57.37 43.74,-72.61 -19.05,64.79 -14.64,84.3 -35.83,120.04z" style="fill:#8f0a02"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M15082.46 19754.29c5.97,-26.79 16.65,-75.06 -2.82,-75.78 15.45,-21.16 43.86,-71.02 55.02,-86.71 0.05,50.9 -23.81,119.09 -52.2,162.49z" style="fill:#33c981"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M14934.75 19962.97c11.68,-32.01 27.92,-78.96 -6.74,-64.13 15.56,-21.08 44.54,-57.73 55.78,-73.36 -13.49,61.56 -19.96,91.96 -49.04,137.49z" style="fill:#501edd"/>
+        <path class="NecklaceKimono4-Mediumfil12" d="M15274.93 19532.24c36.62,-6.39 8.59,160.87 -94.67,152.77 -20.14,74.8 -29.85,160.3 -149.73,237.48 -32.23,49.06 14.33,123.54 -174.58,220.85 -38.58,76.02 -88.78,148.22 -133.73,169.26 -18.5,44.6 -139.09,147.87 -131.12,65.31 25.04,14.11 108.1,-92.01 129.64,-140.21 21.65,-48.33 -20.92,-53.5 -56.55,-16.05 28.36,-53.1 107.44,-128.32 118.27,-124.24 17.85,-3.4 -7.51,62.35 -17.11,90.06 -5.77,103.25 176.96,-285.4 78.3,-198.88 65.3,-178.07 264.98,-275.82 200.52,-153.5 -0.93,28.89 59.42,-57.88 104.49,-144.02 22.13,-44.22 39.47,-69.71 70.21,-110.96 -12.28,24.9 -16.33,36.83 -24.1,56.77 1.54,26.78 39.45,-19.25 80.16,-104.64z" style="fill:#a82b31"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M14624.98 20306.63c8.38,-26.14 23.4,-73.23 4.08,-75.73 17.31,-19.66 50.14,-66.73 62.68,-81.34 -4.58,50.7 -34.54,116.44 -66.76,157.07z" style="fill:#2a79b0"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M14574.71 20308.21c-15.05,26.95 -16.95,59.66 2.37,62.15 -17.31,19.67 -48.04,25.19 -60.57,39.79 4.57,-50.69 25.97,-61.32 58.2,-101.94z" style="fill:#b0f72f"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M14410.88 20239.55c-13.94,27.71 -37.17,39.43 -64.61,36.29 10.43,23.67 21.54,46.28 17.39,65.75 42.37,-41.7 47.42,-56.62 47.22,-102.04z" style="fill:#91464f"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M14507.75 20325.11c-3.61,-42.33 23.74,-57.27 40.22,-53.73 -25.67,-6.66 -55.43,-17.96 -53.9,-36.35 -16.04,50.75 -4.22,59.51 13.68,90.08z" style="fill:#ed87b4"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M14516.4 19846.82c-31.68,1.35 -94.96,0.41 -98.38,-16.04 -23.62,10.08 -31.66,23.2 -49.21,30.43 72.36,-2.37 106.71,-3.49 147.59,-14.39z" style="fill:#818518"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M14716.58 19768.56c-31.69,1.35 -79.23,1.99 -82.65,-14.47 -23.62,10.09 -70.32,27.09 -87.87,34.32 72.36,-2.36 129.65,-8.96 170.52,-19.85z" style="fill:#f887ec"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M14948.07 19688.06c-27.17,-3.03 -76.09,-8.57 -70.34,-27.28 -25,7.78 -47.95,16.2 -66.39,21.68 61.67,7.75 96.89,11.82 136.73,5.6z" style="fill:#0efcc8"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M15184.62 19608.51c-27.16,-3.04 -76.09,-8.57 -70.34,-27.29 -25,7.79 -52.91,17.59 -71.34,23.08 61.67,7.74 101.84,10.42 141.68,4.21z" style="fill:#c217ac"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M14576.17 19825.9c29.62,0.87 53.49,5.28 42.38,22.71 26.45,-15.72 65.52,-14.62 82.81,-18.14 -67.48,-2.74 -84.54,-13.17 -125.19,-4.57z" style="fill:#d6af9b"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M14799.08 19745.4c34.07,-0.8 83.75,-1.12 58.58,26.96 24.95,-7.99 68.97,-23.68 87.37,-29.32 -62.62,-6.96 -93.5,-10.58 -145.95,2.36z" style="fill:#b5fe51"/>
+        <path class="NecklaceKimono4-Mediumfil12" d="M15316.16 19561.33c11.59,-16.88 -164.68,-22.91 -175.06,40.68 -77.31,-4.91 -161.41,-23.14 -272.96,65.65 12.79,-0.84 -163.87,-3.44 -265.18,94.53 -84.37,12.16 -168.86,36.56 -203.2,72.38 -48.18,3.22 -184.67,84.33 -103.91,103.25 -5.34,-28.25 121.81,-72.88 174.37,-77.82 52.72,-5.01 43.97,36.97 -2.92,58.71 59.39,-9.83 155.99,-60.61 155.6,-72.18 8.94,-15.81 -61.47,-12.89 -90.79,-12.68 -99.64,-27.65 327.08,-76.08 213.49,-10.38 44.57,-1.11 115.9,-58.81 142.1,-73.94 -35.14,-1.92 -62.02,-4.89 -107.54,-2.15 -11.87,3.03 -19.63,5.23 -36.26,7.69 -28.47,-31.54 184.68,-53.31 245.87,-75.22 3.73,0.07 225.51,-68.58 263.07,-80.77 -27.53,3.65 -40.13,3.66 -61.51,4.62 -24.86,-10.05 30.89,-31.2 124.83,-42.37z" style="fill:#21a7ea"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M14374.23 19928.6c27.44,0.44 76.87,1.31 73.03,20.41 24.18,-10.09 79.29,-26.09 97.15,-33.28 -49.49,-11.92 -121.36,-4.62 -170.18,12.87z" style="fill:#31071f"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M14356.61 19975.7c-30.36,5.61 -61.95,-3.08 -58.11,-22.17 -24.18,10.08 -39.27,37.41 -57.12,44.6 49.48,11.93 66.41,-4.93 115.23,-22.43z" style="fill:#744d48"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M14352.78 20125.43c-22.99,20.62 -55.62,29.48 -62.28,11.18 -15.38,21.2 -7.48,50.01 -18.97,65.44 48.44,-15.59 62.6,-38.96 81.25,-76.62z" style="fill:#7ca49b"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M14346.06 20086.54c17.71,-25.24 49.28,-43.73 62.06,-30.42 9.51,-23.18 7.31,-32.13 14.55,-49.1 -49.26,11.35 -68.82,41.26 -76.61,79.52z" style="fill:#23de4b"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M14386.73 20227.87c17.71,-25.23 47.25,-51.16 60.02,-37.86 9.52,-23.18 -14.76,-42.67 -7.52,-59.64 -46.1,29.52 -52.76,56.77 -52.5,97.5z" style="fill:#e2edfd"/>
+       </g>
+      </g>
+      <g>
+       <g>
+        <path class="NecklaceKimono4-Mediumfil175 NecklaceKimono4-Mediumstr21" d="M15304.19 19871.42c15.99,-43.36 7.33,-107.8 -29.36,-139.2 30.94,-39.77 28.44,-100.8 -22.81,-123 37.11,-50.72 39.89,-106.57 5.33,-137.91 79.72,-206.52 -253.08,-148.34 -189.89,39.39 -27.59,48.41 -21.33,92.29 8.32,125.88 -34.92,71.03 -21.3,116.52 25.1,129.76 -14.25,37.27 -15.09,100.33 14.91,114.33 -1.58,125.69 156.99,75.89 188.4,-9.25z" style="fill:#54848e"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M15160.83 19696.67c-10.56,17.24 -29.76,30.72 -52.1,33.79 3.72,12.2 25.28,57.52 27.71,66.6 25.03,-39.44 22.46,-78.81 24.39,-100.39z" style="fill:#eea107"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M15148.9 19570.35c-13.96,17.26 -36.66,22.44 -58.66,19.14 0.81,15.69 15.14,67.79 15.4,79.36 32.77,-39.2 36.55,-73.39 43.26,-98.5z" style="fill:#1a71b8"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M15141.02 19448.84c-14.41,15.1 -36.28,24.21 -57.95,22.43 0.25,13.12 17.16,56.99 17.02,66.68 33.79,-34.33 33.43,-67.75 40.93,-89.11z" style="fill:#d2df95"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M15184.17 19530.61c14.32,-15.16 27.96,-24.63 49.66,-22.96 -0.33,-13.11 -10.77,-58.36 -10.69,-68.06 -33.62,34.47 -31.6,69.64 -38.97,91.02z" style="fill:#92fa0c"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M15193.01 19683.27c10.55,-17.25 29.76,-30.71 52.1,-33.8 -3.72,-12.19 -25.92,-60.48 -28.35,-69.56 -25.02,39.45 -21.82,81.78 -23.75,103.36z" style="fill:#b316e6"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M15215.18 19802.89c10.55,-17.24 29.76,-30.72 52.1,-33.8 -3.72,-12.19 -25.28,-57.52 -27.71,-66.6 -25.03,39.45 -22.46,78.82 -24.39,100.4z" style="fill:#2bb786"/>
+        <path class="NecklaceKimono4-Mediumfil1" d="M15187.75 19806.14c-10.55,17.24 -29.76,30.72 -52.1,33.79 3.72,12.2 25.29,57.53 27.71,66.61 25.03,-39.45 22.46,-78.82 24.39,-100.4z" style="fill:#e75333"/>
+       </g>
+       <path class="NecklaceKimono4-Mediumfil12" d="M15137 19768.97c-17.19,45.3 -13.18,76.28 19.27,92.47 -14.59,26.12 16.04,106.11 71.51,60.53 -38.16,5 -40.73,-68.92 -26.67,-97.34 14.04,-28.5 50.98,12.86 60.56,36.94 28.4,-33.08 2.68,-113.86 -23.71,-111.97 -16.74,-3.75 -39.1,40.5 -50.2,56.54 -73.94,56.57 4.74,-148.33 44.66,-90.96 45.71,-18.21 29.29,-304.35 -48.26,-184.57 43.91,10.55 -20.77,102.8 8.85,152.66 -10.83,0.09 -28.87,4.48 -32.19,13.4 -51.31,17.89 1.95,-113.07 -2.32,-144.99 -3.06,6.62 -6.29,12.81 -9.61,18.67 -40.47,29.72 -6.54,-109.02 -7.87,-121.51 -3.27,3.42 -17.35,31.45 -21.7,28.74 -5.86,-3.64 42.43,-100 106.92,-43.01 9.19,-26.33 -2.35,-75.67 -25.6,-76.88 -28.1,0.6 -80.28,24.73 -83.29,27.84 -69.42,71.79 -64.96,367.04 19.65,383.44z" style="fill:#df6938"/>
+      </g>
+     </g>
+     <g>
+      <path class="NecklaceKimono4-Mediumfil1" d="M15098.62 20328.76c-19.84,23.84 -21.32,49.82 -7.5,73.72 -25.86,-0.11 -51.03,-1.28 -67.23,10.29 21.34,-55.49 33,-66.07 74.73,-84.01z" style="fill:#333f69"/>
+      <path class="NecklaceKimono4-Mediumfil1" d="M15194.14 20311.98c-15.97,23.84 -13.22,49.82 4.49,73.72 -25.87,-0.11 -51.23,-1.28 -65.55,10.29 12.31,-55.49 22.25,-66.07 61.06,-84.01z" style="fill:#38cd99"/>
+      <path class="NecklaceKimono4-Mediumfil1" d="M15110.97 20306.73c21.38,-22.47 24.58,-48.29 12.38,-73.06 25.8,1.83 50.83,4.67 67.76,-5.8 -24.97,53.95 -37.31,63.74 -80.14,78.86z" style="fill:#0e1288"/>
+      <path class="NecklaceKimono4-Mediumfil1" d="M15459.96 20247.55c21.38,-22.47 24.58,-48.29 12.38,-73.06 25.8,1.83 50.83,4.67 67.76,-5.8 -24.97,53.95 -37.31,63.74 -80.14,78.86z" style="fill:#3be27b"/>
+      <path class="NecklaceKimono4-Mediumfil1" d="M15345.06 20253.1c21.38,-22.47 24.58,-48.29 12.38,-73.06 25.8,1.83 50.83,4.67 67.76,-5.8 -24.97,53.95 -37.31,63.74 -80.14,78.86z" style="fill:#f869d1"/>
+      <path class="NecklaceKimono4-Mediumfil1" d="M15419.21 20260.4c-21.38,22.47 -24.58,48.29 -12.38,73.06 -25.8,-1.83 -50.83,-4.67 -67.76,5.8 24.97,-53.95 37.31,-63.74 80.14,-78.86z" style="fill:#b0bb72"/>
+      <path class="NecklaceKimono4-Mediumfil1" d="M15537.96 20242.53c-16.67,26.15 -14.85,52.11 1.88,74.07 -25.66,3.16 -50.78,5.19 -65.38,18.71 14.14,-57.74 24.37,-69.71 63.5,-92.78z" style="fill:#0d24b3"/>
+     </g>
+    </g>
+    <path class="NecklaceKimono4-Mediumfil4" d="M14263.58 19972.62l36.68 -96.03c17.46,5.74 34.92,11.47 52.38,17.21 -23.57,25.62 -3.78,41.37 28.67,33.59l60.16 -14.38 -18.8 94.01 -53.99 73.79 29.35 114.51 62.14 22.1c12.15,25.49 49.54,36.66 61.69,62.15 11.84,16.77 39.86,-5 64.06,0.31 -14.71,29.59 23.5,83.42 80.58,40.21l-15.99 73.29 -46.33 27.08 -84.09 -13.87 -81 -52.12 -60.51 -63.9 -53.7 -26.34 -25.09 -74.14 -36.21 -217.47z" style="fill:#93e61a"/>
+    <path class="NecklaceKimono4-Mediumfil4" d="M14214.45 19554.17l78.55 60c15.25,-10.26 -18.08,-39.32 -2.83,-49.58 -29.63,-18.27 26.88,-33.41 60.23,-34.72l61.8 -2.47 -36.75 -71.97 -71.97 -56.38 -2.8 -118.18 53.81 -38.13c4.79,-27.83 87.7,10.84 92.48,-16.99 6.85,-19.35 51.95,-58.93 73.8,-70.61 -22.18,-24.49 -86.57,-109.77 -19.92,-83.66l-10.86 -49.72 -51.94 -13.5 -77.18 36.15 -63.83 72.14 -92.15 56.27 -55.13 58.64 -21.25 100.65 85.94 222.06z" style="fill:#983628"/>
+   </g>
+   <polygon class="NecklaceKimono4-Mediumfil5" points="15238.09,20213.53 15243.38,20396.1 15115.06,20429.17 14998.27,20385.71 15064.96,19964.99 15182.51,19956.59 "/>
+   <polygon class="NecklaceKimono4-Mediumfil5" points="15317.3,20627.69 15379.06,21270.08 15333.68,21518.74 15215.59,21492.55 15256.64,21291.73 15188.58,20408.91 15281.57,20372.07 "/>
+   <path class="NecklaceKimono4-Mediumfil5" d="M12339.75 18184.51c-148.13,3.61 -466.9,-2.84 -757.46,-26.04 659.14,766.42 1390.67,2689.16 1129.9,4208.57l-162.89 -10.44c150.44,-1135.05 -353.17,-3067.2 -1188.83,-4118.87 -413.24,-36.5 -828.38,-104.02 -1264.13,-350.71l485.3 -432.01c246.72,146.9 1172.65,268.63 1532.16,312.78l225.95 416.72z" style="fill:#c0c1e4"/>
+  </g>
+ </g><g id="HatWoodElfBack-Medium">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_10Corel-Layer"/>
+  <path class="HatWoodElfBack-Mediumfil19new HatWoodElfBack-Mediumstr0new" d="M7430 16884c2286,1951 2464,327 3590,1085 748,503 1417,627 1883,-149 259,-197 332,-208 779,-208 447,0 519,11 779,208 721,546 1135,652 1883,149 1126,-758 1304,866 3590,-1085 1772,-3048 -2970,-7213 -6252,-7213 -3282,0 -8023,4166 -6252,7213z" style="fill:#90e16a"/>
+ </g><g id="Head-Cat6">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <path class="Head-Cat6fil146" d="M13682 7485c-2521,3 -5132,2484 -5949,5018 -118,367 -230,774 -326,1125 -129,478 -261,1233 -57,1376 171,119 359,-38 620,-29 -308,228 -793,634 -552,962 191,261 484,-94 850,6 -260,75 -554,406 -478,616 56,156 245,231 536,249 1052,64 2116,663 2883,887 772,225 1635,292 2473,292 838,0 1701,-67 2473,-292 767,-224 1831,-823 2883,-887 291,-18 480,-93 536,-249 76,-210 -218,-541 -479,-616 367,-100 660,255 851,-6 241,-328 -244,-734 -552,-962 261,-9 449,148 619,29 205,-143 73,-898 -57,-1376 -95,-351 -207,-758 -325,-1125 -817,-2534 -3428,-5015 -5949,-5018z" style="fill:#cae362"/>
+  <path class="Head-Cat6fil147" d="M13682 17334c-1261,0 -1373,-595 -2351,-806 -838,-181 -309,-784 -431,-759 -349,37 -532,-37 -487,-454 36,-339 599,-1260 1989,-1722 505,-169 805,-524 1280,-524 475,0 775,355 1280,524 1390,462 1953,1383 1989,1722 44,417 -138,491 -487,454 -122,-25 407,578 -431,759 -978,211 -1090,806 -2351,806z" style="fill:#1414b7"/>
+  <path class="Head-Cat6fil32" d="M8220 11366c-215,492 -436,1198 -587,1726 -55,193 -106,381 -153,555 -73,270 -147,630 -159,912 -8,190 10,340 72,384 74,51 166,28 274,1 90,-23 189,-48 305,-43 42,1 74,36 72,77 0,24 -12,44 -30,57l0 0c-150,111 -342,265 -466,429 -111,146 -165,299 -70,429 74,100 186,65 321,22 142,-44 303,-95 489,-44 40,11 64,52 53,92 -8,28 -31,48 -57,54 -7,2 -14,4 -21,6 -110,40 -226,129 -307,231 -75,95 -120,197 -98,272 1,3 2,6 2,8 21,57 69,101 141,133 82,37 193,58 329,66 722,44 1443,333 2074,586 169,68 932,401 1536,530 -578,0 -1433,-328 -1591,-391 -621,-249 -1330,-533 -2027,-575 -154,-10 -283,-35 -382,-79 -110,-49 -185,-121 -220,-220 -2,-6 -4,-11 -6,-16 -36,-127 21,-277 125,-407 40,-51 88,-99 140,-142 -47,11 -92,26 -136,39 -189,60 -349,110 -486,-77 -145,-198 -77,-411 71,-608 77,-101 177,-198 278,-284l-2 0c-144,36 -267,67 -396,-24 -112,-78 -146,-274 -136,-512 12,-296 88,-667 163,-945 48,-176 100,-367 154,-557 137,-480 453,-1301 731,-1685z" style="fill:#21438e"/>
+  <path class="Head-Cat6fil14" d="M8151 11499c-168,330 -309,667 -418,1004 -118,367 -230,774 -326,1125 -129,478 -261,1233 -57,1376 171,119 359,-38 620,-29 -308,228 -793,634 -552,962 191,261 484,-94 850,6 -260,75 -554,406 -478,616 56,156 245,231 536,249 1052,64 2116,663 2883,887 92,27 186,50 281,72 116,21 224,41 320,62l0 0c-1756,-505 -2871,-1266 -3394,-2304 -572,-1138 -535,-2592 -265,-4026z" style="fill:#7cd041"/>
+  <path class="Head-Cat6fil32" d="M19144 11366c215,492 436,1198 586,1726 56,193 107,381 154,555 73,270 147,630 159,912 8,190 -10,340 -72,384 -74,51 -166,28 -274,1 -90,-23 -189,-48 -305,-43 -42,1 -74,36 -73,77 1,24 13,44 31,57l0 0c149,111 342,265 466,429 111,146 165,299 70,429 -74,100 -187,65 -321,22 -142,-44 -303,-95 -489,-44 -40,11 -64,52 -53,92 8,28 30,48 57,54 7,2 14,4 21,6 110,40 226,129 307,231 75,95 120,197 98,272 -1,3 -2,6 -2,8 -21,57 -69,101 -141,133 -82,37 -193,58 -330,66 -721,44 -1442,333 -2073,586 -170,68 -932,401 -1536,530 578,0 1433,-328 1591,-391 621,-249 1330,-533 2027,-575 154,-10 283,-35 382,-79 110,-49 185,-121 220,-220 2,-6 4,-11 6,-16 36,-127 -22,-277 -125,-407 -40,-51 -88,-99 -140,-142 47,11 92,26 136,39 189,60 348,110 485,-77 146,-198 78,-411 -70,-608 -77,-101 -177,-198 -278,-284l2 0c144,36 266,67 396,-24 112,-78 146,-274 136,-512 -12,-296 -88,-667 -163,-945 -48,-176 -100,-367 -154,-557 -138,-480 -453,-1301 -731,-1685z" style="fill:#bdef7b"/>
+  <path class="Head-Cat6fil32" d="M13682 7560c-408,0 -767,56 -1102,149 -949,262 -2036,899 -2715,1499 604,-730 1714,-1378 2675,-1644 348,-96 720,-154 1142,-154 421,0 794,58 1141,154 962,266 2072,914 2676,1644 -679,-600 -1766,-1237 -2715,-1499 -335,-93 -694,-149 -1102,-149z" style="fill:#373f66"/>
+ </g><g id="Mouth-Cat4">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <path class="Mouth-Cat4fil22 Mouth-Cat4str0" d="M12299 15251c0,-893 1371,-673 1371,-1225l0 -255" style="fill:#74dfd9"/>
+  <path class="Mouth-Cat4fil22 Mouth-Cat4str0" d="M15065 15251c0,-893 -1371,-673 -1371,-1225l0 -255" style="fill:#4e800b"/>
+  <path class="Mouth-Cat4fil100" d="M13694 14050c37,220 173,305 319,399 -63,-20 -192,-47 -331,-47 -139,0 -268,27 -331,47 146,-94 282,-179 319,-399l12 0 12 0z" style="fill:#b5a1b6"/>
+ </g><g id="WeaponBflyKnife-Medium">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_13Corel-Layer"/>
+  <g id="_2367108372160">
+   <path class="WeaponBflyKnife-Mediumfil26" d="M10287 22272c448,417 929,879 1419,1239 163,402 550,947 822,1278 -738,-147 -1774,-1376 -2691,-2032 -252,16 -71,-379 -5,-451 69,-73 494,-286 455,-34z" style="fill:#4118b9"/>
+   <path class="WeaponBflyKnife-Mediumfil27" d="M12426 24769c-672,-203 -1550,-1201 -2374,-1850 48,-124 213,-343 273,-285 614,569 1181,1071 2101,2135z" style="fill:#03e828"/>
+   <path class="WeaponBflyKnife-Mediumfil14 WeaponBflyKnife-Mediumstr0" d="M10287 22272c448,417 929,879 1419,1239 163,402 550,947 822,1278 -738,-147 -1774,-1376 -2691,-2032 -252,16 -71,-379 -5,-451 69,-73 494,-286 455,-34z" style="fill:#caf4ab"/>
+   <path class="WeaponBflyKnife-Mediumfil28" d="M10019 22352l-576 -535 191 -229 569 565c52,52 58,136 7,192 -50,54 -137,57 -191,7zm-686 -403l-191 229 581 503c55,48 140,48 191,-8 51,-54 47,-140 -7,-191l-574 -533z" style="fill:#7e35fb"/>
+   <path class="WeaponBflyKnife-Mediumfil14 WeaponBflyKnife-Mediumstr0" d="M10019 22352l-576 -535m191 -229l569 565c52,52 58,136 7,192 -50,54 -137,57 -191,7m-877 -174l581 503c55,48 140,48 191,-8 51,-54 47,-140 -7,-191l-574 -533" style="fill:#355fb1"/>
+   <circle class="WeaponBflyKnife-Mediumfil23" r="48" transform="matrix(3.41378 0.353594 -0.353594 3.41378 10109.9 22253.4)"/>
+   <path class="WeaponBflyKnife-Mediumfil29" d="M10117 22185c38,4 65,38 62,75 -4,38 -38,66 -76,62 -38,-4 -66,-38 -62,-76 4,-38 38,-65 76,-61z" style="fill:#a9e0a0"/>
+   <circle class="WeaponBflyKnife-Mediumfil23" r="48" transform="matrix(3.41378 0.353594 -0.353594 3.41378 9810.11 22577.8)"/>
+   <path class="WeaponBflyKnife-Mediumfil30" d="M9817 22509c38,4 66,38 62,76 -4,38 -38,65 -76,61 -38,-4 -65,-37 -61,-75 3,-38 37,-66 75,-62z" style="fill:#343d9b"/>
+   <path class="WeaponBflyKnife-Mediumfil31" d="M9964 22155c-139,-176 -279,-353 -418,-529 160,158 320,315 480,473 -26,18 -48,37 -62,56z" style="fill:#16c420"/>
+   <path class="WeaponBflyKnife-Mediumfil31" d="M9652 22477c-145,-172 -291,-344 -436,-515 165,152 331,304 496,456 -25,19 -46,39 -60,59z" style="fill:#6c49fe"/>
+  </g>
+ </g><g id="Eyes-Cat6">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <g>
+        <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0;0;-950 1300;0"/>
+        <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="rotate" values="0;0;0;-5;0"/>
+        <g>
+            <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0;0;-200 3000;0"/>
+            <g>
+                <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="scale" values="1;1;1;1 0.8;1"/>
+                <path class="Eyes-Cat6fil184" d="M12241 12362c-19,-833 -3390,-859 -3489,-168 -205,1421 515,2369 1837,2380 1066,9 1686,-625 1652,-2212z"/>
+                <path class="Eyes-Cat6fil185" d="M11714 11914c-498,-151 -1262,-170 -1890,-80 -116,253 -184,558 -184,885 0,885 390,1594 1112,1603 722,10 1112,-718 1112,-1603 0,-294 -54,-568 -150,-805z"/>
+                <path class="Eyes-Cat6fil186" d="M11131 11820c-233,-42 -498,-51 -752,-29 -45,220 -72,482 -72,764 0,777 268,1406 445,1406 177,0 445,-629 445,-1406 0,-270 -24,-521 -66,-735z"/>
+                <circle class="Eyes-Cat6fil152" r="235" transform="matrix(0.386601 -0.693281 1.39025 0.889533 9887.58 14107.9)"/>
+                <circle class="Eyes-Cat6fil152" r="235" transform="matrix(0.437299 -0.127093 0.239024 0.657032 9359.82 13570.6)"/>
+                <path class="Eyes-Cat6fil157" d="M12241 12362c-19,-833 -3390,-859 -3489,-168 -56,387 -43,739 32,1047 122,-998 1466,-1249 2069,-1166 877,120 1138,594 1204,1587 132,-331 195,-761 184,-1300z"/>
+                <path class="Eyes-Cat6fil152" d="M11407 12094c410,9 586,810 1,810 -535,0 -394,-819 -1,-810z"/>
+                <path class="Eyes-Cat6fil22 Eyes-Cat6str4" d="M12241 12362c-19,-833 -3390,-859 -3489,-168 -205,1421 515,2369 1837,2380 1066,9 1686,-625 1652,-2212z"/>
+            </g>      
+        </g>  
+    </g>
+    <g>
+        <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0;0;1300 -950;0"/>
+        <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="rotate" values="0;0;0;5;0"/>
+        <g>
+            <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0;0;0 3000;0"/>
+            <g>
+                <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="scale" values="1;1;1;1 0.8;1"/>
+                <path class="Eyes-Cat6fil187" d="M15123 12362c18,-833 3390,-859 3489,-168 205,1421 -515,2369 -1837,2380 -1066,9 -1687,-625 -1652,-2212z"/>
+                <path class="Eyes-Cat6fil188" d="M15650 11914c498,-151 1262,-170 1889,-80 117,253 185,558 185,885 0,885 -390,1594 -1112,1603 -722,10 -1112,-718 -1112,-1603 0,-294 54,-568 150,-805z"/>
+                <path class="Eyes-Cat6fil189" d="M16233 11820c232,-42 498,-51 752,-29 45,220 71,482 71,764 0,777 -267,1406 -444,1406 -177,0 -445,-629 -445,-1406 0,-270 24,-521 66,-735z"/>
+                <circle class="Eyes-Cat6fil152" r="235" transform="matrix(-0.386601 -0.693281 -1.39025 0.889533 17476.3 14107.9)"/>
+                <circle class="Eyes-Cat6fil152" r="235" transform="matrix(-0.437299 -0.127093 -0.239024 0.657032 18004 13570.6)"/>
+                <path class="Eyes-Cat6fil157" d="M15123 12362c18,-833 3390,-859 3489,-168 56,387 43,739 -32,1047 -122,-998 -1466,-1249 -2069,-1166 -877,120 -1138,594 -1204,1587 -132,-331 -196,-761 -184,-1300z"/>
+                <path class="Eyes-Cat6fil152" d="M17034 12094c-411,9 -586,810 -1,810 534,0 394,-819 1,-810z"/>
+                <path class="Eyes-Cat6fil22 Eyes-Cat6str4" d="M15123 12362c18,-833 3390,-859 3489,-168 205,1421 -515,2369 -1837,2380 -1066,9 -1687,-625 -1652,-2212z"/>
+            </g>      
+        </g>  
+    </g>  
+    <g>
+        <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0;0;1200 -800;0"/>
+        <g>
+            <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="rotate" values="0;0;0;5;0"/>
+            <g>
+                <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0;0;0;0"/> 
+                <path class="Eyes-Cat6fil155" d="M9619 11353c142,61 626,-104 1234,-100 559,4 1034,180 1194,47 177,-146 -88,-536 -361,-664 -224,-105 -813,-128 -1335,58 -616,219 -905,586 -732,659z"/>
+            </g>
+            <g>
+                <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0;0;0;0"/> 
+                <path class="Eyes-Cat6fil14" d="M9619 11353c142,61 626,-104 1234,-100 559,4 1034,180 1194,47 177,-146 -88,-536 -361,-664 -224,-105 -813,-128 -1335,58 -616,219 -905,586 -732,659z"/>
+            </g>
+        </g>
+    </g>  
+    <g>
+        <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0;0;-800 1200;0"/>
+        <g>
+            <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="rotate" values="0;0;0;-5;0"/>
+            <g>
+                <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0;0;-250 350;0"/> 
+                <path class="Eyes-Cat6fil155" d="M17745 11353c-142,61 -626,-104 -1234,-100 -559,4 -1034,180 -1194,47 -177,-146 88,-536 361,-664 224,-105 813,-128 1335,58 616,219 904,586 732,659z"/>
+            </g>
+            <g>
+                <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0;0;-250 350;0"/> 
+                <path class="Eyes-Cat6fil14" d="M17745 11353c-142,61 -626,-104 -1234,-100 -559,4 -1034,180 -1194,47 -177,-146 88,-536 361,-664 224,-105 813,-128 1335,58 616,219 904,586 732,659z"/>
+            </g>
+        </g>
+    </g>
+ </g><g id="HatWoodElf-Medium">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_78Corel-Layer"/>
+  <path class="HatWoodElf-Mediumfil14new" d="M13682 8558c-2812,590 -8135,5262 -6278,8288 235,-3860 5506,-4749 6278,-4749 772,0 6043,889 6278,4749 1857,-3026 -3466,-7698 -6278,-8288z" style="fill:#2e6ec2"/>
+  <path class="HatWoodElf-Mediumfil709new" d="M13682 6503c-2117,0 -3165,1355 -4490,2635 -1239,1197 -1873,2601 -2132,4262 -208,1334 -491,2525 370,3484 -936,-2063 645,-3919 2024,-4834 1641,-1088 3102,-2307 4228,-2375 1125,68 2587,1287 4228,2375 1379,915 2960,2771 2024,4834 861,-959 578,-2150 370,-3484 -259,-1661 -893,-3065 -2132,-4262 -1325,-1280 -2374,-2635 -4490,-2635z" style="fill:#b4c699"/>
+  <path class="HatWoodElf-Mediumfil1new HatWoodElf-Mediumstr1new" d="M6893 15793c-182,-1758 1036,-3431 2903,-4469 962,-535 2204,-1957 3778,-2020 -127,-474 -220,-759 -505,-986 287,-226 506,-565 613,-851" style="fill:#01a97f"/>
+  <path class="HatWoodElf-Mediumfil1new HatWoodElf-Mediumstr1new" d="M6819 15112c69,-1560 1146,-2876 2977,-3977 946,-569 2059,-1828 3538,-1987 -79,-333 -244,-646 -545,-847 424,-269 702,-743 893,-1126" style="fill:#b4acac"/>
+  <path class="HatWoodElf-Mediumfil14new" d="M8810 9536c-990,1107 -1520,2383 -1750,3864 -189,1212 -440,2305 161,3214 49,50 101,97 154,141 -650,-1603 200,-3071 1256,-4055 -1143,-250 -784,-1483 179,-3164z" style="fill:#a576cf"/>
+  <path class="HatWoodElf-Mediumfil283new" d="M11559 7353c2851,-1736 5382,633 5878,1679 350,738 -937,-411 -2127,-1362 -1082,-865 -2869,-788 -3751,-317z" style="fill:#e329a3"/>
+  <path class="HatWoodElf-Mediumfil14new" d="M18554 9536c990,1107 1519,2383 1750,3864 189,1212 440,2305 -161,3214 -50,50 -101,97 -154,141 650,-1603 -200,-3071 -1256,-4055 1143,-250 784,-1483 -179,-3164z" style="fill:#4de9c5"/>
+  <path class="HatWoodElf-Mediumfil1new HatWoodElf-Mediumstr1new" d="M20471 15793c182,-1758 -1036,-3431 -2903,-4469 -962,-535 -2204,-1957 -3778,-2020 127,-474 220,-759 505,-986 -287,-226 -506,-565 -613,-851" style="fill:#0d1ae2"/>
+  <path class="HatWoodElf-Mediumfil1new HatWoodElf-Mediumstr1new" d="M20545 15112c-69,-1560 -1146,-2876 -2977,-3977 -946,-569 -2059,-1828 -3538,-1987 79,-333 244,-646 545,-847 -424,-269 -702,-743 -893,-1126" style="fill:#d7fe70"/>
+  <path class="HatWoodElf-Mediumfil33new HatWoodElf-Mediumstr0new" d="M13682 6503c-2117,0 -3165,1355 -4490,2635 -1239,1197 -1873,2601 -2132,4262 -208,1334 -491,2525 370,3484 -936,-2063 645,-3919 2024,-4834 1641,-1088 3102,-2307 4228,-2375 1125,68 2587,1287 4228,2375 1379,915 2960,2771 2024,4834 861,-959 578,-2150 370,-3484 -259,-1661 -893,-3065 -2132,-4262 -1325,-1280 -2374,-2635 -4490,-2635z" style="fill:#39cb54"/>
+ </g><g id="Moustache-Cat0">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <rect class="Moustache-Cat0fil22" height="1459" width="1352" x="13006" y="11962"/>
+ </g><g id="Nose-Cat0">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_107Corel-Layer"/>
+  <path class="Nose-Cat0fil221 Nose-Cat0str0" d="M13682 13408c-194,0 -465,93 -444,231 19,127 197,330 444,330 247,0 425,-203 444,-330 21,-138 -250,-231 -444,-231z" style="fill:#82ff6d"/>
+ </g></svg>
