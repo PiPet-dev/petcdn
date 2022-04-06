@@ -1,0 +1,954 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd" version="1.1" viewBox="0 0 29000 29000" xml:space="preserve"><defs><style type="text/css">.HairBack-Hedgehog2fil6 {fill:url(#HairBack-Hedgehog2id26)}
+.HairBack-Hedgehog2fil7 {fill:#fffffd;fill-opacity:0.501961}
+.HairBack-Hedgehog2fil8 {fill:url(#HairBack-Hedgehog2id76)}
+.HairBack-Hedgehog2fil2 {fill:black;fill-opacity:0.301961}
+.HairBack-Hedgehog2fil4 {fill:none}
+.HairBack-Hedgehog2str0 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.Tail-Hedgehog2fil31 {fill:url(#Tail-Hedgehog2id34)}
+.Tail-Hedgehog2fil7 {fill:#fffffd;fill-opacity:0.501961}
+.Tail-Hedgehog2fil2 {fill:black;fill-opacity:0.301961}
+.Tail-Hedgehog2fil4 {fill:none}
+.Tail-Hedgehog2str0 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.RightFoot-Hedgehog4fil46 {fill:url(#RightFoot-Hedgehog4id40)}
+.RightFoot-Hedgehog4fil47 {fill:#b0958c;fill-opacity:0.200000}
+.RightFoot-Hedgehog4fil43 {fill:black}
+.RightFoot-Hedgehog4fil11 {fill:black;fill-opacity:0.200000}
+.RightFoot-Hedgehog4fil4 {fill:none}
+.RightFoot-Hedgehog4str0 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.RightLeg-Hedgehog4fil48 {fill:url(#RightLeg-Hedgehog4id47)}
+.RightLeg-Hedgehog4fil47 {fill:#b0958c;fill-opacity:0.200000}
+.RightLeg-Hedgehog4fil10 {fill:black;fill-rule:nonzero}
+.RightLeg-Hedgehog4fil11 {fill:black;fill-opacity:0.200000}
+.LeftFoot-Hedgehog4fil52 {fill:url(#LeftFoot-Hedgehog4id125)}
+.LeftFoot-Hedgehog4fil47 {fill:#b0958c;fill-opacity:0.200000}
+.LeftFoot-Hedgehog4fil11 {fill:black;fill-opacity:0.200000}
+.LeftFoot-Hedgehog4fil43 {fill:black}
+.LeftFoot-Hedgehog4fil4 {fill:none}
+.LeftFoot-Hedgehog4str0 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.LeftLeg-Hedgehog4fil53 {fill:url(#LeftLeg-Hedgehog4id5)}
+.LeftLeg-Hedgehog4fil47 {fill:#b0958c;fill-opacity:0.200000}
+.LeftLeg-Hedgehog4fil10 {fill:black;fill-rule:nonzero}
+.LeftLeg-Hedgehog4fil11 {fill:black;fill-opacity:0.200000}
+.RightPaw-Hedgehog0fil61 {fill:#fff9de}
+.RightPaw-Hedgehog0fil43 {fill:black}
+.RightPaw-Hedgehog0fil11 {fill:black;fill-opacity:0.200000}
+.RightPaw-Hedgehog0fil4 {fill:none}
+.RightPaw-Hedgehog0str0 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.Body-Hedgehog0fil67 {fill:url(#Body-Hedgehog0id9)}
+.Body-Hedgehog0fil11 {fill:black;fill-opacity:0.200000}
+.Body-Hedgehog0fil10 {fill:black;fill-rule:nonzero}
+.LeftPaw-Hedgehog0fil72 {fill:#fff9de}
+.LeftPaw-Hedgehog0fil11 {fill:black;fill-opacity:0.200000}
+.LeftPaw-Hedgehog0fil43 {fill:black}
+.LeftPaw-Hedgehog0fil4 {fill:none}
+.LeftPaw-Hedgehog0str0 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.Ears-Hedgehog8fil108 {fill:url(#Ears-Hedgehog8id165)}
+.Ears-Hedgehog8fil11 {fill:black;fill-opacity:0.200000}
+.Ears-Hedgehog8fil110 {fill:url(#Ears-Hedgehog8id166)}
+.Ears-Hedgehog8fil107 {fill:url(#Ears-Hedgehog8id168)}
+.Ears-Hedgehog8str1 {stroke:black;stroke-width:150}
+.Ears-Hedgehog8fil109 {fill:url(#Ears-Hedgehog8id169)}
+.Head-Hedgehog7fil111 {fill:url(#Head-Hedgehog7id4)}
+.Head-Hedgehog7fil118 {fill:#fffffd;fill-opacity:0.600000}
+.Head-Hedgehog7fil11 {fill:black;fill-opacity:0.200000}
+.Head-Hedgehog7fil10 {fill:black;fill-rule:nonzero}
+.Head-Hedgehog7fil119 {fill:url(#Head-Hedgehog7id70)}
+.Mouth-Hedgehog5fil43 {fill:black}
+.Mouth-Hedgehog5fil4 {fill:none}
+.Mouth-Hedgehog5str0 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.Eyes-Hedgehog3fil141 {fill:url(#Eyes-Hedgehog3id163)}
+.Eyes-Hedgehog3fil142 {fill:url(#Eyes-Hedgehog3id45)}
+.Eyes-Hedgehog3fil143 {fill:url(#Eyes-Hedgehog3id131)}
+.Eyes-Hedgehog3fil124 {fill:#b0958c}
+.Eyes-Hedgehog3fil11 {fill:black;fill-opacity:0.200000}
+.Eyes-Hedgehog3fil128 {fill:black;fill-opacity:0.501961}
+.Eyes-Hedgehog3fil121 {fill:white}
+.Eyes-Hedgehog3fil144 {fill:url(#Eyes-Hedgehog3id51)}
+.Eyes-Hedgehog3fil145 {fill:url(#Eyes-Hedgehog3id104)}
+.Eyes-Hedgehog3fil4 {fill:none}
+.Eyes-Hedgehog3str1 {stroke:black;stroke-width:150}
+.Moustache-Hedgehog0fil4 {fill:none}
+.Nose-Hedgehog0fil186 {fill:url(#Nose-Hedgehog0id133)}
+.Nose-Hedgehog0str0 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.Hair-Hedgehog2fil189 {fill:url(#Hair-Hedgehog2id7)}
+.Hair-Hedgehog2fil7 {fill:#fffffd;fill-opacity:0.501961}
+.Hair-Hedgehog2fil10 {fill:black;fill-rule:nonzero}
+.Hair-Hedgehog2fil2 {fill:black;fill-opacity:0.301961}
+.NecklaceSweaterDeer-Smallfil255 {fill:black;fill-opacity:0.501961}
+.NecklaceSweaterDeer-Smallfil365 {fill:#7EBF94;fill-opacity:0.501961}
+.NecklaceSweaterDeer-Smallfil368 {fill:url(#NecklaceSweaterDeer-Smallid51)}
+.NecklaceSweaterDeer-Smallfil90 {fill:black}
+.NecklaceSweaterDeer-Smallfil369 {fill:#7EBF94;fill-opacity:0.200000}
+.NecklaceSweaterDeer-Smallfil285 {fill:#FEFAFA}
+.NecklaceSweaterDeer-Smallfil370 {fill:#6B1F17}
+.NecklaceSweaterDeer-Smallfil371 {fill:#fffffd}
+.NecklaceSweaterDeer-Smallfil162 {fill:black;fill-opacity:0.200000}
+.NecklaceSweaterDeer-Smallfil372 {fill:black;fill-opacity:0.450980}
+.NecklaceSweaterDeer-Smallfil375 {fill:#F08683;fill-opacity:0.501961}
+.NecklaceSweaterDeer-Smallfil376 {fill:#F08683;fill-opacity:0.400000}
+.NecklaceSweaterDeer-Smallfil377 {fill:#F08683;fill-opacity:0.349020}
+.NecklaceSweaterDeer-Smallfil378 {fill:#F08683;fill-opacity:0.301961}
+.NecklaceSweaterDeer-Smallfil115 {fill:black;fill-opacity:0.301961}
+.NecklaceSweaterDeer-Smallfil363 {fill:url(#NecklaceSweaterDeer-Smallid119)}
+.NecklaceSweaterDeer-Smallstr0 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256}
+.NecklaceSweaterDeer-Smallfil364 {fill:none}
+.NecklaceSweaterDeer-Smallstr22 {stroke:black;stroke-width:75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256;stroke-opacity:0.501961}
+.NecklaceSweaterDeer-Smallfil366 {fill:url(#NecklaceSweaterDeer-Smallid131)}
+.NecklaceSweaterDeer-Smallfil367 {fill:url(#NecklaceSweaterDeer-Smallid154)}
+.NecklaceSweaterDeer-Smallfil69 {fill:none}
+.NecklaceSweaterDeer-Smallfil373 {fill:url(#NecklaceSweaterDeer-Smallid62)}
+.NecklaceSweaterDeer-Smallfil374 {fill:url(#NecklaceSweaterDeer-Smallid79)}
+.WeaponIcicleBack-Smallfil81 {fill:#A6EDFF;fill-opacity:0.149020}
+.WeaponIcicleBack-Smallfil82 {fill:#B7EEFF;fill-opacity:0.149020}
+.WeaponIcicleBack-Smallfil83 {fill:#C8F1FF;fill-opacity:0.149020}
+.WeaponIcicleBack-Smallfil84 {fill:#D9F4FF}
+.WeaponIcicleBack-Smallfil85 {fill:url(#WeaponIcicleBack-Smallid111)}
+.WeaponIcicleBack-Smallfil86 {fill:url(#WeaponIcicleBack-Smallid194)}
+.WeaponIcicleBack-Smallfil87 {fill:#0070CC;fill-opacity:0.450980}
+.WeaponIcicleBack-Smallfil88 {fill:#0050BF;fill-opacity:0.450980}
+.WeaponIcicleBack-Smallfil89 {fill:url(#WeaponIcicleBack-Smallid187);fill-opacity:0.800000}
+.WeaponIcicleBack-Smallfil90 {fill:url(#WeaponIcicleBack-Smallid189);fill-opacity:0.800000}
+.WeaponIcicleBack-Smallfil91 {fill:#D9F4FF;fill-opacity:0.800000}
+.WeaponIcicleBack-Smallfil92 {fill:#D4F6FF}
+.WeaponIcicleBack-Smallfil93 {fill:#D4F6FF;fill-opacity:0.501961}
+.WeaponIcicleBack-Smallfil94 {fill:#D4F6FF;fill-opacity:0.701961}
+.WeaponIcicleBack-Smallfil95 {fill:#0088C2;fill-opacity:0.301961}
+.WeaponIcicleBack-Smallfil96 {fill:#D9F4FF;fill-opacity:0.701961}
+.WeaponIcicleBack-Smallfil97 {fill:#267BBD;fill-opacity:0.450980}
+.WeaponIcicleBack-Smallfil98 {fill:#F0FDFF;fill-opacity:0.701961}
+.WeaponIcicleBack-Smallfil99 {fill:#005AA3;fill-opacity:0.450980}
+.WeaponIcicleBack-Smallfil80 {fill:none}
+.WeaponIcicleBack-Smallstr0 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256}
+.WeaponIcicleFront-Smallfil81 {fill:#A6EDFF;fill-opacity:0.149020}
+.WeaponIcicleFront-Smallfil82 {fill:#B7EEFF;fill-opacity:0.149020}
+.WeaponIcicleFront-Smallfil83 {fill:#C8F1FF;fill-opacity:0.149020}
+.WeaponIcicleFront-Smallfil84 {fill:#D9F4FF}
+.WeaponIcicleFront-Smallfil188 {fill:url(#WeaponIcicleFront-Smallid151)}
+.WeaponIcicleFront-Smallfil189 {fill:url(#WeaponIcicleFront-Smallid192)}
+.WeaponIcicleFront-Smallfil87 {fill:#0070CC;fill-opacity:0.450980}
+.WeaponIcicleFront-Smallfil91 {fill:#D9F4FF;fill-opacity:0.800000}
+.WeaponIcicleFront-Smallfil190 {fill:#D4F6FF;fill-opacity:0.568627}
+.WeaponIcicleFront-Smallfil94 {fill:#D4F6FF;fill-opacity:0.701961}
+.WeaponIcicleFront-Smallfil191 {fill:#D4F6FF;fill-opacity:0.850980}
+.WeaponIcicleFront-Smallfil95 {fill:#0088C2;fill-opacity:0.301961}
+.WeaponIcicleFront-Smallfil92 {fill:#D4F6FF}
+.WeaponIcicleFront-Smallfil80 {fill:none}
+.WeaponIcicleFront-Smallstr0 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256}
+.BraceleteMittens-Smallfil196 {fill:url(#BraceleteMittens-Smallid32)}
+.BraceleteMittens-Smallfil197 {fill:#D3E0F0}
+.BraceleteMittens-Smallfil199 {fill:black;fill-opacity:0.200000}
+.BraceleteMittens-Smallfil200 {fill:black;fill-opacity:0.321569}
+.BraceleteMittens-Smallfil201 {fill:#F8DFDD;fill-opacity:0.250980}
+.BraceleteMittens-Smallfil202 {fill:url(#BraceleteMittens-Smallid97)}
+.BraceleteMittens-Smallfil204 {fill:#F8DFDD;fill-opacity:0.101961}
+.BraceleteMittens-Smallfil80 {fill:none}
+.BraceleteMittens-Smallstr0 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256}
+.BraceleteMittens-Smallfil198 {fill:url(#BraceleteMittens-Smallid77)}
+.BraceleteMittens-Smallfil203 {fill:url(#BraceleteMittens-Smallid73)}
+.AccessorySockfil261 {fill:#006633}
+.AccessorySockfil262 {fill:url(#AccessorySockid11)}
+.AccessorySockfil263 {fill:#452300;fill-opacity:0.301961}
+.AccessorySockfil264 {fill:#F7EDED;fill-rule:nonzero}
+.AccessorySockfil265 {fill:#CC1400;fill-rule:nonzero}
+.AccessorySockfil266 {fill:#F7F2F2;fill-opacity:0.701961}
+.AccessorySockfil267 {fill:#F7F2F2;fill-opacity:0.549020}
+.AccessorySockfil268 {fill:snow;fill-opacity:0.800000}
+.AccessorySockfil269 {fill:#260606;fill-rule:nonzero;fill-opacity:0.450980}
+.AccessorySockfil270 {fill:#B0CB1F;fill-rule:nonzero}
+.AccessorySockfil271 {fill:#8A8AFF;fill-rule:nonzero}
+.AccessorySockfil273 {fill:#360059;fill-opacity:0.301961}
+.AccessorySockfil274 {fill:black}
+.AccessorySockfil272 {fill:#990099}
+.AccessorySockfil277 {fill:url(#AccessorySockid48)}
+.AccessorySockfil278 {fill:url(#AccessorySockid58)}
+.AccessorySockfil279 {fill:#FFE8FF;fill-opacity:0.400000}
+.AccessorySockfil280 {fill:#664c00;fill-opacity:0.400000}
+.AccessorySockfil281 {fill:#FFE8FF;fill-opacity:0.301961}
+.AccessorySockfil282 {fill:#CC1400}
+.AccessorySockfil284 {fill:snow}
+.AccessorySockfil285 {fill:#CCFF66;fill-opacity:0.211765}
+.AccessorySockfil286 {fill:#CCFF66;fill-opacity:0.250980}
+.AccessorySockfil288 {fill:snow;fill-opacity:0.149020}
+.AccessorySockfil289 {fill:snow;fill-opacity:0.101961}
+.AccessorySockfil275 {fill:black;fill-opacity:0.301961}
+.AccessorySockfil290 {fill:#057A07}
+.AccessorySockfil227 {fill:#B0CB1F;fill-opacity:0.200000}
+.AccessorySockfil228 {fill:#B0CB1F;fill-opacity:0.301961}
+.AccessorySockfil291 {fill:#CCFF66;fill-opacity:0.200000}
+.AccessorySockfil292 {fill:black;fill-opacity:0.501961}
+.AccessorySockfil231 {fill:black;fill-opacity:0.400000}
+.AccessorySockfil293 {fill:url(#AccessorySockid169)}
+.AccessorySockfil294 {fill:url(#AccessorySockid170)}
+.AccessorySockfil295 {fill:url(#AccessorySockid171)}
+.AccessorySockfil297 {fill:#f2f2e4;fill-opacity:0.568627}
+.AccessorySockfil258 {fill:url(#AccessorySockid10)}
+.AccessorySockstr1 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256}
+.AccessorySockfil259 {fill:url(#AccessorySockid18)}
+.AccessorySockfil260 {fill:#002B16}
+.AccessorySockfil80 {fill:none}
+.AccessorySockstr0 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256}
+.AccessorySockfil108 {fill:none;fill-rule:nonzero}
+.AccessorySockstr14 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256;stroke-opacity:0.301961}
+.AccessorySockfil276 {fill:url(#AccessorySockid50)}
+.AccessorySockstr3 {stroke:black;stroke-width:200;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256}
+.AccessorySockstr15 {stroke:#CC6633;stroke-width:200;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256}
+.AccessorySockfil283 {fill:black;fill-opacity:0.200000}
+.AccessorySockstr16 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256;stroke-opacity:0.200000}
+.AccessorySockfil287 {fill:url(#AccessorySockid13)}
+.AccessorySockstr17 {stroke:black;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256;stroke-opacity:0.200000}
+.AccessorySockfil230 {fill:none}
+.AccessorySockstr8 {stroke:black;stroke-width:200;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256;stroke-opacity:0.400000}
+.AccessorySockstr9 {stroke:black;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256;stroke-opacity:0.400000}
+.AccessorySockstr10 {stroke:black;stroke-width:200;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256}
+.AccessorySockfil235 {fill:black}
+.AccessorySockstr11 {stroke:black;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256}
+.AccessorySockfil296 {fill:url(#AccessorySockid31)}
+.HatEarMuffs-Smallfil298 {fill:url(#HatEarMuffs-Smallid134)}
+.HatEarMuffs-Smallfil299 {fill:black;fill-opacity:0.050980}
+.HatEarMuffs-Smallfil300 {fill:black;fill-opacity:0.101961}
+.HatEarMuffs-Smallfil301 {fill:url(#HatEarMuffs-Smallid197)}
+.HatEarMuffs-Smallfil302 {fill:url(#HatEarMuffs-Smallid153)}
+.HatEarMuffs-Smallfil292 {fill:black;fill-opacity:0.501961}
+.HatEarMuffs-Smallfil303 {fill:#ffffff;fill-opacity:0.200000}
+.HatEarMuffs-Smallfil304 {fill:url(#HatEarMuffs-Smallid85)}
+.HatEarMuffs-Smallfil305 {fill:snow;fill-opacity:0.600000}
+.HatEarMuffs-Smallfil306 {fill:url(#HatEarMuffs-Smallid72)}
+.HatEarMuffs-Smallfil80 {fill:none}
+.HatEarMuffs-Smallstr0 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256}
+.HatEarMuffs-Smallfil275 {fill:black;fill-opacity:0.301961}
+.HatEarMuffs-Smallstr18 {stroke:black;stroke-width:7.62;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256;stroke-opacity:0.301961}
+</style><linearGradient gradientUnits="userSpaceOnUse" id="HairBack-Hedgehog2id26" x1="21592" x2="15642" y1="16347.6" y2="16618">
+   <stop offset="0" style="stop-opacity:1; stop-color:#6e573b"/>
+   <stop offset="0.501961" style="stop-opacity:1; stop-color:#d6c6c1"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#b0958c"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="HairBack-Hedgehog2id76" x1="5771.84" x2="11721.8" xlink:href="#HairBack-Hedgehog2id26" y1="16347.6" y2="16618">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Tail-Hedgehog2id34" x1="13681.9" x2="13681.9" y1="18011.3" y2="24488.9">
+   <stop offset="0" style="stop-opacity:1; stop-color:#b0958c"/>
+   <stop offset="0.270588" style="stop-opacity:1; stop-color:#d6c6c1"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#6e573b"/>
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="RightFoot-Hedgehog4id40" x1="55.9477%" x2="44.0527%" y1="103.33%" y2="0%">
+   <stop offset="0" style="stop-opacity:1; stop-color:#fffffd"/>
+   <stop offset="0.631373" style="stop-opacity:1; stop-color:#ffffff"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#ffffff"/>
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="RightLeg-Hedgehog4id47" x1="50%" x2="50%" xlink:href="#RightLeg-Hedgehog4id5" y1="100%" y2="0.000329714%">
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="LeftFoot-Hedgehog4id125" x1="44.0299%" x2="55.9701%" xlink:href="#LeftFoot-Hedgehog4id40" y1="103.274%" y2="0%">
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="LeftLeg-Hedgehog4id5" x1="50%" x2="50%" y1="100%" y2="0.000329714%">
+   <stop offset="0" style="stop-opacity:1; stop-color:#ffffff"/>
+   <stop offset="0.211765" style="stop-opacity:1; stop-color:#ffffff"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#fff9de"/>
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="Body-Hedgehog0id9" x1="50%" x2="50%" y1="0%" y2="100%">
+   <stop offset="0" style="stop-opacity:1; stop-color:#d9d2b2"/>
+   <stop offset="0.101961" style="stop-opacity:1; stop-color:#d9d2b2"/>
+   <stop offset="0.34902" style="stop-opacity:1; stop-color:#fff9de"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#ffffff"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Ears-Hedgehog8id165" x1="6765.77" x2="9243.47" xlink:href="#Ears-Hedgehog8id24" y1="11170.9" y2="12823.3">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Ears-Hedgehog8id166" x1="20598.1" x2="18120.4" xlink:href="#Ears-Hedgehog8id24" y1="11170.9" y2="12823.3">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Ears-Hedgehog8id168" x1="6204.42" x2="9422.5" xlink:href="#Ears-Hedgehog8id19" y1="11108.6" y2="12705.4">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Ears-Hedgehog8id169" x1="21159.4" x2="17941.4" xlink:href="#Ears-Hedgehog8id19" y1="11108.6" y2="12705.4">
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="Head-Hedgehog7id4" x1="50%" x2="50%" y1="99.9999%" y2="0%">
+   <stop offset="0" style="stop-opacity:1; stop-color:#d9d2b2"/>
+   <stop offset="0.25098" style="stop-opacity:1; stop-color:#fff9de"/>
+   <stop offset="0.760784" style="stop-opacity:1; stop-color:#ffffff"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#ffffff"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Head-Hedgehog7id70" x1="13681.9" x2="13681.9" xlink:href="#Head-Hedgehog7id50" y1="16772.7" y2="12620.2">
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="Eyes-Hedgehog3id163" x1="62.1819%" x2="37.8184%" xlink:href="#Eyes-Hedgehog3id0" y1="96.6194%" y2="3.38059%">
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="Eyes-Hedgehog3id45" x1="0%" x2="100%" xlink:href="#Eyes-Hedgehog3id43" y1="50%" y2="50%">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Eyes-Hedgehog3id131" x1="10954.5" x2="10954.5" xlink:href="#Eyes-Hedgehog3id75" y1="13473.2" y2="16074.8">
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="Eyes-Hedgehog3id51" x1="50.0002%" x2="50.0002%" xlink:href="#Eyes-Hedgehog3id0" y1="100%" y2="0%">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Eyes-Hedgehog3id104" x1="16409.3" x2="16409.3" xlink:href="#Eyes-Hedgehog3id75" y1="13473.2" y2="16074.8">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Nose-Hedgehog0id133" x1="13681.9" x2="13681.9" y1="16404" y2="17128.6">
+   <stop offset="0" style="stop-opacity:1; stop-color:#FFCCCC"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#B37173"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Hair-Hedgehog2id7" x1="13681.9" x2="13681.9" y1="6201.88" y2="11406.7">
+   <stop offset="0" style="stop-opacity:1; stop-color:#b0958c"/>
+   <stop offset="0.54902" style="stop-opacity:1; stop-color:#d6c6c1"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#6e573b"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceSweaterDeer-Smallid51" x1="12122.17" x2="15182.12" xlink:href="#NecklaceSweaterDeer-Smallid19" y1="23356.97" y2="18439.64">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceSweaterDeer-Smallid119" x1="13057.84" x2="14488.91" y1="21865.13" y2="23892.06">
+   <stop offset="0" style="stop-opacity:1; stop-color:#274534"/>
+   <stop offset="0.196078" style="stop-opacity:1; stop-color:#2E6A52"/>
+   <stop offset="0.521569" style="stop-opacity:1; stop-color:#1E6647"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#358F71"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceSweaterDeer-Smallid131" x1="17236.26" x2="18083.66" xlink:href="#NecklaceSweaterDeer-Smallid119" y1="21676.9" y2="20832.77">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceSweaterDeer-Smallid154" x1="9415.43" x2="10289.87" xlink:href="#NecklaceSweaterDeer-Smallid119" y1="21663.5" y2="20818.88">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceSweaterDeer-Smallid62" x1="10154.34" x2="17153.56" xlink:href="#NecklaceSweaterDeer-Smallid0" y1="19298.09" y2="19298.09">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceSweaterDeer-Smallid79" x1="14107.69" x2="16253.06" xlink:href="#NecklaceSweaterDeer-Smallid0" y1="20204.49" y2="20204.49">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="WeaponIcicleBack-Smallid111" x1="6389.12" x2="13211.93" y1="22242.95" y2="22229.92">
+   <stop offset="0" style="stop-opacity:1; stop-color:#3FB5FA"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:white"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="WeaponIcicleBack-Smallid194" x1="6385.25" x2="13161.93" xlink:href="#WeaponIcicleBack-Smallid191" y1="22242.17" y2="22229.22">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="WeaponIcicleBack-Smallid187" x1="7057.07" x2="7650.36" xlink:href="#WeaponIcicleBack-Smallid186" y1="21173.69" y2="21172.56">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="WeaponIcicleBack-Smallid189" x1="9241.23" x2="9698" xlink:href="#WeaponIcicleBack-Smallid186" y1="22220.72" y2="22469.22">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="WeaponIcicleFront-Smallid151" x1="6393.33" x2="13211.94" xlink:href="#WeaponIcicleFront-Smallid111" y1="22242.94" y2="22229.93">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="WeaponIcicleFront-Smallid192" x1="6385.25" x2="13161.93" xlink:href="#WeaponIcicleFront-Smallid191" y1="22242.17" y2="22229.22">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceleteMittens-Smallid32" x1="17067.24" x2="18781.91" xlink:href="#BraceleteMittens-Smallid0" y1="21704.89" y2="21704.89">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceleteMittens-Smallid97" x1="8509.62" x2="10220.11" xlink:href="#BraceleteMittens-Smallid0" y1="21614.91" y2="21734.62">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceleteMittens-Smallid77" x1="18216.55" x2="17026.9" xlink:href="#BraceleteMittens-Smallid0" y1="20897.04" y2="21669.35">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceleteMittens-Smallid73" x1="9129.99" x2="10262.83" xlink:href="#BraceleteMittens-Smallid0" y1="20848.5" y2="21701.98">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessorySockid11" x1="23101.21" x2="24268.77" y1="5062.32" y2="5062.32">
+   <stop offset="0" style="stop-opacity:1; stop-color:#002B16"/>
+   <stop offset="0.580392" style="stop-opacity:1; stop-color:#004824"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#006633"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessorySockid48" x1="25752.67" x2="26886.75" xlink:href="#AccessorySockid13" y1="7936.97" y2="7769.88">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessorySockid58" x1="25929.93" x2="26697.48" xlink:href="#AccessorySockid13" y1="7869.22" y2="7756.13">
+  </linearGradient><radialGradient cx="23426.16" cy="5813.67" fx="23426.16" fy="5813.67" gradientTransform="matrix(0.809897 -1.28753 1.39484 0.747608 -3656 31629)" gradientUnits="userSpaceOnUse" id="AccessorySockid169" r="229.66">
+   <stop offset="0" style="stop-opacity:1; stop-color:#ED8E8E"/>
+   <stop offset="0.180392" style="stop-opacity:1; stop-color:#DE4949"/>
+   <stop offset="0.34902" style="stop-opacity:1; stop-color:#C73232"/>
+   <stop offset="0.6" style="stop-opacity:1; stop-color:#990000"/>
+   <stop offset="0.870588" style="stop-opacity:1; stop-color:#590B0B"/>
+   <stop offset="0.960784" style="stop-opacity:1; stop-color:#4A0C0C"/>
+   <stop offset="0.0392157" style="stop-opacity:1; stop-color:#9A4848"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#470202"/>
+  </radialGradient><radialGradient cx="23278" cy="6547.33" fx="23278" fy="6547.33" gradientTransform="matrix(0.809918 -1.28756 1.39489 0.747634 -4708 31624)" gradientUnits="userSpaceOnUse" id="AccessorySockid170" r="150.91" xlink:href="#AccessorySockid169">
+  </radialGradient><radialGradient cx="23944.75" cy="6325.74" fx="23944.75" fy="6325.74" gradientTransform="matrix(0.809899 -1.28753 1.39485 0.747612 -4272 32426)" gradientUnits="userSpaceOnUse" id="AccessorySockid171" r="196.85" xlink:href="#AccessorySockid169">
+  </radialGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessorySockid10" x1="22431.21" x2="24332.69" y1="3455.95" y2="3455.95">
+   <stop offset="0" style="stop-opacity:1; stop-color:#553F1C"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#CCC6AF"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessorySockid18" x1="23083.23" x2="23665.31" xlink:href="#AccessorySockid10" y1="2922.83" y2="2922.83">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessorySockid50" x1="26182.58" x2="26579.3" xlink:href="#AccessorySockid13" y1="8031.25" y2="7972.8">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessorySockid31" x1="23242.22" x2="24464.03" xlink:href="#AccessorySockid10" y1="4201.48" y2="4201.48">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="HatEarMuffs-Smallid134" x1="12810.53" x2="14368.94" xlink:href="#HatEarMuffs-Smallid115" y1="11905.93" y2="8026.32">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="HatEarMuffs-Smallid197" x1="10774.03" x2="11161.01" xlink:href="#HatEarMuffs-Smallid196" y1="10388.69" y2="9072.34">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="HatEarMuffs-Smallid153" x1="13741.23" x2="15278.24" xlink:href="#HatEarMuffs-Smallid103" y1="9754.98" y2="8849.29">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="HatEarMuffs-Smallid85" x1="4487.2" x2="10278.23" y1="14456.52" y2="9570.4">
+   <stop offset="0" style="stop-opacity:1; stop-color:#ADA6A1"/>
+   <stop offset="0.141176" style="stop-opacity:1; stop-color:#59514A"/>
+   <stop offset="0.329412" style="stop-opacity:1; stop-color:#A39589"/>
+   <stop offset="0.65098" style="stop-opacity:1; stop-color:#DBD4CE"/>
+   <stop offset="0.819608" style="stop-opacity:1; stop-color:#F2EDED"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#F2F0ED"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="HatEarMuffs-Smallid72" x1="17288.81" x2="23079.84" y1="14456.52" y2="9570.4">
+   <stop offset="0" style="stop-opacity:1; stop-color:#ADA6A1"/>
+   <stop offset="0.141176" style="stop-opacity:1; stop-color:#59514A"/>
+   <stop offset="0.329412" style="stop-opacity:1; stop-color:#A39589"/>
+   <stop offset="0.65098" style="stop-opacity:1; stop-color:#DBD4CE"/>
+   <stop offset="0.819608" style="stop-opacity:1; stop-color:#F0EDED"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#F2F0ED"/>
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="RightLeg-Hedgehog4id5" x1="50%" x2="50%" y1="100%" y2="0.000329714%">
+   <stop offset="0" style="stop-opacity:1; stop-color:#ffffff"/>
+   <stop offset="0.211765" style="stop-opacity:1; stop-color:#ffffff"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#fff9de"/>
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="LeftFoot-Hedgehog4id40" x1="55.9477%" x2="44.0527%" y1="103.33%" y2="0%">
+   <stop offset="0" style="stop-opacity:1; stop-color:#fffffd"/>
+   <stop offset="0.631373" style="stop-opacity:1; stop-color:#ffffff"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#ffffff"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Ears-Hedgehog8id24" x1="8144.15" x2="9871.83" y1="11080" y2="12905.1">
+   <stop offset="0" style="stop-opacity:1; stop-color:#F2E6E6"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#B58383"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Ears-Hedgehog8id19" x1="7036.34" x2="11425" y1="22075" y2="13053.8">
+   <stop offset="0" style="stop-opacity:1; stop-color:#b0958c"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#d9d2b2"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Head-Hedgehog7id50" x1="13681.9" x2="13681.9" y1="18718" y2="12620.2">
+   <stop offset="0" style="stop-opacity:1; stop-color:#b0958c"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#d6c6c1"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Eyes-Hedgehog3id0" x1="10654.3" x2="10654.3" y1="16581.4" y2="13705.6">
+   <stop offset="0" style="stop-opacity:1; stop-color:#806000"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:black"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Eyes-Hedgehog3id43" x1="9336.13" x2="12327.3" y1="15064.6" y2="15064.6">
+   <stop offset="0" style="stop-opacity:1; stop-color:#806000"/>
+   <stop offset="0.501961" style="stop-opacity:1; stop-color:#ffc419"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#806000"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Eyes-Hedgehog3id75" x1="16987" x2="16987" y1="13705.8" y2="15976.6">
+   <stop offset="0" style="stop-opacity:1; stop-color:black"/>
+   <stop offset="0.4" style="stop-opacity:1; stop-color:black"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#664c00"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceSweaterDeer-Smallid19" x1="11968.45" x2="15358.73" y1="22944.18" y2="17282.57">
+   <stop offset="0" style="stop-opacity:1; stop-color:#274534"/>
+   <stop offset="0.207843" style="stop-opacity:1; stop-color:#2E6A52"/>
+   <stop offset="0.54902" style="stop-opacity:1; stop-color:#1E6647"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#358F71"/>
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="NecklaceSweaterDeer-Smallid0" x1="0%" x2="100%" y1="50%" y2="50%">
+   <stop offset="0" style="stop-opacity:1; stop-color:#63231B"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#D22424"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="WeaponIcicleBack-Smallid191" x1="5700.05" x2="12476.73" y1="21775.11" y2="21762.16">
+   <stop offset="0" style="stop-opacity:1; stop-color:#2197FF"/>
+   <stop offset="0.509804" style="stop-opacity:1; stop-color:#78D4FF"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#80DDFF"/>
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="WeaponIcicleBack-Smallid186" x1="0%" x2="100.128%" y1="50.1229%" y2="49.9802%">
+   <stop offset="0" style="stop-opacity:1; stop-color:#BAF1FF"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#A8F6FF"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="WeaponIcicleFront-Smallid111" x1="6389.12" x2="13211.93" y1="22242.95" y2="22229.92">
+   <stop offset="0" style="stop-opacity:1; stop-color:#3FB5FA"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:white"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="WeaponIcicleFront-Smallid191" x1="5700.05" x2="12476.73" y1="21775.11" y2="21762.16">
+   <stop offset="0" style="stop-opacity:1; stop-color:#2197FF"/>
+   <stop offset="0.509804" style="stop-opacity:1; stop-color:#78D4FF"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#80DDFF"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceleteMittens-Smallid0" x1="14210.32" x2="16587.29" y1="19112.42" y2="19112.42">
+   <stop offset="0" style="stop-opacity:1; stop-color:#63231B"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#D22424"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessorySockid13" x1="22470.97" x2="27631" y1="8405.53" y2="8405.53">
+   <stop offset="0" style="stop-opacity:1; stop-color:#FFD11B"/>
+   <stop offset="0.101961" style="stop-opacity:1; stop-color:#FFD631"/>
+   <stop offset="0.258824" style="stop-opacity:1; stop-color:#FFFCF0"/>
+   <stop offset="0.411765" style="stop-opacity:1; stop-color:#FFE477"/>
+   <stop offset="0.6" style="stop-opacity:1; stop-color:#FFA526"/>
+   <stop offset="0.729412" style="stop-opacity:1; stop-color:#FFB854"/>
+   <stop offset="0.878431" style="stop-opacity:1; stop-color:#FFCB70"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#F0A400"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="HatEarMuffs-Smallid115" x1="12823.84" x2="14237.25" y1="9536.39" y2="5914.24">
+   <stop offset="0" style="stop-opacity:1; stop-color:#750000"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#E01A00"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="HatEarMuffs-Smallid196" x1="10967.24" x2="11337.41" y1="8116.93" y2="6893.75">
+   <stop offset="0" style="stop-opacity:1; stop-color:black"/>
+   <stop offset="0.74902" style="stop-opacity:1; stop-color:#AD0E00"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#AC0D00"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="HatEarMuffs-Smallid103" x1="13668.23" x2="15158.97" y1="7195.33" y2="6291.07">
+   <stop offset="0" style="stop-opacity:1; stop-color:#BE1200"/>
+   <stop offset="0.247059" style="stop-opacity:1; stop-color:#C71400"/>
+   <stop offset="0.290196" style="stop-opacity:1; stop-color:#C52F1F"/>
+   <stop offset="0.478431" style="stop-opacity:1; stop-color:#EF8A7D"/>
+   <stop offset="0.54902" style="stop-opacity:1; stop-color:#E34935"/>
+   <stop offset="0.65098" style="stop-opacity:1; stop-color:#FF998C"/>
+   <stop offset="0.831373" style="stop-opacity:1; stop-color:#DF321C"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#D01600"/>
+  </linearGradient></defs><g id="AccessorySock">
+     <metadata id="CorelCorpID_17Corel-Layer"/>
+  <g>
+   <g>
+    <path class="AccessorySockfil258 AccessorySockstr1" d="M22625.78 2270.9c534.89,-18.59 912.94,-8.96 1398.08,-17.03 328.57,-5.47 374.84,30.19 233.21,339.07l-522.96 1107.25 0 958.33 -719.67 0 0 -958.33c-202.33,-409.06 -365.31,-774.83 -556.8,-1205.92 -41.84,-128.65 -63.07,-234.1 168.14,-223.37z" style="fill:#f1062e"/>
+    <circle class="AccessorySockfil259 AccessorySockstr1" cx="23374.27" cy="2922.83" r="291.04"/>
+   </g>
+   <path class="AccessorySockfil260 AccessorySockstr1" d="M25892.02 6987.4c1337.64,741.86 2462.34,1520.91 2290.12,1831.43 -172.22,310.52 -1576.13,34.93 -2913.77,-706.93 -1337.64,-741.86 -2123.67,-1891.34 -1951.45,-2201.86 172.22,-310.52 1237.46,335.5 2575.1,1077.36z" style="fill:#22081b"/>
+   <path class="AccessorySockfil261" d="M23510.48 5503.19c207.8,-290.25 409.23,-750.71 -157.7,-992.27 -379.57,-161.73 -62.86,554.43 157.7,992.27zm37.62 -1451.25c1567.62,667.95 89.97,2066.73 85.78,2070.76l-0.08 -0.08c-15.16,14.57 -32.43,27.46 -51.68,38.16 -120.27,66.87 -271.99,23.59 -338.86,-96.68 -4.49,-8.06 -1591.07,-2819.99 304.84,-2012.16z" style="fill:#420779"/>
+   <path class="AccessorySockfil262" d="M23677.24 5200.95c85,-228.9 72.25,-478.84 -237.58,-648.05 -99.49,-47.99 -244.37,-126.95 -262,15.16 -6.8,-39.75 -174.32,-537.67 9.16,-635.65 122.67,27.94 188.03,45.71 361.28,119.53 1567.62,667.95 89.97,2066.73 85.78,2070.76l-0.08 -0.08c-15.16,14.57 -32.43,27.46 -51.68,38.16 -112.83,62.73 -253.35,28.51 -325.51,-75.26 107.24,-133.18 357.34,-228.67 256.16,-579.54 75.31,-124.2 115.5,-167.49 164.47,-305.03z" style="fill:#74cfc7"/>
+   <path class="AccessorySockfil80 AccessorySockstr0" d="M23510.48 5503.19c207.8,-290.25 409.23,-750.71 -157.7,-992.27 -255.07,-108.68 -195.71,179.08 -62.4,512.4 65.06,162.7 147.75,336.26 220.1,479.87zm37.62 -1451.25c1567.62,667.95 89.97,2066.73 85.78,2070.76l-0.08 -0.08c-15.16,14.57 -32.43,27.46 -51.68,38.16 -120.27,66.87 -271.99,23.59 -338.86,-96.68 -4.49,-8.06 -1591.07,-2819.99 304.84,-2012.16z" style="fill:#aaf6d9"/>
+   <path class="AccessorySockfil263" d="M23357.74 2334.94l-664.79 9.23c-208.72,-7.82 -224.95,-13.08 -122.36,209.28l518.59 1125.56 3.77 158.59 121.9 -232.66c-590.29,-761.68 -452.17,-1129.21 142.89,-1270z" style="fill:#d0b0c5"/>
+   <g>
+    <path class="AccessorySockfil263" d="M23464.22 2294.85c0,0 -525.88,1650.27 269.89,1709.07l0 -303.73 522.96 -1107.25c13.67,-29.82 25.58,-57.06 35.66,-82 -16.11,-113.35 -32.64,-200.38 -41.31,-243.23 -49.21,-12.94 -121.78,-15.41 -220.29,-13.95l-566.91 41.09z" style="fill:#7d80dd"/>
+    <path class="AccessorySockfil264" d="M23428.9 3038.51c19.44,274.41 257.66,481.12 532.08,461.69 274.41,-19.44 481.12,-257.67 461.68,-532.08 -0.26,-3.65 -104,-1263.23 1250.58,-843.62 2067.23,1262.25 -2559.06,7626.6 -2572.38,7645.04 -161.45,222.53 -111.92,533.82 110.62,695.27 222.53,161.45 533.82,111.92 695.27,-110.62 1048.67,-1451.6 5101.71,-7626.05 2138.27,-9156.69 -2843.97,-949.57 -2616.68,1833.05 -2616.12,1841.01z" style="fill:#679e0c"/>
+    <path class="AccessorySockfil265" d="M23428.9 3038.51c19.44,274.41 257.66,481.12 532.08,461.69 274.41,-19.44 481.12,-257.67 461.68,-532.08 -0.06,-0.89 -6.29,-77.24 4.18,-185.71 -266.57,-167.98 -654.76,-328.89 -951,-439.95 -72.53,380.09 -47.12,693.39 -46.94,696.05zm1118.94 -664.89c42.56,-74.29 99.17,-143.7 174.25,-199.88 -110.64,-304.29 -349.43,-695.65 -534.96,-976.8 -277.48,163.31 -455.21,410.11 -568.34,670.57 405.34,108.01 717.57,320.09 929.05,506.11zm526.19 -329.34c30.88,-3.18 256.28,-26.54 290.12,-26.77 146.24,-283.36 123.07,-612.85 229.44,-940.08 -346.37,-72.27 -672.62,-93.06 -916.09,-53.05 259.75,371.27 358.86,762.65 396.53,1019.9zm605.5 103.19c70.55,49.46 251.8,215.16 305.47,277.28 251.57,-212.44 500.99,-471.78 713.97,-692.46 -121.59,-141.78 -350,-378.64 -525.65,-485.82 -117.19,363.51 -325.66,673.33 -493.79,901zm497.94 769.44c32.67,189.61 34.78,400.11 11.8,626.17 301.6,-149.81 633.65,-359.75 921.34,-556.04 -10.57,-236.21 -45.67,-459.82 -109.47,-667.09 -272.03,269.45 -564.9,461.92 -823.67,596.96zm-101.34 1245.64c-69.18,274.29 -163.78,562.03 -276.36,856.14 378.84,-96.92 773.98,-231.22 1070.1,-339.48 78.92,-277.89 141.15,-551.16 183.32,-816.24 -378.28,179.12 -733.18,261.6 -977.06,299.58zm-557.47 1525.73c-180.97,398.76 -384.88,799.5 -595.84,1185.96 425.52,-92.38 902.94,-251.24 1254.05,-378.64 144.09,-311.01 279.31,-627.19 399.96,-943.17 -391.99,115.47 -761.73,142.87 -1058.17,135.85zm-935 1786.41c-213.12,365.62 -424.42,708.23 -617.95,1011.58 495.8,-69.83 1016.7,-193.47 1310.47,-268.58 148.54,-257.2 299.76,-528.94 448.53,-810.94 -450.63,102.94 -858.66,96.45 -1141.05,67.94zm-1035.18 1648.74c-267.93,398.76 -445.04,642.53 -447.62,646.11 -100.04,137.87 -119.05,309.83 -66.13,459.1 399.72,-56.57 815.11,-147.87 1114.33,-220.34 150.73,-220.14 361.06,-535.34 601.28,-918.09 -455.77,96.63 -876.9,80.34 -1201.86,33.22z" style="fill:#607506"/>
+    <path class="AccessorySockfil108 AccessorySockstr0" d="M23428.9 3038.51c19.44,274.41 257.66,481.12 532.08,461.69 274.41,-19.44 481.12,-257.67 461.68,-532.08 -0.26,-3.65 -104,-1263.23 1250.58,-843.62 2067.23,1262.25 -2559.06,7626.6 -2572.38,7645.04 -161.45,222.53 -111.92,533.82 110.62,695.27 222.53,161.45 533.82,111.92 695.27,-110.62 1040.21,-1391.5 5166.44,-7675.97 2138.27,-9156.69 -2843.97,-949.57 -2616.68,1833.05 -2616.12,1841.01z" style="fill:#2f9f9d"/>
+    <path class="AccessorySockfil266" d="M26891.06 3685.48c-39.95,-2223.41 -1746.59,-2234.38 -1735.17,-2473.93 276.45,-97.8 2257.03,351.16 1735.17,2473.93z" style="fill:#276d07"/>
+    <path class="AccessorySockfil266" d="M26875.34 3781.51l-744.73 2244.33c0,0 892.38,-1568.2 744.73,-2244.33z" style="fill:#327255"/>
+    <path class="AccessorySockfil267" d="M24356.85 1263.38c-646.27,402.2 -762.32,1055.97 -623.33,1081.2 302.72,-830.67 450.78,-920.21 623.33,-1081.2z" style="fill:#e156f4"/>
+    <path class="AccessorySockfil268" d="M26424.11 1762.35c-113.27,-107.49 -317.85,-210.3 -370.52,-189.32 -52.68,20.97 142.2,125.8 259.65,254.47 132.95,145.65 245.48,264.36 357.04,442.24 100.23,171.04 177.22,343.2 212.91,451.83 -13.51,-174.08 -94.12,-405.11 -160.57,-527.71 -69.01,-127.32 -196.78,-331.04 -298.51,-431.51z" style="fill:#f29f1e"/>
+    <path class="AccessorySockfil269" d="M23898.12 3039.09c3.71,322.59 -261.6,318.91 -395.92,198.41 -3.17,151.51 396.22,267.13 458.78,262.7 274.41,-19.44 481.12,-257.67 461.68,-532.08 -0.26,-3.65 -104,-1263.23 1250.58,-843.62 2067.23,1262.25 -2559.06,7626.6 -2572.38,7645.04 -161.45,222.53 -118.6,388.68 54.28,598.9 101.1,73.34 51.45,140.05 166.8,129.88 3051.42,-4337.18 3650.58,-6649.49 3155.9,-7884.79 -572.56,-1429.77 -2433.54,-1297.94 -2579.72,425.56z" style="fill:#e3fe13"/>
+   </g>
+   <g>
+    <path class="AccessorySockfil264" d="M28498.46 4690.77c-1850.63,1221.32 -3543.95,6359.58 -3549.9,6377.47 -86.29,261.04 -367.87,402.7 -628.91,316.41 -261.04,-86.29 -402.7,-367.87 -316.41,-628.91 417.8,-1255.43 1970.07,-5347.53 3951.62,-6790.08 237.87,76.12 447.45,281.77 543.6,725.11z" style="fill:#5c90f5"/>
+    <path class="AccessorySockfil270" d="M28498.51 4690.98c-100.83,66.58 -201.19,144.78 -300.85,233.12 -44.83,-272.73 -68.76,-585.75 -80.74,-881.71 168.21,109.33 308.07,309.42 381.59,648.59zm-737.52 686.85c-182.19,216.39 -360.46,461.27 -533.39,724.46 -142.66,-364.09 -264.51,-763.24 -349.64,-1066.82 179.43,-226.4 364.86,-436.55 555.36,-625.64 75.62,411.65 216.02,747.88 327.67,968zm-912.6 1343.79c-217.91,379.84 -424.02,779.45 -614.43,1176.44 -173.62,-399.32 -323.6,-879.6 -425.32,-1238.99 168.23,-298.64 345.85,-593.1 531.81,-875.62 135.29,385.59 329.06,701.68 507.94,938.17zm-903.61 1802.5c-172.23,386.56 -326.85,758.21 -459.98,1092.5 -232.98,-443.18 -436.95,-938.18 -547.62,-1220.48 121.97,-270.82 254.17,-552.3 396.12,-837.79 179.72,425.87 423.37,753.23 611.48,965.77zm-733.35 1803.36c-167.1,450.42 -261.48,736.57 -262.87,740.76 -53.46,161.74 -181.91,277.63 -333.98,321.88 -187.61,-357.46 -356.18,-747.93 -472.18,-1033.11 90.61,-250.94 223.55,-605.79 393.85,-1024.36 187.84,426.35 447.09,758.63 675.18,994.83z" style="fill:#e35e79"/>
+    <path class="AccessorySockfil108 AccessorySockstr0" d="M28498.46 4690.77c-1850.63,1221.32 -3543.95,6359.58 -3549.9,6377.47 -86.29,261.04 -367.87,402.7 -628.91,316.41 -261.04,-86.29 -402.7,-367.87 -316.41,-628.91 383.67,-1218.89 1940.4,-5338.99 3919.13,-6799.46 251.12,67.58 475.59,271.1 576.09,734.49z" style="fill:#685b01"/>
+    <path class="AccessorySockfil266" d="M27534.51 4532.97c191.06,-132.38 373.01,-235.52 546.11,-314.87 -39.07,-37.65 -80.55,-68.56 -123.62,-94.16 -140.85,109.65 -282.17,244.39 -422.49,409.03z" style="fill:#a85b0e"/>
+    <path class="AccessorySockfil266" d="M27603.33 4506.58l-1386.41 1915.59c0,0 751.41,-1640.42 1386.41,-1915.59z" style="fill:#060896"/>
+    <path class="AccessorySockfil269" d="M28498.46 4690.77c-1850.63,1221.32 -3543.95,6359.58 -3549.9,6377.47 -86.29,261.04 -246.17,323.33 -517.79,305.83 -118.58,-39.2 -143.72,40.06 -202.85,-59.5 2333.36,-5274.89 3218.34,-6636.97 4182.87,-6913.98 58.53,101.99 53.71,133.61 87.67,290.18z" style="fill:#e63069"/>
+   </g>
+   <g>
+    <path class="AccessorySockfil264" d="M25301.24 10705.18c-796.52,-1875.83 495.6,-7068.18 500.05,-7086.28 65.45,-263.91 -77.95,-511.14 -320.26,-552.2 -242.31,-41.07 -491.8,139.59 -557.24,403.49 -312.61,1270.45 -1186.39,5495.89 -401.3,7620.99 219.55,39.59 482.63,-45.33 778.75,-386z" style="fill:#2965c6"/>
+    <path class="AccessorySockfil271" d="M25301.38 10705.02c-43.38,-102.23 -80.56,-214.3 -112.11,-334.83 -171.25,215.91 -346.81,475.91 -504.7,726.46 183.14,-19.98 390.3,-130.99 616.81,-391.63zm-216.84 -920.57c-30.09,-267.8 -42.87,-558.49 -42.38,-862.64 -291.72,251.55 -585.2,542.62 -802.67,767.35 22.95,275.23 58.64,539.07 108.78,786.94 264.54,-322.36 540.54,-550.83 736.27,-691.65zm-20.08 -1566.08c24.84,-424.93 68.62,-861.72 123.04,-1289.28 -333.03,268.28 -688.73,617.03 -946.89,882.65 -21.89,332.72 -34.53,665.98 -34.81,992.62 296.91,-273.4 603.46,-460.8 858.66,-585.99zm217.33 -1958.65c63.03,-410.5 131.99,-800.3 198.56,-1148.28 -400.31,279.9 -804.56,617.45 -1030.79,812.46 -43.17,288.17 -83.9,590.09 -119.21,899.79 351.02,-288.53 701.25,-463.58 951.44,-563.97zm347.51 -1883.95c99.05,-463.44 170.95,-752.63 171.99,-756.87 40.56,-163.51 0.91,-320.62 -92.74,-426.25 -322.65,225.9 -647.38,488.77 -879.12,683.91 -57.07,257.09 -134.12,622.76 -214.71,1060.07 357.45,-285.35 722.04,-457.73 1014.58,-560.86z" style="fill:#9b48e7"/>
+    <path class="AccessorySockfil108 AccessorySockstr0" d="M25301.24 10705.18c-796.52,-1875.83 495.6,-7068.18 500.05,-7086.28 65.45,-263.91 -77.95,-511.14 -320.26,-552.2 -242.31,-41.07 -491.8,139.59 -557.24,403.49 -320.25,1223.74 -1204.71,5475.36 -430.77,7614.7 225.35,52.85 498.71,-23.63 808.22,-379.71z" style="fill:#d1bb4c"/>
+    <path class="AccessorySockfil266" d="M24544.26 10557.79c79.07,199.1 165.9,368.89 257.94,514.18 -48.7,15.24 -95.85,23.58 -141.54,26.63 -52.23,-157.2 -92.21,-336.3 -116.4,-540.81z" style="fill:#a0493c"/>
+    <path class="AccessorySockfil266" d="M24526.47 10467.79l-93.78 -2270.34c0,0 -251.85,1751.09 93.78,2270.34z" style="fill:#c351b8"/>
+    <path class="AccessorySockfil269" d="M25301.24 10705.18c-796.52,-1875.83 463.85,-6930.6 468.3,-6948.7 94.73,-382 -79.64,-592.76 -203.14,-616.92 -1171.43,4583.44 -1179.74,6792.04 -566.04,7836.54 95.87,-62.24 196.3,-150.61 300.88,-270.92z" style="fill:#817ed5"/>
+   </g>
+   <g>
+    <path class="AccessorySockfil272 AccessorySockstr0" d="M28121.21 7329.28l-654.4 402.62 -31.42 145.61 937.81 55.68c32.89,-87.15 13.14,-148.74 -58.14,-185.29 41.4,-117.71 6.53,-199.96 -101.53,-240.58 37.99,-73.15 -21.07,-120.98 -92.32,-178.04z" style="fill:#20ee97"/>
+    <g>
+     <path class="AccessorySockfil273" d="M27785.63 7740.83c43.35,-25.66 51.14,-39.62 232.65,-115.8 31.35,-22.72 62.73,-90.13 29.65,-74.31 -327.92,156.87 -341.46,202.41 -570.97,273.5l102.14 3.26 -8.16 21.73c-13.3,2.33 -27.84,4.93 -43.87,7.84l-89.99 58.44c50.15,-12.41 87.77,-21.26 119.43,-27.84l-2.84 7.57c7.69,-4 15.03,-7.79 22.11,-11.44 111.31,-21.53 476.66,48.49 809.48,14.43 1.23,-85.75 -275.39,-96.18 -300.06,-96.14 -204.1,0.34 -341.41,7.49 -411.86,14.27 206.94,-39.07 116.17,29.14 434.84,-83.04 28.7,-41.53 81.09,-104.53 54.84,-97.64 -149.62,39.3 -320.68,95.41 -377.39,105.17z" style="fill:#e85c0e"/>
+     <path class="AccessorySockfil274" d="M27590.54 7795.87c237.87,-90.75 123.81,-46.42 467.01,-248.22 -399.19,188.96 -327.96,168.19 -574.25,244.8l107.24 3.42z" style="fill:#7900a1"/>
+     <path class="AccessorySockfil274" d="M27533.4 7825.28c250.5,-45.48 140.22,-16.85 538.31,-21.85 -439.36,44.96 -377.91,18.34 -628.3,80.29l89.99 -58.44z" style="fill:#ddb113"/>
+     <path class="AccessorySockfil274" d="M27592.76 7776.17c232.86,-102.91 173.39,-39.86 559.23,-137.99 -416.59,146.65 -363.09,106.37 -591.99,225.27l32.76 -87.28z" style="fill:#cb0a64"/>
+    </g>
+    <path class="AccessorySockfil272" d="M24949.57 7741.73l2395.43 -352.94c112.05,-16.51 217.23,61.66 233.74,173.7l74.66 506.73c16.51,112.04 -61.66,217.23 -173.71,233.74l-2395.42 352.94c-112.05,16.51 -217.23,-61.66 -233.74,-173.71l-74.66 -506.72c-16.51,-112.05 61.66,-217.23 173.7,-233.74z" style="fill:#61177f"/>
+    <path class="AccessorySockfil275 AccessorySockstr14" d="M26013.44 7630.8l396.71 -58.45 11.65 79.04c200.51,9.5 348.17,73.45 362.51,170.8 14.35,97.36 -108.59,201.18 -297.85,268.11l51.78 351.37 -396.72 58.45 -49.96 -339.09c-239.66,5.28 -425.16,-62.02 -441.33,-171.74 -16.17,-109.73 142.05,-227.66 373.04,-291.73l-9.83 -66.76z" style="fill:#d9f448"/>
+    <polygon class="AccessorySockfil276 AccessorySockstr1" points="26115.87,7578.48 26512.59,7520.03 26646.01,8425.57 26249.3,8484.03 "/>
+    <g>
+     <path class="AccessorySockfil80 AccessorySockstr3" d="M26284.13 7611.94c313.17,-46.14 582.97,24.57 602.62,157.94 19.65,133.36 -218.29,278.88 -531.46,325.02 -313.17,46.14 -582.97,-24.56 -602.62,-157.93 -19.65,-133.36 218.29,-278.88 531.46,-325.03z" style="fill:#621ec8"/>
+     <path class="AccessorySockfil277" d="M26284.13 7611.94c313.17,-46.14 582.97,24.57 602.62,157.94 19.65,133.36 -218.29,278.88 -531.46,325.02 -313.17,46.14 -582.97,-24.56 -602.62,-157.93 -19.65,-133.36 218.29,-278.88 531.46,-325.03z" id="1" style="fill:#208967"/>
+    </g>
+    <g>
+     <path class="AccessorySockfil80 AccessorySockstr15" d="M26291.29 7660.57c211.96,-31.23 393.82,11.56 406.19,95.56 12.38,84.01 -149.41,177.43 -361.36,208.66 -211.96,31.23 -393.82,-11.56 -406.19,-95.57 -12.38,-84 149.41,-177.42 361.36,-208.65z" style="fill:#889c88"/>
+     <path class="AccessorySockfil278" d="M26291.29 7660.57c211.96,-31.23 393.82,11.56 406.19,95.56 12.38,84.01 -149.41,177.43 -361.36,208.66 -211.96,31.23 -393.82,-11.56 -406.19,-95.57 -12.38,-84 149.41,-177.42 361.36,-208.65z" id="1" style="fill:#884a76"/>
+    </g>
+    <path class="AccessorySockfil279" d="M24906.3 7831.36l2369.22 -349.08c112.05,-16.51 217.23,61.66 233.74,173.71l3.54 24.04c-45.67,-60.56 -126.54,-94.54 -212.16,-84.92l-2394.34 236.25z" style="fill:#1f2d24"/>
+    <path class="AccessorySockfil280" d="M27662.11 8040.53c17.25,99.86 -64.22,245.01 -182.42,262.43l-2395.42 352.94c-105.69,15.57 -205.26,-53.11 -230.08,-154.99 29.1,6.68 60.22,7.89 92.03,3.5l2534.27 -349.16c101.77,-14.02 138.27,-52.69 181.62,-114.72z" style="fill:#9c39a1"/>
+    <path class="AccessorySockfil80 AccessorySockstr0" d="M24949.57 7741.73l2395.43 -352.94c112.05,-16.51 217.23,61.66 233.74,173.7l74.66 506.73c16.51,112.04 -61.66,217.23 -173.71,233.74l-2395.42 352.94c-112.05,16.51 -217.23,-61.66 -233.74,-173.71l-74.66 -506.72c-16.51,-112.05 61.66,-217.23 173.7,-233.74z" style="fill:#b00dae"/>
+    <path class="AccessorySockfil281" d="M27670.88 7696.79l443.16 -277.4c18.07,14.7 35.5,36.56 38.31,47.88 -14.06,16.73 -23.57,42.82 -4.78,85.65 34.06,26.23 101.52,51.18 109.39,83.72 11.35,46.86 -28.7,94.57 -12.84,136.81 22.61,35.1 27.18,28.53 59.07,58.2 -43.68,-18.51 -68.73,-53.24 -91.31,-53.31 31.82,-78 26.74,-153.45 -90.82,-194.79 -50,-126.06 -100.17,-45.35 -450.18,113.24z" style="fill:#fee481"/>
+   </g>
+   <path class="AccessorySockfil282" d="M20268.4 11636.02l3288.43 -5319.51 4130.13 2554.42c-970.02,1529.22 -1940.06,3058.42 -2910.08,4587.64 1015.54,1443.44 1258.3,3165.14 511.37,3805.84 -746.92,640.7 -2548.76,-62.39 -3919.49,-1660.4 -682.3,-795.41 -1913.9,-2651.97 -1100.36,-3967.99z" style="fill:#2e7c81"/>
+   <polygon class="AccessorySockfil283 AccessorySockstr16" points="22259.25,8431.58 23556.83,6316.51 27674.82,8870.93 26459.62,10853.93 "/>
+   <polygon class="AccessorySockfil284" points="21901.98,13236.15 22013.23,13530.35 22375.39,13529.76 22081.99,13710.99 22194.56,14004.83 21901.98,13822.64 21609.41,14004.83 21721.98,13710.99 21428.58,13529.76 21790.74,13530.35 "/>
+   <polygon class="AccessorySockfil284" points="24815.73,10346.68 24910.71,10598.85 25219.86,10598.35 24969.39,10753.69 25065.5,11005.55 24815.73,10849.39 24565.97,11005.55 24662.07,10753.69 24411.61,10598.35 24720.76,10598.85 "/>
+   <polygon class="AccessorySockfil284" points="22181.22,9330.67 22363.81,9813.16 22958.25,9812.2 22476.69,10109.41 22661.46,10591.3 22181.22,10292.51 21700.98,10591.3 21885.75,10109.41 21404.19,9812.2 21998.63,9813.16 "/>
+   <path class="AccessorySockfil284" d="M22514.6 8368.72l73.43 194.03 239.04 -0.39 -193.65 119.52 74.3 193.78 -193.12 -120.16 -193.12 120.16 74.3 -193.78 -193.64 -119.52 239.03 0.39 73.43 -194.03zm0 90.36l47.25 124.86 153.81 -0.25 -124.6 76.91 47.81 124.7 -124.27 -77.32 -124.27 77.32 47.81 -124.7 -124.6 -76.91 153.81 0.25 47.25 -124.86z" style="fill:#dc3a6b"/>
+   <path class="AccessorySockfil284" d="M24553.54 13184.7l-80.44 203.46 186.72 169.36 -235.87 -44.22 -79.58 203.88 -65.35 -230.79 -235.92 -43.34 195.49 -98.42 -66.21 -230.66 186.17 169.96 194.99 -99.23zm-64.13 70.48l-51.77 130.92 120.15 108.98 -151.77 -28.45 -51.22 131.2 -42.05 -148.51 -151.81 -27.89 125.8 -63.33 -42.61 -148.43 119.81 109.36 125.47 -63.85z" style="fill:#227633"/>
+   <path class="AccessorySockfil284" d="M21696.03 11576.03l-80.44 203.46 186.72 169.36 -235.87 -44.22 -79.58 203.88 -65.35 -230.79 -235.92 -43.34 195.49 -98.42 -66.21 -230.66 186.17 169.96 194.99 -99.23zm-64.13 70.48l-51.77 130.92 120.15 108.98 -151.77 -28.45 -51.22 131.2 -42.05 -148.51 -151.81 -27.89 125.8 -63.33 -42.61 -148.43 119.81 109.36 125.47 -63.85z" style="fill:#9124ef"/>
+   <path class="AccessorySockfil284" d="M23613.81 16441.25l86.82 344.65 282.66 -0.7 -228.99 212.31 87.86 344.21 -228.35 -213.43 -123.01 114.97c-23.92,-10.42 -47.92,-21.18 -71.99,-32.23l54.51 -213.52 -229 -212.31 282.66 0.7 86.83 -344.65z" style="fill:#190b26"/>
+   <polygon class="AccessorySockfil284" points="23358.87,11515.44 23445.9,11746.53 23729.21,11746.07 23499.68,11888.42 23587.75,12119.23 23358.87,11976.12 23129.98,12119.23 23218.05,11888.42 22988.52,11746.07 23271.83,11746.53 "/>
+   <polygon class="AccessorySockfil284" points="25447.04,11365.67 25598.26,11767.17 25850.04,11766.76 25694.51,12011.96 25691.69,12013.7 25692.33,12015.39 25554.24,12233.08 25447.04,12166.05 25049.37,12414.69 25202.39,12013.7 24803.61,11766.37 25295.82,11767.17 "/>
+   <polygon class="AccessorySockfil284" points="23358.87,14595.07 23510.07,14996.57 24002.3,14995.76 23603.52,15243.1 23756.53,15644.08 23358.87,15395.45 22961.2,15644.08 23114.21,15243.1 22715.43,14995.76 23207.66,14996.57 "/>
+   <path class="AccessorySockfil284" d="M25236.55 16663.08l-92.17 233.12 213.94 194.05 -270.25 -50.67 -91.19 233.61 -74.88 -264.44 -270.31 -49.66 223.99 -112.76 -75.87 -264.3 213.32 194.74 223.42 -113.69zm-73.49 80.76l-59.31 150 137.67 124.87 -173.91 -32.6 -58.68 150.33 -48.18 -170.16 -173.94 -31.96 144.14 -72.56 -48.82 -170.07 137.27 125.31 143.76 -73.16z" style="fill:#3a1d70"/>
+   <path class="AccessorySockfil284" d="M21189.92 14049.28l-104.91 265.36 243.53 220.88 -307.63 -57.67 -103.8 265.91 -85.23 -301 -307.69 -56.53 254.97 -128.36 -86.36 -300.84 242.81 221.67 254.31 -129.42zm-83.65 91.93l-67.51 170.75 156.7 142.14 -197.95 -37.11 -66.79 171.11 -54.85 -193.69 -197.99 -36.37 164.07 -82.61 -55.57 -193.57 156.25 142.63 163.64 -83.28z" style="fill:#24fce7"/>
+   <polygon class="AccessorySockfil282" points="23358.86,14752.75 23464.61,15033.54 23808.86,15032.98 23529.97,15205.96 23636.98,15486.4 23358.86,15312.51 23080.75,15486.4 23187.76,15205.96 22908.87,15032.98 23253.12,15033.54 "/>
+   <path class="AccessorySockfil284" d="M20129.46 12070.67l174.5 461.46 568.05 -0.92 -460.2 284.26 176.57 460.91 -458.92 -285.77 -93.1 57.97c-37.72,-227.15 -47.76,-453.92 -21.54,-674.78l114.64 -303.13z" style="fill:#fefaf1"/>
+   <polygon class="AccessorySockfil284" points="24961.42,14595.88 25040.11,14848.06 25296.27,14847.55 25088.74,15002.9 25168.36,15254.75 24961.42,15098.59 24754.48,15254.75 24834.1,15002.9 24626.57,14847.55 24882.73,14848.06 "/>
+   <polygon class="AccessorySockfil284" points="24147.99,8623.91 24282.1,8978.29 24718.71,8977.59 24365.01,9195.88 24500.72,9549.82 24147.99,9330.36 23795.27,9549.82 23930.98,9195.88 23577.28,8977.59 24013.89,8978.29 "/>
+   <path class="AccessorySockfil80 AccessorySockstr0" d="M20268.4 11636.02l647.92 -1048.1 2640.51 -4271.41 4130.13 2554.42c-970.02,1529.22 -1940.06,3058.42 -2910.08,4587.64 1015.54,1443.44 1258.3,3165.14 511.37,3805.84 -746.92,640.7 -2548.76,-62.39 -3919.49,-1660.4 -156.31,-182.22 -341.45,-420.14 -524.21,-694.48 -615.04,-923.2 -1203.32,-2258.98 -576.15,-3273.51z" style="fill:#6cebb6"/>
+   <path class="AccessorySockfil261 AccessorySockstr1" d="M22138.65 7899.93c150.02,-805.45 798.74,-1534.31 1337.27,-2096.94 1398.45,1152.07 2955.66,2230.07 4724.53,2937.63 -402.61,750.87 -873.07,1629.96 -1324.24,2089.42l-4737.56 -2930.11z" style="fill:#86ac17"/>
+   <path class="AccessorySockfil285" d="M22355.06 7667.44c263.96,-765.05 1039.99,-1728.86 1193.53,-1618.28 1572.11,1273.28 2982.69,2170.43 4529.33,2734.04 -3884.03,-1106.11 -3992.83,-2596.59 -4753.21,-2280.69 -345.12,143.38 -723.04,1196.07 -787.87,1230.8 -55.9,29.95 -141.58,-23.52 -181.78,-65.87z" style="fill:#a07288"/>
+   <path class="AccessorySockfil286" d="M23881.81 6750.44c0,0 1925.13,1776.24 3488.64,1925.14 -594.24,210.76 -1588.51,-168.66 -1637.96,-191.45l1084.89 499.89c-499.88,-7.62 -992.68,-135.39 -1478.42,-382.9 259.35,294.21 555.84,484.7 913.97,553.13 -349.01,78.91 -719.38,6.72 -1110.71,-154.3 318.71,238.78 755.12,390.86 1154.82,676.58 399.7,285.72 -2320.6,-383.43 -3456.67,-1936.07 610.19,399.99 903.17,552.22 903.17,552.22 -231.44,-286.89 -409.79,-588.95 -542.44,-904.07 268.4,281.24 565.1,454.87 904.07,467.99 -302.43,-270.47 -469.51,-569.96 -574.35,-882.8 198.75,244.54 497.09,446.39 893.43,606.26 -283.63,-249.12 -470.47,-524.05 -542.44,-829.62z" style="fill:#aafd4d"/>
+   <path class="AccessorySockfil287 AccessorySockstr1" d="M22470.97 7029.83c65.4,-109.96 137.41,-215.49 214.52,-318.09l4945.51 3058.74c-65.26,113.51 -130.74,223.36 -197.14,328.83l-4962.89 -3069.48z" style="fill:#ab288c"/>
+   <path class="AccessorySockfil288" d="M24511.27 13557.75c2232.21,2716.72 -502.85,5188.86 203.74,1879.72 193.44,-905.79 98.8,-1156.65 -203.74,-1879.72z" style="fill:#35c304"/>
+   <path class="AccessorySockfil283 AccessorySockstr17" d="M24797.48 13600.13c0,0 194.25,-825.55 -1165.49,-849.84 -1359.74,-24.28 -364.22,291.38 -364.22,291.38 0,0 874.12,-218.53 1529.71,558.46z" style="fill:#c9ffb1"/>
+   <path class="AccessorySockfil283 AccessorySockstr17" d="M24581.21 12632.64c11.03,-239.43 -43.53,-545.52 -267.92,-670.85 -387.66,-216.51 -163.41,54.83 -163.41,54.83 0,0 180.02,30.74 275.32,231.21 -102.35,-95.62 -271.55,-163.49 -551.33,-133.25 -735.05,79.43 -169.11,231.88 -169.11,231.88 0,0 450.71,-216.61 876.45,286.18z" style="fill:#314397"/>
+   <path class="AccessorySockfil283 AccessorySockstr17" d="M20223.8 12355.01c10.76,1883.29 1447.17,3010.36 2006.97,3742.79 -479.3,-991.39 -1636.55,-2669.79 -402.11,-3267.85 -224.88,-444.97 -746.64,-367.6 -722.36,-560.82 23.28,-185.14 551.35,-347.75 1189.51,-485.1 -73.26,-574.18 -929.53,-447.13 -846.25,-644.59 67.22,-159.32 552.67,-172 588.22,-326.48 112.08,-487.07 -303.6,-769 -145.01,-1172.41 -802.46,1150.87 -1149.12,1493.52 -1668.97,2714.46z" style="fill:#90b64e"/>
+   <path class="AccessorySockfil289" d="M24542.58 12732.1c58.82,292.73 -381.55,-344.52 -1147.29,-91.06 -23.03,-206.76 752.44,-463.25 1147.29,91.06z" style="fill:#395d0e"/>
+   <path class="AccessorySockfil289" d="M24635.35 13510.46c52.04,300.93 -520.2,-408.51 -1675.27,-290.01 -9.53,-209.34 1160.2,-329.15 1675.27,290.01z" style="fill:#011227"/>
+   <path class="AccessorySockfil289" d="M24684.54 12564.18c-124.8,92.96 77.26,-256.56 -212.84,-560.83 92.28,-56.94 385.98,251.24 212.84,560.83z" style="fill:#8ec798"/>
+   <path class="AccessorySockfil289" d="M25167.24 10294.86l920.72 536.77c-401.89,683.35 -877.38,1649.72 -1351.39,2110.77 903.46,-1486.09 799.3,-2394.01 430.67,-2647.54z" style="fill:#c05876"/>
+   <path class="AccessorySockfil275" d="M27307.41 10258.82c-175.3,182.24 -300.99,368.43 -426.91,515.46l-4817.07 -2839.73c33.59,-13.69 97.55,-113.07 173.76,-313.02 1101.68,1043.71 4538.04,2881.98 5070.22,2637.29z" style="fill:#5d00bf"/>
+   <path class="AccessorySockfil289" d="M21973.99 10980.24c-104.16,195.09 268.82,-10.09 884.82,42.22 -61.96,12.78 -122.15,34.92 -177.14,69.22 -50.63,94.82 130.58,-4.82 429.91,20.5 -195.82,26.18 -409.27,108.89 -620.48,266.25 -127.94,286.22 571.57,-451.13 1514,53.52 85.23,43.38 371.05,200.96 442.22,228.7 391.15,152.47 390.07,64.13 -96.5,-543.12 -417.99,-352.09 -1724.24,-544.33 -2376.83,-137.29z" style="fill:#e925cb"/>
+   <path class="AccessorySockfil266" d="M25068.24 3860.65c65.17,-223.11 141.67,-417.77 226.25,-588.37 -54.05,-4.68 -105.74,-2.59 -155.32,4.61 -40.46,173.86 -65.49,367.51 -70.93,583.76z" style="fill:#8d36cd"/>
+   <path class="AccessorySockfil266" d="M25265.03 3210.08l-457.15 2320.05c0,0 -4.33,-1804.32 457.15,-2320.05z" style="fill:#eb3b2c"/>
+   <g>
+    <g>
+     <path class="AccessorySockfil80 AccessorySockstr3" d="M21779.16 7370.91c109.8,-89.24 216.47,-186.73 296.48,-277.4 75.48,-85.54 129.22,-167.02 145.13,-236.33 -91.16,-27.79 -135.23,-36.47 -166.4,-50.25 -31.45,-13.9 -49.63,-32.96 -90.68,-82.58 212.18,-45.76 302.13,-42.67 408.67,-100.35 -104.94,-31.98 -142.2,-87.76 -146.73,-101.97 -7.99,-25.08 207.37,6.56 361.09,-91.1 -76.23,-27.98 -145.6,-68.68 -140.39,-133.91 148.08,57.57 287.12,18.69 400.42,-24.08 104.07,-39.28 188.38,-82.38 252.25,-59.28 -35.04,37.24 -115.54,112.67 -208.28,198.76 -102.57,95.22 -222.36,206.15 -301.37,283.76 95.94,-70.92 231.49,-174.02 347.39,-261.58 104.33,-78.82 195.02,-146.67 239.59,-176.95 14.02,64.51 -39.74,138.86 -92.14,232.41 -56.88,101.58 -113.35,228.02 -76.03,376.04 -64.59,-4.2 -95.56,-75.5 -113.01,-151.55 -115.73,131.5 -112.39,338.83 -135.82,327.74 -13.33,-6.3 -63.33,-49.1 -81.2,-152.46 -70.15,92.4 -78.28,177.22 -149.88,370 -43.44,-45.39 -59.9,-65 -69.6,-96.32 -9.67,-31.24 -12.55,-73.68 -28.5,-163.48 -142.06,10.42 -202.58,65.55 -272.33,133.63 -74.33,72.56 -160.87,161.51 -378.66,237.25z" style="fill:#2d44e9"/>
+     <path class="AccessorySockfil290" d="M21779.16 7370.91c109.8,-89.24 216.47,-186.73 296.48,-277.4 75.48,-85.54 129.22,-167.02 145.13,-236.33 -91.16,-27.79 -135.23,-36.47 -166.4,-50.25 -31.45,-13.9 -49.63,-32.96 -90.68,-82.58 212.18,-45.76 302.13,-42.67 408.67,-100.35 -104.94,-31.98 -142.2,-87.76 -146.73,-101.97 -7.99,-25.08 207.37,6.56 361.09,-91.1 -76.23,-27.98 -145.6,-68.68 -140.39,-133.91 148.08,57.57 287.12,18.69 400.42,-24.08 104.07,-39.28 188.38,-82.38 252.25,-59.28 -35.04,37.24 -115.54,112.67 -208.28,198.76 -102.57,95.22 -222.36,206.15 -301.37,283.76 95.94,-70.92 231.49,-174.02 347.39,-261.58 104.33,-78.82 195.02,-146.67 239.59,-176.95 14.02,64.51 -39.74,138.86 -92.14,232.41 -56.88,101.58 -113.35,228.02 -76.03,376.04 -64.59,-4.2 -95.56,-75.5 -113.01,-151.55 -115.73,131.5 -112.39,338.83 -135.82,327.74 -13.33,-6.3 -63.33,-49.1 -81.2,-152.46 -70.15,92.4 -78.28,177.22 -149.88,370 -43.44,-45.39 -59.9,-65 -69.6,-96.32 -9.67,-31.24 -12.55,-73.68 -28.5,-163.48 -142.06,10.42 -202.58,65.55 -272.33,133.63 -74.33,72.56 -160.87,161.51 -378.66,237.25z" id="1" style="fill:#e7d4e4"/>
+    </g>
+    <path class="AccessorySockfil227" d="M21779.16 7370.91c109.8,-89.24 216.47,-186.73 296.48,-277.4 75.48,-85.54 129.22,-167.02 145.13,-236.33 -91.16,-27.79 -135.23,-36.47 -166.4,-50.25 -31.45,-13.9 -49.63,-32.96 -90.68,-82.58 118.54,-25.62 197.72,-35.92 263.36,-49.83 -259.47,108.61 10.53,106.92 110.72,106.06 -26.73,132.64 -135.13,271.6 -315.43,427.48 81.87,-27.03 126.06,-80.65 173,-110 -85.96,77.22 -162.06,184.45 -416.18,272.85zm483.56 -808.91c-34.66,-24.64 -34.4,-31.47 -37.09,-39.97 -5.61,-17.76 102.83,-6.88 222.48,-35.33 18.51,11.39 25.59,13.7 53.3,23.04 -71.17,37.28 -133.18,36.64 -238.69,52.26zm255.23 -165.69c-47.56,-26.03 -75.32,-53.3 -71.62,-99.29 73.2,28.58 145.05,33.34 212.6,25.49 15.41,8.21 32.04,15.4 48.87,21.99 -57.1,36.1 -130.43,44.67 -189.85,51.81zm493.56 262.64c-16.94,63.36 -21.97,132.82 -3.35,207.15 -43.84,-2.97 -50.1,-11.93 -69.5,-57.71 14.44,-56.31 16.42,-143.56 59.88,-193.32 3.73,14.94 7.97,29.68 12.97,43.88zm-188.31 176.87c-44.06,109.57 -47.15,214.23 -63.87,206.47 -7.64,-3.54 -10.62,9.46 -29.7,-23.38 29,-98.66 44.13,-175.73 73.71,-247.55 4.97,25.16 11.95,46.45 19.86,64.46zm-275.04 318.05c-24.31,65.27 20.66,-3.12 -19.91,105.96 -43.44,-45.39 -59.9,-65 -69.6,-96.32 -9.67,-31.24 -12.55,-73.68 -28.5,-163.48 -69.57,5.11 -119.78,21.14 -160.78,43.79 102.63,-87.28 68.5,-93.04 248.43,-103.58 17.25,87.07 -22.6,151.89 30.36,213.63z" style="fill:#dcaa40"/>
+    <path class="AccessorySockfil228" d="M22902.79 6403.18c-47.86,44.44 -98.75,91.43 -151.77,140.59 -55.98,51.9 -115.2,106.95 -177.48,164.75 71.86,-53.73 139.84,-104.58 204.1,-152.77 60.57,-45.42 118.13,-88.32 172.97,-129.4 -22.64,38.44 -24.86,84.14 -70.17,118.98 -63.65,49.22 -128.03,95.08 -196.46,136.5 -72.47,43.86 -149.53,83.06 -236.19,117.23 57.94,-63.46 111.18,-117.67 161.73,-169.03 48.29,-49.05 94.62,-96.11 139.99,-146.09 18.7,-20.61 172.89,-98.96 153.28,-80.76z" style="fill:#ef2708"/>
+   </g>
+   <path class="AccessorySockfil291" d="M23062.28 4024.55c0,0 -781.72,-143.51 211.67,1730.37 347.14,-142.37 -436.61,-328.67 -211.67,-1730.37z" style="fill:#36a4dc"/>
+   <path class="AccessorySockfil292" d="M23080 6169.93l-195.8 54.24c15.39,184.8 108.51,291.89 300.31,300.3l27.78 -280.46 -132.29 -74.08z" style="fill:#26b19d"/>
+   <g>
+    <g>
+     <path class="AccessorySockfil80 AccessorySockstr3" d="M23623.61 9021.88c9.57,-279.47 -38.48,-608.07 -211.77,-762.3 -306.09,131.75 -258.67,141.66 -506,135.81 166.03,-254.86 279.72,-349.17 316.23,-530.87 -186.36,89.71 -328.68,75.37 -359.06,66.08 -53.93,-16.51 270.43,-245.41 297.83,-572.76 -157.98,73.79 -327.56,119.88 -449.2,31.55 623.95,-285 488.93,-1096.11 822.32,-1283.71 37.33,289.71 71.36,1174.14 107.79,1569.39 37.69,-425.91 96.63,-1343.73 136.61,-1654.06 333.39,187.6 198.37,998.71 822.32,1283.71 -121.64,88.33 -291.22,42.24 -449.2,-31.55 27.4,327.35 351.76,556.25 297.83,572.76 -30.38,9.29 -172.7,23.63 -359.06,-66.08 36.51,181.7 150.2,276.01 316.23,530.87 -247.33,5.85 -199.91,-4.06 -506,-135.81 -345.16,307.2 12.28,419.82 -276.87,846.97z" style="fill:#5a7e2a"/>
+     <path class="AccessorySockfil290" d="M23623.61 9021.88c9.57,-279.47 -38.48,-608.07 -211.77,-762.3 -306.09,131.75 -258.67,141.66 -506,135.81 166.03,-254.86 279.72,-349.17 316.23,-530.87 -186.36,89.71 -328.68,75.37 -359.06,66.08 -53.93,-16.51 270.43,-245.41 297.83,-572.76 -157.98,73.79 -327.56,119.88 -449.2,31.55 623.95,-285 488.93,-1096.11 822.32,-1283.71 37.33,289.71 71.36,1174.14 107.79,1569.39 37.69,-425.91 96.63,-1343.73 136.61,-1654.06 333.39,187.6 198.37,998.71 822.32,1283.71 -121.64,88.33 -291.22,42.24 -449.2,-31.55 27.4,327.35 351.76,556.25 297.83,572.76 -30.38,9.29 -172.7,23.63 -359.06,-66.08 36.51,181.7 150.2,276.01 316.23,530.87 -247.33,5.85 -199.91,-4.06 -506,-135.81 -345.16,307.2 12.28,419.82 -276.87,846.97z" id="1" style="fill:#5bd683"/>
+    </g>
+    <path class="AccessorySockfil227" d="M23623.61 9021.88c9.57,-279.47 -38.48,-608.07 -211.77,-762.3 -306.09,131.75 -258.67,141.66 -506,135.81 90.32,-138.65 165.15,-229.77 220.49,-313.31 -123.32,359.16 187.13,90.7 311.97,-18.3 173.29,154.23 242.5,382.29 243.51,661.76 59.92,-88.51 39.12,-168.79 55.5,-234.82 2.7,137.3 56.49,279.75 -113.7,531.16zm-645.87 -1092.93c-84.92,14.69 -96.41,7.26 -114.73,1.65 -38.11,-11.66 112.7,-129.44 214.12,-313.05 45.2,-11.17 58.8,-17.89 113.19,-44.07 -27.39,136.31 -108.81,212.84 -212.58,355.47zm22.38 -516.32c-113.17,34.44 -202.28,39.36 -288.48,-23.24 152.35,-69.59 259.37,-170.58 339.08,-286.16 38.59,-13.07 77.34,-29.24 115.41,-47.02 -11.69,139.69 -98.63,261.44 -166.01,356.42zm1258.1 -398.93c80.06,117.62 187.97,220.46 342.46,291.02 -82.8,60.13 -108.43,57.96 -216.88,27.18 -68.35,-95.55 -215.17,-218.72 -227.03,-360.36 33.48,15.64 67.49,30.02 101.45,42.16zm-24.75 516.04c101.42,185.41 254.17,304.47 215.84,316.19 -17.45,5.34 -3.08,22.91 -81.57,10.89 -104.54,-143.78 -202.36,-252.25 -272.2,-378.6 49.51,23.83 95.91,40.33 137.93,51.52zm55.85 664.96c55.58,84.57 25.47,-24.73 117.16,116.02 -247.33,5.85 -199.91,-4.06 -506,-135.81 -85.92,76.47 -128.28,140.88 -147.94,201.09 4.33,-180.92 -49.11,-150.93 179.69,-354.56 155.44,66.91 193.24,171.17 357.09,173.26z" style="fill:#c09019"/>
+    <path class="AccessorySockfil228" d="M23589.75 6815.38l50.27 894.29 76.73 -941.92c36.16,98.78 119.94,171.1 108.48,296.34 -28.23,335.14 -82.9,617.36 -211.67,894.29 -48.16,-270.32 -64.58,-503.61 -112.72,-773.93 -10.18,-57.16 85.4,-431.59 88.91,-369.07z" style="fill:#98733f"/>
+   </g>
+   <g>
+    <g>
+     <path class="AccessorySockfil230 AccessorySockstr8" d="M23813.6 6044.56c19.68,41.76 30.61,87.83 30.61,136.27 0,92.55 -39.84,176.5 -104.55,238.06 13.84,-165.96 27.07,-307.63 38.7,-397.88 12.4,6.98 24.08,14.91 35.24,23.55zm-245.88 467.09c-30,7.24 -61.47,11.1 -93.93,11.1 -61.65,0 -119.77,-13.93 -170.91,-38.52 54.7,-169.87 114.01,-312.67 231.08,-378.55 11.51,89.35 22.71,235.29 33.76,405.97z" style="fill:#47ecd1"/>
+     <path class="AccessorySockfil231" d="M23813.6 6044.56c19.68,41.76 30.61,87.83 30.61,136.27 0,92.55 -39.84,176.5 -104.55,238.06 13.84,-165.96 27.07,-307.63 38.7,-397.88 12.4,6.98 24.08,14.91 35.24,23.55zm-245.88 467.09c-30,7.24 -61.47,11.1 -93.93,11.1 -61.65,0 -119.77,-13.93 -170.91,-38.52 54.7,-169.87 114.01,-312.67 231.08,-378.55 11.51,89.35 22.71,235.29 33.76,405.97z" id="1" style="fill:#b2b544"/>
+    </g>
+    <g>
+     <path class="AccessorySockfil230 AccessorySockstr8" d="M23325.63 6654.63c134.43,0 243.41,100.6 243.41,224.69 0,124.09 -108.98,224.68 -243.41,224.68 -88.97,0 -166.77,-44.06 -209.23,-109.83 55.58,-105.58 95,-218.16 129.53,-327.2 24.97,-7.98 51.78,-12.34 79.7,-12.34z" style="fill:#6aaec6"/>
+     <path class="AccessorySockfil231" d="M23325.63 6654.63c134.43,0 243.41,100.6 243.41,224.69 0,124.09 -108.98,224.68 -243.41,224.68 -88.97,0 -166.77,-44.06 -209.23,-109.83 55.58,-105.58 95,-218.16 129.53,-327.2 24.97,-7.98 51.78,-12.34 79.7,-12.34z" id="1" style="fill:#b465a2"/>
+    </g>
+    <g>
+     <path class="AccessorySockfil230 AccessorySockstr8" d="M23992.38 6385.16c4.18,0 8.33,0.1 12.48,0.25 52.81,161.63 100.06,349.47 188.69,519.56 -54.77,41.45 -124.82,66.34 -201.17,66.34 -123.95,0 -231.3,-65.57 -283.59,-161.18 7.81,-102.83 15.65,-204.27 23.36,-299.82 57.41,-75.67 152.56,-125.15 260.23,-125.15z" style="fill:#8d53e0"/>
+     <path class="AccessorySockfil231" d="M23992.38 6385.16c4.18,0 8.33,0.1 12.48,0.25 52.81,161.63 100.06,349.47 188.69,519.56 -54.77,41.45 -124.82,66.34 -201.17,66.34 -123.95,0 -231.3,-65.57 -283.59,-161.18 7.81,-102.83 15.65,-204.27 23.36,-299.82 57.41,-75.67 152.56,-125.15 260.23,-125.15z" id="1" style="fill:#0ba5ad"/>
+    </g>
+    <path class="AccessorySockfil231 AccessorySockstr9" d="M23328.17 6776.3c21.92,0 39.69,12.68 39.69,28.35 0,15.67 -17.77,28.35 -39.69,28.35 -21.92,0 -39.69,-12.68 -39.69,-28.35 0,-15.67 17.77,-28.35 39.69,-28.35z" style="fill:#0e43a0"/>
+    <path class="AccessorySockfil231 AccessorySockstr9" d="M23968.47 6538.17c21.92,0 39.69,12.68 39.69,28.35 0,15.67 -17.77,28.35 -39.69,28.35 -21.92,0 -39.69,-12.68 -39.69,-28.35 0,-15.67 17.77,-28.35 39.69,-28.35z" style="fill:#22d993"/>
+   </g>
+   <g>
+    <g>
+     <path class="AccessorySockfil80 AccessorySockstr10" d="M23426.16 5574.32c204.58,0 370.42,153.09 370.42,341.93 0,188.84 -165.84,341.92 -370.42,341.92 -204.58,0 -370.42,-153.08 -370.42,-341.92 0,-188.84 165.84,-341.93 370.42,-341.93z" style="fill:#4a89fe"/>
+     <path class="AccessorySockfil293" d="M23426.16 5574.32c204.58,0 370.42,153.09 370.42,341.93 0,188.84 -165.84,341.92 -370.42,341.92 -204.58,0 -370.42,-153.08 -370.42,-341.92 0,-188.84 165.84,-341.93 370.42,-341.93z" id="1" style="fill:#6a9208"/>
+    </g>
+    <g>
+     <path class="AccessorySockfil80 AccessorySockstr10" d="M23278 6390.05c134.43,0 243.41,100.6 243.41,224.69 0,124.09 -108.98,224.68 -243.41,224.68 -134.43,0 -243.41,-100.59 -243.41,-224.68 0,-124.09 108.98,-224.69 243.41,-224.69z" style="fill:#10c5ec"/>
+     <path class="AccessorySockfil294" d="M23278 6390.05c134.43,0 243.41,100.6 243.41,224.69 0,124.09 -108.98,224.68 -243.41,224.68 -134.43,0 -243.41,-100.59 -243.41,-224.68 0,-124.09 108.98,-224.69 243.41,-224.69z" id="1" style="fill:#e97bb3"/>
+    </g>
+    <g>
+     <path class="AccessorySockfil80 AccessorySockstr10" d="M23944.75 6120.58c175.35,0 317.5,131.21 317.5,293.08 0,161.86 -142.15,293.07 -317.5,293.07 -175.35,0 -317.5,-131.21 -317.5,-293.07 0,-161.87 142.15,-293.08 317.5,-293.08z" style="fill:#380173"/>
+     <path class="AccessorySockfil295" d="M23944.75 6120.58c175.35,0 317.5,131.21 317.5,293.08 0,161.86 -142.15,293.07 -317.5,293.07 -175.35,0 -317.5,-131.21 -317.5,-293.07 0,-161.87 142.15,-293.08 317.5,-293.08z" id="1" style="fill:#b9c4db"/>
+    </g>
+    <ellipse class="AccessorySockfil235 AccessorySockstr11" cx="23449.88" cy="5751.61" rx="55.56" ry="39.69"/>
+    <ellipse class="AccessorySockfil235 AccessorySockstr11" cx="23280.54" cy="6540.07" rx="39.69" ry="28.35"/>
+    <ellipse class="AccessorySockfil235 AccessorySockstr11" cx="23920.84" cy="6301.94" rx="39.69" ry="28.35"/>
+   </g>
+   <path class="AccessorySockfil296 AccessorySockstr1" d="M24042.44 4644.06c464.79,-99.83 598,-998.33 129.53,-903.02 -578.71,574.28 -1696.41,1042.87 -129.53,903.02z" style="fill:#4b25c9"/>
+  </g>
+  <path class="AccessorySockfil297" d="M24223.62 3820.08c183.81,-66.1 250.98,491.22 -149.16,732.24l-234.56 -11.95c71.53,21.45 620.67,-360.59 383.72,-720.29z" style="fill:#785707"/>
+  <path class="AccessorySockfil275" d="M24241.43 3800.71l-142.94 8.87 -873.81 797.21 656.55 57.38 -71.45 -100.96c-425.82,-100.17 276.4,-489.05 431.65,-762.5z" style="fill:#f0f3c1"/>
+ </g><g id="HairBack-Hedgehog2">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_2Corel-Layer"/>
+  <path class="HairBack-Hedgehog2fil6" d="M17820 11951c1108,-270 3409,948 3695,2179 -619,-445 -1455,-683 -1909,-564 597,230 1721,1305 1890,2098 -460,-285 -1189,-695 -1641,-650 745,702 1301,1538 1359,2595 -409,-469 -1083,-1028 -1682,-1066 408,499 1094,1754 962,2719 -291,-527 -948,-1403 -1634,-1586 274,581 576,1743 336,2612 -200,-677 -1043,-1687 -1790,-1997 82,563 213,1953 -48,2762 -430,-907 -1085,-2379 -1639,-3150 2186,-867 3009,-2237 2101,-5952z" style="fill:#37337f"/>
+  <path class="HairBack-Hedgehog2fil7" d="M20575 12876c190,149 362,308 506,475 -132,39 -265,219 -164,410 1,10 2,20 2,30 -228,-102 -461,-176 -676,-217 -255,-140 26,-767 332,-698zm-62 1330c161,152 319,320 459,495 -215,126 -281,313 -210,555 -219,-103 -441,-188 -639,-225 -215,-250 79,-807 390,-825zm78 1650c128,185 239,377 332,580 -290,60 -391,257 -357,551 -1,4 -2,9 -3,13 -180,-136 -373,-255 -566,-338 0,0 0,0 0,0 -56,-515 156,-771 594,-806zm-515 1562c93,190 179,394 251,604 -238,5 -375,146 -418,411 -115,-131 -239,-257 -369,-368 68,-370 234,-602 536,-647zm-943 1043c67,265 119,554 140,845 -205,-95 -353,-24 -429,258 -5,1 -10,2 -16,3 -158,-231 -351,-462 -560,-667 2,-2 4,-4 6,-5 192,-409 461,-574 835,-411 8,-8 16,-15 24,-23z" style="fill:#ae8d42"/>
+  <path class="HairBack-Hedgehog2fil4 HairBack-Hedgehog2str0" d="M17820 11951c1108,-270 3409,948 3695,2179 -619,-445 -1455,-683 -1909,-564 597,230 1721,1305 1890,2098 -460,-285 -1189,-695 -1641,-650 745,702 1301,1538 1359,2595 -409,-469 -1083,-1028 -1682,-1066 408,499 1094,1754 962,2719 -291,-527 -948,-1403 -1634,-1586 274,581 576,1743 336,2612 -200,-677 -1043,-1687 -1790,-1997 82,563 213,1953 -48,2762 -430,-907 -1085,-2379 -1639,-3150 2186,-867 3009,-2237 2101,-5952z" style="fill:#a8ebc4"/>
+  <path class="HairBack-Hedgehog2fil8" d="M9544 11951c-1108,-270 -3409,948 -3695,2179 619,-445 1455,-683 1909,-564 -597,230 -1722,1305 -1890,2098 460,-285 1189,-695 1641,-650 -745,702 -1301,1538 -1359,2595 409,-469 1082,-1028 1682,-1066 -408,499 -1095,1754 -962,2719 291,-527 948,-1403 1634,-1586 -274,581 -576,1743 -336,2612 200,-677 1043,-1687 1790,-1997 -82,563 -213,1953 48,2762 430,-907 1085,-2379 1638,-3150 -2186,-867 -3008,-2237 -2100,-5952z" style="fill:#24d5d0"/>
+  <path class="HairBack-Hedgehog2fil7" d="M6789 12876c-190,149 -362,308 -507,475 132,39 266,219 164,410 0,10 -1,20 -1,30 228,-102 461,-176 676,-217 255,-140 -26,-767 -332,-698zm62 1330c-161,152 -319,320 -459,495 215,126 281,313 210,555 219,-103 441,-188 638,-225 216,-250 -79,-807 -389,-825zm-78 1650c-128,185 -240,377 -332,580 290,60 391,257 357,551 1,4 2,9 3,13 180,-136 373,-255 566,-338 0,0 0,0 0,0 56,-515 -156,-771 -594,-806zm515 1562c-93,190 -180,394 -251,604 238,5 375,146 418,411 115,-131 239,-257 369,-368 -68,-370 -234,-602 -536,-647zm943 1043c-67,265 -119,554 -140,845 205,-95 353,-24 429,258 5,1 10,2 16,3 158,-231 351,-462 560,-667 -2,-2 -4,-4 -6,-5 -192,-409 -462,-574 -835,-411 -8,-8 -16,-15 -24,-23z" style="fill:#4c2f1e"/>
+  <path class="HairBack-Hedgehog2fil4 HairBack-Hedgehog2str0" d="M9544 11951c-1108,-270 -3409,948 -3695,2179 619,-445 1455,-683 1909,-564 -597,230 -1722,1305 -1890,2098 460,-285 1189,-695 1641,-650 -745,702 -1301,1538 -1359,2595 409,-469 1082,-1028 1682,-1066 -408,499 -1095,1754 -962,2719 291,-527 948,-1403 1634,-1586 -274,581 -576,1743 -336,2612 200,-677 1043,-1687 1790,-1997 -82,563 -213,1953 48,2762 430,-907 1085,-2379 1638,-3150 -2186,-867 -3008,-2237 -2100,-5952z" style="fill:#a25d78"/>
+  <path class="HairBack-Hedgehog2fil2" d="M21489 15633c-460,-285 -1182,-664 -1634,-619 -196,-68 -391,-137 -586,-205 -22,291 -44,582 -66,874 859,224 1605,944 2006,1842 -349,-288 -1093,-974 -1677,-982 93,114 -191,-50 -257,-78 -154,135 -309,270 -463,405 866,482 1486,1589 1691,2279 -314,-497 -957,-1290 -1643,-1473 40,84 -364,-202 -413,-232 -218,26 -435,52 -653,78 662,526 1264,1751 1405,2642 -265,-458 -975,-1480 -1590,-1780 -273,-248 -546,-496 -819,-745 78,-150 156,-300 234,-450 651,-512 1038,-1193 1136,-2185 226,-434 517,-517 743,-952 904,61 1938,825 2586,1581z" style="fill:#760b09"/>
+  <path class="HairBack-Hedgehog2fil2" d="M9544 11951c-15,-4 -30,-7 -45,-10 -335,15 -669,31 -1003,47 -500,116 -1024,347 -1450,633 590,17 190,722 -224,1003 339,-35 660,-131 936,-58 -189,73 -417,197 -646,357 1193,476 -970,1082 -1148,1683 457,-276 1098,-636 1545,-592 -157,148 -300,290 -428,429 994,397 -619,1354 -901,2072 387,-359 1155,-966 1652,-972 -98,120 -202,262 -302,417 662,624 -550,1350 -598,2186 297,-407 932,-1299 1572,-1470 713,638 -359,1684 -315,2478 311,-681 1158,-1603 1769,-1863 -82,563 -191,1942 60,2717 418,-828 1073,-2334 1626,-3105 -2186,-867 -3008,-2237 -2100,-5952z" style="fill:#2b22a6"/>
+ </g><g id="Tail-Hedgehog2">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_13Corel-Layer"/>
+  <g id="_1891249957056">
+   <path class="Tail-Hedgehog2fil31" d="M10243 18011c-510,276 -1301,1651 -1313,2567 410,-525 981,-1007 1303,-953 -321,180 -1068,1362 -1084,1879 287,-215 882,-539 1290,-522 -498,400 -1015,875 -1220,1895 189,-173 601,-437 842,-446 -218,450 -387,1240 -290,1690 188,-264 604,-831 979,-940 384,-112 1462,128 1523,454 62,326 324,707 625,829 1,-287 30,-617 271,-889 96,379 296,699 513,914 217,-215 416,-535 513,-914 241,272 270,602 271,889 301,-122 563,-503 625,-829 61,-326 1138,-566 1523,-454 375,109 790,676 979,940 97,-450 -72,-1240 -290,-1690 241,9 653,273 842,446 -206,-1020 -722,-1495 -1220,-1895 408,-17 1002,307 1290,522 -16,-517 -763,-1699 -1084,-1879 322,-54 893,428 1303,953 -12,-916 -803,-2291 -1313,-2567 -670,147 -2745,630 -3415,776l-24 -5 -24 5c-670,-146 -2745,-629 -3415,-776z" style="fill:#5b0c36"/>
+   <path class="Tail-Hedgehog2fil7" d="M18000 19122c85,167 163,341 229,516 -209,120 -266,273 -248,444 -126,-119 -255,-222 -377,-300 -59,-316 102,-521 396,-660zm-369 1070c113,167 224,353 319,538 -168,60 -240,337 -190,492 1,1 1,3 2,5 -128,-66 -266,-126 -401,-170 -263,-233 29,-891 270,-865zm-26 1452c119,154 228,330 321,536 -182,-17 -335,203 -232,375 1,4 2,8 3,12 -142,-76 -285,-132 -394,-136 28,58 55,122 81,190 -29,-66 -58,-132 -88,-198 -143,-241 83,-766 309,-779zm-168 1125c64,195 117,412 149,625 -157,-95 -399,18 -413,198 -164,-177 -347,-336 -524,-400 -11,-273 526,-547 788,-423z" style="fill:#fb8026"/>
+   <path class="Tail-Hedgehog2fil7" d="M9364 19122c-85,167 -163,341 -229,516 209,120 266,273 248,444 126,-119 255,-222 377,-300 59,-316 -102,-521 -396,-660zm369 1070c-113,167 -224,353 -319,538 167,60 240,337 190,492 -1,1 -2,3 -2,5 128,-66 265,-126 401,-170 263,-233 -29,-891 -270,-865zm26 1452c-119,154 -228,330 -321,536 181,-17 334,203 232,375 -1,4 -2,8 -3,12 142,-76 285,-132 394,-136 -28,58 -56,122 -82,190 30,-66 59,-132 88,-198 144,-241 -82,-766 -308,-779zm168 1125c-64,195 -117,412 -149,625 157,-95 398,18 413,198 163,-177 347,-336 523,-400 12,-273 -525,-547 -787,-423z" style="fill:#5722e5"/>
+   <path class="Tail-Hedgehog2fil4 Tail-Hedgehog2str0" d="M10243 18011c-510,276 -1301,1651 -1313,2567 410,-525 981,-1007 1303,-953 -321,180 -1068,1362 -1084,1879 287,-215 882,-539 1290,-522 -498,400 -1015,875 -1220,1895 189,-173 601,-437 842,-446 -218,450 -387,1240 -290,1690 188,-264 604,-831 979,-940 384,-112 1462,128 1523,454 62,326 324,707 625,829 1,-287 30,-617 271,-889 96,379 296,699 513,914 217,-215 416,-535 513,-914 241,272 270,602 271,889 301,-122 563,-503 625,-829 61,-326 1138,-566 1523,-454 375,109 790,676 979,940 97,-450 -72,-1240 -290,-1690 241,9 653,273 842,446 -206,-1020 -722,-1495 -1220,-1895 408,-17 1002,307 1290,522 -16,-517 -763,-1699 -1084,-1879 322,-54 893,428 1303,953 -12,-916 -803,-2291 -1313,-2567 -670,147 -2745,630 -3415,776l-24 -5 -24 5c-670,-146 -2745,-629 -3415,-776z" style="fill:#b3b7de"/>
+   <path class="Tail-Hedgehog2fil2" d="M10194 18040c-189,117 -385,325 -560,585 941,205 -567,1240 -671,1891 359,-464 968,-947 1263,-897 748,498 -959,1254 -992,1822 204,-156 895,-485 1143,-474 552,662 -806,977 -1127,1878 190,-172 570,-405 811,-414 -218,450 -366,1218 -269,1668 189,-263 583,-809 958,-918 384,-112 1462,128 1523,454 62,326 324,707 625,829 1,-287 30,-617 271,-889 96,379 296,699 513,914 217,-215 416,-535 513,-914 241,272 270,602 271,889 301,-122 563,-503 625,-829 61,-326 1138,-566 1523,-454 375,109 808,636 996,899 86,-400 -84,-1099 -241,-1499 -437,-505 -544,-1267 -391,-1587 -194,-563 -120,-1249 224,-1321 -243,-477 -133,-1056 271,-1375 -117,-125 -236,-224 -352,-287 -670,147 -2745,630 -3415,776 -8,-2 -16,-3 -24,-5 -8,2 -16,3 -24,5 -648,-142 -2611,-598 -3345,-760 -40,4 -79,9 -119,13z" style="fill:#db3592"/>
+  </g>
+ </g><g id="RightFoot-Hedgehog4">
+  <metadata id="CorelCorpID_26Corel-Layer"/>
+  <path class="RightFoot-Hedgehog4fil46" d="M17616 25049c58,229 -133,641 -602,281 -416,252 -643,30 -786,-117 -427,-437 -1001,-608 -1224,-792 -174,-144 96,-471 85,-641 326,80 773,48 1052,-20 166,306 1110,284 1425,840 100,176 108,360 50,449z" style="fill:#00a287"/>
+  <path class="RightFoot-Hedgehog4fil47" d="M17616 25049c58,229 -133,641 -602,281 -416,252 -643,30 -786,-117 -427,-437 -1001,-608 -1224,-792 -174,-144 96,-471 85,-641 326,80 773,48 1052,-20 166,306 1110,284 1425,840 100,176 108,360 50,449z" style="fill:#46a4d2"/>
+  <path class="RightFoot-Hedgehog4fil4 RightFoot-Hedgehog4str0" d="M17616 25049c58,229 -133,641 -602,281 -416,252 -643,30 -786,-117 -427,-437 -1001,-608 -1224,-792 -174,-144 96,-471 85,-641 326,80 773,48 1052,-20 166,306 1110,284 1425,840 100,176 108,360 50,449z" style="fill:#546898"/>
+  <path class="RightFoot-Hedgehog4fil43" d="M17075 25357c18,-210 -100,-383 -289,-485 131,162 175,299 151,492 36,28 93,34 138,-7z" style="fill:#3241e8"/>
+  <path class="RightFoot-Hedgehog4fil43" d="M17627 24985c-28,-165 -141,-261 -310,-338 177,173 216,307 240,534 21,-62 50,-133 70,-196z" style="fill:#1e1c64"/>
+  <path class="RightFoot-Hedgehog4fil11" d="M17616 25049c58,229 -133,641 -602,281 -416,252 -643,30 -786,-117 -427,-437 -1001,-608 -1224,-792 -111,-92 -42,-257 20,-409 59,405 671,455 1222,959 269,246 667,277 693,61 92,226 704,254 554,-143 42,29 93,66 147,105 -6,21 -14,40 -24,55z" style="fill:#62a68b"/>
+ </g><g id="LeftFoot-Hedgehog4">
+  <metadata id="CorelCorpID_36Corel-Layer"/>
+  <path class="LeftFoot-Hedgehog4fil52" d="M9796 25049c-58,229 132,641 602,281 416,252 642,30 786,-117 427,-437 1000,-608 1223,-792 175,-144 -96,-471 -84,-641 -326,80 -774,48 -1053,-20 -166,306 -1110,284 -1425,840 -100,176 -108,360 -49,449z" style="fill:#82639a"/>
+  <path class="LeftFoot-Hedgehog4fil47" d="M9796 25049c-58,229 132,641 602,281 416,252 642,30 786,-117 427,-437 1000,-608 1223,-792 175,-144 -96,-471 -84,-641 -326,80 -774,48 -1053,-20 -166,306 -1110,284 -1425,840 -100,176 -108,360 -49,449z" style="fill:#a03d4c"/>
+  <path class="LeftFoot-Hedgehog4fil4 LeftFoot-Hedgehog4str0" d="M9796 25049c-58,229 132,641 602,281 416,252 642,30 786,-117 427,-437 1000,-608 1223,-792 175,-144 -96,-471 -84,-641 -326,80 -774,48 -1053,-20 -166,306 -1110,284 -1425,840 -100,176 -108,360 -49,449z" style="fill:#e03414"/>
+  <path class="LeftFoot-Hedgehog4fil11" d="M9796 25049c-58,229 132,641 602,281 416,252 642,30 786,-117 427,-437 1000,-608 1223,-792 111,-92 42,-257 -20,-409 -59,405 -671,455 -1222,959 -268,246 -666,277 -692,61 -93,226 -705,254 -554,-143 -43,29 -94,66 -148,105 6,21 14,40 25,55z" style="fill:#61a56f"/>
+  <path class="LeftFoot-Hedgehog4fil43" d="M10337 25357c-19,-210 99,-383 288,-485 -131,162 -175,299 -151,492 -35,28 -93,34 -137,-7z" style="fill:#7f8ff9"/>
+  <path class="LeftFoot-Hedgehog4fil43" d="M9784 24985c29,-165 142,-261 311,-338 -178,173 -217,307 -241,534 -20,-62 -49,-133 -70,-196z" style="fill:#bb5f7a"/>
+ </g><g id="RightLeg-Hedgehog4">
+  <metadata id="CorelCorpID_31Corel-Layer"/>
+  <path class="RightLeg-Hedgehog4fil48" d="M13668 23779c967,1 1275,748 2492,357 1135,-365 1011,-1425 437,-2346l-1468 -574c-289,401 -798,1265 -1461,1300l0 1263z" style="fill:#fb3519"/>
+  <path class="RightLeg-Hedgehog4fil47" d="M14371 23915c514,196 914,502 1788,221 267,-86 464,-210 602,-361 -167,94 -334,177 -501,215 56,-112 58,-211 21,-322 -101,166 -246,272 -390,329 -37,-132 -77,-251 -193,-361 -28,148 -135,294 -271,391 -115,-137 -256,-241 -416,-321 41,106 59,212 41,317 -233,-8 -465,-60 -697,-125 0,0 6,6 16,17z" style="fill:#122364"/>
+  <path class="RightLeg-Hedgehog4fil10" d="M13678 23853c373,1 647,119 917,236 100,43 536,225 802,158 -304,-37 -584,-227 -743,-296 -283,-122 -571,-246 -976,-247l0 149zm2756 -2176c149,216 274,444 364,670 100,250 156,499 152,728 -14,725 -589,997 -739,1045 276,14 875,-379 888,-1043 5,-249 -55,-517 -162,-785 -99,-250 -240,-501 -408,-739l-95 124z" style="fill:#e28b9e"/>
+  <path class="RightLeg-Hedgehog4fil11" d="M16859 23678c291,-452 265,-1206 -216,-1646 -364,384 -390,545 -378,566 409,-250 803,197 594,1080z" style="fill:#445695"/>
+ </g><g id="LeftLeg-Hedgehog4">
+  <metadata id="CorelCorpID_41Corel-Layer"/>
+  <path class="LeftLeg-Hedgehog4fil53" d="M13678 23779c-968,1 -1266,748 -2483,357 -1135,-365 -1010,-1425 -437,-2346l1468 -574c289,401 788,1265 1452,1300l0 1263z" style="fill:#37c994"/>
+  <path class="LeftLeg-Hedgehog4fil47" d="M12984 23915c-515,196 -914,502 -1789,221 -266,-86 -463,-210 -601,-361 167,94 334,177 501,215 -57,-112 -58,-211 -21,-322 101,166 246,272 389,329 38,-132 78,-251 194,-361 28,148 135,294 271,391 115,-137 256,-241 416,-321 -41,106 -59,212 -41,317 232,-8 464,-60 697,-125 0,0 -6,6 -16,17z" style="fill:#1862f5"/>
+  <path class="LeftLeg-Hedgehog4fil10" d="M13678 23853c-374,1 -648,119 -918,236 -100,43 -536,225 -802,158 304,-37 584,-227 743,-296 283,-122 571,-246 977,-247l0 149zm-2756 -2176c-150,216 -275,444 -365,670 -100,250 -156,499 -151,728 13,725 588,997 738,1045 -276,14 -875,-379 -888,-1043 -5,-249 55,-517 162,-785 99,-250 240,-501 408,-739l96 124z" style="fill:#81cc55"/>
+  <path class="LeftLeg-Hedgehog4fil11" d="M10497 23678c-292,-452 -266,-1206 215,-1646 364,384 390,545 378,566 -409,-250 -803,197 -593,1080z" style="fill:#d7d15b"/>
+ </g><g id="Body-Hedgehog0">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_57Corel-Layer"/>
+  <path class="Body-Hedgehog0fil67" d="M13682 23636c-1477,0 -2736,-317 -2979,-1737 -144,-843 286,-2153 892,-3046 556,109 1286,175 2087,175 801,0 1531,-66 2087,-175 606,893 1036,2203 892,3046 -243,1420 -1502,1737 -2979,1737z" style="fill:#bb9c73"/>
+  <path class="Body-Hedgehog0fil11" d="M11882 23368c-610,-246 -1046,-692 -1179,-1469 -57,-332 -24,-737 73,-1161 44,1407 281,2075 1106,2630z" style="fill:#ad46e0"/>
+  <path class="Body-Hedgehog0fil10" d="M10914 22537c-141,-186 -224,-430 -261,-694 -28,-202 -29,-416 -9,-626 35,-378 197,-1016 416,-1358 -130,315 -277,999 -296,1371 -23,438 13,904 150,1307z" style="fill:#021403"/>
+  <path class="Body-Hedgehog0fil11" d="M15481 23368c611,-246 1047,-692 1180,-1469 57,-332 24,-737 -73,-1161 -44,1407 -281,2075 -1107,2630z" style="fill:#156b5e"/>
+  <path class="Body-Hedgehog0fil10" d="M16450 22537c249,-328 316,-836 270,-1320 -35,-378 -197,-1016 -416,-1358 130,315 277,999 296,1371 23,438 -13,904 -150,1307z" style="fill:#bc9707"/>
+ </g><g id="WeaponIcicleBack-Small">
+      <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+     <metadata id="CorelCorpID_1Corel-Layer"/>
+  <g id="_2134942652928">
+   <g>
+    <path class="WeaponIcicleBack-Smallfil81" d="M8326.94 19869.71c76.63,23.02 144.55,59.56 205.48,115.34 9.42,3.05 18.55,6.34 27.5,9.92 180.39,18.85 288.39,9.85 470.75,119.48 253.06,152.1 366.78,412.51 413.21,687.82 231.72,193.46 463.44,386.93 695.16,580.39 310.01,29.48 519.33,232.53 632.05,527.7l93.44 78.02c-279.57,245.71 -690.71,678.03 -1112.23,1371.86l-282.18 -160.86c-351.25,-1.34 -641.22,-162.08 -811.61,-466.23 -329.22,-192.54 -658.44,-385.08 -987.66,-577.61 -458.8,15.86 -848.59,-193.11 -1056.36,-606.88 -213.03,-122.08 -426.06,-244.17 -639.1,-366.27 -112.61,-64.54 -185.31,-162.36 -214.62,-288.82 -113.09,-487.89 -149.35,-1084.11 257.31,-1453.54 422.8,-384.1 1069.05,-283.59 1568.39,-139.05 62.74,18.16 113.15,44.98 163.28,86.83 192.4,160.63 384.79,321.27 577.19,481.9z" style="fill:#3fa518"/>
+    <path class="WeaponIcicleBack-Smallfil82" d="M8255.63 20005.58c76.67,18.19 140.53,51.51 198.36,113.07 4.73,1.34 9.39,2.55 13.53,3.64 19.56,5.16 37.08,11.51 53.97,19.71 35.68,4.09 80.68,3.34 114.98,6.23 103.53,8.67 200.7,31.18 292.81,81.01 244.61,132.33 340.07,391.43 374.9,651.79 258.87,216.13 517.72,432.27 776.59,648.38 291.07,9.15 470.01,196.12 563.3,470.32l108.64 90.7c-252.14,238.44 -580.75,605.92 -921.21,1142.3l-322.57 -183.89c-327.62,11.05 -590.96,-132.56 -738.04,-423.73 -354.3,-207.21 -708.6,-414.42 -1062.9,-621.63 -433.16,29.35 -796.05,-160.83 -978.37,-561.72 -226.55,-129.84 -453.1,-259.67 -679.65,-389.51 -75.07,-43.03 -123.53,-108.25 -143.07,-192.55 -99.38,-428.76 -148.38,-981.22 212.05,-1308.65 376.48,-342.01 984.28,-233.79 1425.81,-105.98 41.82,12.11 75.43,29.98 108.86,57.88 200.67,167.55 401.34,335.09 602.01,502.63z" style="fill:#e0bf3d"/>
+    <path class="WeaponIcicleBack-Smallfil83" d="M8188.75 20145.15c63.39,10.21 120.13,31.62 164.79,85.41 3.94,4.74 7.54,9.78 11.34,14.58 15.2,8.94 49.5,18.27 64.4,22.19 15.7,4.14 28.76,9.82 42.1,18.37 22.2,7.17 86.53,7.88 109.18,9.09 83.33,4.49 161.84,14.61 239.33,47.98 242.99,104.64 318.38,371.62 342.27,615.1 288.29,240.69 576.57,481.39 864.86,722.08 272.44,-13.3 413.9,157.02 487.52,407.03l130.33 108.82c-212.76,214.85 -466.96,512.19 -731.57,910.89l-368.46 -210.03c-302.69,23.67 -535.59,-99.71 -658.24,-377.66 -381.34,-223.01 -762.66,-446.03 -1144,-669.05 -406.08,43.01 -739.15,-125.4 -894.86,-513.38 -241.06,-138.15 -482.12,-276.31 -723.17,-414.46 -37.55,-21.52 -61.78,-54.13 -71.55,-96.28 -85.18,-367.52 -145.52,-880.03 166.79,-1163.75 328.66,-298.58 901.32,-183.48 1283.24,-72.93 20.91,6.06 37.72,15 54.43,28.95 210.42,175.69 420.85,351.36 631.27,527.05z" style="fill:#5e85be"/>
+   </g>
+   <path class="WeaponIcicleBack-Smallfil84" d="M6233.46 20787.1c-253.93,-1095.55 256.39,-1349.86 1262.2,-1058.72 221.74,185.13 443.5,370.28 665.24,555.42 179.72,16.01 47.75,66.58 264.45,123.71 144.67,98.15 576.69,-144.81 626.72,620.34 320.46,267.55 640.93,535.12 961.39,802.67 264.11,-39.75 350.74,128.34 403.09,336.55l141.82 118.41c-166.37,176.64 -353.43,400.37 -548.42,679.23l-398.32 -227.07c-300.88,38.95 -481.14,-83.53 -570.9,-327.19 -410.71,-240.2 -821.42,-480.4 -1232.13,-720.6 -273.5,40.82 -649.47,-5.82 -804.86,-461.29 -256.76,-147.15 -513.52,-294.31 -770.28,-441.46z" style="fill:#cc732d"/>
+   <path class="WeaponIcicleBack-Smallfil85" d="M6492.97 20711.49c-457.83,-832.83 673.5,-1119.75 1026.1,-731.73 155.28,129.65 327.18,302.27 482.46,431.91 125.85,11.21 33.45,46.62 185.19,86.63 101.31,68.73 403.82,-101.41 438.87,434.4 224.4,187.35 1148.04,911.44 1372.45,1098.79 184.95,-27.83 222.1,94.27 258.76,240.06 50.51,42.05 92.73,111.14 145.48,187.1 -93.64,108.46 -191.97,230.8 -293.09,367.92 -163.35,-84.43 -324.61,-163.37 -482.34,-234.72 -210.69,27.28 -284.14,-124.72 -346.98,-295.36 -287.61,-168.2 -1197.61,-665.94 -1485.22,-834.14 -191.53,28.59 -567.36,-63.41 -676.17,-382.35 -179.81,-103.05 -445.71,-265.46 -625.51,-368.51z" style="fill:#bce74f"/>
+   <path class="WeaponIcicleBack-Smallfil86" d="M6492.97 20711.49c-303.85,-529.67 76.44,-834.12 396.61,-879.41 -219.48,671.62 -20.52,918.76 623.83,826.73 82.84,326.66 450.06,448.54 643.27,435.44 273.16,190.76 1140.23,760 1413.41,950.77 48.93,175.13 169.48,339.05 381.68,328.78 108.52,74.01 197.48,178.68 291.74,276.88 -43.86,55.36 -88.48,113.75 -133.63,174.96 -162.97,-83.79 -324.43,-162.38 -483.03,-233.79 -210.69,27.28 -284.14,-124.73 -346.98,-295.36 -287.62,-168.2 -1197.62,-665.94 -1485.22,-834.14 -191.53,28.58 -567.36,-63.41 -676.17,-382.35 -179.81,-103.05 -445.71,-265.46 -625.51,-368.51z" style="fill:#2475a9"/>
+   <path class="WeaponIcicleBack-Smallfil87" d="M10169.09 22746.51c-84.64,-54.62 -170.64,-101.71 -240.88,-125.48 -40,-13.52 -219.21,-65.95 -261.83,-67.25 -191.89,-7.12 -352.98,-280 -4.53,-237.43 179.24,66.66 387.25,222.05 552.74,371.18 -15.09,19.35 -30.25,38.95 -45.5,58.98z" style="fill:#b99302"/>
+   <path class="WeaponIcicleBack-Smallfil88" d="M7726.47 20707.79c-54.07,83.33 -296.19,142.33 -470.75,241.83 -66.23,37.75 -110.87,80.54 -144.09,126.45 -76.54,-43.97 -167.94,-98.19 -261.37,-153.81 140.81,-92.9 520.98,-169.35 737.79,-245.59 152.12,-53.48 70.47,-201.59 223.94,-213.77 -41.87,11.1 -43.65,233.79 -85.52,244.89z" style="fill:#9d0664"/>
+   <path class="WeaponIcicleBack-Smallfil89" d="M7649.6 20775.68c-484.37,394.49 -436.5,344.8 -498.16,549.97 73.65,165.22 333.28,244.1 333.28,244.1 0,0 -1064.04,-378.31 164.88,-794.07z" style="fill:#6da4e2"/>
+   <path class="WeaponIcicleBack-Smallfil90" d="M9848.51 22192.56c0,0 -531.35,92.4 -544.36,215.3 -13.02,122.89 15.07,178.45 -44.46,178.56 -59.53,0.12 -402.75,-428.97 588.82,-393.86z" style="fill:#7b984a"/>
+   <path class="WeaponIcicleBack-Smallfil91" d="M10410.69 22210.3c-173.02,110.59 -320.17,208.75 -93.36,349.07l-8.84 10.79c-154.29,-65.38 -410.4,-221.26 102.14,-395.03l0.06 35.17z" style="fill:#936f4f"/>
+   <path class="WeaponIcicleBack-Smallfil92" d="M7328.41 19791.86c116.96,32.84 384.19,286.53 384.4,396.12 0.21,109.59 -273.76,-211.15 -390.66,-210.92 -116.9,0.22 -502.71,-1.9 -542.71,-164.34 -40,-162.43 432.01,-53.71 548.97,-20.86z" style="fill:#2bf17d"/>
+   <path class="WeaponIcicleBack-Smallfil93" d="M7131.26 19617.21c115.04,-23.13 643.07,414.49 664.75,522.34 21.69,107.84 -54,214.01 -169.02,237.13 -115.02,23.13 -597.92,-121.67 -619.61,-229.52 -21.68,-107.85 8.86,-506.82 123.88,-529.95z" style="fill:#d71c40"/>
+   <path class="WeaponIcicleBack-Smallfil84" d="M10108.9 21914.8c93.25,-47.71 272.39,289.97 157.83,236.53 -114.56,-53.44 -316.42,-93.95 -276.36,38.94 40.05,132.88 -84.7,-37.07 -84.8,-91.16 -0.1,-54.09 110.08,-136.6 203.33,-184.31z" style="fill:#1ead28"/>
+   <path class="WeaponIcicleBack-Smallfil94" d="M7910.09 20444.37c31.22,-0.06 17.23,41.59 17.29,70.86 0.06,29.27 -103.85,110.48 -135.07,110.54 -31.22,0.06 0.57,-88.17 0.52,-117.44 -0.06,-29.27 86.04,-63.9 117.26,-63.96z" style="fill:#3c5159"/>
+   <path class="WeaponIcicleBack-Smallfil95" d="M6261.67 20081.73c96.31,-19.36 550.8,359.34 556.62,437.37 1.83,24.62 381.35,103.81 552.18,471.1 124.02,266.63 331.97,440.56 605.5,478.34 422.53,58.34 733.89,275.83 915.08,518.9 195.14,30.73 356.76,269.17 357.25,275.83 0.59,7.9 122.54,33.36 177.43,151.37 39.85,85.68 106.69,141.57 194.56,153.7 46.13,6.36 230.82,99.14 498.24,245.56 -27.44,37.03 -55.08,75.18 -82.91,114.43 -193.22,-116.24 -314.52,-187 -327.67,-188.53 -160.43,-18.8 -418.6,8.84 -466.59,-85.81 -75.91,-55.65 -139.32,-222.83 -172.48,-282.12 3,10.57 2.73,15.91 -1.06,14.72 -1063.46,-335.82 -916.96,-621.79 -1169.48,-651.43 -499.36,-58.61 -747.41,-199.98 -896.77,-494.54 -275.3,-201.81 -640.85,-380.71 -723.1,-444.61 -120.24,-93.42 -90.3,-248.73 -120.53,-270.53 -97.5,-70.29 7.41,-424.38 103.73,-443.75z" style="fill:#5130d4"/>
+   <path class="WeaponIcicleBack-Smallfil96" d="M10223.53 22045.59c57.06,148.39 10.59,161.78 -120.81,98.16 -131.4,-63.62 -111.37,-44.06 -104.65,-97.73 18.71,-149.51 169.68,-145.48 225.46,-0.43z" style="fill:#482d2a"/>
+   <path class="WeaponIcicleBack-Smallfil97" d="M6120.87 20619.9c-32.15,-93.2 59.02,-322.46 82.13,-521.85 8.75,-75.65 1.69,-137.02 -14.1,-191.12 75.69,-34.99 198.07,-161.81 291.92,-203.35 -9.18,168.4 -226.35,465.93 -172.76,843.74 22.61,159.4 241.28,209.95 164.61,340.18 67.69,95.78 -303.58,-63.72 -351.8,-267.6z" style="fill:#22a551"/>
+   <path class="WeaponIcicleBack-Smallfil80 WeaponIcicleBack-Smallstr0" d="M6207 20787.15c-253.93,-1095.55 256.39,-1349.86 1262.2,-1058.72 221.74,185.13 443.5,370.28 665.24,555.42 179.72,16.01 47.75,66.58 264.45,123.71 144.67,98.15 576.69,-144.81 626.72,620.34 320.46,267.55 640.93,535.12 961.39,802.67 264.11,-39.75 350.74,128.34 403.09,336.55l156.61 130.75c-165.57,176.97 -351.15,400.31 -544.3,677.67l-417.23 -237.85c-300.88,38.96 -481.14,-83.53 -570.9,-327.19 -410.71,-240.2 -821.42,-480.4 -1232.13,-720.6 -273.5,40.82 -649.47,-5.82 -804.86,-461.29 -256.76,-147.15 -513.52,-294.31 -770.28,-441.46z" style="fill:#f3dce7"/>
+   <path class="WeaponIcicleBack-Smallfil98" d="M9522.99 21890.13c46.45,30.83 57.13,17.61 68.93,11.57 11.17,-5.72 -0.75,-24.82 0.03,-46.92 -205.26,-87.06 -353.66,-311.44 -408.56,-292.13 -151.07,-157.51 -348.49,-357.6 -537.2,-478.52 -310.99,-199.27 -731.19,-80.71 377.58,419.05 10.75,85.52 66.36,127.37 202.27,147.34 98.99,79.87 197.97,159.74 296.95,239.61z" style="fill:#bdbd0e"/>
+   <path class="WeaponIcicleBack-Smallfil87" d="M8394.73 21747.63c-133.98,-97.27 -447.07,-267.23 -582.63,-331.54 -38.16,-18.09 -272.07,-63.46 -314.69,-64.75 -191.88,-7.13 -300.12,-282.5 48.33,-239.94 241.13,50.16 523.6,247.36 722.02,396.76 110.26,83.01 714.01,465.19 849.85,583.32 -26.45,-32.24 -696.4,-311.61 -722.88,-343.85z" style="fill:#fbf3ba"/>
+   <path class="WeaponIcicleBack-Smallfil99" d="M6633.7 20246.06c0,0 118.41,-96.59 -21.7,-186.66 -160.97,69.07 -215.98,140 -187.07,360.07 25.32,192.95 171.81,379.83 424.46,399.76 -130.69,-72.69 -472.7,-377.89 -215.69,-573.17z" style="fill:#1ba596"/>
+  </g>
+ </g><g id="RightPaw-Hedgehog0">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_47Corel-Layer"/>
+  <path class="RightPaw-Hedgehog0fil61" d="M17864 20421c184,453 629,783 699,998 77,240 -18,466 -126,513 38,206 -104,428 -245,428 -293,0 -324,-205 -437,-341 -104,194 -282,219 -407,135 -156,-104 -201,-398 -167,-539 -32,-115 -136,-329 -216,-410 -165,-601 1086,134 899,-784z" style="fill:#cb8b75"/>
+  <path class="RightPaw-Hedgehog0fil4 RightPaw-Hedgehog0str0" d="M17930 20445c178,390 563,759 633,974 77,240 -11,453 -119,500 27,201 -81,425 -252,441 -291,28 -324,-205 -437,-341 -99,188 -283,219 -407,135 -129,-86 -185,-306 -169,-538 -54,-150 -178,-313 -300,-425" style="fill:#46f030"/>
+  <path class="RightPaw-Hedgehog0fil43" d="M17658 22038c71,-116 109,-352 54,-541 122,143 164,426 98,556 -33,-15 -109,-28 -152,-15z" style="fill:#19f0a2"/>
+  <path class="RightPaw-Hedgehog0fil43" d="M18383 22035c-21,-280 -114,-523 -262,-696 185,99 351,283 368,545 -35,48 -71,103 -106,151z" style="fill:#521d15"/>
+  <path class="RightPaw-Hedgehog0fil11" d="M17726 22066c-105,150 -264,165 -378,88 -68,-45 -114,-125 -143,-214 212,167 465,72 544,-351 10,106 19,211 29,317 -17,53 -35,106 -52,160z" style="fill:#4c462c"/>
+  <path class="RightPaw-Hedgehog0fil11" d="M18473 21910c-12,10 -24,17 -36,22 38,206 -104,428 -245,428 -120,0 -240,-124 -296,-175 326,81 529,-299 303,-766 56,64 111,127 167,191 35,100 71,200 107,300z" style="fill:#bc398f"/>
+ </g><g id="LeftPaw-Hedgehog0">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_62Corel-Layer"/>
+  <path class="LeftPaw-Hedgehog0fil72" d="M9500 20421c-184,453 -629,783 -699,998 -78,240 18,466 125,513 -37,206 105,428 246,428 293,0 324,-205 437,-341 104,194 282,219 407,135 156,-104 201,-398 167,-539 32,-115 136,-329 216,-410 165,-601 -1086,134 -899,-784z" style="fill:#5d96b8"/>
+  <path class="LeftPaw-Hedgehog0fil11" d="M9638 22066c105,150 264,165 378,88 67,-45 114,-125 143,-214 -212,167 -465,72 -544,-351 -10,106 -19,211 -29,317 17,53 34,106 52,160z" style="fill:#430fa9"/>
+  <path class="LeftPaw-Hedgehog0fil11" d="M8891 21910c12,10 23,17 35,22 -37,206 105,428 246,428 120,0 240,-124 296,-175 -326,81 -529,-299 -304,-766 -55,64 -110,127 -166,191 -35,100 -71,200 -107,300z" style="fill:#df8810"/>
+  <path class="LeftPaw-Hedgehog0fil4 LeftPaw-Hedgehog0str0" d="M9434 20445c-179,390 -563,759 -633,974 -78,240 11,453 119,500 -27,201 81,425 252,441 291,28 324,-205 437,-341 99,188 282,219 407,135 128,-86 184,-306 169,-538 54,-150 178,-313 300,-425" style="fill:#cdf166"/>
+  <path class="LeftPaw-Hedgehog0fil43" d="M8981 22035c21,-280 114,-523 262,-696 -185,99 -351,283 -368,545 35,48 71,103 106,151z" style="fill:#b2774e"/>
+  <path class="LeftPaw-Hedgehog0fil43" d="M9706 22038c-71,-116 -109,-352 -54,-541 -122,143 -164,426 -98,556 33,-15 108,-28 152,-15z" style="fill:#eb4e3f"/>
+ </g><g id="NecklaceSweaterDeer-Small">
+  <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_25Corel-Layer"/>
+  <g>
+   <g>
+    <path class="NecklaceSweaterDeer-Smallfil363 NecklaceSweaterDeer-Smallstr0" d="M16699.15 22073.38c0,0 178.91,51.54 155.69,158.26 -23.22,106.72 93.91,212.64 93.91,212.64 0,0 36.39,47.71 -187.07,224.4 -223.47,176.7 -1330.57,813.76 -3086.47,813.8 -1755.91,0.04 -2873.21,-637.1 -3096.67,-813.8 -223.46,-176.69 -187.06,-224.39 -187.06,-224.39 0,0 117.13,-105.93 93.91,-212.65 -23.21,-106.71 155.68,-158.26 155.68,-158.26 900.37,493.43 1993.17,710.08 3029.19,707.13 1036.01,-2.94 1989.15,-137.31 3028.89,-707.13z" style="fill:#d2b98a"/>
+    <path class="NecklaceSweaterDeer-Smallfil255" d="M11647.38 23148.44c-737.54,-214.66 -880.33,-330.7 -1068.84,-479.76 -188.51,-149.06 -187.06,-224.39 -187.06,-224.39 0,0 117.13,-105.93 93.91,-212.65 -23.21,-106.71 155.68,-158.26 155.68,-158.26 1042.85,571.53 2087.78,737.89 3014.98,707.62l0.03 -0.96 14.18 0.47 13.89 -0.46 0.03 0.94c797.83,26.05 2208.81,-231.57 3104.64,-629.55 -1601.5,1517.82 -3820.2,1065.74 -5141.44,997z" style="fill:#408cb8"/>
+    <g>
+     <g>
+      <path class="NecklaceSweaterDeer-Smallfil364 NecklaceSweaterDeer-Smallstr22" d="M16701.31 22618.47c0,0 -140.19,-191.69 -91.69,-296.39" style="fill:#34e604"/>
+      <path class="NecklaceSweaterDeer-Smallfil364 NecklaceSweaterDeer-Smallstr22" d="M16576.09 22736.05c0,0 -140.19,-198.29 -91.69,-306.6" style="fill:#76801c"/>
+      <path class="NecklaceSweaterDeer-Smallfil364 NecklaceSweaterDeer-Smallstr22" d="M16455.88 22822.99c0,0 -140.19,-191.69 -91.69,-296.39" style="fill:#9b86cd"/>
+      <path class="NecklaceSweaterDeer-Smallfil364 NecklaceSweaterDeer-Smallstr22" d="M16250.31 22865.67c0,0 -87.1,-207.96 -14.5,-286.14" style="fill:#fe06f0"/>
+      <path class="NecklaceSweaterDeer-Smallfil364 NecklaceSweaterDeer-Smallstr22" d="M16133.85 22927.16c0,0 -82.6,-223.86 -7.55,-310.72" style="fill:#6ff52c"/>
+      <path class="NecklaceSweaterDeer-Smallfil364 NecklaceSweaterDeer-Smallstr22" d="M15981.59 23004.67c0,0 -80.81,-230.2 -4.78,-320.53" style="fill:#693295"/>
+      <path class="NecklaceSweaterDeer-Smallfil364 NecklaceSweaterDeer-Smallstr22" d="M15842.46 23054.16c0,0 -82.6,-223.85 -7.55,-310.71" style="fill:#8d39e3"/>
+      <path class="NecklaceSweaterDeer-Smallfil364 NecklaceSweaterDeer-Smallstr22" d="M15650.16 23122.5c0,0 -57.3,-218.47 25.43,-285.34" style="fill:#8e4bc5"/>
+      <path class="NecklaceSweaterDeer-Smallfil364 NecklaceSweaterDeer-Smallstr22" d="M15526.33 23166.51c0,0 -50.64,-233.56 35.72,-308.68" style="fill:#eaf28e"/>
+      <path class="NecklaceSweaterDeer-Smallfil364 NecklaceSweaterDeer-Smallstr22" d="M15364.83 23221.18c0,0 -47.98,-239.57 39.84,-317.98" style="fill:#f5bdb0"/>
+      <path class="NecklaceSweaterDeer-Smallfil364 NecklaceSweaterDeer-Smallstr22" d="M15220.24 23250.02c0,0 -50.64,-233.55 35.72,-308.66" style="fill:#344f77"/>
+      <path class="NecklaceSweaterDeer-Smallfil364 NecklaceSweaterDeer-Smallstr22" d="M16796.5 22526.42c0,0 -140.2,-175.14 -91.7,-270.81" style="fill:#3f8462"/>
+     </g>
+     <g>
+      <path class="NecklaceSweaterDeer-Smallfil364 NecklaceSweaterDeer-Smallstr22" d="M10604.11 22608.03c0,0 149.85,-183.92 106.8,-291.07" style="fill:#bfa00b"/>
+      <path class="NecklaceSweaterDeer-Smallfil364 NecklaceSweaterDeer-Smallstr22" d="M10723.12 22732.16c0,0 150.19,-190.52 107.32,-301.28" style="fill:#2b7494"/>
+      <path class="NecklaceSweaterDeer-Smallfil364 NecklaceSweaterDeer-Smallstr22" d="M10838.7 22825.4c0,0 149.85,-183.91 106.8,-291.06" style="fill:#f64da3"/>
+      <path class="NecklaceSweaterDeer-Smallfil364 NecklaceSweaterDeer-Smallstr22" d="M11041.79 22879.03c0,0 97.66,-203.01 29.19,-284.97" style="fill:#79f595"/>
+      <path class="NecklaceSweaterDeer-Smallfil364 NecklaceSweaterDeer-Smallstr22" d="M11154.94 22946.67c0,0 93.98,-219.13 23.5,-309.89" style="fill:#f7be43"/>
+      <path class="NecklaceSweaterDeer-Smallfil364 NecklaceSweaterDeer-Smallstr22" d="M11303 23032.23c0,0 92.53,-225.56 21.24,-319.84" style="fill:#0ceab5"/>
+      <path class="NecklaceSweaterDeer-Smallfil364 NecklaceSweaterDeer-Smallstr22" d="M11439.39 23089.1c0,0 93.99,-219.13 23.51,-309.88" style="fill:#65f74a"/>
+      <path class="NecklaceSweaterDeer-Smallfil364 NecklaceSweaterDeer-Smallstr22" d="M11627.92 23167.64c0,0 68.45,-215.1 -10.73,-286.32" style="fill:#2d4591"/>
+      <path class="NecklaceSweaterDeer-Smallfil364 NecklaceSweaterDeer-Smallstr22" d="M11749.32 23218.21c0,0 62.57,-230.52 -19.81,-310.16" style="fill:#723ca6"/>
+      <path class="NecklaceSweaterDeer-Smallfil364 NecklaceSweaterDeer-Smallstr22" d="M11907.78 23281.46c0,0 60.23,-236.68 -23.44,-319.68" style="fill:#a1c950"/>
+      <path class="NecklaceSweaterDeer-Smallfil364 NecklaceSweaterDeer-Smallstr22" d="M12050.69 23318c0,0 62.58,-230.52 -19.8,-310.15" style="fill:#adf40a"/>
+      <path class="NecklaceSweaterDeer-Smallfil364 NecklaceSweaterDeer-Smallstr22" d="M10513.79 22511.01c0,0 149,-167.39 105.48,-265.52" style="fill:#0692a1"/>
+     </g>
+     <g>
+      <path class="NecklaceSweaterDeer-Smallfil364 NecklaceSweaterDeer-Smallstr22" d="M12330.6 23388.92c0,0 59.17,-302.75 -24.38,-405.25" style="fill:#85d6bb"/>
+      <path class="NecklaceSweaterDeer-Smallfil364 NecklaceSweaterDeer-Smallstr22" d="M12489.97 23421.36c0,0 56.74,-275.7 -28.14,-370.52" style="fill:#0f4b05"/>
+      <path class="NecklaceSweaterDeer-Smallfil364 NecklaceSweaterDeer-Smallstr22" d="M12633.4 23421.35c0,0 59.18,-233.98 -24.36,-313.2" style="fill:#51dde3"/>
+      <path class="NecklaceSweaterDeer-Smallfil364 NecklaceSweaterDeer-Smallstr22" d="M12839.59 23461.79c0,0 3.99,-295.78 -92.1,-354.03" style="fill:#c0da54"/>
+      <path class="NecklaceSweaterDeer-Smallfil364 NecklaceSweaterDeer-Smallstr22" d="M12970.17 23477.77c0,0 -6.05,-312.78 -107.61,-380.32" style="fill:#271bcf"/>
+      <path class="NecklaceSweaterDeer-Smallfil364 NecklaceSweaterDeer-Smallstr22" d="M13139.81 23495.17c0,0 -10.04,-319.56 -113.79,-390.81" style="fill:#f34bb8"/>
+      <path class="NecklaceSweaterDeer-Smallfil364 NecklaceSweaterDeer-Smallstr22" d="M13286.95 23485.22c0,0 -6.04,-312.78 -107.6,-380.31" style="fill:#756285"/>
+      <path class="NecklaceSweaterDeer-Smallfil364 NecklaceSweaterDeer-Smallstr22" d="M13490.31 23471.38c0,0 -27.49,-293.54 -128.79,-333" style="fill:#03c707"/>
+      <path class="NecklaceSweaterDeer-Smallfil364 NecklaceSweaterDeer-Smallstr22" d="M13621.27 23462.46c0,0 -39.23,-308.47 -146.94,-356.08" style="fill:#ce8582"/>
+      <path class="NecklaceSweaterDeer-Smallfil364 NecklaceSweaterDeer-Smallstr22" d="M13791.05 23447.55c0,0 -43.91,-314.43 -154.18,-365.3" style="fill:#ad98b1"/>
+      <path class="NecklaceSweaterDeer-Smallfil364 NecklaceSweaterDeer-Smallstr22" d="M13945.65 23450.73c0,0 -39.21,-308.47 -146.93,-356.08" style="fill:#caf7d5"/>
+      <path class="NecklaceSweaterDeer-Smallfil364 NecklaceSweaterDeer-Smallstr22" d="M12208.46 23325.21c0,0 65.28,-282.69 -14.93,-374.24" style="fill:#be27b5"/>
+     </g>
+     <g>
+      <path class="NecklaceSweaterDeer-Smallfil364 NecklaceSweaterDeer-Smallstr22" d="M15070.26 23353.97c0,0 -97.23,-296.68 -23.79,-395.11" style="fill:#6f1845"/>
+      <path class="NecklaceSweaterDeer-Smallfil364 NecklaceSweaterDeer-Smallstr22" d="M14896.16 23397.85c0,0 -95.69,-304.45 -21.41,-407.12" style="fill:#7919f2"/>
+      <path class="NecklaceSweaterDeer-Smallfil364 NecklaceSweaterDeer-Smallstr22" d="M14744.27 23403.13c0,0 -97.23,-296.67 -23.79,-395.1" style="fill:#9f721d"/>
+      <path class="NecklaceSweaterDeer-Smallfil364 NecklaceSweaterDeer-Smallstr22" d="M14543.16 23413.79c0,0 -70.69,-285.9 11.74,-357.8" style="fill:#9792d5"/>
+      <path class="NecklaceSweaterDeer-Smallfil364 NecklaceSweaterDeer-Smallstr22" d="M14416.88 23450.29c0,0 -64.56,-304 21.24,-385.78" style="fill:#e12b9d"/>
+      <path class="NecklaceSweaterDeer-Smallfil364 NecklaceSweaterDeer-Smallstr22" d="M14252.06 23494.45c0,0 -62.11,-311.22 25.02,-396.94" style="fill:#d4bf7e"/>
+      <path class="NecklaceSweaterDeer-Smallfil364 NecklaceSweaterDeer-Smallstr22" d="M14103.45 23508.48c0,0 -64.56,-303.99 21.23,-385.76" style="fill:#a58255"/>
+     </g>
+    </g>
+    <path class="NecklaceSweaterDeer-Smallfil365" d="M16868.31 22472.54c-118.61,122.31 -572.97,520.46 -1956.26,821.44 1178.55,-311.69 1740.06,-778.61 1878.81,-966.13 28.07,68.65 32.28,78.83 77.45,144.69z" style="fill:#f1b687"/>
+   </g>
+   <g>
+    <path class="NecklaceSweaterDeer-Smallfil366 NecklaceSweaterDeer-Smallstr0" d="M16863.05 21353.52c0,0 0.01,112.04 92.55,163.74 92.54,51.69 0,186.71 128.35,172.34 128.36,-14.37 1119.39,-629.07 1179.09,-772.7 8.94,-100.54 -223.88,-327.47 -223.88,-327.47l-50.74 112.03 -528.36 445.23 -597.01 206.83z" style="fill:#d14a19"/>
+    <path class="NecklaceSweaterDeer-Smallfil255" d="M18103.4 20641.1c0,0 -1280.6,696.91 -1274.62,729.62 5.99,32.71 146.82,140.41 161.19,166.61l56.72 103.41c506.87,-453.57 1098.5,-643.46 1056.71,-999.64z" style="fill:#1c281c"/>
+    <g>
+     <path class="NecklaceSweaterDeer-Smallfil364 NecklaceSweaterDeer-Smallstr22" d="M18136.19 21014.54c0,0 -173.12,-86.17 -179.09,-183.84" style="fill:#7ea4c1"/>
+     <path class="NecklaceSweaterDeer-Smallfil364 NecklaceSweaterDeer-Smallstr22" d="M18001.87 21100.7c0,0 -167.16,-103.41 -143.28,-189.58" style="fill:#a4d98e"/>
+     <path class="NecklaceSweaterDeer-Smallfil364 NecklaceSweaterDeer-Smallstr22" d="M18234.69 20911.12c0,0 -173.12,-86.17 -179.1,-183.84" style="fill:#e07b0c"/>
+     <path class="NecklaceSweaterDeer-Smallfil364 NecklaceSweaterDeer-Smallstr22" d="M17903.37 21198.37c0,0 -167.16,-103.41 -143.28,-189.58" style="fill:#b62541"/>
+     <path class="NecklaceSweaterDeer-Smallfil364 NecklaceSweaterDeer-Smallstr22" d="M17775.02 21290.29c0,0 -167.17,-103.41 -143.29,-189.59" style="fill:#98e804"/>
+     <path class="NecklaceSweaterDeer-Smallfil364 NecklaceSweaterDeer-Smallstr22" d="M17628.75 21359.24c0,0 -167.17,-103.41 -143.28,-189.58" style="fill:#af3eab"/>
+     <path class="NecklaceSweaterDeer-Smallfil364 NecklaceSweaterDeer-Smallstr22" d="M17494.42 21465.52c0,0 -167.16,-103.41 -143.28,-189.59" style="fill:#827520"/>
+     <path class="NecklaceSweaterDeer-Smallfil364 NecklaceSweaterDeer-Smallstr22" d="M17336.21 21508.61c0,0 -167.16,-103.41 -143.28,-189.58" style="fill:#2416f9"/>
+     <path class="NecklaceSweaterDeer-Smallfil364 NecklaceSweaterDeer-Smallstr22" d="M17026.41 21393.72c0,0 167.16,103.41 143.28,189.59" style="fill:#498247"/>
+    </g>
+   </g>
+   <g>
+    <path class="NecklaceSweaterDeer-Smallfil367 NecklaceSweaterDeer-Smallstr0" d="M10455.97 21353.52c0,0 -0.01,112.04 -92.55,163.74 -92.54,51.69 0,186.71 -128.35,172.34 -128.35,-14.37 -1119.39,-629.07 -1179.09,-772.7 -8.94,-100.54 253.73,-361.94 253.73,-361.94l20.9 146.5 528.35 445.23 597.01 206.83z" style="fill:#97f2d4"/>
+    <path class="NecklaceSweaterDeer-Smallfil255" d="M9215.62 20641.1c0,0 1280.6,696.91 1274.62,729.62 -5.98,32.71 -146.82,140.41 -161.19,166.61l-56.71 103.41c-506.88,-453.57 -1098.51,-643.46 -1056.72,-999.64z" style="fill:#ef1862"/>
+    <g>
+     <path class="NecklaceSweaterDeer-Smallfil364 NecklaceSweaterDeer-Smallstr22" d="M9182.83 21014.54c0,0 173.12,-86.17 179.1,-183.84" style="fill:#9f62b5"/>
+     <path class="NecklaceSweaterDeer-Smallfil364 NecklaceSweaterDeer-Smallstr22" d="M9317.15 21100.7c0,0 167.16,-103.41 143.28,-189.58" style="fill:#6f8827"/>
+     <path class="NecklaceSweaterDeer-Smallfil364 NecklaceSweaterDeer-Smallstr22" d="M9084.33 20911.12c0,0 173.12,-86.17 179.1,-183.84" style="fill:#6eae92"/>
+     <path class="NecklaceSweaterDeer-Smallfil364 NecklaceSweaterDeer-Smallstr22" d="M9415.65 21198.37c0,0 167.17,-103.41 143.29,-189.58" style="fill:#6278a0"/>
+     <path class="NecklaceSweaterDeer-Smallfil364 NecklaceSweaterDeer-Smallstr22" d="M9544.01 21290.29c0,0 167.16,-103.41 143.28,-189.59" style="fill:#85e9ca"/>
+     <path class="NecklaceSweaterDeer-Smallfil364 NecklaceSweaterDeer-Smallstr22" d="M9690.28 21359.24c0,0 167.16,-103.41 143.28,-189.58" style="fill:#dff69d"/>
+     <path class="NecklaceSweaterDeer-Smallfil364 NecklaceSweaterDeer-Smallstr22" d="M9824.6 21465.52c0,0 167.17,-103.41 143.28,-189.59" style="fill:#bfdb4b"/>
+     <path class="NecklaceSweaterDeer-Smallfil364 NecklaceSweaterDeer-Smallstr22" d="M9982.81 21508.61c0,0 167.17,-103.41 143.28,-189.58" style="fill:#b98ff9"/>
+     <path class="NecklaceSweaterDeer-Smallfil364 NecklaceSweaterDeer-Smallstr22" d="M10292.62 21393.72c0,0 -167.17,103.41 -143.28,189.59" style="fill:#f1f7d5"/>
+    </g>
+   </g>
+   <path class="NecklaceSweaterDeer-Smallfil368" d="M13669.06 19585.23c-869.85,0 -1647.12,-136.67 -1740.12,-656.3 -651.26,-86.38 -1024.41,-278.41 -1170.03,-188 -312.11,193.75 -1522.94,1511.01 -1495.61,1813.86 -39.41,315.76 683.69,902.71 1222.34,793.92 315.2,-63.66 391.56,-623.34 503.54,-666.26 -123.95,307.99 -415.7,1075.54 -411.94,1371.44 317.12,637.23 1631.91,1025.44 3091.82,1025.44 1459.91,0 2764.11,-441.13 3081.24,-1078.36 3.75,-295.9 -277.42,-1010.53 -401.36,-1318.52 181.04,341.57 204.52,750.69 622.91,671.91 472.99,-89.05 1053.98,-453.42 1070.71,-730.63 -45.91,-262.06 -1185.43,-1929.47 -1769.03,-1864.41 -350.11,39.03 -529.89,90.86 -864.35,169.62 -93,519.63 -870.28,656.29 -1740.12,656.29z" style="fill:#efd360"/>
+   <path class="NecklaceSweaterDeer-Smallfil90" d="M10912.61 20715.2c96.94,-208.45 225.11,-424.67 368.84,-550.55 -78.58,149.23 -170.51,386.92 -247.87,594.1l-120.97 -43.55z" style="fill:#9552fe"/>
+   <path class="NecklaceSweaterDeer-Smallfil369" d="M16472.06 22175.31c-980.06,596.62 -2016.27,641.11 -3209.48,459.51 -889.84,-135.43 -1780.38,-732 -1905.67,-1360.33 1990.16,1272.09 4193.32,1223.62 5115.15,900.82z" style="fill:#c7fba2"/>
+   <path class="NecklaceSweaterDeer-Smallfil369" d="M17190.7 19530.32c0,0 349.8,304.38 792.82,1066.27 152.09,261.54 -724.54,736.99 -1194.01,404.47 -293.8,-699.32 401.19,-1470.74 401.19,-1470.74z" style="fill:#a2787a"/>
+   <g>
+    <path class="NecklaceSweaterDeer-Smallfil285" d="M12062.71 20042.13c-245.63,5.32 -291.76,235.79 -38.19,199.93 47.53,-6.71 37.71,145.52 -55.93,211.47 -51.82,36.49 -122.91,112.75 -98.11,182.63 -81.25,1.54 -157.34,9.5 -185.07,10.35 -27.74,0.85 -198.44,32.39 -148.05,248.18 61.85,264.85 -51.76,-148.86 229.24,-155.1l155.24 4.56 19.15 186.76c32.48,109.23 116.81,216.81 127.7,237.24 -19.14,-79.6 -83.2,-414.46 46.57,-403.29 197.23,27.53 465.55,-76.77 303.98,17.87 -25.95,22.92 -79.91,63.7 -57.58,144.59l111.8 333.92c1.19,-72.78 -25.98,-289.06 32.25,-335.52l118.47 -101.71 -27.74 51.15c-21.89,58.6 -8.9,102.96 20.3,141.32l222.08 291.86c-42.18,-102.65 -145.05,-262.96 -117.01,-369.99l54.94 -227.5 2.55 -90.08 88.19 -148.91 -133.74 39.06 -271.29 -60.67 -211.09 -5.96 -19.11 -266.58 65.62 -10.84 -10.7 -42.02 -54.92 -29.87 31.06 -78.13c30.24,-7.66 70.05,-93.45 100.3,-101.11l109.84 22.98 -14.32 -50.56 -148.07 -18.38 -47.75 82.73 -85.97 -124.09 -76.42 -9.2 109.84 128.69 -19.1 87.33 -59.69 18.38 -69.27 -11.49z" style="fill:#3e49de"/>
+    <path class="NecklaceSweaterDeer-Smallfil285" d="M13791.65 20189.22c-245.63,5.32 -291.76,235.78 -38.19,199.93 47.53,-6.71 37.71,145.52 -55.93,211.46 -51.82,36.5 -122.9,112.76 -98.11,182.64 -81.25,1.54 -157.33,9.49 -185.07,10.35 -27.74,0.85 -198.44,32.38 -148.05,248.18 61.85,264.85 -51.76,-148.87 229.24,-155.1l155.24 4.56 19.15 186.76c32.48,109.23 116.81,216.8 127.7,237.24 -19.13,-79.6 -83.2,-414.47 46.57,-403.3 197.23,27.54 465.55,-76.77 303.98,17.88 -25.95,22.92 -79.91,63.7 -57.58,144.58l111.8 333.92c1.19,-72.77 -25.98,-289.06 32.25,-335.51l118.47 -101.71 -27.74 51.15c-21.88,58.6 -8.9,102.95 20.3,141.32l222.09 291.85c-42.19,-102.64 -145.06,-262.96 -117.02,-369.99l54.94 -227.49 2.55 -90.08 88.19 -148.91 -133.74 39.06 -271.29 -60.67 -211.09 -5.97 -19.11 -266.57 65.63 -10.85 -10.71 -42.01 -54.92 -29.88 31.06 -78.12c30.24,-7.66 70.05,-93.46 100.3,-101.12l109.84 22.98 -14.32 -50.55 -148.07 -18.38 -47.75 82.73 -85.97 -124.09 -76.42 -9.2 109.84 128.69 -19.1 87.33 -59.69 18.37 -69.27 -11.48z" style="fill:#291a88"/>
+    <path class="NecklaceSweaterDeer-Smallfil285" d="M16658.31 19550.79c-186.56,37.54 -187.82,219.62 0.3,157.7 35.27,-11.6 50.19,105.85 -11.53,168.92 -34.15,34.9 -77.14,102.76 -47.94,152.68 -61.75,12.25 -118.61,28.69 -139.64,33.12 -21.03,4.43 -146.59,51.76 -76.39,209.48 86.16,193.58 -61.39,-106.49 152.02,-149.55l119.08 -17.69 42.1 139.85c40.85,78.88 121.01,149.44 132.33,163.54 -26.32,-58.11 -124.48,-304.79 -23.85,-313.96 154.49,-5.89 343.79,-122.02 234.49,-27.81 -16.42,21.02 -51.57,59.48 -22.63,118.14l134.43 239.45c-9.81,-55.67 -62.37,-216.94 -24.8,-260.31l75.39 -93.73 -13.62 42.8c-8.07,47.68 8.36,79.74 36.28,105.02l212.36 192.34c-47.29,-72.54 -149.35,-180.8 -143.72,-266.26l8.41 -181.01 -11.31 -69.05 45.35 -125.61 -96.26 48.03 -215.86 -9.29 -161.89 24.22 -53.81 -200.72 48.45 -17.22 -14.35 -30.59 -46.28 -15.3 12.18 -63.82c21.94,-9.97 39.68,-80.83 61.62,-90.8l87.17 2.56 -18.37 -36.61 -115.64 6.16 -24.25 69.61 -83.84 -82.92 -59.64 3.4 102.72 83.18 -1.71 69.21 -42.82 22.16 -54.53 0.68z" style="fill:#a3c363"/>
+    <path class="NecklaceSweaterDeer-Smallfil285" d="M10613.08 19424.62c-187.5,-32.97 -260.04,135.2 -61.54,146.16 37.2,2.05 4.98,116.24 -76.9,152.25 -45.31,19.92 -111.73,67.16 -104.26,123.99 -61.98,-11.07 -121.09,-16.49 -142.3,-20.02 -21.21,-3.53 -156.05,-5.28 -152.86,166.28 3.9,210.55 -15.12,-120.91 199.41,-83.32l117.22 26.85 -15.84 144.79c6.91,87.89 53.49,182.33 58.44,199.5 -1.59,-63.36 4.21,-327.46 100.99,-299.42 145.38,50.63 366.23,11.8 228.07,59.37 -23.45,13.51 -71.08,36.36 -67.27,101.19l30.63 270.56c12.74,-55.11 27.28,-223.55 79.08,-250.08l106.56 -59.43 -29.39 34.69c-26.17,41.23 -23.51,76.89 -7.57,110.43l121.27 255.22c-15.36,-84.35 -67.44,-221.65 -28.73,-298.76l78.75 -164.58 16.6 -68.06 91.23 -99.86 -107.97 9.53 -196.27 -86.96 -159.42 -36.34 28.84 -205.43 51.63 1.65 -1.3 -33.54 -36.87 -30.97 36.31 -54.68c24.23,-1.27 68.43,-60.46 92.66,-61.73l79.72 34.01 -2.66 -40.57 -109.51 -36.27 -49.74 55.67 -45.14 -107.24 -56.57 -18.5 62.53 114.33 -28.72 63.47 -48.35 4.98 -50.76 -19.16z" style="fill:#546312"/>
+    <path class="NecklaceSweaterDeer-Smallfil285" d="M16666.83 19304.79c63.31,-0.26 114.84,46.85 115.1,105.23 0.27,58.38 -50.84,105.92 -114.14,106.19 -63.31,0.26 -114.84,-46.85 -115.1,-105.23 -0.27,-58.38 50.84,-105.92 114.14,-106.19zm-619.92 214.01c63.3,-0.26 114.84,46.85 115.1,105.23 0.26,58.38 -50.84,105.92 -114.15,106.19 -63.3,0.26 -114.83,-46.85 -115.1,-105.23 -0.26,-58.38 50.84,-105.92 114.15,-106.19zm-724.5 324.77c63.31,-0.26 114.84,46.85 115.11,105.23 0.26,58.38 -50.84,105.93 -114.15,106.19 -63.3,0.27 -114.84,-46.85 -115.1,-105.23 -0.27,-58.38 50.84,-105.92 114.14,-106.19zm-925.87 150.94c63.31,-0.26 114.84,46.85 115.1,105.23 0.27,58.39 -50.84,105.93 -114.14,106.19 -63.31,0.27 -114.84,-46.84 -115.11,-105.23 -0.26,-58.38 50.85,-105.92 114.15,-106.19zm-821.47 3.45c63.3,-0.26 114.83,46.85 115.1,105.23 0.26,58.39 -50.84,105.93 -114.15,106.19 -63.3,0.27 -114.84,-46.84 -115.1,-105.23 -0.26,-58.38 50.84,-105.92 114.15,-106.19zm-841.2 -134.36c63.31,-0.27 114.84,46.84 115.1,105.23 0.27,58.38 -50.84,105.92 -114.14,106.19 -63.31,0.26 -114.84,-46.85 -115.1,-105.23 -0.27,-58.39 50.84,-105.93 114.14,-106.19zm-736.46 -208.33c63.3,-0.27 114.84,46.85 115.1,105.23 0.26,58.38 -50.84,105.92 -114.15,106.19 -63.3,0.26 -114.83,-46.85 -115.1,-105.23 -0.26,-58.38 50.84,-105.93 114.15,-106.19zm-679.32 -245.34c63.31,-0.27 114.84,46.84 115.1,105.23 0.27,58.38 -50.84,105.92 -114.14,106.19 -63.31,0.26 -114.84,-46.85 -115.1,-105.23 -0.27,-58.39 50.84,-105.93 114.14,-106.19zm-593.71 -328.43c63.3,-0.27 114.84,46.84 115.1,105.23 0.26,58.38 -50.84,105.92 -114.15,106.19 -63.3,0.26 -114.83,-46.85 -115.1,-105.23 -0.26,-58.39 50.84,-105.93 114.15,-106.19z" style="fill:#992604"/>
+    <path class="NecklaceSweaterDeer-Smallfil370" d="M9813.69 19811.06c184.58,480.93 620.78,902.56 1081.47,960.13 199.81,109.89 2739.42,1575.18 5518.77,72.83 89.48,-19.14 491.65,11.59 879.13,-257.12 263.8,-182.96 357.15,-438.85 414.36,-549.1 55.62,44.07 125.45,148.39 190.37,256.18 -72.01,153.49 -125.72,296.66 -311.97,435.13 -353.57,262.87 -710.71,294.86 -1076.97,334.56 0,0 -2878.61,1793.18 -5661.23,-81.91 -705.1,-155.82 -1031.2,-448.11 -1274.49,-896.86 43.27,-127.02 144.45,-185.24 240.56,-273.84z" style="fill:#e3fbed"/>
+    <path class="NecklaceSweaterDeer-Smallfil370" d="M10746.33 21435.56l209.87 31.09 191.01 395.26 496.73 -119.49 210.14 441.21 515.8 -193.03 257.93 367.69 458.48 -220.61 458.5 367.68 410.74 -275.76 468.05 275.76 439.39 -386.08 515.83 202.24 305.66 -477.99 429.85 183.84 200.58 -404.45 340.73 74.64 55.21 259.66 -243.11 -49.35 -219.69 413.65 -468.06 -156.27 -329.57 495.35 -530.11 -201.2 -468.05 395.26 -487.68 -285.97 -457.98 258.39 -448.94 -376.88 -515.82 248.19 -267.46 -395.26 -544.47 193.05 -200.57 -450.44 -506.27 128.71 -219.71 -395.25 -185.69 42.6c19.32,-111.84 109.3,-310.59 128.68,-386.24z" style="fill:#346c2a"/>
+    <path class="NecklaceSweaterDeer-Smallfil285" d="M9428.99 20459.16c59.96,10 100.5,62.92 90.53,118.23 -9.96,55.28 -66.63,92.01 -126.58,81.99 -59.96,-10 -100.48,-62.91 -90.52,-118.22 9.95,-55.29 66.64,-92 126.57,-82zm408.93 287.01c59.94,10.01 100.47,62.95 90.52,118.24 -9.96,55.28 -66.63,92.01 -126.59,82.01 -59.95,-10 -100.49,-62.93 -90.53,-118.23 9.96,-55.28 66.65,-92 126.6,-82.02zm526.76 279.65c59.95,9.99 100.47,62.92 90.51,118.22 -9.95,55.28 -66.63,92.02 -126.57,82 -59.97,-9.99 -100.5,-62.91 -90.53,-118.22 9.97,-55.29 66.63,-92.01 126.59,-82zm935.35 477.61c63.31,0 114.63,47.32 114.63,105.71 0,58.38 -51.32,105.71 -114.63,105.71 -63.3,0 -114.62,-47.33 -114.62,-105.71 0,-58.39 51.32,-105.71 114.62,-105.71zm678.2 248.18c63.31,0 114.63,47.33 114.63,105.71 0,58.39 -51.32,105.71 -114.63,105.71 -63.3,0 -114.62,-47.32 -114.62,-105.71 0,-58.38 51.32,-105.71 114.62,-105.71zm735.52 211.42c63.3,0 114.62,47.32 114.62,105.71 0,58.38 -51.32,105.71 -114.62,105.71 -63.31,0 -114.63,-47.33 -114.63,-105.71 0,-58.39 51.32,-105.71 114.63,-105.71zm840.58 137.88c63.3,0 114.62,47.33 114.62,105.71 0,58.39 -51.32,105.71 -114.62,105.71 -63.31,0 -114.63,-47.32 -114.63,-105.71 0,-58.38 51.32,-105.71 114.63,-105.71zm821.48 0c63.3,0 114.62,47.32 114.62,105.71 0,58.38 -51.32,105.71 -114.62,105.71 -63.31,0 -114.63,-47.33 -114.63,-105.71 0,-58.39 51.32,-105.71 114.63,-105.71zm926.55 -147.07c63.3,0 114.62,47.33 114.62,105.71 0,58.39 -51.32,105.71 -114.62,105.71 -63.31,0 -114.63,-47.32 -114.63,-105.71 0,-58.38 51.32,-105.71 114.63,-105.71zm725.95 -321.73c63.31,0 114.63,47.33 114.63,105.71 0,58.38 -51.32,105.71 -114.63,105.71 -63.3,0 -114.62,-47.33 -114.62,-105.71 0,-58.38 51.32,-105.71 114.62,-105.71zm901.22 -532.76c-59.95,9.99 -100.49,62.92 -90.52,118.22 9.95,55.29 66.63,92 126.58,82 59.96,-9.99 100.48,-62.92 90.53,-118.21 -9.97,-55.3 -66.64,-92.01 -126.59,-82.01zm545.86 -160.13c-59.94,10 -100.48,62.93 -90.51,118.22 9.95,55.29 66.62,92.01 126.58,82.01 59.95,-10.01 100.48,-62.93 90.52,-118.22 -9.96,-55.3 -66.63,-92.01 -126.59,-82.01zm413.69 -328.39c-100.93,33.65 -88.54,131.88 -78.58,187.16 9.95,55.28 90.51,34.56 150.46,24.56 59.95,-9.99 38,-34.89 66.65,-112.47 28.64,-77.59 -37.6,-132.91 -138.53,-99.25z" style="fill:#12bcd8"/>
+    <g>
+     <ellipse class="NecklaceSweaterDeer-Smallfil371" cx="16556.77" cy="21518.82" rx="97.89" ry="89.96"/>
+     <path class="NecklaceSweaterDeer-Smallfil371" d="M10791.93 21219.98c42.33,9.92 73.64,45.19 73.64,87.18 0,49.68 -43.83,89.96 -97.89,89.96 -14.94,0 -29.1,-3.08 -41.77,-8.58l66.02 -168.56z" style="fill:#400f87"/>
+    </g>
+   </g>
+   <path class="NecklaceSweaterDeer-Smallfil90" d="M16425.5 20715.2c-96.94,-208.45 -225.11,-424.67 -368.83,-550.55 78.57,149.23 170.5,386.92 247.87,594.1l120.96 -43.55z" style="fill:#218c30"/>
+   <path class="NecklaceSweaterDeer-Smallfil69 NecklaceSweaterDeer-Smallstr0" d="M13669.06 19585.23c-869.85,0 -1647.12,-136.67 -1740.12,-656.3 -651.26,-86.38 -1024.42,-278.4 -1170.03,-188 -312.1,193.74 -1469.22,1465.07 -1441.88,1767.92 -39.41,315.76 635.94,902.69 1174.58,793.89 315.17,-63.66 385.59,-577.37 497.57,-620.29 -123.95,307.99 -436.87,1064.95 -433.11,1360.85 317.12,637.23 1653.08,1036.03 3112.99,1036.03 1459.91,0 2774.68,-441.13 3091.81,-1078.36 3.75,-295.9 -287.99,-1010.53 -411.93,-1318.52 181.04,341.57 201.36,736.59 622.2,671.24 481.39,-74.75 1063.37,-517.75 1088.63,-805.31 -45.92,-262.06 -1202.67,-1854.08 -1786.24,-1789.06 -350.06,39 -529.89,90.86 -864.35,169.62 -93,519.63 -870.28,656.29 -1740.12,656.29z" style="fill:#07cade"/>
+   <path class="NecklaceSweaterDeer-Smallfil90" d="M10929.17 20746.42c-0.25,-165.57 17.75,-345.2 73.93,-469.54 -5.89,121.15 6.7,304.62 19.51,463.75l-93.44 5.79z" style="fill:#2945a5"/>
+   <path class="NecklaceSweaterDeer-Smallfil90" d="M16409.98 20672.88c0.25,-165.57 -17.75,-345.2 -73.93,-469.54 5.89,121.15 -6.7,304.62 -19.51,463.75l93.44 5.79z" style="fill:#ea53a3"/>
+   <path class="NecklaceSweaterDeer-Smallfil162" d="M10213.77 19344.09c-1300.17,1954.86 271.51,1604.16 531.05,1754.06 -260.25,308.97 -882.95,311.85 -1454.65,-522.55 53.97,-533.33 659.19,-913.52 923.6,-1231.51z" style="fill:#4e18cb"/>
+   <path class="NecklaceSweaterDeer-Smallfil162" d="M16350.93 20401.28c667.84,1439.87 1630.03,179.82 1580.51,-91.47 164.16,92.71 279.07,672.65 -991.12,1037.88 -474.53,26.53 -512.53,-501.89 -589.39,-946.41z" style="fill:#dec0f8"/>
+   <path class="NecklaceSweaterDeer-Smallfil162" d="M11231.07 20267.9c-625.8,2253.45 2762.96,3150.34 5083.82,2205.61 -1278.75,897.26 -4956.92,849.6 -5651.61,-380.06 53.98,-533.33 303.38,-1507.56 567.79,-1825.55z" style="fill:#12af9f"/>
+   <path class="NecklaceSweaterDeer-Smallfil365" d="M18193.01 20907.58c-84.55,101.95 -513.64,376.06 -615.62,432.85 70.5,-36.71 565.38,-453.46 537.18,-562.65 -5.95,-23.01 69.46,105.61 78.44,129.8z" style="fill:#f989e4"/>
+   <g>
+    <path class="NecklaceSweaterDeer-Smallfil372" d="M13823.96 20401.02c110.15,-244.04 -3361.99,-152.66 -3615.47,-1116.84 197.33,-81.01 145.01,93.32 444.18,174.64 299.16,81.32 530.13,257.38 1007.74,312.53 477.6,55.15 845.36,137.89 2426.23,206.82 1580.87,68.94 3051.93,-712.39 3051.93,-712.39l85.97 137.88c7.97,12.79 -12.31,37.73 -52.7,69.84 -181.79,144.46 -770.96,434.19 -1026.69,417.34 -9.55,101.12 100,632.37 114.63,937.59 16.66,347.51 -52.16,668.51 -255.96,694.49 -437.73,55.79 -919.72,219.82 -1673.56,546.44 -409.45,177.4 -506.3,-1668.34 -506.3,-1668.34z" style="fill:#8fbe5d"/>
+    <path class="NecklaceSweaterDeer-Smallfil373 NecklaceSweaterDeer-Smallstr0" d="M10384.78 18628.48c-77.65,50.11 -425.07,261.98 -81.2,634.25 343.88,372.28 4183.8,1360.42 6801.08,36.77 219.7,-533.14 -365.31,-681.44 -484.86,-649.13 -374.11,101.1 -848.68,215.75 -1257.61,259.87 -1802.34,194.46 -3415.74,-46.21 -4977.41,-281.76z" style="fill:#a1f883"/>
+    <path class="NecklaceSweaterDeer-Smallfil374 NecklaceSweaterDeer-Smallstr0" d="M16212.18 21234.1c-659.09,64.37 -1532.88,369.93 -1805.12,434.27 -85.51,-430.5 -534.36,-2462.54 -138.56,-2771.69 177.12,-138.34 371.18,-72.99 614.64,-100.63 164.61,-18.7 364.74,-94.85 496.18,-29.32 779.47,388.58 969.91,2106.81 832.86,2467.37z" style="fill:#0926df"/>
+    <path class="NecklaceSweaterDeer-Smallfil375" d="M15482.21 18910.58c164.73,87.28 865.17,1537.8 463.27,2284.23 119.4,-9.19 219.71,-22.97 219.71,-22.97 42.99,-179.24 28.64,-1672.96 -682.98,-2261.26z" style="fill:#494974"/>
+    <path class="NecklaceSweaterDeer-Smallfil375" d="M16652.31 18715.25c14.16,-3.69 582.7,49.02 391.64,544.62l-253.12 110.31c89.71,-71.87 393.24,-470.78 -138.52,-654.93z" style="fill:#2b1afb"/>
+    <path class="NecklaceSweaterDeer-Smallfil376" d="M15856 19130.07c0,0 40.6,52.86 70.45,120.65 161.99,-26.98 445.57,-86.39 569.89,-135.62 16.33,-6.47 23.5,-18.43 33.95,-24.23 12.1,-6.71 18.11,-5.59 20.63,-11.37 -419.11,65.49 -694.92,50.57 -694.92,50.57z" style="fill:#3e07e5"/>
+    <path class="NecklaceSweaterDeer-Smallfil377" d="M15212.01 20256.7c9.32,-188.36 -108.04,-1075.71 -312.6,-1322.47 -14.31,-17.26 -35.79,-57.95 -55.33,-67.42 -21.07,-10.22 -40.32,11.32 -57.15,8.79 -124.17,-11.49 -323.96,-10.74 -379.68,29.87 668.37,-6.21 634.25,730.21 804.76,1351.23z" style="fill:#d85517"/>
+    <path class="NecklaceSweaterDeer-Smallfil377" d="M15005.55 18844.51c-0.83,0.11 38.09,41.91 36.5,44.69 190.94,-43.52 320.76,-17.4 462.61,38.61 -22.1,-9.32 -97.13,-84.8 -186.63,-113.93 -61.13,-17.77 -202.84,2.45 -312.48,30.63z" style="fill:#c891fd"/>
+    <path class="NecklaceSweaterDeer-Smallfil378" d="M11501.12 19123.67c684.18,145.93 1591.61,236.72 2542.05,284.96 0,-78.14 22.68,-197.63 17.91,-234.39 -241.98,212.94 -1682.77,21.43 -2559.96,-50.57z" style="fill:#813144"/>
+    <path class="NecklaceSweaterDeer-Smallfil376" d="M13428.63 19612.72l606.89 23.81 4.53 -93c-74.9,41.44 -272.12,55.62 -611.42,69.19z" style="fill:#9e199d"/>
+    <path class="NecklaceSweaterDeer-Smallfil115" d="M11922.68 18881.19c-837.36,-92.7 -1052.86,-156.24 -1222.7,-188.44 -85.77,-16.26 -177.71,-75.89 -296.09,-22.98 -352.79,157.68 -277,554.58 28.66,680.22l1069.84 358.49c-206.33,-95.46 -305.09,-187.34 -266.28,-286.78l2787.95 144.25 -2548.19 -406.13c-195.1,-87.46 -206.55,-207.95 446.81,-278.63z" style="fill:#1ea134"/>
+    <path class="NecklaceSweaterDeer-Smallfil115" d="M14262.92 19000.66c0,0 -76.41,2445.1 1012.52,2353.17 1088.94,-91.93 -869.24,349.3 -869.24,349.3 0,0 -573.13,-2739.24 -143.28,-2702.47z" style="fill:#d3525e"/>
+    <path class="NecklaceSweaterDeer-Smallfil115" d="M15912.98 19331.55l69.26 165.46c0,0 463.26,-213.72 549.24,-383.77 -334.33,181.54 -618.5,218.31 -618.5,218.31z" style="fill:#0e4324"/>
+    <path class="NecklaceSweaterDeer-Smallfil115" d="M13529.74 19641.78c124.18,91.15 370.14,117.96 556.4,160.85l71.65 -94.21 -628.05 -66.64z" style="fill:#2332c5"/>
+    <path class="NecklaceSweaterDeer-Smallfil90" d="M14046.77 19565.97c-921.8,-48.33 -1965.16,-265.67 -2614.14,-413.65 1290.74,148.53 1758.02,205.25 2653.59,226.81l-39.45 186.84z" style="fill:#ae460a"/>
+    <path class="NecklaceSweaterDeer-Smallfil90" d="M14070.18 19694.03c-245.02,6.16 -526.69,-44.53 -702.23,-80.59 345.24,20.04 470.3,28.35 707.66,13.36l-5.43 67.23z" style="fill:#682cc4"/>
+    <path class="NecklaceSweaterDeer-Smallfil90" d="M15905.65 19343.44c186.28,-24.72 494.68,-155.18 633.94,-236.34 -266.6,79.86 -449.3,121.92 -628.48,131.73l-5.46 104.61z" style="fill:#69ee13"/>
+    <path class="NecklaceSweaterDeer-Smallfil90" d="M14975.34 18795.2c242.81,367.28 325.82,1000.17 245.04,1449.01 -49.45,-637.27 -174.23,-1124.13 -399.23,-1416.13l154.19 -32.88z" style="fill:#2c88b8"/>
+   </g>
+  </g>
+ </g><g id="Ears-Hedgehog8">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_75Corel-Layer"/>
+  <path class="Ears-Hedgehog8fil107 Ears-Hedgehog8str1" d="M10169 13076c-762,746 -2261,267 -3274,-564 -614,-504 -1758,-809 -1653,-1169 141,-486 1259,-865 2012,-948 1297,-142 2657,292 3138,707 -585,599 -211,1080 -223,1974z" style="fill:#a5aa3f"/>
+  <path class="Ears-Hedgehog8fil108" d="M9926 13150c-304,43 -948,112 -1622,-148 -1108,-427 -1424,-1140 -2409,-1417 -220,-62 44,-516 671,-685 859,-231 2400,-64 3625,614 -417,487 -253,1070 -265,1636z" style="fill:#479940"/>
+  <path class="Ears-Hedgehog8fil11" d="M5895 11585c-220,-62 44,-516 671,-685 859,-231 2400,-64 3625,614 -64,74 -206,473 -245,551 -298,-68 -916,187 -1122,519 -71,-236 155,-536 384,-719 -310,-89 -871,29 -1225,140 144,-214 539,-436 858,-469 -2578,-910 -3064,-121 -2946,49z" style="fill:#1dd82e"/>
+  <path class="Ears-Hedgehog8fil109 Ears-Hedgehog8str1" d="M17195 13076c762,746 2261,267 3274,-564 614,-504 1757,-809 1653,-1169 -142,-486 -1259,-865 -2012,-948 -1297,-142 -2658,292 -3138,707 585,599 211,1080 223,1974z" style="fill:#d8418d"/>
+  <path class="Ears-Hedgehog8fil110" d="M17437 13150c305,43 948,112 1623,-148 1108,-427 1423,-1140 2409,-1417 220,-62 -44,-516 -671,-685 -859,-231 -2400,-64 -3625,614 417,487 253,1070 264,1636z" style="fill:#0cb17a"/>
+  <path class="Ears-Hedgehog8fil11" d="M21469 11585c220,-62 -44,-516 -671,-685 -859,-231 -2400,-64 -3625,614 63,74 206,473 245,551 297,-68 916,187 1122,519 71,-236 -155,-536 -384,-719 310,-89 871,29 1225,140 -144,-214 -539,-436 -858,-469 2577,-910 3064,-121 2946,49z" style="fill:#d438f3"/>
+ </g><g id="BraceleteMittens-Small">
+  <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_10Corel-Layer"/>
+  <g>
+   <path class="BraceleteMittens-Smallfil196" d="M18128.53 20909.79c0,0 836.81,632.72 616.39,1081.73 -170.4,724.25 -916.78,490.82 -951.1,338.8 -83.3,-45.9 -53.06,77.55 -232.68,151.03 -179.61,73.48 -297.59,-86.28 -326.55,-200.02l-167.35 -657.19c374.18,-110.48 730.64,-331.76 1061.29,-714.35z" style="fill:#8f64b7"/>
+   <path class="BraceleteMittens-Smallfil197" d="M18101.13 21302.54c14.18,-18.5 10.31,-47.74 37.92,-53.76 38.82,-2.64 28.96,27.41 22.31,45.2 -7.74,20.75 -13.49,42.27 -21.77,61.45 12.77,17.73 25.7,35.63 38.66,53.69 45.05,-20.98 60.31,-13.96 93.66,-21.75 4.96,-31.8 17.72,-47.45 3.01,-67.45 -16.27,-21.91 -53.76,-43.5 -56.4,-68.27 0.48,-17.41 18.5,-25.08 32.5,-19.74 14.04,5.37 27.85,24.75 39.95,35.86 9.18,-12.85 -0.28,-45.25 31.33,-43.97 33.22,1.12 22.15,38.92 22.1,51.3 16.09,-1.87 29.68,-15.85 45.42,-18.52 13.97,-2.34 32.38,9.57 29.68,26.92 -2.67,17.8 -63.54,40.09 -84.82,54.84 -3.01,18.41 -6.06,37.08 -9.08,56.12 18.09,15.57 38.61,12.66 80.92,51.91 64.61,-39.77 54.04,-35.2 52.07,-94.63 -0.6,-18.45 -5.61,-58.44 33.17,-43.41 25.06,14.89 12.97,39.84 19.8,62.77 8.9,-5.67 42.58,-25.55 76.96,-42.28 9.72,12.44 19.38,25.12 28.99,38.03 -30.07,19.86 -62.36,38.54 -70.89,46 22.23,11.06 52.88,7.09 64.04,34.4 9.04,40.62 -33.54,27.5 -52.88,21.72 -70.48,-21.1 -59.35,-23.95 -115.76,22.33 21.1,38.8 22.75,59.62 30.2,95.63 22.69,3.75 45.23,7.4 67.79,10.95 17.46,-14.92 30.91,-29.57 45.46,-44.97 18.02,-19.24 23.97,-27.34 46.62,-24.74 37.65,33.45 10.52,49.43 -16.94,77.79 16.31,12.07 60.14,2.87 59.57,43.05 -0.58,40.1 -44.95,16.74 -62.4,21.07 27.15,42.27 63.6,82.93 6.61,95.61 -29.33,-19.17 -49.17,-64.99 -70.36,-95.29 -17.38,-24.75 -58.04,-21.83 -80.7,-25.67 -15.66,31.76 -18.86,59.14 -50.19,94.28 57.74,82.44 34.53,67.1 139.5,71.87 12.74,0.57 24.03,-0.01 34.88,12.17 12.71,14.52 13.03,32.07 3.88,44 -16.1,21.05 -49.86,6.79 -75.07,13.74 18.94,27.83 116.82,156.25 95.36,183.43 -2.37,3.08 -5.31,4.54 -8.91,4.74 -0.61,4.17 -2.37,7.56 -5.2,10.08 -26.31,22.3 -118.37,-117.23 -138.88,-144.75 -12.01,28.27 -6.8,71.73 -30.27,88.09 -13.53,9.32 -30.43,5.94 -40.87,-13.02 -8.72,-15.93 -5.22,-29.94 -2.17,-45.67 22.79,-123.03 30.94,-93.91 -29.19,-177.03 -42.25,25.87 -69.85,22.63 -106.76,32.64 -3.94,27.7 -21.57,76.84 -1.77,104.07 24.26,33.65 64.81,68.46 75.17,110.29 -32.63,75.68 -63.33,18.05 -99.35,-26.82 -11.7,22.9 -2.93,89.71 -49.26,83.97 -48.02,-6.05 -17.28,-67.79 -24.08,-93.12 -46.12,33.14 -79.23,69.95 -101.94,7.78 8.26,-33 21.42,-39.52 53.13,-60.21 24.71,-15.86 47.27,-30.33 71.45,-49.38 5,-29.31 10.01,-58.08 14.91,-86.32 -35.72,-18.58 -57.85,-26.34 -92.17,-62.49 -80.93,55.95 -71.7,42.62 -82.31,140.44 -3.08,27.87 -9.35,91.04 -57.11,68.75 -29.6,-22.86 -6.24,-65.31 -7.82,-98.75 -32.8,21.23 -239.82,196.32 -257.38,158.32 -17.01,-36.67 196.88,-195.95 223.77,-217.43 -26.08,-15.81 -67.04,-7.39 -71.2,-45.44 4.54,-54.67 53.9,-35.09 77.21,-28.39 72.68,21.01 61.53,32.85 140.3,-32.27 -24.69,-60.56 -12.01,-81.94 -20.95,-106.76 -22.74,-3.3 -45.62,-6.6 -68.59,-9.92 -28.71,18.16 -90.9,81.06 -115.66,77.97 -24.32,-2.89 -28.53,-29.51 -16.56,-45.28 13.11,-17.37 38.94,-27.69 50.66,-45.06 -15.5,-4.67 -70.33,-6.56 -51.49,-44.29 17.34,-34.72 51.78,-11.67 72.51,-16.6 -6.7,-16.95 -22.54,-38.81 -21.11,-55.5 1.33,-16.15 20.15,-30.86 40.53,-24.3 27.12,12.58 33.09,58.21 49.96,83.07 15.41,22.66 39.09,15.23 76.3,21.84 22.57,-30.25 21.72,-47.59 61.4,-82.14 -13.06,-18.53 -26.01,-36.9 -38.78,-55.09 -23.13,-0.07 -48.18,-3.31 -73.72,-4.61 -22.58,-1.08 -60.64,-4.26 -38.68,-38.73 19.39,-21.99 48.78,-6.54 74.29,-11.18 -13.81,-19.53 -79.56,-105.35 -53.19,-118.99 2.22,-1.12 4.73,-1.49 7.46,-1.09 0.85,-2.37 2.29,-4.22 4.52,-5.43 24.9,-14.37 82.94,73.36 96.7,92.33zm242.36 398.78c0,0 -0.08,-0.09 -0.17,-0.18 0.57,-0.31 1.15,-0.71 1.73,-1.11 0.49,-0.4 0.97,-0.89 1.47,-1.38 0.08,0.09 0.17,0.1 0.17,0.1 1.06,-0.71 -26.81,21.5 3.1,-2.4 29.9,-23.91 67.42,-132.09 23.27,-189.87 -62.5,-81.8 -149.18,-46.38 -189.21,-23 -27.98,16.34 -79.34,122.52 -37.87,189.96 41.46,67.43 162.96,55.66 194.4,30.46 31.44,-25.2 2.05,-1.68 3.11,-2.58z" style="fill:#a6a01d"/>
+   <path class="BraceleteMittens-Smallfil80 BraceleteMittens-Smallstr0" d="M18128.53 20909.79c0,0 836.81,632.72 616.39,1081.73 -170.4,724.25 -916.78,490.82 -951.1,338.8 -83.3,-45.9 -53.06,77.55 -232.68,151.03 -179.61,73.48 -297.59,-86.28 -326.55,-200.02l-167.35 -657.19c374.18,-110.48 730.64,-331.76 1061.29,-714.35z" style="fill:#e80e15"/>
+   <path class="BraceleteMittens-Smallfil198 BraceleteMittens-Smallstr0" d="M18140.11 20817.45c-364.24,303.85 -742.61,557.22 -1139.52,763.12 -6.35,65.48 40.45,115.41 90.53,136.9 417.5,-219.43 798.2,-475.66 1139.51,-771.28 -7.69,-47.87 -38.21,-99.47 -90.52,-128.74z" style="fill:#ae54f3"/>
+   <path class="BraceleteMittens-Smallfil199" d="M17721.59 21362.27c-486.38,393.57 -318.85,917.43 -2,969.37 -92.82,143.68 -344.14,281.21 -462.42,-25.28 -26.32,-68.22 -43.83,-149.32 -71.66,-233.61 -75.58,-208.16 -187.08,-410.45 153.59,-488.74 119.95,-27.57 208.61,-105.5 382.49,-221.74z" style="fill:#65f2d5"/>
+  </g>
+  <path class="BraceleteMittens-Smallfil200" d="M17299.65 21396.34c-33.21,55.93 26.14,114.72 80.21,117.67 -14.77,8.83 -230.91,101.1 -249.18,110.48 -45.11,25.41 -116.32,125.01 -160.15,-7.7 -43.84,-132.71 228.96,-131.57 329.12,-220.45z" style="fill:#b479bb"/>
+  <path class="BraceleteMittens-Smallfil201" d="M18133.13 21163.62c195.01,0 487.75,380.77 487.75,644.54 0,263.77 -194.77,510.66 -389.78,510.66 -195.01,0 -316.36,-230.15 -230.63,-477.59 85.72,-247.44 -62.35,-677.61 132.66,-677.61z" style="fill:#47286e"/>
+  <g>
+   <g>
+    <path class="BraceleteMittens-Smallfil202" d="M9216.91 20867.36c0,0 -878.94,572.76 -690.4,1036.06 119.42,734.38 880.27,553.63 925.12,404.37 86.31,-39.97 47.52,81.06 221.57,166.91 174.04,85.84 302.89,-65.3 339.72,-176.73l212.82 -643.91c-365.56,-136.33 -705.7,-381.95 -1008.83,-786.7z" style="fill:#2b0724"/>
+    <path class="BraceleteMittens-Smallfil197" d="M9216.82 21261.07c-12.84,-19.45 -6.95,-48.34 -34.07,-56.27 -38.54,-5.35 -30.8,25.31 -25.41,43.52 6.27,21.24 10.5,43.11 17.43,62.82 -13.98,16.8 -28.13,33.75 -42.32,50.86 -43.47,-24.07 -59.18,-18.13 -91.91,-28.24 -2.72,-32.06 -14.37,-48.57 1.7,-67.49 17.77,-20.72 56.67,-39.64 61.04,-64.16 0.73,-17.4 -16.71,-26.32 -31.04,-21.96 -14.38,4.37 -29.52,22.74 -42.36,32.98 -8.26,-13.46 3.44,-45.12 -28.19,-46.05 -33.21,-1.21 -24.81,37.27 -25.63,49.64 -15.92,-3 -28.5,-17.89 -44.01,-21.66 -13.78,-3.31 -32.97,7.29 -31.49,24.78 1.42,17.95 60.58,44.43 80.78,60.64 1.72,18.57 3.46,37.41 5.14,56.61 -19.13,14.27 -39.39,9.94 -84.34,46.14 -61.68,-44.18 -51.45,-38.89 -45.34,-98.04 1.89,-18.36 9.68,-57.9 -30.06,-45.62 -26.04,13.11 -15.71,38.84 -24.13,61.24 -8.49,-6.28 -40.69,-28.47 -73.82,-47.56 -10.57,11.74 -21.09,23.71 -31.57,35.92 28.6,21.91 59.52,42.8 67.5,50.84 -22.94,9.47 -53.25,3.38 -66.29,29.84 -11.85,39.89 31.54,29.78 51.24,25.36 71.78,-16.13 60.87,-19.75 113.92,30.35 -23.76,37.24 -26.86,57.9 -36.8,93.3 -22.9,2.15 -45.64,4.22 -68.39,6.19 -16.38,-16.11 -28.77,-31.66 -42.21,-48.03 -16.63,-20.46 -22.01,-28.96 -44.78,-27.94 -39.9,30.74 -13.94,48.57 11.46,78.78 -17.11,10.9 -60.19,-1.33 -62.42,38.78 -2.23,40.05 43.67,19.84 60.77,25.38 -30.03,40.27 -69.23,78.29 -13.26,94.92 30.59,-17.08 53.58,-61.4 76.84,-90.15 19.06,-23.47 59.41,-17.72 82.29,-19.98 13.4,32.79 14.69,60.32 43.49,97.57 -63.36,78.2 -39.14,64.52 -144.18,61.94 -12.75,-0.31 -23.97,-1.68 -35.64,9.71 -13.7,13.6 -15.25,31.09 -6.94,43.62 14.59,22.13 49.25,10.26 73.92,18.95 -20.84,26.44 -127.45,147.72 -107.94,176.32 2.15,3.25 4.99,4.91 8.56,5.36 0.32,4.2 1.84,7.71 4.48,10.42 24.7,24.08 126.28,-108.68 148.65,-134.7 10.01,29.03 1.78,72.02 24.06,89.99 12.83,10.24 29.93,8.05 41.67,-10.14 9.81,-15.29 7.3,-29.51 5.35,-45.41 -14.14,-124.32 -24.3,-95.84 41.48,-174.56 40.34,28.75 68.1,27.45 104.22,40.01 2,27.91 16.15,78.16 -5.5,103.94 -26.55,31.88 -69.43,63.77 -82.68,104.78 27.26,77.77 61.91,22.43 100.98,-19.82 10.07,23.66 -3.34,89.7 43.28,87.2 48.32,-2.68 21.97,-66.42 30.52,-91.21 43.69,36.28 74.15,75.31 101.14,14.88 -5.93,-33.5 -18.61,-40.92 -48.79,-63.77 -23.54,-17.55 -45.04,-33.56 -67.83,-54.25 -2.94,-29.59 -5.93,-58.64 -8.85,-87.15 36.93,-16.04 59.55,-22.24 96.31,-55.9 76.83,61.46 68.55,47.51 72.31,145.84 1.12,28.02 2.96,91.47 52.17,72.57 31.12,-20.74 10.78,-64.72 14.69,-97.97 31.24,23.47 225.53,212.59 245.7,175.91 19.53,-35.4 -182.73,-209.22 -208.04,-232.52 27.12,-13.95 67.38,-2.69 74.2,-40.36 -0.72,-54.85 -51.33,-38.77 -75.05,-33.71 -73.96,15.88 -63.67,28.47 -137.7,-41.99 28.86,-58.68 17.7,-80.9 28.35,-105.03 22.91,-1.71 45.97,-3.4 69.11,-5.11 27.38,20.11 85.02,87.21 109.94,85.85 24.47,-1.18 30.52,-27.45 19.68,-44.01 -11.87,-18.25 -36.92,-30.34 -47.39,-48.49 15.79,-3.57 70.61,-1.64 54.45,-40.59 -14.86,-35.84 -50.83,-15.26 -71.17,-21.62 7.87,-16.44 25.19,-37.14 24.94,-53.89 -0.21,-16.2 -17.95,-32.19 -38.74,-27.06 -27.93,10.65 -37.07,55.75 -55.64,79.37 -16.96,21.53 -40.05,12.47 -77.64,16.46 -20.4,-31.75 -18.34,-48.99 -55.51,-86.23 14.32,-17.57 28.52,-34.99 42.53,-52.25 23.08,1.55 48.29,0.06 73.86,0.55 22.61,0.5 60.79,-0.01 41.29,-35.93 -17.81,-23.3 -48.2,-9.93 -73.33,-16.34 15.15,-18.52 86.72,-99.54 61.38,-114.98 -2.14,-1.28 -4.63,-1.82 -7.38,-1.62 -0.68,-2.42 -1.99,-4.37 -4.13,-5.73 -23.83,-16.07 -87.85,67.39 -102.91,85.36zm-269.6 380.89c0,0 0.09,-0.09 0.18,-0.18 -0.55,-0.34 -1.1,-0.78 -1.65,-1.22 -0.46,-0.43 -0.91,-0.96 -1.36,-1.48 -0.1,0.08 -0.19,0.08 -0.19,0.08 -1,-0.78 25.25,23.33 -2.92,-2.61 -28.16,-25.93 -58.04,-136.47 -9.96,-191.03 68.06,-77.23 152.06,-35.85 190.35,-9.73 26.77,18.25 70.59,127.76 24.53,192.14 -46.07,64.37 -166.46,44.15 -196.06,16.81 -29.61,-27.33 -1.93,-1.82 -2.92,-2.78z" style="fill:#366bc4"/>
+    <path class="BraceleteMittens-Smallfil80 BraceleteMittens-Smallstr0" d="M9216.91 20867.36c0,0 -878.94,572.76 -690.4,1036.06 119.42,734.38 880.27,553.63 925.12,404.37 86.31,-39.97 47.52,81.06 221.57,166.91 174.04,85.84 302.89,-65.3 339.72,-176.73l212.82 -643.91c-365.56,-136.33 -705.7,-381.95 -1008.83,-786.7z" style="fill:#5fd501"/>
+    <path class="BraceleteMittens-Smallfil203 BraceleteMittens-Smallstr0" d="M9211.81 20774.44c342.13,328.54 701.89,607.71 1083.46,840.81 1.77,65.77 -48.4,112.3 -99.87,130.24 -401.16,-248.03 -763.04,-530.21 -1082.88,-848.94 11.01,-47.22 45.06,-96.57 99.29,-122.11z" style="fill:#e5306c"/>
+    <path class="BraceleteMittens-Smallfil199" d="M9308.81 21128.37c-521.65,566.17 -296.24,1178.94 -36.64,1251.04 -124.63,97.06 -386.59,27.74 -582.84,-161.63 -185.62,-179.07 -98.85,-189.94 -165.74,-330.16 -41,-56.7 89.77,-674.65 547.14,-923.58 66.38,-36.13 201.5,122.74 238.08,164.33z" style="fill:#35b597"/>
+   </g>
+   <path class="BraceleteMittens-Smallfil204" d="M9797.95 21655.18c113.89,7.97 205.91,241.98 195.13,396.03 -10.78,154.05 -134.63,290.29 -248.52,282.32 -113.89,-7.97 -175.36,-147.35 -115.18,-288.36 60.18,-141.01 54.68,-397.96 168.57,-389.99z" style="fill:#246543"/>
+  </g>
+ </g><g id="Head-Hedgehog7">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_83Corel-Layer"/>
+  <path class="Head-Hedgehog7fil111" d="M13682 9615c-2469,0 -5181,2446 -5797,4997 -451,1869 744,3404 3083,4213 955,331 1878,320 2714,320 835,0 1759,11 2714,-320 2339,-809 3534,-2344 3083,-4213 -616,-2551 -3328,-4997 -5797,-4997z" style="fill:#a9fae2"/>
+  <path class="Head-Hedgehog7fil118" d="M8497 17264c542,651 1383,1185 2471,1561 863,299 1700,319 2470,320 81,0 163,0 244,0 81,0 163,0 244,0 770,-1 1607,-21 2470,-320 1088,-376 1929,-910 2471,-1561 954,-1749 -2913,-1977 -4622,-522 -188,0 -375,0 -563,0 -188,0 -375,0 -563,0 -1709,-1455 -5576,-1227 -4622,522z" style="fill:#d5623d"/>
+  <path class="Head-Hedgehog7fil11" d="M8999 12331c-527,703 -922,1487 -1114,2281 -451,1869 744,3404 3083,4213 576,186 922,234 1286,273 -3444,-1069 -4914,-3710 -3255,-6767z" style="fill:#19f822"/>
+  <path class="Head-Hedgehog7fil10" d="M8591 12934c-489,892 -792,1791 -690,2884 71,443 248,856 524,1232 378,518 941,966 1664,1328 138,69 902,452 1624,644 -569,-34 -1505,-419 -1666,-498 -757,-375 -1346,-843 -1743,-1385 -289,-395 -476,-828 -551,-1293 -151,-959 215,-2204 838,-2912z" style="fill:#e8cf1e"/>
+  <path class="Head-Hedgehog7fil10" d="M18773 12934c489,892 792,1791 690,2884 -71,443 -248,856 -524,1232 -378,518 -941,966 -1664,1328 -138,69 -902,452 -1625,644 570,-34 1506,-419 1667,-498 757,-375 1346,-843 1743,-1385 289,-395 476,-828 550,-1293 151,-959 -215,-2204 -837,-2912z" style="fill:#73afef"/>
+  <path class="Head-Hedgehog7fil119" d="M13682 16404c-184,68 -431,301 -614,369 -160,-561 -490,-995 -1030,-1292 -61,-357 -19,-1028 -81,-1385 89,-296 -28,-738 -123,-944 273,67 536,177 747,347 91,-246 87,-484 50,-729 227,98 474,271 660,493 71,-226 217,-437 391,-643 174,206 319,417 390,643 187,-222 433,-395 661,-493 -37,245 -42,483 50,729 211,-170 474,-280 747,-347 -95,206 -212,648 -124,944 -61,357 -19,1028 -80,1385 -540,297 -870,731 -1030,1292 -183,-68 -430,-301 -614,-369z" style="fill:#d3e034"/>
+ </g><g id="Mouth-Hedgehog5">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_89Corel-Layer"/>
+  <path class="Mouth-Hedgehog5fil4 Mouth-Hedgehog5str0" d="M12607 18016c343,-540 999,-207 1075,-858l0 -569" style="fill:#3c9e35"/>
+  <path class="Mouth-Hedgehog5fil4 Mouth-Hedgehog5str0" d="M14757 18016c-343,-540 -999,-207 -1075,-858l0 -569" style="fill:#28d860"/>
+  <path class="Mouth-Hedgehog5fil43" d="M13682 17129c-26,284 -224,452 -504,594 177,-41 348,-65 504,-65 156,0 327,24 504,65 -280,-142 -478,-310 -504,-594z" style="fill:#4ede90"/>
+ </g><g id="Eyes-Hedgehog3">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_97Corel-Layer"/>
+  <g id="_1891456057456">
+   <path class="Eyes-Hedgehog3fil141" d="M9730 16395c618,339 1878,365 2380,-347 590,-836 -108,-2783 -1068,-2887 -640,-69 -1276,283 -1633,759 -728,972 -352,2105 321,2475z"/>
+   <path class="Eyes-Hedgehog3fil142" d="M12227 15830c180,-457 105,-1100 -125,-1640 -369,-390 -963,-591 -1557,-477 -841,163 -1362,899 -1162,1645 200,747 1044,1220 1885,1057 412,-79 747,-297 959,-585z"/>
+   <path class="Eyes-Hedgehog3fil143" d="M10655 13503c697,-153 1397,292 1563,994 165,702 -266,1395 -964,1548 -697,153 -1397,-292 -1563,-994 -165,-702 266,-1395 964,-1548z"/>
+   <path class="Eyes-Hedgehog3fil124" d="M11361 12479c-87,86 -496,85 -945,250 -413,151 -711,416 -870,355 -177,-69 -101,-445 62,-618 134,-142 563,-317 1007,-310 524,8 851,219 746,323z"/>
+   <path class="Eyes-Hedgehog3fil11" d="M11361 12479c-87,86 -496,85 -945,250 -413,151 -711,416 -870,355 -177,-69 -101,-445 62,-618 134,-142 563,-317 1007,-310 524,8 851,219 746,323z"/>
+   <path class="Eyes-Hedgehog3fil4 Eyes-Hedgehog3str1" d="M9730 16395c618,339 1878,365 2380,-347 590,-836 -108,-2783 -1068,-2887 -640,-69 -1276,283 -1633,759 -728,972 -352,2105 321,2475z"/>
+   <path class="Eyes-Hedgehog3fil128" d="M12309 14952c-103,-833 -627,-1722 -1267,-1791 -640,-69 -1276,283 -1633,759 -152,204 -257,415 -320,625 480,-625 1229,-967 1801,-880 689,104 1204,619 1419,1287z"/>
+   <circle class="Eyes-Hedgehog3fil121" r="235" transform="matrix(1.00604 -1.73646 1.45034 0.622421 10134 14137.3)"/>
+   <circle class="Eyes-Hedgehog3fil121" r="235" transform="matrix(0.511451 -0.0454969 0.0595148 0.498504 11535.1 15214.4)"/>
+   <circle class="Eyes-Hedgehog3fil121" r="235" transform="matrix(0.554042 -1.00473 0.853042 0.350467 11690 15686.9)"/>
+   <path class="Eyes-Hedgehog3fil121" d="M11437 16120c62,-7 69,-27 73,-100 4,73 12,93 74,100 -62,6 -70,26 -74,99 -4,-73 -11,-93 -73,-99z"/>
+   <path class="Eyes-Hedgehog3fil121" d="M11241 15881c62,-6 70,-26 73,-99 4,73 12,93 74,99 -62,6 -70,27 -74,100 -3,-73 -11,-94 -73,-100z"/>
+   <path class="Eyes-Hedgehog3fil121" d="M9559 15580c344,-34 386,-145 408,-550 21,405 63,516 407,550 -344,33 -386,145 -407,549 -22,-404 -64,-516 -408,-549z"/>
+   <path class="Eyes-Hedgehog3fil121" d="M9484 15875c142,-14 159,-60 168,-226 9,166 26,212 168,226 -142,14 -159,60 -168,226 -9,-166 -26,-212 -168,-226z"/>
+   <path class="Eyes-Hedgehog3fil121" d="M10353 15884c62,-6 69,-26 73,-99 4,73 12,93 74,99 -62,6 -70,26 -74,99 -4,-73 -11,-93 -73,-99z"/>
+  </g>
+  <path class="Eyes-Hedgehog3fil144" d="M17634 16395c-618,339 -1878,365 -2380,-347 -591,-836 108,-2783 1067,-2887 641,-69 1277,283 1633,759 729,972 353,2105 -320,2475z"/>
+  <path class="Eyes-Hedgehog3fil142" d="M15137 15830c-180,-457 -105,-1100 125,-1640 369,-390 963,-591 1556,-477 842,163 1362,899 1163,1645 -200,747 -1044,1220 -1886,1057 -412,-79 -747,-297 -958,-585z"/>
+  <path class="Eyes-Hedgehog3fil145" d="M16709 13503c-698,-153 -1397,292 -1563,994 -165,702 266,1395 964,1548 697,153 1397,-292 1562,-994 166,-702 -265,-1395 -963,-1548z"/>
+  <path class="Eyes-Hedgehog3fil124" d="M16003 12479c86,86 496,85 945,250 413,151 711,416 870,355 177,-69 101,-445 -62,-618 -134,-142 -563,-317 -1007,-310 -524,8 -851,219 -746,323z"/>
+  <path class="Eyes-Hedgehog3fil11" d="M16003 12479c86,86 496,85 945,250 413,151 711,416 870,355 177,-69 101,-445 -62,-618 -134,-142 -563,-317 -1007,-310 -524,8 -851,219 -746,323z"/>
+  <path class="Eyes-Hedgehog3fil4 Eyes-Hedgehog3str1" d="M17634 16395c-618,339 -1878,365 -2380,-347 -591,-836 108,-2783 1067,-2887 641,-69 1277,283 1633,759 729,972 353,2105 -320,2475z"/>
+  <path class="Eyes-Hedgehog3fil128" d="M15055 14952c103,-833 626,-1722 1266,-1791 641,-69 1277,283 1633,759 153,204 257,415 320,625 -479,-625 -1228,-967 -1800,-880 -690,104 -1204,619 -1419,1287z"/>
+  <circle class="Eyes-Hedgehog3fil121" r="235" transform="matrix(1.00604 -1.73646 1.45034 0.622421 16084.8 14137.3)"/>
+  <circle class="Eyes-Hedgehog3fil121" r="235" transform="matrix(0.511451 -0.0454969 0.0595148 0.498504 17548.4 15214.4)"/>
+  <circle class="Eyes-Hedgehog3fil121" r="235" transform="matrix(0.554042 -1.00473 0.853042 0.350467 17703.3 15686.9)"/>
+  <path class="Eyes-Hedgehog3fil121" d="M17450 16120c62,-7 70,-27 74,-100 4,73 11,93 73,100 -62,6 -69,26 -73,99 -4,-73 -12,-93 -74,-99z"/>
+  <path class="Eyes-Hedgehog3fil121" d="M17254 15881c62,-6 70,-26 74,-99 4,73 11,93 73,99 -62,6 -69,27 -73,100 -4,-73 -12,-94 -74,-100z"/>
+  <path class="Eyes-Hedgehog3fil121" d="M15510 15580c344,-34 386,-145 407,-550 22,405 64,516 408,550 -344,33 -386,145 -408,549 -21,-404 -63,-516 -407,-549z"/>
+  <path class="Eyes-Hedgehog3fil121" d="M15435 15875c141,-14 159,-60 168,-226 9,166 26,212 167,226 -141,14 -158,60 -167,226 -9,-166 -27,-212 -168,-226z"/>
+  <path class="Eyes-Hedgehog3fil121" d="M16304 15884c62,-6 69,-26 73,-99 4,73 12,93 74,99 -62,6 -70,26 -74,99 -4,-73 -11,-93 -73,-99z"/>
+ </g><g id="HatEarMuffs-Small">
+     <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+     <metadata id="CorelCorpID_18Corel-Layer"/>
+  <g>
+   <g>
+    <path class="HatEarMuffs-Smallfil298" d="M9650.47 9877.3c993.2,-1179.1 2645.52,-1360.3 4091.73,-1370.16l0 -0.45 67.07 0.12 67.06 -0.12 0 0.45c1446.2,9.86 3133.53,213.74 4126.73,1392.83 0,297.48 18.36,584.78 -188.58,1480.25 -1109.83,-1392.59 -2689.92,-1447.4 -4005.21,-1448.09 -1315.29,0.69 -2965.41,100.84 -4075.25,1493.43 -206.93,-895.47 -83.55,-1250.79 -83.55,-1548.26z" style="fill:#f653d5"/>
+    <path class="HatEarMuffs-Smallfil299" d="M12139.4 8624.51c297.17,-28.19 594.53,-41.69 885.23,-46.98 -248.15,4.52 -501.13,15.07 -754.72,35.57l746.29 1004.63c-47.59,0.79 -86.12,8.49 -134.07,9.9l-742.73 -1003.12z" style="fill:#abfc76"/>
+    <path class="HatEarMuffs-Smallfil300" d="M11707.86 8736.9c147.8,-25.54 296.79,-46.25 446.11,-62.99 -15.88,18.84 -32.38,48.7 -49.24,94.77l580.53 875.51c-133.84,8.7 -247.35,37.86 -382.3,54.16l-595.1 -961.45z" style="fill:#5757f3"/>
+    <path class="HatEarMuffs-Smallfil301" d="M9749.67 9843.29c514.47,-610.78 1205.84,-953.74 1953.78,-1143.88l704.31 1279.5c-861.92,129.52 -2011.09,474.53 -2710.8,1352.51 -206.94,-895.47 -52.32,-1190.66 52.71,-1488.13zm8289.46 397.49c-31.65,232.45 -95.68,549.94 -218.81,1082.75 -331.9,-416.46 -697.55,-711.17 -1082.2,-919.84l1301.01 -162.91z" style="fill:#537e1f"/>
+    <path class="HatEarMuffs-Smallfil302" d="M12795.03 8545.09c319.5,-25.84 638.04,-35.84 947.17,-37.95l0 -0.45 67.07 0.12 67.06 -0.12 0 0.45c419.87,2.86 857.11,20.23 1290.55,72.22l1049.77 1405.95c-777.35,-329.25 -1606.56,-380.35 -2384.04,-380.75 -80.96,0.04 -162.68,0.64 -244.99,2.04l-792.59 -1061.51zm5015.85 2200.11c-25.71,117.88 -55.42,249.61 -89.75,398.13 -102.12,-128.15 -207.28,-245.66 -315,-353.54 121.1,-13.3 257.72,-28.35 404.75,-44.59z" style="fill:#f409e1"/>
+    <path class="HatEarMuffs-Smallfil292" d="M9681.5 11200.01c1109.84,-1392.59 2631.6,-1600.43 3946.89,-1601.12 1315.29,0.69 2965.39,61.16 4075.22,1453.75 33.37,-144.41 126.38,-688.21 258.6,-1107.32 0,297.47 76.7,573.44 -130.23,1468.9 -1109.84,-1392.58 -2789.12,-1504.07 -4104.4,-1504.76 -1315.29,0.69 -2936.24,112.18 -4046.08,1504.76 15.46,-82.8 -83.25,42.66 0,-214.21z" style="fill:#2b6bea"/>
+    <path class="HatEarMuffs-Smallfil303" d="M13832.61 9497.45c947.4,0.49 2056.21,118.7 2969.81,681.38 12.58,47.36 14.3,51.04 35,95.66 -926.01,-591 -2040.24,-669.43 -3004.81,-669.93 -884.3,-15.41 -1818.02,33.59 -2733.69,451.65 1199.84,-618.65 2197.1,-558.47 2733.69,-558.76z" style="fill:#2b4c8d"/>
+    <path class="HatEarMuffs-Smallfil80 HatEarMuffs-Smallstr0" d="M9650.47 9877.3c993.2,-1179.1 2645.52,-1360.3 4091.73,-1370.16l0 -0.45 67.07 0.12 67.06 -0.12 0 0.45c1446.2,9.86 3168.53,247.73 4161.72,1426.84 0,297.47 30.05,618.78 -176.88,1514.24 -1109.85,-1392.58 -2736.61,-1515.4 -4051.9,-1516.09 -1315.29,0.69 -3035.43,129.18 -4145.27,1521.76 -206.93,-895.46 -13.53,-1279.12 -13.53,-1576.59z" style="fill:#d378de"/>
+   </g>
+   <g>
+    <path class="HatEarMuffs-Smallfil304" d="M5845.41 9156.64c136.03,-543.63 129.71,-663.46 7.73,-990.64 -68.87,-184.73 510.54,261.85 594.75,615.63 225.36,-73.59 376.31,-410.06 527.31,-956.07l110.08 942.71c229.74,-232.5 258.33,-523.46 203.51,-578.69 86.5,64.63 170.42,-99.85 461.02,337.62 -2.38,-262.21 -5.32,-676.45 183.42,-917.1 -61.89,520.01 580.4,351.97 930.64,864.09 218.86,-135.22 288.34,-508.44 314.47,-810.31 505.84,388.76 746.98,831.41 554.86,1362.2 287.35,-173.24 395.37,-504.44 543.41,-793.62 246.87,356.02 220.18,817.04 129.67,1237.23 196.99,-199.51 312.45,-65.31 427.55,-333.03 111.6,708.86 122.39,1114.89 -331.94,1336.19 59.19,101.43 -358.49,177.19 -319.54,278.39 -369.89,-177.25 -42.24,40.05 -38.07,277.59 -360.89,-261.29 -534.09,33.43 -567.15,24.65 72.3,30.9 427.82,724.4 306.04,1024.18l-306.57 -514.31c73.49,560.84 -98.17,610.4 -277.96,761.54 -216.06,-296.35 -553.12,-428.03 -417.28,-282.49 240.61,257.77 -80.17,298.32 6.24,851.43 -412.85,-248.62 -577.2,-91.54 -785.86,277.47 178.52,72.91 193.66,58.85 298.96,183.75 -285.23,60.24 -426.48,58.98 -581.23,538.99 173.07,-309.22 15.23,127.86 141.96,342.54 -671.4,-398.9 -268.4,750.72 -408.25,584.7l-443.43 249.39 -5.51 492.18c-145.3,-40.65 -198.76,-318.8 -346.76,-380.71 -102.87,353.05 -765.91,805.89 -1357.4,817.86 296.71,-300.96 561.53,-466.98 202.17,-682.37l-660.86 98.32c127.1,-206.28 167.09,-843.78 272.08,-1020.59 -131.07,-210.06 -127.33,-119.27 -674.43,510.8 -86.03,-418.57 -96.01,-718.64 184.16,-1208.52 -1079.32,81.97 -48.36,-65.89 -154.13,-481.87 -192.21,-488.1 -315.76,-179.6 -498.63,128.83 -183.87,-492.22 413.65,-1241.16 436.53,-1115.08l-439.4 150.22c103.21,-27.22 126.04,-437.97 129.87,-555.48l-424.59 177.48c375.32,-244.49 299.64,-945.13 659.28,-1072.54 254.96,-21.62 111.57,-461.33 -164.48,-508.16 315.52,-407.04 494.83,-275.47 554.78,-196.1 -33.45,-245.34 -346.2,-474.7 -627.06,-252.35 330.6,-387.13 732.02,-617.95 1019.44,-568.59 -48.67,-154.38 -68.16,-146.96 -204.88,-280.19 337.16,-264.56 550.56,-349.35 835.48,32.83z" style="fill:#4e30b9"/>
+    <path class="HatEarMuffs-Smallfil275 HatEarMuffs-Smallstr18" d="M7107.07 15309.46c-115.67,-35.75 -232.24,-78.24 -349.59,-127.32 -102.87,353.05 -765.91,805.89 -1357.4,817.86 296.71,-300.96 561.53,-466.98 202.17,-682.37l-660.86 98.32c127.1,-206.28 167.09,-843.78 272.08,-1020.59 -131.07,-210.06 -127.33,-119.27 -674.43,510.8 -86.03,-418.57 -96.01,-718.64 184.16,-1208.52 -1079.32,81.97 -48.36,-65.89 -154.13,-481.87 -192.21,-488.1 -315.76,-179.6 -498.63,128.83 -89.72,-240.16 6.62,-541.4 131.43,-772.34 111.52,-183.51 246.51,-316.38 305.1,-342.74 -4.85,-26.71 -35.52,-14.05 -79.05,27.02l-354.84 121.31 -5.51 1.89c1.87,-0.49 3.7,-1.15 5.51,-1.89 98.5,-40.11 120.6,-438.2 124.36,-553.59l-424.59 177.48c375.32,-244.49 299.64,-945.13 659.28,-1072.54 3.98,-0.34 7.86,-0.78 11.64,-1.32l0.03 0c3.75,-0.54 7.4,-1.17 10.96,-1.89l0.17 -0.03c3.47,-0.71 6.85,-1.51 10.15,-2.4l0.46 -0.12c3.28,-0.89 6.46,-1.87 9.57,-2.93l0.32 -0.11c3.04,-1.05 5.98,-2.18 8.86,-3.38l0.66 -0.27c2.68,-1.14 5.28,-2.36 7.82,-3.62l1.37 -0.7c2.42,-1.25 4.77,-2.55 7.08,-3.93l1.12 -0.67c2.29,-1.41 4.51,-2.86 6.67,-4.38l0.94 -0.66c2.08,-1.49 4.09,-3.05 6.04,-4.65l1.5 -1.24c1.74,-1.47 3.43,-2.98 5.06,-4.54l1.69 -1.62c1.48,-1.45 2.91,-2.95 4.31,-4.48l2.08 -2.34c1.24,-1.42 2.43,-2.88 3.6,-4.36l2.25 -2.95c1.02,-1.4 2.04,-2.79 3,-4.22l1.96 -2.99c0.87,-1.36 1.71,-2.75 2.52,-4.15l2.13 -3.79 2.17 -4.17 1.82 -3.85 1.92 -4.35 1.78 -4.47 1.1 -3c0.78,-2.19 1.51,-4.42 2.19,-6.67l0.3 -0.97c0.83,-2.78 1.59,-5.58 2.28,-8.44l0 -0.03c0.73,-3.01 1.38,-6.06 1.96,-9.14l0.09 -0.53c1.14,-6.22 1.98,-12.6 2.52,-19.13l-0.01 0.36c157.85,-40.64 300.59,21.47 467.86,244.72 -36.88,48.22 -79.95,90.5 -131.56,124.14l424.58 -177.48c-3.81,117.51 -26.65,528.24 -129.85,555.47l447.69 -94.04c-77.74,124.04 -628.7,566.69 -444.83,1058.9 182.87,-308.41 306.41,-616.92 498.63,-128.81 105.77,415.98 -925.19,563.82 154.14,481.85 -280.17,489.88 -270.21,789.98 -184.17,1208.52 547.1,-630.06 543.36,-720.86 674.44,-510.8 -104.99,176.82 -144.98,814.31 -272.09,1020.59l660.85 -98.32c359.36,215.41 94.54,381.43 -202.16,682.37 376.67,-7.62 782.32,-194.05 1053.88,-419.61 7.55,77.72 6.42,118.08 -28.44,76.71l-443.43 249.39 -2.68 238.79zm-2062.37 -4284.75c-2.71,3.81 -5.45,7.58 -8.25,11.28l5.55 -22.3 2.7 11.02z" style="fill:#650c27"/>
+    <path class="HatEarMuffs-Smallfil305" d="M5843.93 9157.51c136.03,-543.64 129.7,-663.46 7.73,-990.64 -68.87,-184.72 510.54,261.85 594.75,615.62 225.37,-73.58 376.31,-410.05 527.31,-956.06l110.09 942.71c229.73,-232.5 258.33,-523.46 203.5,-578.7 86.5,64.64 170.42,-99.84 461.02,337.63 -2.38,-262.21 -5.32,-676.45 183.42,-917.1 -61.89,520.01 580.4,351.96 930.64,864.09 218.87,-135.22 288.34,-508.44 314.47,-810.31 505.84,388.76 746.98,831.41 554.87,1362.2 287.35,-173.24 395.37,-504.44 543.4,-793.62 246.87,356.02 220.18,817.04 129.67,1237.23 196.99,-199.52 312.45,-65.31 427.55,-333.04 18.55,117.83 32.18,227.89 40,330.57 14.32,328.92 65.91,803.18 -362.44,991.13 -22.85,66.61 1.94,88.17 -245.8,170.37 -66.95,41.94 -97.08,24.17 -85.04,121.56 -88.87,-63.2 -61.09,-27.1 -178.28,-65.61 77.44,128.88 90.34,144.87 144.25,347.23 -338.33,-340.86 -434.16,-555.34 -681.04,-911.35 -148.04,289.2 -256.05,620.38 -543.4,793.62 192.09,-530.77 -49.05,-973.41 -554.88,-1362.2 -26.12,301.87 -95.59,675.09 -314.47,810.32 -350.27,-512.11 -992.52,-344.09 -930.64,-864.11 -188.73,240.66 -185.79,654.9 -183.41,917.11 -290.61,-437.45 -374.53,-272.99 -461.02,-337.62 54.82,55.23 26.24,346.19 -203.54,578.7l-110.08 -942.71c-150.99,546 -301.92,882.48 -527.29,956.07 -84.2,-353.8 -663.62,-800.36 -594.75,-615.63 121.98,327.18 128.32,447 -7.72,990.63 -168.22,-225.66 -311.53,-288.47 -470.07,-247.67l0.09 -1.27c0.46,-5.86 0.68,-11.83 0.67,-17.89l-0.02 -2.34c-0.07,-6.19 -0.38,-12.46 -0.92,-18.82l-0.13 -1.47c-0.59,-6.54 -1.42,-13.17 -2.5,-19.86l-0.28 -1.6c-1.1,-6.66 -2.43,-13.36 -4.01,-20.11l-0.41 -1.73c-1.62,-6.82 -3.49,-13.66 -5.57,-20.52l-0.4 -1.33c-2.14,-6.94 -4.49,-13.9 -7.08,-20.86l-0.49 -1.25c-2.64,-7.04 -5.51,-14.07 -8.61,-21.08l-0.4 -0.89c-3.01,-6.77 -6.23,-13.53 -9.64,-20.23l-1.75 -3.36c-1.36,-2.63 -2.78,-5.24 -4.2,-7.84l-2.91 -5.25 -2.5 -4.36 -2.86 -4.81c-1.7,-2.84 -3.45,-5.67 -5.21,-8.47l-2.04 -3.25 -3.66 -5.57 -1.8 -2.69c-1.9,-2.8 -3.84,-5.59 -5.8,-8.36l-3.35 -4.67 -3.03 -4.09 -3.5 -4.6 -4.87 -6.23 -3.96 -4.9 -3.53 -4.22 -4.4 -5.11 -2.49 -2.87c-2.26,-2.53 -4.58,-5.04 -6.89,-7.54l-2.74 -2.89 -5.35 -5.53 -3.5 -3.49c-2.06,-2.03 -4.13,-4.06 -6.25,-6.05l-3.19 -2.97 -5.88 -5.33 -2.7 -2.39c-2.55,-2.23 -5.15,-4.41 -7.76,-6.57l-2.65 -2.16c-2.55,-2.08 -5.12,-4.12 -7.74,-6.12l-0.99 -0.78c-2.89,-2.2 -5.82,-4.33 -8.76,-6.45l-2.83 -2.01c-2.55,-1.8 -5.13,-3.55 -7.75,-5.29l-1.87 -1.25c-2.99,-1.96 -6.03,-3.86 -9.08,-5.72l-2.52 -1.53c-3.04,-1.83 -6.13,-3.61 -9.23,-5.35l-0.67 -0.37c-3.31,-1.83 -6.66,-3.6 -10.04,-5.33l-2.51 -1.26c-3.08,-1.54 -6.19,-3.03 -9.32,-4.47l-1.06 -0.5c-3.4,-1.55 -6.85,-3.02 -10.32,-4.44l-2.57 -1.05c-7.16,-2.88 -14.44,-5.49 -21.84,-7.83l-2.15 -0.67c-7.51,-2.3 -15.13,-4.31 -22.87,-6.03l-2.31 -0.49c-3.86,-0.82 -7.74,-1.6 -11.66,-2.26 315.52,-407.04 494.83,-275.47 554.78,-196.1 -33.44,-245.35 -346.2,-474.71 -627.06,-252.35 330.6,-387.13 732.03,-617.95 1019.44,-568.59 -48.67,-154.38 -68.16,-146.97 -204.87,-280.19 337.15,-264.57 550.55,-349.35 835.47,32.83z" style="fill:#e31255"/>
+    <path class="HatEarMuffs-Smallfil80 HatEarMuffs-Smallstr0" d="M5845.41 9156.64c136.03,-543.63 129.71,-663.46 7.73,-990.64 -68.87,-184.73 510.54,261.85 594.75,615.63 225.36,-73.59 376.31,-410.06 527.31,-956.07l110.08 942.71c229.74,-232.5 258.33,-523.46 203.51,-578.69 86.5,64.63 170.42,-99.85 461.02,337.62 -2.38,-262.21 -5.32,-676.45 183.42,-917.1 -61.89,520.01 580.4,351.97 930.64,864.09 218.86,-135.22 288.34,-508.44 314.47,-810.31 505.84,388.76 746.98,831.41 554.86,1362.2 287.35,-173.24 395.37,-504.44 543.41,-793.62 246.87,356.02 220.18,817.04 129.67,1237.23 196.99,-199.51 312.45,-65.31 427.55,-333.03 111.6,708.86 122.39,1114.89 -331.94,1336.19 59.19,101.43 -358.49,177.19 -319.54,278.39 -369.89,-177.25 -42.24,40.05 -38.07,277.59 -360.89,-261.29 -534.09,33.43 -567.15,24.65 72.3,30.9 427.82,724.4 306.04,1024.18l-306.57 -514.31c73.49,560.84 -98.17,610.4 -277.96,761.54 -216.06,-296.35 -553.12,-428.03 -417.28,-282.49 240.61,257.77 -80.17,298.32 6.24,851.43 -412.85,-248.62 -577.2,-91.54 -785.86,277.47 178.52,72.91 193.66,58.85 298.96,183.75 -285.23,60.24 -426.48,58.98 -581.23,538.99 173.07,-309.22 15.23,127.86 141.96,342.54 -671.4,-398.9 -268.4,750.72 -408.25,584.7l-443.43 249.39 -5.51 492.18c-145.3,-40.65 -198.76,-318.8 -346.76,-380.71 -102.87,353.05 -765.91,805.89 -1357.4,817.86 296.71,-300.96 561.53,-466.98 202.17,-682.37l-660.86 98.32c127.1,-206.28 167.09,-843.78 272.08,-1020.59 -131.07,-210.06 -127.33,-119.27 -674.43,510.8 -86.03,-418.57 -96.01,-718.64 184.16,-1208.52 -1079.32,81.97 -48.36,-65.89 -154.13,-481.87 -192.21,-488.1 -315.76,-179.6 -498.63,128.83 -183.87,-492.22 413.65,-1241.16 436.53,-1115.08l-439.4 150.22c103.21,-27.22 126.04,-437.97 129.87,-555.48l-424.59 177.48c375.32,-244.49 299.64,-945.13 659.28,-1072.54 254.96,-21.62 111.57,-461.33 -164.48,-508.16 315.52,-407.04 494.83,-275.47 554.78,-196.1 -33.45,-245.34 -346.2,-474.7 -627.06,-252.35 330.6,-387.13 732.02,-617.95 1019.44,-568.59 -48.67,-154.38 -68.16,-146.96 -204.88,-280.19 337.16,-264.56 550.56,-349.35 835.48,32.83z" style="fill:#74400c"/>
+   </g>
+   <g>
+    <path class="HatEarMuffs-Smallfil306" d="M21627.44 9156.64c-136.03,-543.63 -129.71,-663.46 -7.73,-990.64 68.87,-184.73 -510.54,261.85 -594.75,615.63 -225.36,-73.59 -376.31,-410.06 -527.31,-956.07l-110.09 942.71c-229.73,-232.5 -258.32,-523.46 -203.5,-578.69 -86.5,64.63 -170.42,-99.85 -461.02,337.62 2.38,-262.21 5.32,-676.45 -183.42,-917.1 61.89,520.01 -580.4,351.97 -930.64,864.09 -218.87,-135.22 -288.34,-508.44 -314.47,-810.31 -505.84,388.76 -746.98,831.41 -554.86,1362.2 -287.35,-173.24 -395.38,-504.44 -543.41,-793.62 -246.87,356.02 -220.18,817.04 -129.67,1237.23 -196.99,-199.51 -312.45,-65.31 -427.55,-333.03 -111.6,708.86 -122.39,1114.89 331.94,1336.19 -59.19,101.43 358.48,177.19 319.54,278.39 369.89,-177.25 42.24,40.05 38.07,277.59 360.88,-261.29 534.09,33.43 567.15,24.65 -72.3,30.9 -427.82,724.4 -306.04,1024.18l306.57 -514.31c-73.49,560.84 98.17,610.4 277.96,761.54 216.06,-296.35 553.12,-428.03 417.28,-282.49 -240.61,257.77 80.17,298.32 -6.24,851.43 412.85,-248.62 577.2,-91.54 785.86,277.47 -178.52,72.91 -193.66,58.85 -298.96,183.75 285.23,60.24 426.48,58.98 581.23,538.99 -173.07,-309.22 -15.23,127.86 -141.96,342.54 671.4,-398.9 268.4,750.72 408.25,584.7l443.43 249.39 5.51 492.18c145.3,-40.65 198.76,-318.8 346.76,-380.71 102.87,353.05 765.91,805.89 1357.4,817.86 -296.71,-300.96 -561.53,-466.98 -202.17,-682.37l660.86 98.32c-127.1,-206.28 -167.1,-843.78 -272.09,-1020.59 131.08,-210.06 127.34,-119.27 674.44,510.8 86.03,-418.57 96.01,-718.64 -184.16,-1208.52 1079.32,81.97 48.36,-65.89 154.13,-481.87 192.2,-488.1 315.76,-179.6 498.63,128.83 183.87,-492.22 -413.65,-1241.16 -436.53,-1115.08l439.4 150.22c-103.21,-27.22 -126.04,-437.97 -129.87,-555.48l424.59 177.48c-375.33,-244.49 -299.64,-945.13 -659.28,-1072.54 -254.96,-21.62 -111.57,-461.33 164.48,-508.16 -315.52,-407.04 -494.83,-275.47 -554.78,-196.1 33.44,-245.34 346.2,-474.7 627.06,-252.35 -330.6,-387.13 -732.02,-617.95 -1019.44,-568.59 48.67,-154.38 68.16,-146.96 204.87,-280.19 -337.15,-264.56 -550.55,-349.35 -835.47,32.83z" style="fill:#241f16"/>
+    <path class="HatEarMuffs-Smallfil275 HatEarMuffs-Smallstr18" d="M20365.78 15309.46c115.67,-35.75 232.24,-78.24 349.59,-127.32 102.87,353.05 765.91,805.89 1357.4,817.86 -296.71,-300.96 -561.53,-466.98 -202.17,-682.37l660.86 98.32c-127.1,-206.28 -167.1,-843.78 -272.09,-1020.59 131.08,-210.06 127.34,-119.27 674.44,510.8 86.03,-418.57 96.01,-718.64 -184.16,-1208.52 1079.32,81.97 48.36,-65.89 154.13,-481.87 192.2,-488.1 315.76,-179.6 498.63,128.83 89.72,-240.16 -6.62,-541.4 -131.43,-772.34 -111.52,-183.51 -246.51,-316.38 -305.1,-342.74 4.85,-26.71 35.52,-14.05 79.05,27.02l354.84 121.31 5.51 1.89c-1.87,-0.49 -3.7,-1.15 -5.51,-1.89 -98.5,-40.11 -120.6,-438.2 -124.36,-553.59l424.59 177.48c-375.33,-244.49 -299.64,-945.13 -659.28,-1072.54 -3.98,-0.34 -7.86,-0.78 -11.64,-1.32l-0.03 0c-3.75,-0.54 -7.4,-1.17 -10.96,-1.89l-0.17 -0.03c-3.47,-0.71 -6.85,-1.51 -10.15,-2.4l-0.46 -0.12c-3.28,-0.89 -6.46,-1.87 -9.57,-2.93l-0.32 -0.11c-3.04,-1.05 -5.98,-2.18 -8.86,-3.38l-0.66 -0.27c-2.68,-1.14 -5.29,-2.36 -7.82,-3.62l-1.37 -0.7c-2.42,-1.25 -4.77,-2.55 -7.08,-3.93l-1.12 -0.67c-2.3,-1.41 -4.51,-2.86 -6.67,-4.38l-0.94 -0.66c-2.08,-1.49 -4.09,-3.05 -6.04,-4.65l-1.5 -1.24c-1.74,-1.47 -3.43,-2.98 -5.06,-4.54l-1.69 -1.62c-1.48,-1.45 -2.91,-2.95 -4.31,-4.48l-2.08 -2.34c-1.24,-1.42 -2.43,-2.88 -3.6,-4.36l-2.25 -2.95c-1.02,-1.4 -2.04,-2.79 -3,-4.22l-1.96 -2.99c-0.87,-1.36 -1.71,-2.75 -2.52,-4.15l-2.13 -3.79 -2.18 -4.17 -1.81 -3.85 -1.92 -4.35 -1.78 -4.47 -1.1 -3c-0.78,-2.19 -1.51,-4.42 -2.19,-6.67l-0.3 -0.97c-0.83,-2.78 -1.59,-5.58 -2.28,-8.44l0 -0.03c-0.73,-3.01 -1.38,-6.06 -1.96,-9.14l-0.1 -0.53c-1.13,-6.22 -1.97,-12.6 -2.51,-19.13l0.01 0.36c-157.85,-40.64 -300.59,21.47 -467.87,244.72 36.89,48.22 79.95,90.5 131.57,124.14l-424.58 -177.48c3.81,117.51 26.65,528.24 129.85,555.47l-447.69 -94.04c77.74,124.04 628.69,566.69 444.82,1058.9 -182.86,-308.41 -306.4,-616.92 -498.62,-128.81 -105.77,415.98 925.19,563.82 -154.14,481.85 280.17,489.88 270.21,789.98 184.17,1208.52 -547.1,-630.06 -543.36,-720.86 -674.44,-510.8 104.99,176.82 144.98,814.31 272.09,1020.59l-660.86 -98.32c-359.36,215.41 -94.53,381.43 202.17,682.37 -376.67,-7.62 -782.32,-194.05 -1053.88,-419.61 -7.55,77.72 -6.42,118.08 28.44,76.71l443.43 249.39 2.68 238.79zm2062.37 -4284.75c2.71,3.81 5.45,7.58 8.25,11.28l-5.55 -22.3 -2.7 11.02z" style="fill:#2eb205"/>
+    <path class="HatEarMuffs-Smallfil305" d="M21628.92 9157.51c-136.03,-543.64 -129.7,-663.46 -7.73,-990.64 68.87,-184.72 -510.54,261.85 -594.76,615.62 -225.36,-73.58 -376.3,-410.05 -527.3,-956.06l-110.09 942.71c-229.74,-232.5 -258.33,-523.46 -203.5,-578.7 -86.5,64.64 -170.42,-99.84 -461.02,337.63 2.38,-262.21 5.32,-676.45 -183.42,-917.1 61.89,520.01 -580.4,351.96 -930.64,864.09 -218.87,-135.22 -288.34,-508.44 -314.47,-810.31 -505.85,388.76 -746.98,831.41 -554.87,1362.2 -287.35,-173.24 -395.37,-504.44 -543.4,-793.62 -246.88,356.02 -220.18,817.04 -129.67,1237.23 -196.99,-199.52 -312.45,-65.31 -427.56,-333.04 -18.54,117.83 -32.17,227.89 -39.99,330.57 -14.32,328.92 -65.91,803.18 362.44,991.13 22.85,66.61 -1.94,88.17 245.8,170.37 66.95,41.94 97.08,24.17 85.04,121.56 88.87,-63.2 61.09,-27.1 178.28,-65.61 -77.44,128.88 -90.34,144.87 -144.25,347.23 338.32,-340.86 434.16,-555.34 681.04,-911.35 148.04,289.2 256.05,620.38 543.4,793.62 -192.09,-530.77 49.05,-973.41 554.87,-1362.2 26.13,301.87 95.6,675.09 314.48,810.32 350.27,-512.11 992.52,-344.09 930.64,-864.11 188.73,240.66 185.79,654.9 183.4,917.11 290.62,-437.45 374.54,-272.99 461.02,-337.62 -54.81,55.23 -26.23,346.19 203.54,578.7l110.09 -942.71c150.99,546 301.92,882.48 527.28,956.07 84.21,-353.8 663.63,-800.36 594.76,-615.63 -121.98,327.18 -128.32,447 7.72,990.63 168.22,-225.66 311.53,-288.47 470.07,-247.67l-0.09 -1.27c-0.46,-5.86 -0.68,-11.83 -0.67,-17.89l0.02 -2.34c0.07,-6.19 0.37,-12.46 0.92,-18.82l0.13 -1.47c0.59,-6.54 1.42,-13.17 2.5,-19.86l0.28 -1.6c1.1,-6.66 2.43,-13.36 4.01,-20.11l0.41 -1.73c1.62,-6.82 3.49,-13.66 5.57,-20.52l0.4 -1.33c2.14,-6.94 4.49,-13.9 7.08,-20.86l0.49 -1.25c2.64,-7.04 5.51,-14.07 8.61,-21.08l0.4 -0.89c3.01,-6.77 6.23,-13.53 9.64,-20.23l1.75 -3.36c1.36,-2.63 2.77,-5.24 4.2,-7.84l2.91 -5.25 2.5 -4.36 2.86 -4.81c1.69,-2.84 3.45,-5.67 5.21,-8.47l2.04 -3.25 3.66 -5.57 1.8 -2.69c1.9,-2.8 3.84,-5.59 5.8,-8.36l3.35 -4.67 3.03 -4.09 3.5 -4.6 4.87 -6.23 3.96 -4.9 3.53 -4.22 4.4 -5.11 2.49 -2.87c2.26,-2.53 4.58,-5.04 6.89,-7.54l2.74 -2.89 5.35 -5.53 3.5 -3.49c2.06,-2.03 4.13,-4.06 6.25,-6.05l3.19 -2.97 5.87 -5.33 2.71 -2.39c2.55,-2.23 5.14,-4.41 7.76,-6.57l2.64 -2.16c2.56,-2.08 5.13,-4.12 7.74,-6.12l1 -0.78c2.89,-2.2 5.82,-4.33 8.76,-6.45l2.83 -2.01c2.55,-1.8 5.13,-3.55 7.75,-5.29l1.87 -1.25c2.99,-1.96 6.03,-3.86 9.08,-5.72l2.52 -1.53c3.04,-1.83 6.13,-3.61 9.23,-5.35l0.67 -0.37c3.31,-1.83 6.66,-3.6 10.04,-5.33l2.51 -1.26c3.08,-1.54 6.18,-3.03 9.32,-4.47l1.05 -0.5c3.41,-1.55 6.86,-3.02 10.32,-4.44l2.57 -1.05c7.17,-2.88 14.45,-5.49 21.85,-7.83l2.15 -0.67c7.51,-2.3 15.12,-4.31 22.86,-6.03l2.32 -0.49c3.86,-0.82 7.74,-1.6 11.65,-2.26 -315.52,-407.04 -494.82,-275.47 -554.77,-196.1 33.44,-245.35 346.2,-474.71 627.06,-252.35 -330.6,-387.13 -732.03,-617.95 -1019.44,-568.59 48.67,-154.38 68.16,-146.97 204.87,-280.19 -337.15,-264.57 -550.55,-349.35 -835.47,32.83z" style="fill:#d89251"/>
+    <path class="HatEarMuffs-Smallfil80 HatEarMuffs-Smallstr0" d="M21627.44 9156.64c-136.03,-543.63 -129.71,-663.46 -7.73,-990.64 68.87,-184.73 -510.54,261.85 -594.75,615.63 -225.36,-73.59 -376.31,-410.06 -527.31,-956.07l-110.09 942.71c-229.73,-232.5 -258.32,-523.46 -203.5,-578.69 -86.5,64.63 -170.42,-99.85 -461.02,337.62 2.38,-262.21 5.32,-676.45 -183.42,-917.1 61.89,520.01 -580.4,351.97 -930.64,864.09 -218.87,-135.22 -288.34,-508.44 -314.47,-810.31 -505.84,388.76 -746.98,831.41 -554.86,1362.2 -287.35,-173.24 -395.38,-504.44 -543.41,-793.62 -246.87,356.02 -220.18,817.04 -129.67,1237.23 -196.99,-199.51 -312.45,-65.31 -427.55,-333.03 -111.6,708.86 -122.39,1114.89 331.94,1336.19 -59.19,101.43 358.48,177.19 319.54,278.39 369.89,-177.25 42.24,40.05 38.07,277.59 360.88,-261.29 534.09,33.43 567.15,24.65 -72.3,30.9 -427.82,724.4 -306.04,1024.18l306.57 -514.31c-73.49,560.84 98.17,610.4 277.96,761.54 216.06,-296.35 553.12,-428.03 417.28,-282.49 -240.61,257.77 80.17,298.32 -6.24,851.43 412.85,-248.62 577.2,-91.54 785.86,277.47 -178.52,72.91 -193.66,58.85 -298.96,183.75 285.23,60.24 426.48,58.98 581.23,538.99 -173.07,-309.22 -15.23,127.86 -141.96,342.54 671.4,-398.9 268.4,750.72 408.25,584.7l443.43 249.39 5.51 492.18c145.3,-40.65 198.76,-318.8 346.76,-380.71 102.87,353.05 765.91,805.89 1357.4,817.86 -296.71,-300.96 -561.53,-466.98 -202.17,-682.37l660.86 98.32c-127.1,-206.28 -167.1,-843.78 -272.09,-1020.59 131.08,-210.06 127.34,-119.27 674.44,510.8 86.03,-418.57 96.01,-718.64 -184.16,-1208.52 1079.32,81.97 48.36,-65.89 154.13,-481.87 192.2,-488.1 315.76,-179.6 498.63,128.83 183.87,-492.22 -413.65,-1241.16 -436.53,-1115.08l439.4 150.22c-103.21,-27.22 -126.04,-437.97 -129.87,-555.48l424.59 177.48c-375.33,-244.49 -299.64,-945.13 -659.28,-1072.54 -254.96,-21.62 -111.57,-461.33 164.48,-508.16 -315.52,-407.04 -494.83,-275.47 -554.78,-196.1 33.44,-245.34 346.2,-474.7 627.06,-252.35 -330.6,-387.13 -732.02,-617.95 -1019.44,-568.59 48.67,-154.38 68.16,-146.96 204.87,-280.19 -337.15,-264.56 -550.55,-349.35 -835.47,32.83z" style="fill:#b7a230"/>
+   </g>
+  </g>
+ </g><g id="Moustache-Hedgehog0">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_104Corel-Layer"/>
+  <path class="Moustache-Hedgehog0fil4" d="M12932 15292l1500 0 0 1420 -1500 0 0 -1420zm676 -960l301 0 0 924 -301 0 0 -924z" style="fill:#96dd9d"/>
+ </g><g id="Nose-Hedgehog0">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_112Corel-Layer"/>
+  <path class="Nose-Hedgehog0fil186 Nose-Hedgehog0str0" d="M13682 16404c-251,0 -601,120 -574,299 3,16 8,34 14,52 59,162 274,374 560,374 319,0 549,-262 573,-426 27,-179 -322,-299 -573,-299z" style="fill:#973fdd"/>
+ </g><g id="Hair-Hedgehog2">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_115Corel-Layer"/>
+  <path class="Hair-Hedgehog2fil189" d="M13682 8946c-89,-724 -1053,-2442 -2127,-2744 578,705 1007,2094 878,2849 -380,-650 -1645,-1787 -2574,-1917 499,523 1363,1657 1459,2241 -561,-403 -1529,-865 -2532,-770 724,286 1689,1174 1750,1609 -430,-285 -1897,-385 -2664,-157 953,253 1905,648 2213,1122 1095,-556 2842,228 3597,228 754,0 2502,-784 3596,-228 309,-474 1261,-869 2214,-1122 -767,-228 -2234,-128 -2664,157 61,-435 1026,-1323 1750,-1609 -1003,-95 -1971,367 -2532,770 96,-584 466,-1578 1008,-2133 -790,237 -1743,1159 -2123,1809 -151,-787 -87,-2069 352,-2774 -967,377 -1587,1849 -1601,2669z" style="fill:#dc971e"/>
+  <path class="Hair-Hedgehog2fil7" d="M12289 6623c-232,-199 -480,-350 -734,-421 133,162 257,359 369,577 52,-164 178,-209 365,-156zm-1468 901c-328,-201 -662,-348 -962,-390 169,177 379,423 587,694 -15,-214 92,-330 375,-304zm-1162 1128c-281,-54 -576,-75 -873,-47 203,80 426,208 642,360 -44,-168 49,-264 231,-313zm-828 1281c-355,7 -698,47 -959,124 275,73 551,158 810,253 -111,-155 -62,-281 149,-377zm9815 391c270,-101 558,-190 846,-267 -249,-74 -571,-113 -907,-123 6,7 12,15 18,22 135,100 138,224 43,368zm-820 -1278c249,-187 514,-347 752,-441 -347,-33 -691,1 -1014,76 214,56 323,158 243,342 6,8 12,15 19,23zm-1263 -1116c141,-258 306,-499 491,-688 -267,80 -552,238 -828,437 198,-13 330,48 337,251zm-1557 -977c67,-253 158,-486 277,-676 -274,107 -520,301 -732,544 187,-59 343,-25 455,132z" style="fill:#123f83"/>
+  <path class="Hair-Hedgehog2fil7" d="M16896 10213c277,-147 636,-193 806,-194 242,-1 494,461 186,618 -184,110 -337,231 -482,373 166,-252 -41,-890 -510,-797zm-814 -824c250,-209 639,-379 767,-413 294,-77 613,272 374,548 -141,161 -292,346 -381,519 80,-291 -342,-886 -760,-654zm-1040 -416c162,-282 457,-595 587,-722 198,-169 692,60 563,402 -76,200 -139,471 -187,662 -26,-301 -652,-705 -963,-342zm-1335 -123c44,-323 68,-670 219,-854 179,-325 885,-243 891,140 5,214 47,505 41,700 -137,-269 -999,-439 -1151,14zm-70 25c-59,-316 -265,-712 -363,-880 -186,-321 -854,-199 -825,144 38,214 42,523 48,718 104,-385 959,-404 1140,18zm-1344 38c-138,-185 -363,-450 -548,-610 -273,-252 -798,20 -695,348 104,191 221,408 289,591 -11,-306 578,-648 954,-329zm-1154 395c-200,-117 -406,-257 -643,-347 -338,-154 -631,197 -485,429 159,148 303,341 425,493 -51,-297 305,-688 703,-575zm-925 826c-179,-88 -298,-99 -591,-118 -342,-45 -540,378 -380,525 185,94 355,194 503,298 -145,-199 122,-766 468,-705z" style="fill:#fb600a"/>
+  <path class="Hair-Hedgehog2fil10" d="M17278 11179c352,-711 1740,-1064 1910,-1114 -337,-57 -745,-71 -1131,-48 -512,30 -981,123 -1187,260 -35,23 -81,13 -104,-21 -11,-17 -15,-36 -11,-54 34,-236 299,-582 649,-904 262,-240 571,-470 867,-630 -324,4 -640,62 -936,152 -498,152 -935,393 -1245,616 -34,24 -81,16 -105,-17 -12,-17 -16,-37 -13,-56l0 0c54,-329 193,-784 399,-1220 121,-257 266,-508 431,-724 -277,131 -565,330 -832,558 -413,352 -775,770 -975,1112 -21,35 -67,47 -102,26 -20,-11 -32,-30 -36,-51l0 1c-82,-432 -101,-1011 -31,-1564 48,-381 139,-752 281,-1056 -328,191 -608,514 -827,879 -327,545 -516,1182 -523,1623 -1,41 -35,74 -76,73 -38,0 -69,-29 -73,-65l0 0c-50,-399 -375,-1113 -840,-1713 -292,-376 -637,-705 -1001,-880 230,343 427,782 564,1225 166,539 242,1088 176,1476 -7,41 -46,69 -86,62 -25,-5 -44,-20 -55,-41 -206,-350 -674,-844 -1207,-1241 -355,-264 -737,-484 -1085,-585 264,298 584,706 843,1103 242,373 431,738 475,1002 6,41 -21,80 -62,86 -22,4 -42,-2 -58,-15 -310,-223 -746,-463 -1244,-614 -295,-90 -611,-148 -936,-152 296,160 606,390 867,630 352,323 618,671 651,906 5,41 -23,79 -64,84 -19,3 -37,-2 -52,-11l0 0c-206,-137 -675,-230 -1187,-260 -387,-23 -795,-9 -1131,48 170,50 1575,478 1909,1114 -539,-573 -1998,-987 -2232,-1049 -24,-7 -45,-26 -53,-52 -11,-39 11,-81 51,-92 387,-116 946,-149 1465,-119 427,26 830,95 1091,199 -94,-189 -298,-427 -549,-658 -333,-306 -746,-594 -1100,-733l0 0c-25,-10 -44,-34 -47,-63 -4,-41 26,-77 68,-81 449,-43 890,24 1293,146 432,131 819,327 1122,523 -78,-218 -225,-484 -403,-757 -308,-474 -704,-962 -985,-1256 -16,-16 -24,-39 -21,-63 6,-41 44,-70 84,-64 431,60 928,327 1379,663 465,346 884,768 1132,1111 13,-343 -60,-775 -192,-1203 -161,-522 -408,-1036 -691,-1382l0 0c-15,-18 -21,-43 -14,-67 11,-40 53,-63 92,-52 483,136 941,543 1311,1021 351,452 625,970 768,1380 77,-402 249,-870 498,-1284 278,-464 653,-864 1102,-1039 22,-9 47,-8 68,5 35,22 46,69 24,104 -195,314 -314,749 -372,1203 -58,458 -53,935 -1,1325 217,-318 540,-675 899,-982 371,-316 783,-580 1160,-693l0 0c25,-8 54,-2 74,18 29,29 30,76 1,106 -236,242 -440,571 -601,913 -165,349 -285,710 -351,1003 305,-199 698,-399 1137,-533 401,-122 841,-188 1289,-147 29,1 56,19 67,48 15,38 -4,82 -42,97 -354,139 -767,427 -1100,733 -251,231 -455,469 -549,658 261,-104 664,-173 1091,-199 518,-30 1076,3 1463,118 25,7 46,26 53,53 11,40 -13,82 -53,92 -660,153 -1640,487 -2233,1049z" style="fill:#cf355e"/>
+  <path class="Hair-Hedgehog2fil2" d="M15781 8043c-170,41 -786,906 -928,986 31,339 119,712 215,1019 -27,-767 214,-1499 713,-2005z" style="fill:#50fdf7"/>
+  <path class="Hair-Hedgehog2fil2" d="M13635 8721c-9,87 -19,148 -27,234 61,249 85,671 78,996 176,-1373 528,-2893 1597,-3674 -1137,510 -1512,1954 -1574,2375 -14,48 -19,70 -74,69z" style="fill:#c465d3"/>
+  <path class="Hair-Hedgehog2fil2" d="M11555 6202c679,824 997,2245 878,2849 -13,24 -30,33 -65,36 122,186 276,533 317,948 245,-652 27,-2856 -1130,-3833z" style="fill:#be195d"/>
+  <path class="Hair-Hedgehog2fil2" d="M9859 7134c541,545 1368,1688 1459,2241 0,0 -78,-7 -135,-2 230,168 495,588 562,873 121,-1036 -644,-2416 -1886,-3112z" style="fill:#af0010"/>
+  <path class="Hair-Hedgehog2fil2" d="M8123 10127c864,253 1681,620 1962,1052 -249,-736 -873,-1044 -1909,-1114l-53 62z" style="fill:#36636c"/>
+  <path class="Hair-Hedgehog2fil2" d="M8786 8605c687,271 1591,1085 1733,1539 -52,22 -105,43 -158,64 261,124 425,337 512,521 111,-1205 -1120,-1982 -2087,-2124z" style="fill:#2662a2"/>
+  <path class="Hair-Hedgehog2fil2" d="M17232 8842c-173,-25 -1099,499 -1260,521 -43,326 -67,613 -34,950 244,-727 608,-1183 1294,-1471z" style="fill:#b5e4c0"/>
+ </g><g id="WeaponIcicleFront-Small">
+     <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+     <metadata id="CorelCorpID_7Corel-Layer"/>
+  <g>
+   <g>
+    <path class="WeaponIcicleFront-Smallfil81" d="M10701.48 21761.63c26.29,46.34 49.5,96.06 69.61,148.73 85.48,71.37 170.95,142.73 256.42,214.11 234.65,90.87 441.99,233.37 546.63,456.39 117.56,98.17 235.13,196.32 352.71,294.48 254.51,78.4 429.58,220.4 545.66,455.58 103.75,86.62 207.51,173.24 311.26,259.87 241.22,100.72 388.8,233.84 535.47,447.07 412.57,344.45 825.14,688.93 1237.71,1033.39 179.31,149.72 214.56,409.41 81.63,601.51 -132.93,192.08 -388.39,250.61 -591.68,135.55 -345.89,-195.76 -702.88,-370.54 -1048.46,-567.12 -137.28,-78.09 -264.98,-172.42 -399.46,-253.63 -248.59,-74.71 -460.8,-165.27 -627.55,-363.09 -158.57,-91.46 -318.17,-181.12 -477.36,-271.47 -233.38,-39.66 -431.97,-149.48 -583.7,-332.63 -166.55,-94.94 -333.11,-189.89 -499.67,-284.83 -257.48,-47.3 -470.54,-158.39 -635.07,-362l-253.43 -144.48c449.93,-769.54 890.53,-1223.19 1179.28,-1467.43z" style="fill:#d85edc"/>
+    <path class="WeaponIcicleFront-Smallfil82" d="M10586.48 21863.16c21.96,42.48 41.12,88.15 57.59,136.57 102.21,85.33 204.43,170.67 306.64,256.01 215.44,79.26 413.77,205.51 499.87,417.36 134.64,112.43 269.3,224.86 403.95,337.28 240.44,67.22 394.84,190.96 496.62,414.62 118.12,98.6 236.22,197.22 354.34,295.84 233.31,93.27 363.63,213.74 501.58,418.79 417.92,348.91 835.83,697.84 1253.74,1046.76 119.55,99.82 143.05,272.94 54.43,401 -88.63,128.06 -258.93,167.09 -394.46,90.37 -345.81,-195.71 -702.71,-370.43 -1048.17,-566.95 -141.64,-80.57 -273.21,-178.59 -412.73,-261.6 -233.77,-68.8 -436.26,-148.2 -589.5,-340.82 -174.64,-100.99 -350.61,-199.66 -526,-299.33 -217.61,-31.16 -398.78,-130.21 -534.98,-304.9 -182.37,-103.96 -364.74,-207.92 -547.12,-311.87 -241.89,-39.67 -437.38,-138.32 -586.78,-334.48l-276.37 -157.56c366.82,-600.28 721.92,-993.15 987.35,-1237.09z" style="fill:#bd6e23"/>
+    <path class="WeaponIcicleFront-Smallfil83" d="M10472.86 21971.59c15.87,36.05 29.68,74.65 41.68,115.39 120.15,100.33 240.31,200.64 360.45,300.96 191.79,66.61 384.51,174.72 448.24,374.24 153.59,128.26 307.2,256.51 460.8,384.74 118.04,29.77 231.36,79.18 318.07,167.27 60.09,61.02 95.81,127.65 126.03,203.5 133.38,111.36 266.74,222.71 400.11,334.06 114.53,43.96 219.97,103.25 309.2,189.06 63.94,61.49 109.79,127.6 157.02,200.19 423.4,353.5 846.81,707.03 1270.22,1060.54 59.77,49.9 71.51,136.47 27.21,200.5 -44.31,64.03 -129.46,83.53 -197.23,45.18 -345.73,-195.67 -702.54,-370.35 -1047.89,-566.8 -146.23,-83.18 -281.9,-185.17 -426.84,-269.92 -216.56,-62.66 -410.81,-130.17 -548.5,-316.93 -192.01,-111.38 -385.72,-219.76 -578.64,-329.53 -200.83,-22.32 -362.35,-108.87 -482.12,-274.81 -199.4,-113.66 -398.78,-227.33 -598.18,-340.99 -225.33,-32.03 -401.42,-116.14 -534.98,-304.95l-298.81 -170.33c290.63,-450.36 568.23,-774.56 794.16,-1001.37z" style="fill:#2de340"/>
+   </g>
+   <path class="WeaponIcicleFront-Smallfil84" d="M10384.78 22061.37c12.18,33.37 22.52,68.9 31.77,105.7 139.39,116.39 278.8,232.76 418.18,349.14 269.14,88.19 367.19,201.16 389.4,325.13 175.1,146.21 350.22,292.42 525.33,438.61 279.67,60.93 338.26,190.37 386.78,322.92 149.97,125.2 299.93,250.42 449.89,375.62 263.67,95.06 344.37,227.05 429.08,358.24 429.21,358.35 858.43,716.73 1287.64,1075.09 -364.85,-206.5 -684.61,-360.16 -1047.6,-566.64 -132.27,-75.24 -310.55,-203.34 -441.78,-278.59 -192.84,-55.32 -384.73,-110.45 -503.78,-290.96 -211.04,-122.88 -424.34,-241.89 -636.51,-362.83 -164.09,-11.95 -312.61,-70.91 -424.09,-241.75 -217.86,-124.19 -435.74,-248.39 -653.61,-372.58 -180.36,-21.52 -351.33,-74.66 -478.98,-273.03l-343.62 -195.88c35.19,-51.24 71.59,-104.35 106.79,-152.53 57.2,-78.31 112.88,-150.11 166.62,-219.51 25.15,-28.71 48.23,-58.88 67.83,-88.79 91.61,-109.72 179.16,-211.46 270.66,-307.36z" style="fill:#ff01c0"/>
+   <path class="WeaponIcicleFront-Smallfil188" d="M10242.37 22216.94c5.03,17.64 9.73,35.93 14.43,54.61 126.32,105.17 200.67,379.42 518.04,507.29 300.89,121.25 592.25,315.56 820.02,625.18 500.39,457.99 1035.83,790.78 1621.72,1258.3 -907.67,-503.58 -2201.89,-1399.68 -3353.47,-1959.98 133.68,-186.85 260.23,-347.88 379.26,-485.4z" style="fill:#66d6cd"/>
+   <path class="WeaponIcicleFront-Smallfil189" d="M10048.24 22450.78c191.99,174.05 339.32,420.29 624.88,465.7 282.25,44.9 499.78,216.95 665.93,479.22 636.53,457.65 1281.91,914.64 1827.49,1242.63 -891.1,-506.19 -2154.37,-1380.02 -3305.19,-1936.83 63.4,-89.53 125.85,-173.06 186.89,-250.72z" style="fill:#7beedc"/>
+   <path class="WeaponIcicleFront-Smallfil87" d="M10496.24 23003.29c-93.76,-99.16 -384.6,-320.19 -568.03,-382.26l-7.29 -2.4c26.8,-36.61 53.4,-72.15 79.76,-106.6 121.41,89.72 236.95,192.63 327.45,283.18 111.28,111.33 239.46,90.18 375.3,208.32 -26.45,-32.25 -180.72,32 -207.19,-0.24z" style="fill:#8f1adc"/>
+   <path class="WeaponIcicleFront-Smallfil91" d="M10410.69 22210.3c-190.31,121.64 -349.39,228.25 -13.85,392.46 0,0 -312.31,-93.43 -289.27,-226.21 28.99,-35.65 57.64,-70.11 85.85,-103.16 47.92,-31.74 118.11,-64.66 217.21,-98.26l0.06 35.17z" style="fill:#fc3247"/>
+   <path class="WeaponIcicleFront-Smallfil190" d="M11325.57 23033.79c310.98,248.5 543.42,474.51 519.19,504.83 -24.22,30.31 -266.23,-159.84 -577.18,-408.32 -191.33,-152.87 -468.7,-280.5 -628.41,-316.38 -80.16,-18 70.15,-163.51 79.46,-175.16 24.22,-30.31 295.95,146.53 606.94,395.03z" style="fill:#357f2c"/>
+   <path class="WeaponIcicleFront-Smallfil94" d="M11946.16 23530.58c57.06,148.4 10.58,161.78 -120.82,98.16 -131.4,-63.62 -111.36,-44.06 -104.64,-97.73 18.71,-149.51 169.68,-145.48 225.46,-0.43z" style="fill:#401e14"/>
+   <path class="WeaponIcicleFront-Smallfil191" d="M12624.63 24089.33c57.7,-0.11 263.63,216.96 263.73,271.06 0.11,54.09 -189.13,-73.69 -246.82,-73.58 -57.69,0.11 -134.39,-88.24 -134.5,-142.33 -0.1,-54.09 59.91,-55.04 117.59,-55.15z" style="fill:#5f7179"/>
+   <path class="WeaponIcicleFront-Smallfil95" d="M9874.29 22683.24c895.52,463.85 3762.53,2183.32 3917.71,2415.15 106.48,159.06 -1043.02,-522.13 -2149.42,-1192.7 -139.01,14.28 -260.2,-58.82 -361.52,-219.59 -241.81,-147.15 -474.33,-289.1 -683.02,-416.32 -228.51,3.88 -400.29,-86.49 -492.51,-299.3 -131.3,-79.3 -235.97,-141.79 -305.07,-181.62 24.75,-36.16 49.35,-71.3 73.83,-105.62z" style="fill:#142396"/>
+   <path class="WeaponIcicleFront-Smallfil92" d="M10891.24 22657.45c48.79,-0.09 204.37,142.51 204.46,188.26 0.09,45.74 -69.39,-39.42 -118.18,-39.33 -48.79,0.1 -147.96,-46.72 -148.05,-92.46 -0.08,-45.74 12.98,-56.38 61.77,-56.47z" style="fill:#0b73d3"/>
+   <path class="WeaponIcicleFront-Smallfil92" d="M12158.73 23783.11c95.07,75.96 166.13,145.06 158.72,154.33 -7.4,9.26 -90.47,-44.8 -185.54,-120.77 -95.06,-75.96 -166.12,-145.06 -158.72,-154.32 7.41,-9.27 90.48,44.79 185.54,120.76z" style="fill:#724f76"/>
+   <path class="WeaponIcicleFront-Smallfil80 WeaponIcicleFront-Smallstr0" d="M10365.42 22081.7c9.17,27.36 17.27,55.98 24.67,85.42 139.39,116.39 278.8,232.76 418.18,349.14 269.14,88.19 367.19,201.16 389.4,325.13 175.1,146.21 350.22,292.42 525.33,438.61 279.67,60.94 338.26,190.37 386.78,322.92 149.97,125.2 299.93,250.42 449.89,375.62 263.67,95.06 344.37,227.06 429.08,358.24 429.21,358.35 858.43,716.73 1287.64,1075.09 -364.85,-206.5 -684.61,-360.16 -1047.6,-566.64 -132.27,-75.24 -310.55,-203.34 -441.78,-278.59 -192.84,-55.32 -384.73,-110.45 -503.78,-290.96 -211.04,-122.88 -424.34,-241.89 -636.51,-362.83 -164.09,-11.95 -312.61,-70.91 -424.09,-241.74 -217.86,-124.2 -435.74,-248.4 -653.61,-372.59 -180.36,-21.52 -351.33,-74.66 -478.98,-273.03l-324.56 -185.01" style="fill:#e14ba6"/>
+  </g>
+ </g></svg>
