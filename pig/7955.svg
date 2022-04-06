@@ -1,0 +1,888 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd" version="1.1" viewBox="0 0 29000 29000" xml:space="preserve"><defs><style type="text/css">.BraceletBlackMetal-Mediumfil32 {fill:black;fill-opacity:0.301961}
+.BraceletBlackMetal-Mediumfil25 {fill:white}
+.BraceletBlackMetal-Mediumfil174 {fill:url(#BraceletBlackMetal-Mediumid330)}
+.BraceletBlackMetal-Mediumstr8 {stroke:black;stroke-width:100;stroke-linecap:round;stroke-linejoin:round}
+.BraceletBlackMetal-Mediumfil175 {fill:url(#BraceletBlackMetal-Mediumid338)}
+.BraceletBlackMetal-Mediumfil176 {fill:url(#BraceletBlackMetal-Mediumid138)}
+.BraceletBlackMetal-Mediumstr0 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.BraceletBlackMetal-Mediumfil177 {fill:url(#BraceletBlackMetal-Mediumid333)}
+.BraceletBlackMetal-Mediumstr13 {stroke:black;stroke-width:75;stroke-linecap:round;stroke-linejoin:round}
+.BraceletBlackMetal-Mediumfil178 {fill:url(#BraceletBlackMetal-Mediumid349)}
+.BraceletBlackMetal-Mediumfil179 {fill:url(#BraceletBlackMetal-Mediumid341)}
+.BraceletBlackMetal-Mediumfil180 {fill:url(#BraceletBlackMetal-Mediumid314)}
+.BraceletBlackMetal-Mediumfil181 {fill:url(#BraceletBlackMetal-Mediumid118)}
+.BraceletBlackMetal-Mediumfil182 {fill:url(#BraceletBlackMetal-Mediumid350)}
+.BraceletBlackMetal-Mediumfil183 {fill:url(#BraceletBlackMetal-Mediumid351)}
+.HairBack-Pig0fil0 {fill:none}
+.Tail-Pig5fil10 {fill:black;fill-opacity:0.200000}
+.Tail-Pig5fil35 {fill:url(#Tail-Pig5id23)}
+.Tail-Pig5str2 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.RightFoot-Pig0fil37 {fill:#d9c9ad}
+.RightFoot-Pig0fil38 {fill:#77613d}
+.RightFoot-Pig0fil39 {fill:url(#RightFoot-Pig0id227)}
+.RightFoot-Pig0fil40 {fill:black}
+.RightFoot-Pig0fil10 {fill:black;fill-opacity:0.200000}
+.RightFoot-Pig0fil0 {fill:none}
+.RightFoot-Pig0str2 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.RightLeg-Pig0fil52 {fill:url(#RightLeg-Pig0id37)}
+.RightLeg-Pig0fil10 {fill:black;fill-opacity:0.200000}
+.RightLeg-Pig0fil0 {fill:none}
+.RightLeg-Pig0str2 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.LeftFoot-Pig0fil37 {fill:#d9c9ad}
+.LeftFoot-Pig0fil38 {fill:#77613d}
+.LeftFoot-Pig0fil57 {fill:url(#LeftFoot-Pig0id220)}
+.LeftFoot-Pig0fil40 {fill:black}
+.LeftFoot-Pig0fil10 {fill:black;fill-opacity:0.200000}
+.LeftFoot-Pig0fil0 {fill:none}
+.LeftFoot-Pig0str2 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.LeftLeg-Pig0fil62 {fill:url(#LeftLeg-Pig0id49)}
+.LeftLeg-Pig0fil10 {fill:black;fill-opacity:0.200000}
+.LeftLeg-Pig0fil0 {fill:none}
+.LeftLeg-Pig0str2 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.RightPaw-Pig10fil74 {fill:url(#RightPaw-Pig10id25)}
+.RightPaw-Pig10fil51 {fill:black;fill-opacity:0.400000}
+.RightPaw-Pig10fil10 {fill:black;fill-opacity:0.200000}
+.RightPaw-Pig10fil77 {fill:url(#RightPaw-Pig10id216)}
+.RightPaw-Pig10fil40 {fill:black}
+.RightPaw-Pig10fil0 {fill:none}
+.RightPaw-Pig10str2 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.Body-Pig1fil83 {fill:url(#Body-Pig1id42)}
+.Body-Pig1fil10 {fill:black;fill-opacity:0.200000}
+.Body-Pig1fil84 {fill:black;fill-rule:nonzero}
+.Body-Pig1fil85 {fill:url(#Body-Pig1id44)}
+.LeftPaw-Pig10fil91 {fill:url(#LeftPaw-Pig10id70)}
+.LeftPaw-Pig10fil51 {fill:black;fill-opacity:0.400000}
+.LeftPaw-Pig10fil10 {fill:black;fill-opacity:0.200000}
+.LeftPaw-Pig10fil94 {fill:url(#LeftPaw-Pig10id212)}
+.LeftPaw-Pig10fil40 {fill:black}
+.LeftPaw-Pig10fil0 {fill:none}
+.LeftPaw-Pig10str2 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.Head-Pig7fil167 {fill:url(#Head-Pig7id173)}
+.Head-Pig7fil10 {fill:black;fill-opacity:0.200000}
+.Head-Pig7fil84 {fill:black;fill-rule:nonzero}
+.Head-Pig7fil168 {fill:url(#Head-Pig7id30)}
+.Mouth-Pig8fil26 {fill:black;fill-opacity:0.301961}
+.Mouth-Pig8fil172 {fill:black;fill-rule:nonzero;fill-opacity:0.200000}
+.Mouth-Pig8fil169 {fill:black}
+.Mouth-Pig8fil10 {fill:black;fill-opacity:0.200000}
+.Mouth-Pig8fil0 {fill:none}
+.Mouth-Pig8str0 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.Mouth-Pig8fil173 {fill:white}
+.EyesClosed-Pig9fil38 {fill:#77613d}
+.EyesClosed-Pig9fil148 {fill:black;fill-opacity:0.501961}
+.EyesClosed-Pig9fil84 {fill:black;fill-rule:nonzero}
+.Eyes-Pig9fil226 {fill:url(#Eyes-Pig9id148)}
+.Eyes-Pig9fil227 {fill:url(#Eyes-Pig9id10)}
+.Eyes-Pig9fil228 {fill:url(#Eyes-Pig9id45)}
+.Eyes-Pig9fil148 {fill:black;fill-opacity:0.501961}
+.Eyes-Pig9fil173 {fill:white}
+.Eyes-Pig9fil229 {fill:url(#Eyes-Pig9id161)}
+.Eyes-Pig9fil230 {fill:url(#Eyes-Pig9id64)}
+.Eyes-Pig9fil231 {fill:url(#Eyes-Pig9id76)}
+.Eyes-Pig9fil0 {fill:none}
+.Eyes-Pig9str0 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.Moustache-Pig3fil234 {fill:url(#Moustache-Pig3id41)}
+.Moustache-Pig3fil84 {fill:black;fill-rule:nonzero}
+.Moustache-Pig3fil10 {fill:black;fill-opacity:0.200000}
+.Nose-Pig6fil244 {fill:url(#Nose-Pig6id181)}
+.Nose-Pig6str0 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.Nose-Pig6fil26 {fill:black;fill-opacity:0.301961}
+.Nose-Pig6str3 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.301961}
+.Nose-Pig6fil237 {fill:none}
+.HatVanHelsingBack-Mediumfil13 {fill:url(#HatVanHelsingBack-Mediumid4)}
+.HatVanHelsingBack-Mediumstr1 {stroke:black;stroke-width:150;stroke-linejoin:round;stroke-miterlimit:22.9256}
+.HatVanHelsing-Mediumfil31 {fill:url(#HatVanHelsing-Mediumid13)}
+.HatVanHelsing-Mediumfil2 {fill:white;fill-opacity:0.501961}
+.HatVanHelsing-Mediumfil16 {fill:black;fill-opacity:0.400000}
+.HatVanHelsing-Mediumfil32 {fill:url(#HatVanHelsing-Mediumid49)}
+.HatVanHelsing-Mediumfil33 {fill:url(#HatVanHelsing-Mediumid18)}
+.HatVanHelsing-Mediumfil19 {fill:#262829}
+.HatVanHelsing-Mediumfil22 {fill:white;fill-opacity:0.200000}
+.HatVanHelsing-Mediumfil23 {fill:black;fill-opacity:0.301961}
+.HatVanHelsing-Mediumfil36 {fill:url(#HatVanHelsing-Mediumid6)}
+.HatVanHelsing-Mediumfil27 {fill:white;fill-opacity:0.101961}
+.HatVanHelsing-Mediumfil28 {fill:white;fill-opacity:0.349020}
+.HatVanHelsing-Mediumfil3 {fill:black;fill-opacity:0.501961}
+.HatVanHelsing-Mediumfil29 {fill:#0A0A09}
+.HatVanHelsing-Mediumfil30 {fill:#F7F4F4;fill-opacity:0.149020}
+.HatVanHelsing-Mediumfil20 {fill:none}
+.HatVanHelsing-Mediumstr1 {stroke:black;stroke-width:150;stroke-linejoin:round;stroke-miterlimit:22.9256}
+.HatVanHelsing-Mediumfil21 {fill:url(#HatVanHelsing-Mediumid8)}
+.HatVanHelsing-Mediumstr2 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256}
+.HatVanHelsing-Mediumfil34 {fill:url(#HatVanHelsing-Mediumid3)}
+.HatVanHelsing-Mediumfil35 {fill:url(#HatVanHelsing-Mediumid2)}
+.HatVanHelsing-Mediumstr3 {stroke:black;stroke-width:100;stroke-linejoin:round;stroke-miterlimit:22.9256}
+.NecklaceVanHelsingCoat-Mediumfil3 {fill:black;fill-opacity:0.501961}
+.NecklaceVanHelsingCoat-Mediumfil23 {fill:black;fill-opacity:0.301961}
+.NecklaceVanHelsingCoat-Mediumfil42 {fill:black;fill-opacity:0.200000}
+.NecklaceVanHelsingCoat-Mediumfil27 {fill:white;fill-opacity:0.101961}
+.NecklaceVanHelsingCoat-Mediumfil16 {fill:black;fill-opacity:0.400000}
+.NecklaceVanHelsingCoat-Mediumfil46 {fill:black;fill-rule:nonzero;fill-opacity:0.501961}
+.NecklaceVanHelsingCoat-Mediumfil86 {fill:url(#NecklaceVanHelsingCoat-Mediumid50)}
+.NecklaceVanHelsingCoat-Mediumfil87 {fill:url(#NecklaceVanHelsingCoat-Mediumid51)}
+.NecklaceVanHelsingCoat-Mediumfil64 {fill:black;fill-opacity:0.600000}
+.NecklaceVanHelsingCoat-Mediumfil102 {fill:url(#NecklaceVanHelsingCoat-Mediumid12)}
+.NecklaceVanHelsingCoat-Mediumfil67 {fill:black}
+.NecklaceVanHelsingCoat-Mediumfil15 {fill:url(#NecklaceVanHelsingCoat-Mediumid7)}
+.NecklaceVanHelsingCoat-Mediumfil66 {fill:white;fill-opacity:0.121569}
+.NecklaceVanHelsingCoat-Mediumfil104 {fill:url(#NecklaceVanHelsingCoat-Mediumid85)}
+.NecklaceVanHelsingCoat-Mediumfil105 {fill:url(#NecklaceVanHelsingCoat-Mediumid86)}
+.NecklaceVanHelsingCoat-Mediumfil106 {fill:url(#NecklaceVanHelsingCoat-Mediumid87)}
+.NecklaceVanHelsingCoat-Mediumfil107 {fill:url(#NecklaceVanHelsingCoat-Mediumid58)}
+.NecklaceVanHelsingCoat-Mediumfil108 {fill:url(#NecklaceVanHelsingCoat-Mediumid47)}
+.NecklaceVanHelsingCoat-Mediumfil109 {fill:url(#NecklaceVanHelsingCoat-Mediumid59)}
+.NecklaceVanHelsingCoat-Mediumfil22 {fill:white;fill-opacity:0.200000}
+.NecklaceVanHelsingCoat-Mediumfil110 {fill:url(#NecklaceVanHelsingCoat-Mediumid25)}
+.NecklaceVanHelsingCoat-Mediumfil74 {fill:black;fill-opacity:0.219608}
+.NecklaceVanHelsingCoat-Mediumfil117 {fill:url(#NecklaceVanHelsingCoat-Mediumid23)}
+.NecklaceVanHelsingCoat-Mediumfil39 {fill:#77613d}
+.NecklaceVanHelsingCoat-Mediumfil83 {fill:url(#NecklaceVanHelsingCoat-Mediumid20)}
+.NecklaceVanHelsingCoat-Mediumstr1 {stroke:black;stroke-width:150;stroke-linejoin:round;stroke-miterlimit:22.9256}
+.NecklaceVanHelsingCoat-Mediumfil20 {fill:none}
+.NecklaceVanHelsingCoat-Mediumstr4 {stroke:black;stroke-width:150;stroke-miterlimit:22.9256}
+.NecklaceVanHelsingCoat-Mediumfil84 {fill:url(#NecklaceVanHelsingCoat-Mediumid16)}
+.NecklaceVanHelsingCoat-Mediumstr2 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256}
+.NecklaceVanHelsingCoat-Mediumfil85 {fill:url(#NecklaceVanHelsingCoat-Mediumid60)}
+.NecklaceVanHelsingCoat-Mediumfil45 {fill:none}
+.NecklaceVanHelsingCoat-Mediumstr5 {stroke:black;stroke-width:75;stroke-miterlimit:22.9256;stroke-opacity:0.501961}
+.NecklaceVanHelsingCoat-Mediumstr6 {stroke:black;stroke-width:50;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256}
+.NecklaceVanHelsingCoat-Mediumstr7 {stroke:black;stroke-width:100;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256}
+.NecklaceVanHelsingCoat-Mediumfil88 {fill:url(#NecklaceVanHelsingCoat-Mediumid98)}
+.NecklaceVanHelsingCoat-Mediumstr8 {stroke:black;stroke-width:75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256}
+.NecklaceVanHelsingCoat-Mediumfil89 {fill:url(#NecklaceVanHelsingCoat-Mediumid96)}
+.NecklaceVanHelsingCoat-Mediumfil90 {fill:url(#NecklaceVanHelsingCoat-Mediumid97)}
+.NecklaceVanHelsingCoat-Mediumfil91 {fill:url(#NecklaceVanHelsingCoat-Mediumid125);fill-rule:nonzero}
+.NecklaceVanHelsingCoat-Mediumfil92 {fill:url(#NecklaceVanHelsingCoat-Mediumid109);fill-rule:nonzero}
+.NecklaceVanHelsingCoat-Mediumfil93 {fill:url(#NecklaceVanHelsingCoat-Mediumid128);fill-rule:nonzero}
+.NecklaceVanHelsingCoat-Mediumfil94 {fill:url(#NecklaceVanHelsingCoat-Mediumid105);fill-rule:nonzero}
+.NecklaceVanHelsingCoat-Mediumfil95 {fill:url(#NecklaceVanHelsingCoat-Mediumid106);fill-rule:nonzero}
+.NecklaceVanHelsingCoat-Mediumfil96 {fill:url(#NecklaceVanHelsingCoat-Mediumid111);fill-rule:nonzero}
+.NecklaceVanHelsingCoat-Mediumfil97 {fill:url(#NecklaceVanHelsingCoat-Mediumid107);fill-rule:nonzero}
+.NecklaceVanHelsingCoat-Mediumfil98 {fill:url(#NecklaceVanHelsingCoat-Mediumid123);fill-rule:nonzero}
+.NecklaceVanHelsingCoat-Mediumfil99 {fill:url(#NecklaceVanHelsingCoat-Mediumid117);fill-rule:nonzero}
+.NecklaceVanHelsingCoat-Mediumfil100 {fill:url(#NecklaceVanHelsingCoat-Mediumid130);fill-rule:nonzero}
+.NecklaceVanHelsingCoat-Mediumfil101 {fill:url(#NecklaceVanHelsingCoat-Mediumid99);fill-rule:nonzero}
+.NecklaceVanHelsingCoat-Mediumstr9 {stroke:black;stroke-width:100;stroke-miterlimit:22.9256}
+.NecklaceVanHelsingCoat-Mediumstr10 {stroke:black;stroke-width:50;stroke-miterlimit:22.9256}
+.NecklaceVanHelsingCoat-Mediumstr11 {stroke:#151310;stroke-width:75;stroke-miterlimit:22.9256}
+.NecklaceVanHelsingCoat-Mediumstr12 {stroke:black;stroke-width:100;stroke-miterlimit:22.9256;stroke-opacity:0.501961}
+.NecklaceVanHelsingCoat-Mediumstr13 {stroke:#272625;stroke-width:100;stroke-miterlimit:22.9256}
+.NecklaceVanHelsingCoat-Mediumstr14 {stroke:#272625;stroke-width:50;stroke-miterlimit:22.9256}
+.NecklaceVanHelsingCoat-Mediumfil103 {fill:url(#NecklaceVanHelsingCoat-Mediumid79)}
+.NecklaceVanHelsingCoat-Mediumstr15 {stroke:black;stroke-width:75;stroke-miterlimit:22.9256}
+.NecklaceVanHelsingCoat-Mediumstr3 {stroke:black;stroke-width:100;stroke-linejoin:round;stroke-miterlimit:22.9256}
+.NecklaceVanHelsingCoat-Mediumstr16 {stroke:#151310;stroke-width:50;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256}
+.NecklaceVanHelsingCoat-Mediumfil111 {fill:url(#NecklaceVanHelsingCoat-Mediumid74)}
+.NecklaceVanHelsingCoat-Mediumfil112 {fill:url(#NecklaceVanHelsingCoat-Mediumid40)}
+.NecklaceVanHelsingCoat-Mediumfil113 {fill:url(#NecklaceVanHelsingCoat-Mediumid67)}
+.NecklaceVanHelsingCoat-Mediumfil114 {fill:url(#NecklaceVanHelsingCoat-Mediumid68)}
+.NecklaceVanHelsingCoat-Mediumfil115 {fill:url(#NecklaceVanHelsingCoat-Mediumid94)}
+.NecklaceVanHelsingCoat-Mediumfil116 {fill:url(#NecklaceVanHelsingCoat-Mediumid95)}
+.WeaponBelmontBack-Mediumfil27 {fill:black;fill-opacity:0.301961}
+.WeaponBelmontBack-Mediumfil28 {fill:#FFFFE3;fill-opacity:0.200000}
+.WeaponBelmontBack-Mediumfil30 {fill:black;fill-rule:nonzero;fill-opacity:0.301961}
+.WeaponBelmontBack-Mediumfil31 {fill:url(#WeaponBelmontBack-Mediumid44);fill-rule:nonzero}
+.WeaponBelmontBack-Mediumstr2 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.WeaponBelmontBack-Mediumfil5 {fill:none}
+.WeaponBelmontBack-Mediumfil32 {fill:url(#WeaponBelmontBack-Mediumid45);fill-rule:nonzero}
+.WeaponBelmont-Mediumfil30 {fill:black;fill-rule:nonzero;fill-opacity:0.301961}
+.WeaponBelmont-Mediumfil27 {fill:black;fill-opacity:0.301961}
+.WeaponBelmont-Mediumfil28 {fill:#FFFFE3;fill-opacity:0.200000}
+.WeaponBelmont-Mediumfil37 {fill:url(#WeaponBelmont-Mediumid42);fill-rule:nonzero}
+.WeaponBelmont-Mediumstr2 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.WeaponBelmont-Mediumfil38 {fill:url(#WeaponBelmont-Mediumid43);fill-rule:nonzero}
+.AccessoryCutepoolKatanas-Mediumfil0 {fill:url(#AccessoryCutepoolKatanas-Mediumid183)}
+.AccessoryCutepoolKatanas-Mediumfil1 {fill:url(#AccessoryCutepoolKatanas-Mediumid202)}
+.AccessoryCutepoolKatanas-Mediumfil2 {fill:white;fill-opacity:0.501961}
+.AccessoryCutepoolKatanas-Mediumfil5 {fill:black;fill-opacity:0.501961}
+.AccessoryCutepoolKatanas-Mediumfil6 {fill:url(#AccessoryCutepoolKatanas-Mediumid142)}
+.AccessoryCutepoolKatanas-Mediumfil7 {fill:url(#AccessoryCutepoolKatanas-Mediumid203)}
+.AccessoryCutepoolKatanas-Mediumfil3 {fill:none}
+.AccessoryCutepoolKatanas-Mediumstr0 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256}
+.AccessoryCutepoolKatanas-Mediumfil4 {fill:url(#AccessoryCutepoolKatanas-Mediumid86)}
+.AccessoryCutepoolKatanas-Mediumstr1 {stroke:black;stroke-width:100;stroke-miterlimit:22.9256}
+.AccessoryCutepoolKatanas-Mediumstr2 {stroke:#333232;stroke-width:100;stroke-miterlimit:22.9256}
+.AccessoryCutepoolKatanas-Mediumfil8 {fill:url(#AccessoryCutepoolKatanas-Mediumid159)}
+</style><radialGradient cx="10203.1" cy="20922.8" fx="10203.1" fy="20922.8" gradientTransform="matrix(-1.57409 -0.63165 0.628427 -1.56606 13115 60134)" gradientUnits="userSpaceOnUse" id="BraceletBlackMetal-Mediumid330" r="104.28" xlink:href="#BraceletBlackMetal-Mediumid314">
+  </radialGradient><radialGradient cx="8616.42" cy="19655.5" fx="8616.42" fy="19655.5" gradientTransform="matrix(1.51515 -0 -0 1.18516 -4439 -3639)" gradientUnits="userSpaceOnUse" id="BraceletBlackMetal-Mediumid338" r="126.91" xlink:href="#BraceletBlackMetal-Mediumid314">
+  </radialGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletBlackMetal-Mediumid138" x1="8960.35" x2="10000.3" y1="19707.1" y2="20727.4">
+   <stop offset="0" style="stop-opacity:1; stop-color:black"/>
+   <stop offset="0.14902" style="stop-opacity:1; stop-color:#242424"/>
+   <stop offset="0.560784" style="stop-opacity:1; stop-color:#3B3B3B"/>
+   <stop offset="0.85098" style="stop-opacity:1; stop-color:#242424"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:black"/>
+  </linearGradient><radialGradient cx="9131.88" cy="19765.5" fx="9131.88" fy="19765.5" gradientTransform="matrix(1.63023 -0.350956 0.329124 1.52881 -12260 -7247)" gradientUnits="userSpaceOnUse" id="BraceletBlackMetal-Mediumid333" r="107.88" xlink:href="#BraceletBlackMetal-Mediumid314">
+  </radialGradient><radialGradient cx="9967.16" cy="20454.2" fx="9967.16" fy="20454.2" gradientTransform="matrix(-1.60962 -0.237266 0.222499 -1.50944 21459 53693)" gradientUnits="userSpaceOnUse" id="BraceletBlackMetal-Mediumid349" r="110.57" xlink:href="#BraceletBlackMetal-Mediumid314">
+  </radialGradient><radialGradient cx="17160.8" cy="20922.8" fx="17160.8" fy="20922.8" gradientTransform="matrix(1.57424 -0.631708 -0.628465 -1.56615 3295 64532)" gradientUnits="userSpaceOnUse" id="BraceletBlackMetal-Mediumid341" r="101.08" xlink:href="#BraceletBlackMetal-Mediumid314">
+  </radialGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletBlackMetal-Mediumid118" x1="17364.3" x2="18405.2" y1="20727.8" y2="19706.6">
+   <stop offset="0" style="stop-opacity:1; stop-color:black"/>
+   <stop offset="0.14902" style="stop-opacity:1; stop-color:#242424"/>
+   <stop offset="0.729412" style="stop-opacity:1; stop-color:#3B3B3B"/>
+   <stop offset="0.901961" style="stop-opacity:1; stop-color:#242424"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:black"/>
+  </linearGradient><radialGradient cx="18232" cy="19765.5" fx="18232" fy="19765.5" gradientTransform="matrix(-1.63032 -0.350977 -0.329133 1.52885 54461 -4054)" gradientUnits="userSpaceOnUse" id="BraceletBlackMetal-Mediumid350" r="104.57" xlink:href="#BraceletBlackMetal-Mediumid314">
+  </radialGradient><radialGradient cx="17396.7" cy="20454.2" fx="17396.7" fy="20454.2" gradientTransform="matrix(1.60951 -0.237248 -0.22249 -1.50936 -6053 55454)" gradientUnits="userSpaceOnUse" id="BraceletBlackMetal-Mediumid351" r="107.19" xlink:href="#BraceletBlackMetal-Mediumid314">
+  </radialGradient><linearGradient gradientUnits="userSpaceOnUse" id="Tail-Pig5id23" x1="19917.1" x2="13826.1" xlink:href="#Tail-Pig5id5" y1="22314.1" y2="23990.6">
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="RightFoot-Pig0id227" x1="49.9997%" x2="49.9997%" xlink:href="#RightFoot-Pig0id0" y1="100%" y2="0%">
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="RightLeg-Pig0id37" x1="50%" x2="50%" xlink:href="#RightLeg-Pig0id2" y1="100%" y2="0%">
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="LeftFoot-Pig0id220" x1="50.0003%" x2="50.0003%" xlink:href="#LeftFoot-Pig0id0" y1="100%" y2="0%">
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="LeftLeg-Pig0id49" x1="50%" x2="50%" xlink:href="#LeftLeg-Pig0id2" y1="100%" y2="0%">
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="RightPaw-Pig10id25" x1="81.8832%" x2="18.1168%" y1="89.1977%" y2="10.8018%">
+   <stop offset="0" style="stop-opacity:1; stop-color:#99835c"/>
+   <stop offset="0.619608" style="stop-opacity:1; stop-color:#bfa67c"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#bfa67c"/>
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="RightPaw-Pig10id216" x1="28.208%" x2="71.792%" xlink:href="#RightPaw-Pig10id5" y1="1.78354%" y2="98.2165%">
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="Body-Pig1id42" x1="50%" x2="50%" y1="0.000186021%" y2="100%">
+   <stop offset="0" style="stop-opacity:1; stop-color:#99835c"/>
+   <stop offset="0.0313725" style="stop-opacity:1; stop-color:#99835c"/>
+   <stop offset="0.529412" style="stop-opacity:1; stop-color:#bfa67c"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#d9c9ad"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Body-Pig1id44" x1="13681.9" x2="13681.9" xlink:href="#Body-Pig1id30" y1="22736.8" y2="18207.8">
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="LeftPaw-Pig10id70" x1="18.1168%" x2="81.8832%" xlink:href="#LeftPaw-Pig10id25" y1="89.1977%" y2="10.8018%">
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="LeftPaw-Pig10id212" x1="71.792%" x2="28.208%" xlink:href="#LeftPaw-Pig10id5" y1="1.78354%" y2="98.2165%">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Head-Pig7id173" x1="13681.9" x2="13681.9" xlink:href="#Head-Pig7id42" y1="17936.7" y2="7493.22">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Head-Pig7id30" x1="13681.9" x2="13681.9" y1="9565.57" y2="17278">
+   <stop offset="0" style="stop-opacity:1; stop-color:#ddc1b2"/>
+   <stop offset="0.658824" style="stop-opacity:1; stop-color:#ddc1b2"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#d1b09f"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Eyes-Pig9id148" x1="16641" x2="17334.4" y1="14255.9" y2="11076.2">
+   <stop offset="0" style="stop-opacity:1; stop-color:#806000"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:black"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Eyes-Pig9id10" x1="15305.7" x2="18262.7" y1="12539.6" y2="12539.6">
+   <stop offset="0" style="stop-opacity:1; stop-color:#806000"/>
+   <stop offset="0.501961" style="stop-opacity:1; stop-color:#ffc419"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#806000"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Eyes-Pig9id45" x1="16680.3" x2="16680.3" y1="11243.5" y2="13543.4">
+   <stop offset="0" style="stop-opacity:1; stop-color:black"/>
+   <stop offset="0.4" style="stop-opacity:1; stop-color:black"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#664c00"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Eyes-Pig9id161" x1="10722.8" x2="10029.5" xlink:href="#Eyes-Pig9id148" y1="14255.9" y2="11076.2">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Eyes-Pig9id64" x1="9101.23" x2="12058.2" xlink:href="#Eyes-Pig9id10" y1="12539.6" y2="12539.6">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Eyes-Pig9id76" x1="10683.6" x2="10683.6" xlink:href="#Eyes-Pig9id45" y1="11243.5" y2="13543.4">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Moustache-Pig3id41" x1="13681.9" x2="13681.9" y1="18279.7" y2="16359.7">
+   <stop offset="0" style="stop-opacity:1; stop-color:#2b2425"/>
+   <stop offset="0.6" style="stop-opacity:1; stop-color:#2b2425"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#454041"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Nose-Pig6id181" x1="13681.9" x2="13681.9" xlink:href="#Nose-Pig6id151" y1="13079.6" y2="15426.2">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="HatVanHelsingBack-Mediumid4" x1="13758" x2="13758" y1="10972.18" y2="14097.02">
+   <stop offset="0" style="stop-opacity:1; stop-color:black"/>
+   <stop offset="0.278431" style="stop-opacity:1; stop-color:black"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#414545"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="HatVanHelsing-Mediumid13" x1="8046" x2="19269" xlink:href="#HatVanHelsing-Mediumid7" y1="7955.24" y2="7955.24">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="HatVanHelsing-Mediumid49" x1="14325" x2="18133" xlink:href="#HatVanHelsing-Mediumid48" y1="5696.03" y2="7905.61">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="HatVanHelsing-Mediumid18" x1="12429" x2="14862" y1="6828" y2="6828">
+   <stop offset="0" style="stop-opacity:1; stop-color:#0D0C0B"/>
+   <stop offset="0.380392" style="stop-opacity:1; stop-color:#12100F"/>
+   <stop offset="0.709804" style="stop-opacity:1; stop-color:#3D4042"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#3D4042"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="HatVanHelsing-Mediumid6" x1="3816" x2="24014" y1="11421.57" y2="11421.57">
+   <stop offset="0" style="stop-opacity:1; stop-color:#262320"/>
+   <stop offset="0.411765" style="stop-opacity:1; stop-color:#171614"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#3D4042"/>
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="HatVanHelsing-Mediumid8" x1="0%" x2="100%" y1="50%" y2="50%">
+   <stop offset="0" style="stop-opacity:1; stop-color:#1A1817"/>
+   <stop offset="0.360784" style="stop-opacity:1; stop-color:#1A1817"/>
+   <stop offset="0.6" style="stop-opacity:1; stop-color:#262421"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#3D4042"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="HatVanHelsing-Mediumid3" x1="17939" x2="18781.6" xlink:href="#HatVanHelsing-Mediumid0" y1="9767.47" y2="9767.47">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="HatVanHelsing-Mediumid2" x1="16995" x2="17839.12" xlink:href="#HatVanHelsing-Mediumid0" y1="9681.47" y2="9681.47">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceVanHelsingCoat-Mediumid50" x1="12941.28" x2="14114.07" xlink:href="#NecklaceVanHelsingCoat-Mediumid24" y1="21623.71" y2="21623.71">
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="NecklaceVanHelsingCoat-Mediumid51" x1="1.40033%" x2="99.6705%" xlink:href="#NecklaceVanHelsingCoat-Mediumid24" y1="49.6437%" y2="49.6437%">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceVanHelsingCoat-Mediumid12" x1="14757.99" x2="18758" xlink:href="#NecklaceVanHelsingCoat-Mediumid7" y1="20848" y2="20848">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceVanHelsingCoat-Mediumid85" x1="14978.38" x2="15413.55" xlink:href="#NecklaceVanHelsingCoat-Mediumid7" y1="20142" y2="20142">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceVanHelsingCoat-Mediumid86" x1="15184.51" x2="15560.72" xlink:href="#NecklaceVanHelsingCoat-Mediumid7" y1="21292.86" y2="21292.86">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceVanHelsingCoat-Mediumid87" x1="15065.36" x2="15475.27" xlink:href="#NecklaceVanHelsingCoat-Mediumid7" y1="22454" y2="22454">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceVanHelsingCoat-Mediumid58" x1="14305" x2="15296" xlink:href="#NecklaceVanHelsingCoat-Mediumid7" y1="20111.49" y2="20244.95">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceVanHelsingCoat-Mediumid47" x1="14412" x2="15393" xlink:href="#NecklaceVanHelsingCoat-Mediumid7" y1="21224.15" y2="21355.21">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceVanHelsingCoat-Mediumid59" x1="14322.97" x2="15311.09" xlink:href="#NecklaceVanHelsingCoat-Mediumid7" y1="22345" y2="22480">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceVanHelsingCoat-Mediumid25" x1="8606" x2="12605.97" xlink:href="#NecklaceVanHelsingCoat-Mediumid7" y1="20848" y2="20848">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceVanHelsingCoat-Mediumid23" x1="10196.81" x2="12330.8" xlink:href="#NecklaceVanHelsingCoat-Mediumid7" y1="18334.12" y2="18334.12">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceVanHelsingCoat-Mediumid20" x1="10747" x2="16602" xlink:href="#NecklaceVanHelsingCoat-Mediumid9" y1="20054.73" y2="20054.73">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceVanHelsingCoat-Mediumid16" x1="12102" x2="13682" y1="18592.73" y2="18592.73">
+   <stop offset="0" style="stop-opacity:1; stop-color:#402C27"/>
+   <stop offset="0.14902" style="stop-opacity:1; stop-color:#422D27"/>
+   <stop offset="0.490196" style="stop-opacity:1; stop-color:#5B392B"/>
+   <stop offset="0.858824" style="stop-opacity:1; stop-color:#402C27"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#5B392B"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceVanHelsingCoat-Mediumid60" x1="15261" x2="13682" xlink:href="#NecklaceVanHelsingCoat-Mediumid16" y1="18592.73" y2="18592.73">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceVanHelsingCoat-Mediumid98" x1="13304.24" x2="13452.98" xlink:href="#NecklaceVanHelsingCoat-Mediumid36" y1="19671.36" y2="20209.26">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceVanHelsingCoat-Mediumid96" x1="13304.24" x2="13452.98" xlink:href="#NecklaceVanHelsingCoat-Mediumid36" y1="20508.36" y2="21046.26">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceVanHelsingCoat-Mediumid97" x1="13304.24" x2="13452.98" xlink:href="#NecklaceVanHelsingCoat-Mediumid36" y1="21346.19" y2="21883.32">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceVanHelsingCoat-Mediumid125" x1="13743.31" x2="14275.89" xlink:href="#NecklaceVanHelsingCoat-Mediumid122" y1="21507.6" y2="21622.83">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceVanHelsingCoat-Mediumid109" x1="14486.28" x2="14905.72" xlink:href="#NecklaceVanHelsingCoat-Mediumid99" y1="21706.9" y2="21979.89">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceVanHelsingCoat-Mediumid128" x1="15170.65" x2="15745.49" xlink:href="#NecklaceVanHelsingCoat-Mediumid126" y1="21754.75" y2="21990.41">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceVanHelsingCoat-Mediumid105" x1="13633.2" x2="14050.49" xlink:href="#NecklaceVanHelsingCoat-Mediumid99" y1="21132.99" y2="21220.12">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceVanHelsingCoat-Mediumid106" x1="13936.89" x2="14542.39" xlink:href="#NecklaceVanHelsingCoat-Mediumid99" y1="21701.86" y2="21943.17">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceVanHelsingCoat-Mediumid111" x1="14737.5" x2="15314.74" xlink:href="#NecklaceVanHelsingCoat-Mediumid99" y1="21657.13" y2="21904.18">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceVanHelsingCoat-Mediumid107" x1="15436.54" x2="16072.9" xlink:href="#NecklaceVanHelsingCoat-Mediumid99" y1="21947.11" y2="22141.53">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceVanHelsingCoat-Mediumid123" x1="13781.21" x2="14313.24" xlink:href="#NecklaceVanHelsingCoat-Mediumid99" y1="21435.44" y2="21549.83">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceVanHelsingCoat-Mediumid117" x1="14422.15" x2="14831.82" xlink:href="#NecklaceVanHelsingCoat-Mediumid99" y1="21600.51" y2="21874.53">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceVanHelsingCoat-Mediumid130" x1="15117.92" x2="15692.92" xlink:href="#NecklaceVanHelsingCoat-Mediumid99" y1="21649.36" y2="21884.83">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceVanHelsingCoat-Mediumid79" x1="14831.89" x2="15665" y1="18804" y2="18804">
+   <stop offset="0" style="stop-opacity:1; stop-color:#262525"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#333131"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceVanHelsingCoat-Mediumid74" x1="11740" x2="12252" xlink:href="#NecklaceVanHelsingCoat-Mediumid7" y1="22662.96" y2="22615.37">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceVanHelsingCoat-Mediumid40" x1="11594" x2="12064" xlink:href="#NecklaceVanHelsingCoat-Mediumid7" y1="21562.79" y2="21502.81">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceVanHelsingCoat-Mediumid67" x1="11653" x2="12186" xlink:href="#NecklaceVanHelsingCoat-Mediumid7" y1="20462" y2="20535">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceVanHelsingCoat-Mediumid68" x1="12154.97" x2="11884.74" xlink:href="#NecklaceVanHelsingCoat-Mediumid36" y1="20203.18" y2="20751.73">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceVanHelsingCoat-Mediumid94" x1="11964.94" x2="11861.26" xlink:href="#NecklaceVanHelsingCoat-Mediumid36" y1="21216.91" y2="21829.04">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceVanHelsingCoat-Mediumid95" x1="12112" x2="12061.2" xlink:href="#NecklaceVanHelsingCoat-Mediumid36" y1="22311.69" y2="22952.74">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="WeaponBelmontBack-Mediumid44" x1="9016.37" x2="6878.19" y1="21968.5" y2="18868.2">
+   <stop offset="0" style="stop-opacity:1; stop-color:#302A22"/>
+   <stop offset="0.301961" style="stop-opacity:1; stop-color:#2F2922"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#7A674D"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="WeaponBelmontBack-Mediumid45" x1="5742.02" x2="6563.46" xlink:href="#WeaponBelmontBack-Mediumid43" y1="19240.4" y2="18325.6">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="WeaponBelmont-Mediumid42" x1="3019.36" x2="10510.1" y1="22396.5" y2="25844.6">
+   <stop offset="0" style="stop-opacity:1; stop-color:#352D23"/>
+   <stop offset="0.301961" style="stop-opacity:1; stop-color:#6F5E46"/>
+   <stop offset="0.580392" style="stop-opacity:1; stop-color:#352E23"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#7A674D"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="WeaponBelmont-Mediumid43" x1="9468.67" x2="10081.8" y1="22357.4" y2="21722.6">
+   <stop offset="0" style="stop-opacity:1; stop-color:#877F7F"/>
+   <stop offset="0.290196" style="stop-opacity:1; stop-color:#383535"/>
+   <stop offset="0.501961" style="stop-opacity:1; stop-color:#A89F9F"/>
+   <stop offset="0.729412" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#CCC4C4"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryCutepoolKatanas-Mediumid183" x1="15242.32" x2="14868.97" xlink:href="#AccessoryCutepoolKatanas-Mediumid75" y1="20290.65" y2="20978.33">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryCutepoolKatanas-Mediumid202" x1="8777.7" x2="8510.04" xlink:href="#AccessoryCutepoolKatanas-Mediumid69" y1="16906.97" y2="17399.98">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryCutepoolKatanas-Mediumid142" x1="12121.49" x2="12494.84" xlink:href="#AccessoryCutepoolKatanas-Mediumid75" y1="20290.64" y2="20978.32">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryCutepoolKatanas-Mediumid203" x1="18586.11" x2="18853.77" xlink:href="#AccessoryCutepoolKatanas-Mediumid69" y1="16906.96" y2="17399.97">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryCutepoolKatanas-Mediumid86" x1="11162.06" x2="10505.61" xlink:href="#AccessoryCutepoolKatanas-Mediumid69" y1="17737.86" y2="18947">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryCutepoolKatanas-Mediumid159" x1="16201.75" x2="16858.2" xlink:href="#AccessoryCutepoolKatanas-Mediumid69" y1="17737.85" y2="18946.99">
+  </linearGradient><radialGradient cx="18747.4" cy="19655.5" fx="18747.4" fy="19655.5" gradientTransform="matrix(-1.51515 -0 -0 1.18516 47153 -3639)" gradientUnits="userSpaceOnUse" id="BraceletBlackMetal-Mediumid314" r="126.91">
+   <stop offset="0" style="stop-opacity:1; stop-color:#ddc1b2"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#707070"/>
+  </radialGradient><linearGradient gradientUnits="userSpaceOnUse" id="Tail-Pig5id5" x1="18537.4" x2="18537.4" y1="11625" y2="5118.17">
+   <stop offset="0" style="stop-opacity:1; stop-color:#77613d"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#bfa67c"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="RightFoot-Pig0id0" x1="16257.8" x2="16257.8" y1="21560.3" y2="23683.4">
+   <stop offset="0" style="stop-opacity:1; stop-color:#77613d"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#9e8660"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="RightLeg-Pig0id2" x1="11782.6" x2="11782.6" y1="24212.9" y2="21311.8">
+   <stop offset="0" style="stop-opacity:1; stop-color:#d9c9ad"/>
+   <stop offset="0.388235" style="stop-opacity:1; stop-color:#d9c9ad"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#bfa67c"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="LeftFoot-Pig0id0" x1="16257.8" x2="16257.8" y1="21560.3" y2="23683.4">
+   <stop offset="0" style="stop-opacity:1; stop-color:#77613d"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#9e8660"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="LeftLeg-Pig0id2" x1="11782.6" x2="11782.6" y1="24212.9" y2="21311.8">
+   <stop offset="0" style="stop-opacity:1; stop-color:#d9c9ad"/>
+   <stop offset="0.388235" style="stop-opacity:1; stop-color:#d9c9ad"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#bfa67c"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="RightPaw-Pig10id5" x1="18537.4" x2="18537.4" y1="11625" y2="5118.17">
+   <stop offset="0" style="stop-opacity:1; stop-color:#77613d"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#bfa67c"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Body-Pig1id30" x1="13681.9" x2="13681.9" y1="9565.57" y2="17278">
+   <stop offset="0" style="stop-opacity:1; stop-color:#ddc1b2"/>
+   <stop offset="0.658824" style="stop-opacity:1; stop-color:#ddc1b2"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#d1b09f"/>
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="LeftPaw-Pig10id25" x1="81.8832%" x2="18.1168%" y1="89.1977%" y2="10.8018%">
+   <stop offset="0" style="stop-opacity:1; stop-color:#99835c"/>
+   <stop offset="0.619608" style="stop-opacity:1; stop-color:#bfa67c"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#bfa67c"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="LeftPaw-Pig10id5" x1="18537.4" x2="18537.4" y1="11625" y2="5118.17">
+   <stop offset="0" style="stop-opacity:1; stop-color:#77613d"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#bfa67c"/>
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="Head-Pig7id42" x1="50%" x2="50%" y1="0.000186021%" y2="100%">
+   <stop offset="0" style="stop-opacity:1; stop-color:#99835c"/>
+   <stop offset="0.0313725" style="stop-opacity:1; stop-color:#99835c"/>
+   <stop offset="0.529412" style="stop-opacity:1; stop-color:#bfa67c"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#d9c9ad"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Nose-Pig6id151" x1="13681.9" x2="13681.9" y1="13554.2" y2="15469.2">
+   <stop offset="0" style="stop-opacity:1; stop-color:#FFCCCC"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#DB9092"/>
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="HatVanHelsing-Mediumid7" x1="0%" x2="100%" y1="50%" y2="50%">
+   <stop offset="0" style="stop-opacity:1; stop-color:#36302A"/>
+   <stop offset="0.411765" style="stop-opacity:1; stop-color:#171614"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#3D4042"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="HatVanHelsing-Mediumid48" x1="14575" x2="18785" y1="7661.47" y2="9821.05">
+   <stop offset="0" style="stop-opacity:1; stop-color:#36302A"/>
+   <stop offset="0.580392" style="stop-opacity:1; stop-color:#323435"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#54595C"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="HatVanHelsing-Mediumid0" x1="17203" x2="18091.16" y1="9149.67" y2="9149.67">
+   <stop offset="0" style="stop-opacity:1; stop-color:#2B2929"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#3B3939"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceVanHelsingCoat-Mediumid24" x1="12946.46" x2="14139" y1="21780.7" y2="21780.7">
+   <stop offset="0" style="stop-opacity:1; stop-color:#402C27"/>
+   <stop offset="0.329412" style="stop-opacity:1; stop-color:#422D27"/>
+   <stop offset="0.490196" style="stop-opacity:1; stop-color:#614133"/>
+   <stop offset="0.678431" style="stop-opacity:1; stop-color:#402C27"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#50372D"/>
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="NecklaceVanHelsingCoat-Mediumid7" x1="0%" x2="100%" y1="50%" y2="50%">
+   <stop offset="0" style="stop-opacity:1; stop-color:#36302A"/>
+   <stop offset="0.411765" style="stop-opacity:1; stop-color:#171614"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#3D4042"/>
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="NecklaceVanHelsingCoat-Mediumid9" x1="0%" x2="100%" y1="50%" y2="50%">
+   <stop offset="0" style="stop-opacity:1; stop-color:#0D0B0B"/>
+   <stop offset="0.360784" style="stop-opacity:1; stop-color:#3B2A26"/>
+   <stop offset="0.490196" style="stop-opacity:1; stop-color:#614133"/>
+   <stop offset="0.678431" style="stop-opacity:1; stop-color:#3B2A26"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#0D0B0B"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceVanHelsingCoat-Mediumid36" x1="12025.18" x2="11899.11" y1="21293.33" y2="22036.34">
+   <stop offset="0" style="stop-opacity:1; stop-color:gray"/>
+   <stop offset="0.258824" style="stop-opacity:1; stop-color:#4F4848"/>
+   <stop offset="0.45098" style="stop-opacity:1; stop-color:#B3B3B3"/>
+   <stop offset="0.721569" style="stop-opacity:1; stop-color:#625E5E"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#505050"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceVanHelsingCoat-Mediumid122" x1="13766.36" x2="14296.4" y1="22483.22" y2="22597.5">
+   <stop offset="0" style="stop-opacity:1; stop-color:#42403D"/>
+   <stop offset="0.301961" style="stop-opacity:1; stop-color:#242424"/>
+   <stop offset="0.509804" style="stop-opacity:1; stop-color:#494846"/>
+   <stop offset="0.568627" style="stop-opacity:1; stop-color:#7D7C7B"/>
+   <stop offset="0.721569" style="stop-opacity:1; stop-color:#D6D6D6"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#505050"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceVanHelsingCoat-Mediumid99" x1="13630" x2="14446" y1="20893" y2="20893">
+   <stop offset="0" style="stop-opacity:1; stop-color:#42403D"/>
+   <stop offset="0.301961" style="stop-opacity:1; stop-color:#242424"/>
+   <stop offset="0.568627" style="stop-opacity:1; stop-color:#7D7C7B"/>
+   <stop offset="0.721569" style="stop-opacity:1; stop-color:#D6D6D6"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#505050"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceVanHelsingCoat-Mediumid126" x1="15329.7" x2="15972.06" y1="21921.25" y2="22184.42">
+   <stop offset="0" style="stop-opacity:1; stop-color:#42403D"/>
+   <stop offset="0.301961" style="stop-opacity:1; stop-color:#242424"/>
+   <stop offset="0.568627" style="stop-opacity:1; stop-color:#7D7C7B"/>
+   <stop offset="0.701961" style="stop-opacity:1; stop-color:#494846"/>
+   <stop offset="0.721569" style="stop-opacity:1; stop-color:#D6D6D6"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#505050"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="WeaponBelmontBack-Mediumid43" x1="9468.67" x2="10081.8" y1="22357.4" y2="21722.6">
+   <stop offset="0" style="stop-opacity:1; stop-color:#877F7F"/>
+   <stop offset="0.290196" style="stop-opacity:1; stop-color:#383535"/>
+   <stop offset="0.501961" style="stop-opacity:1; stop-color:#A89F9F"/>
+   <stop offset="0.729412" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#CCC4C4"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryCutepoolKatanas-Mediumid75" x1="15117.03" x2="14773.66" y1="21302.02" y2="21934.49">
+   <stop offset="0" style="stop-opacity:1; stop-color:#2D2D2D"/>
+   <stop offset="0.168627" style="stop-opacity:1; stop-color:#514F4C"/>
+   <stop offset="0.270588" style="stop-opacity:1; stop-color:#C4C4C4"/>
+   <stop offset="0.490196" style="stop-opacity:1; stop-color:#444342"/>
+   <stop offset="0.670588" style="stop-opacity:1; stop-color:#28241E"/>
+   <stop offset="0.819608" style="stop-opacity:1; stop-color:#4A4A4A"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#4A4A4A"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryCutepoolKatanas-Mediumid69" x1="18192.35" x2="18438.51" y1="18190.02" y2="18643.44">
+   <stop offset="0" style="stop-opacity:1; stop-color:#2D2D2D"/>
+   <stop offset="0.2" style="stop-opacity:1; stop-color:#514F4C"/>
+   <stop offset="0.34902" style="stop-opacity:1; stop-color:#C4C4C4"/>
+   <stop offset="0.670588" style="stop-opacity:1; stop-color:#28241E"/>
+   <stop offset="0.819608" style="stop-opacity:1; stop-color:#4A4A4A"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#4A4A4A"/>
+  </linearGradient></defs><g id="HatVanHelsingBack-Medium">
+  <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_4Corel-Layer"/>
+  <path class="HatVanHelsingBack-Mediumfil13 HatVanHelsingBack-Mediumstr1" d="M3841 11642c3865,-1576 5998,183 11883,-112 4021,-202 6679,-1217 8290,125 511,1329 -2989,1158 -4873,1902 -1646,401 -3589,539 -5001,540 -1564,2 -3002,-256 -4904,-542 -883,-122 -2533,-320 -3323,-427 -2114,-285 -3053,-841 -2072,-1486z" style="fill:#400a14"/>
+ </g><g id="HairBack-Pig0">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect class="HairBack-Pig0fil0" height="890" width="890" x="13237" y="6590"/>
+  <rect class="HairBack-Pig0fil0" height="890" width="890" x="13237" y="6590"/>
+ </g><g id="Tail-Pig5">
+  <metadata id="CorelCorpID_8Corel-Layer"/>
+  <path class="Tail-Pig5fil35 Tail-Pig5str2" d="M17413 23565c218,-262 160,-652 393,-912 143,-158 260,-202 344,-213 -39,86 -184,294 -149,469 165,-110 230,-270 488,-549 424,-448 953,-579 1517,-407 -344,39 -532,279 -624,449 433,-156 670,-73 1135,-328 -192,581 -936,1134 -1523,1232 237,68 847,-109 927,-148 -552,804 -1215,808 -1590,748 50,23 349,189 248,220 -100,32 -581,166 -920,-30 -30,-10 -81,-26 -111,-13 -743,323 -1682,444 -2553,244 -749,-171 -1237,-595 -1725,-1309 -78,-114 -49,-269 65,-347 114,-77 369,-74 446,39 410,600 691,985 1325,1131 748,172 1553,73 2199,-196 61,-26 60,-23 108,-80z" style="fill:#3f1d99"/>
+  <path class="Tail-Pig5fil10" d="M20474 22184c-635,486 -1128,1066 -2027,1121 543,185 647,136 896,63 -116,-20 -233,-41 -349,-62 0,0 927,-148 1480,-1122z" style="fill:#cd90b5"/>
+  <path class="Tail-Pig5fil10" d="M19811 23240c-398,259 -693,451 -1037,477 -282,22 -516,-50 -794,-24 -161,15 -300,52 -511,168 -142,78 -314,165 -382,172 -125,13 -147,-164 -147,-164l-352 280 79 181 887 -249c0,0 323,102 397,109 75,8 628,-64 628,-64 0,0 -99,-126 -157,-170 -58,-45 355,-27 472,-56 118,-29 677,-214 917,-660z" style="fill:#3868bb"/>
+  <path class="Tail-Pig5fil10" d="M19452 22449c0,0 -456,175 -532,317 -77,142 92,-522 357,-668 264,-145 496,-142 496,-142 0,0 -367,304 -321,493z" style="fill:#bd918b"/>
+  <path class="Tail-Pig5fil10" d="M13490 23319c0,0 395,512 678,654 283,143 752,312 752,312 0,0 186,-4 229,-146 43,-143 -129,-251 -146,-291 -18,-39 -214,-97 -334,-172 -120,-75 -403,-334 -476,-506 -72,-172 -948,-387 -703,149z" style="fill:#677194"/>
+ </g><g id="AccessoryCutepoolKatanas-Medium">
+  <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2386306507984">
+   <g>
+    <polygon class="AccessoryCutepoolKatanas-Mediumfil0" points="18932.67,23184.55 10805.28,18772.12 11178.63,18084.43 19306.02,22496.86 "/>
+    <polygon class="AccessoryCutepoolKatanas-Mediumfil1" points="10541.89,18503.09 6478.19,16296.87 6745.85,15803.87 10809.54,18010.08 "/>
+    <polygon class="AccessoryCutepoolKatanas-Mediumfil2" points="19189.63,22711.24 11066.04,18292.24 11182.43,18077.85 19306.02,22496.86 "/>
+    <polygon class="AccessoryCutepoolKatanas-Mediumfil3 AccessoryCutepoolKatanas-Mediumstr0" points="18932.67,23184.55 10805.28,18772.12 11178.63,18084.43 19306.02,22496.86 "/>
+    <polygon class="AccessoryCutepoolKatanas-Mediumfil4 AccessoryCutepoolKatanas-Mediumstr0" points="10347.49,18861.15 11003.94,17652.02 11320.18,17823.71 10663.73,19032.84 "/>
+    <line class="AccessoryCutepoolKatanas-Mediumfil3 AccessoryCutepoolKatanas-Mediumstr1" x1="10541.89" x2="10809.54" y1="18503.09" y2="18010.08"/>
+    <polygon class="AccessoryCutepoolKatanas-Mediumfil5" points="18937.58,23175.51 10810.18,18763.08 10663.73,19032.84 10343.78,18855.1 10545.88,18493.89 6492.1,16271.25 6557.12,16151.49 10620.82,18357.7 10581.25,18434.07 10896.03,18604.96 10931.75,18509.52 11198.91,18655 19071.39,22929.03 "/>
+    <polygon class="AccessoryCutepoolKatanas-Mediumfil2" points="11060.83,18142.79 10878.31,18043.69 11035.16,17754.78 11217.68,17853.88 "/>
+    <polygon class="AccessoryCutepoolKatanas-Mediumfil2" points="10639.08,18168.19 6706.47,16033.15 6775.9,15905.26 10708.51,18040.31 "/>
+    <path class="AccessoryCutepoolKatanas-Mediumfil3 AccessoryCutepoolKatanas-Mediumstr2" d="M10269.81 18355.38l267.66 -493.01m-539.74 345.29l267.66 -493.01m-539.74 345.3l267.66 -493.01m-539.74 345.29l267.66 -493m-539.74 345.29l267.66 -493.01m-539.74 345.3l267.66 -493.01m-539.73 345.29l267.65 -493.01m-539.73 345.3l267.66 -493.01m-1083.9 49.87l267.66 -493.01m-539.74 345.3l267.66 -493.01m-539.73 345.29l267.65 -493.01m-539.73 345.3l267.66 -493.01m1092.73 1231.58l267.66 -493.01m-539.74 345.29l267.66 -493.01" style="fill:#9985b3"/>
+    <polygon class="AccessoryCutepoolKatanas-Mediumfil3 AccessoryCutepoolKatanas-Mediumstr0" points="10541.89,18503.09 6478.19,16296.87 6745.85,15803.87 10809.54,18010.08 "/>
+   </g>
+   <g>
+    <polygon class="AccessoryCutepoolKatanas-Mediumfil6" points="8431.14,23184.54 16558.53,18772.11 16185.18,18084.42 8057.79,22496.85 "/>
+    <polygon class="AccessoryCutepoolKatanas-Mediumfil7" points="16821.92,18503.08 20885.62,16296.86 20617.96,15803.86 16554.27,18010.07 "/>
+    <polygon class="AccessoryCutepoolKatanas-Mediumfil2" points="8174.18,22711.23 16046.7,18437.18 15930.31,18222.79 8057.79,22496.85 "/>
+    <polygon class="AccessoryCutepoolKatanas-Mediumfil3 AccessoryCutepoolKatanas-Mediumstr0" points="8431.14,23184.54 16558.53,18772.11 16185.18,18084.42 8057.79,22496.85 "/>
+    <polygon class="AccessoryCutepoolKatanas-Mediumfil8 AccessoryCutepoolKatanas-Mediumstr0" points="17016.32,18861.14 16359.87,17652.01 16043.63,17823.7 16700.08,19032.83 "/>
+    <line class="AccessoryCutepoolKatanas-Mediumfil3 AccessoryCutepoolKatanas-Mediumstr1" x1="16821.92" x2="16554.27" y1="18503.08" y2="18010.07"/>
+    <polygon class="AccessoryCutepoolKatanas-Mediumfil5" points="8426.23,23175.5 16553.63,18763.07 16700.08,19032.83 17020.03,18855.09 16817.93,18493.88 20871.71,16271.24 20806.69,16151.48 16742.99,18357.69 16782.56,18434.06 16467.78,18604.95 16162.28,18042.24 15907.37,18180.64 16164.9,18654.99 8292.42,22929.02 "/>
+    <polygon class="AccessoryCutepoolKatanas-Mediumfil2" points="16302.98,18142.78 16485.5,18043.68 16328.65,17754.77 16146.13,17853.87 "/>
+    <polygon class="AccessoryCutepoolKatanas-Mediumfil2" points="16724.73,18168.18 20657.34,16033.14 20587.91,15905.25 16655.3,18040.3 "/>
+    <path class="AccessoryCutepoolKatanas-Mediumfil3 AccessoryCutepoolKatanas-Mediumstr2" d="M17094 18355.37l-267.66 -493.01m539.74 345.29l-267.66 -493.01m539.74 345.3l-267.66 -493.01m539.74 345.29l-267.66 -493m539.74 345.29l-267.66 -493.01m539.74 345.3l-267.66 -493.01m539.73 345.29l-267.65 -493.01m539.73 345.3l-267.66 -493.01m1083.9 49.87l-267.66 -493.01m539.74 345.3l-267.66 -493.01m539.73 345.29l-267.65 -493.01m539.73 345.3l-267.66 -493.01m-1092.73 1231.58l-267.66 -493.01m539.74 345.29l-267.66 -493.01" style="fill:#99da96"/>
+    <polygon class="AccessoryCutepoolKatanas-Mediumfil3 AccessoryCutepoolKatanas-Mediumstr0" points="16821.92,18503.08 20885.62,16296.86 20617.96,15803.86 16554.27,18010.07 "/>
+   </g>
+  </g>
+ </g><g id="RightFoot-Pig0">
+  <metadata id="CorelCorpID_10Corel-Layer"/>
+  <path class="RightFoot-Pig0fil37" d="M16559 24190c54,65 143,233 174,292 62,268 -152,365 -298,365 -143,0 -686,-98 -894,289 -330,-192 -541,-572 -540,-565 -22,-43 -41,-85 -54,-126 -58,-176 -10,-247 31,-317 480,-107 1078,-83 1581,62z" style="fill:#052e78"/>
+  <path class="RightFoot-Pig0fil38" d="M15011 24496c-3,101 -14,73 -14,176 -5,821 346,600 430,523 12,-11 59,-71 57,-73 -109,-146 -274,-300 -473,-626z" style="fill:#2f6f14"/>
+  <path class="RightFoot-Pig0fil0 RightFoot-Pig0str2" d="M14995 24537c1,45 2,90 2,135 -5,821 346,600 430,523 4,-4 19,-23 37,-48" style="fill:#95847e"/>
+  <path class="RightFoot-Pig0fil39" d="M16756 24466c0,0 -225,-105 -294,-5 -54,78 49,353 -47,353 -106,0 -310,-245 -509,-215 -288,43 -418,429 -384,506 35,82 343,409 763,435 419,26 490,-14 487,-39 -3,-24 42,-150 42,-150 0,0 458,-59 491,-95 100,-109 -467,-691 -549,-790z" style="fill:#f00b49"/>
+  <polygon class="RightFoot-Pig0fil40" points="16740,25393 16571,24994 16934,25330 "/>
+  <path class="RightFoot-Pig0fil0 RightFoot-Pig0str2" d="M16567 24189c147,241 633,739 718,969 84,231 -492,167 -492,167 0,0 5,189 -122,220 -281,70 -831,-103 -1075,-309 -49,-41 -99,-87 -150,-135" style="fill:#39b928"/>
+  <path class="RightFoot-Pig0fil0 RightFoot-Pig0str2" d="M16567 24189c45,73 121,170 208,277m-1262 697c-341,-311 -707,-789 -548,-1037" style="fill:#91d0a4"/>
+  <path class="RightFoot-Pig0fil10" d="M15252 24171c-250,336 427,769 691,965 282,210 555,378 651,406 -45,23 -445,-31 -727,-123 -179,-96 -710,-617 -803,-752 -94,-163 -147,-331 -119,-480 10,-21 22,-40 33,-59 85,-7 193,-3 274,43z" style="fill:#54bd85"/>
+ </g><g id="LeftFoot-Pig0">
+  <metadata id="CorelCorpID_27Corel-Layer"/>
+  <path class="LeftFoot-Pig0fil37" d="M10805 24190c-54,65 -143,233 -174,292 -62,268 152,365 298,365 143,0 685,-98 894,289 330,-192 541,-572 540,-565 22,-43 40,-85 54,-126 58,-176 10,-247 -31,-317 -480,-107 -1078,-83 -1581,62z" style="fill:#c73a32"/>
+  <path class="LeftFoot-Pig0fil38" d="M12353 24496c3,101 14,73 14,176 5,821 -346,600 -430,523 -12,-11 -59,-71 -57,-73 109,-146 274,-300 473,-626z" style="fill:#fc55d2"/>
+  <path class="LeftFoot-Pig0fil0 LeftFoot-Pig0str2" d="M12369 24537c-1,45 -2,90 -2,135 5,821 -346,600 -430,523 -4,-4 -19,-23 -37,-48" style="fill:#5a518f"/>
+  <path class="LeftFoot-Pig0fil57" d="M10608 24466c0,0 225,-105 294,-5 54,78 -49,353 47,353 106,0 309,-245 509,-215 288,43 418,429 384,506 -35,82 -343,409 -763,435 -419,26 -490,-14 -487,-39 3,-24 -42,-150 -42,-150 0,0 -458,-59 -491,-95 -101,-109 467,-691 549,-790z" style="fill:#694cfb"/>
+  <polygon class="LeftFoot-Pig0fil40" points="10624,25393 10793,24994 10430,25330 "/>
+  <path class="LeftFoot-Pig0fil0 LeftFoot-Pig0str2" d="M10797 24189c-147,241 -633,739 -718,969 -85,231 492,167 492,167 0,0 -5,189 122,220 281,70 831,-103 1075,-309 49,-41 99,-87 150,-135" style="fill:#01fd4b"/>
+  <path class="LeftFoot-Pig0fil0 LeftFoot-Pig0str2" d="M10797 24189c-45,73 -121,170 -208,277m1262 697c341,-311 707,-789 548,-1037" style="fill:#cab3bb"/>
+  <path class="LeftFoot-Pig0fil10" d="M12112 24171c250,336 -428,769 -691,965 -282,210 -555,378 -651,406 45,23 444,-31 727,-123 179,-96 710,-617 803,-752 94,-163 147,-331 119,-480 -10,-21 -22,-40 -33,-59 -85,-7 -193,-3 -274,43z" style="fill:#1f9a89"/>
+ </g><g id="RightLeg-Pig0">
+  <metadata id="CorelCorpID_22Corel-Layer"/>
+  <path class="RightLeg-Pig0fil52" d="M16570 21416c0,0 1181,1189 570,2176 -128,221 -511,470 -581,598 -599,44 -1104,27 -1581,-62 45,-78 82,-155 -44,-376 -113,-198 -400,-446 -1252,-493 0,-147 0,-280 0,-522 373,-788 1598,-1745 2888,-1321z" style="fill:#cee06b"/>
+  <path class="RightLeg-Pig0fil10" d="M17192 23421c67,-141 106,-290 107,-439 2,-734 -540,-1374 -869,-1659l-157 688c26,45 52,90 79,136 387,-391 947,832 840,1274z" style="fill:#6361cd"/>
+  <path class="RightLeg-Pig0fil0 RightLeg-Pig0str2" d="M16570 21416c303,324 585,778 689,1246 115,521 25,950 -408,1282 -95,72 -194,144 -284,245m-1602 -63c284,-396 -518,-875 -1283,-867" style="fill:#c0eecd"/>
+  <path class="RightLeg-Pig0fil10" d="M13760 23246c341,-28 1532,124 1607,584 27,166 -52,256 -115,341 -93,-12 -184,-26 -274,-43 40,-70 74,-140 -11,-313 -8,-22 -19,-42 -33,-62l0 -1c-104,-182 -357,-408 -1066,-479 -35,-9 -71,-18 -108,-27z" style="fill:#41393a"/>
+ </g><g id="LeftLeg-Pig0">
+  <metadata id="CorelCorpID_39Corel-Layer"/>
+  <path class="LeftLeg-Pig0fil62" d="M10794 21416c0,0 -1181,1189 -570,2176 128,221 511,470 581,598 599,44 1104,27 1581,-62 -45,-78 -82,-155 44,-376 113,-198 400,-446 1252,-493 0,-147 0,-280 0,-522 -373,-788 -1598,-1745 -2888,-1321z" style="fill:#a41e87"/>
+  <path class="LeftLeg-Pig0fil10" d="M10172 23421c-67,-141 -106,-290 -107,-439 -2,-734 540,-1374 869,-1659l157 688c-26,45 -53,90 -79,136 -388,-391 -947,832 -840,1274z" style="fill:#3ab8d7"/>
+  <path class="LeftLeg-Pig0fil0 LeftLeg-Pig0str2" d="M10794 21416c-303,324 -586,778 -689,1246 -115,521 -25,950 408,1282 95,72 193,144 284,245m1602 -63c-284,-396 517,-875 1283,-867" style="fill:#f36034"/>
+  <path class="LeftLeg-Pig0fil10" d="M13604 23246c-341,-28 -1532,124 -1607,584 -27,166 52,256 115,341 93,-12 184,-26 274,-43 -40,-70 -74,-140 11,-313 8,-22 19,-42 33,-62l0 -1c104,-182 357,-408 1066,-479 35,-9 71,-18 108,-27z" style="fill:#b82983"/>
+ </g><g id="Body-Pig1">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_67Corel-Layer"/>
+  <path class="Body-Pig1fil83" d="M13682 23135c-1548,0 -2752,-291 -2993,-1956 -147,-1014 391,-2287 991,-3420 634,80 1289,123 2002,142 713,-19 1367,-62 2002,-142 600,1133 1137,2406 991,3420 -242,1665 -1445,1956 -2993,1956z" style="fill:#48d253"/>
+  <path class="Body-Pig1fil10" d="M12621 23067c-1016,-156 -1749,-629 -1932,-1888 -75,-519 29,-1106 229,-1707 -223,2001 402,3257 1703,3595z" style="fill:#7f004b"/>
+  <path class="Body-Pig1fil84" d="M11012 22144c-250,-321 -348,-641 -397,-954 -59,-377 -24,-998 184,-1320 -78,421 -93,905 -36,1298 50,341 104,572 249,976z" style="fill:#3e4b86"/>
+  <path class="Body-Pig1fil10" d="M14743 23067c1016,-156 1749,-629 1932,-1888 75,-519 -29,-1106 -229,-1707 223,2001 -402,3257 -1703,3595z" style="fill:#f34a0e"/>
+  <path class="Body-Pig1fil84" d="M16352 22144c250,-321 347,-641 397,-954 59,-377 24,-998 -184,-1320 78,421 93,905 36,1298 -50,341 -104,572 -249,976z" style="fill:#f1ddce"/>
+  <path class="Body-Pig1fil85" d="M13682 18283c-887,0 -1587,-322 -1922,364 -851,1742 -881,4090 1922,4090 2803,0 2773,-2348 1922,-4090 -336,-686 -1035,-364 -1922,-364z" style="fill:#8a0fc4"/>
+ </g><g id="WeaponBelmontBack-Medium">
+     <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+     <metadata id="CorelCorpID_4Corel-Layer"/>
+  <g id="_2887544763232">
+   <path class="WeaponBelmontBack-Mediumfil31 WeaponBelmontBack-Mediumstr2" d="M6034 19256c-219,-251 325,-837 633,-609 183,98 300,228 383,373 180,81 277,202 346,337 162,56 291,164 324,315 178,88 311,194 359,377 181,77 276,158 316,279 296,288 592,576 888,864 186,76 302,231 407,396l221 215 -357 438 -190 -161c-143,-39 -234,-124 -287,-243 -190,-85 -336,-197 -414,-352 -185,-157 -331,-276 -517,-433 -244,-58 -413,-231 -476,-408 -204,-52 -355,-169 -436,-370 -215,-27 -336,-146 -390,-331 -228,-72 -352,-179 -376,-319 -147,-48 -275,-139 -322,-272 -43,-36 -69,-59 -112,-96z" style="fill:#0ec3ec"/>
+   <path class="WeaponBelmontBack-Mediumfil5 WeaponBelmontBack-Mediumstr2" d="M6134 19338c25,-308 643,-477 930,-312" style="fill:#98e00c"/>
+   <path class="WeaponBelmontBack-Mediumfil5 WeaponBelmontBack-Mediumstr2" d="M6478 19626c74,-269 629,-422 931,-265" style="fill:#b01b57"/>
+   <path class="WeaponBelmontBack-Mediumfil5 WeaponBelmontBack-Mediumstr2" d="M6858 19954c33,-215 619,-372 904,-260" style="fill:#c72004"/>
+   <path class="WeaponBelmontBack-Mediumfil5 WeaponBelmontBack-Mediumstr2" d="M7257 20284c33,-217 525,-363 799,-247" style="fill:#63aaf8"/>
+   <path class="WeaponBelmontBack-Mediumfil5 WeaponBelmontBack-Mediumstr2" d="M9078 21815c22,-192 447,-342 714,-136" style="fill:#5eb396"/>
+   <path class="WeaponBelmontBack-Mediumfil5 WeaponBelmontBack-Mediumstr2" d="M7702 20654c37,-239 589,-373 834,-183" style="fill:#2729f6"/>
+   <path class="WeaponBelmontBack-Mediumfil27" d="M6305 18726c-5,127 76,209 209,263 -28,147 55,271 302,363 23,162 180,272 414,352 3,135 82,246 287,317 35,185 186,315 432,399 163,119 326,237 489,356 370,320 741,640 1111,960 -85,105 -170,209 -255,313 -73,-70 -146,-141 -219,-212 -368,-276 -736,-551 -1105,-827 -105,-121 -210,-242 -316,-363 -94,-48 -187,-96 -281,-144 -47,-75 -95,-149 -143,-223 -93,-37 -185,-75 -277,-112 -42,-76 -84,-153 -126,-230 -85,-38 -170,-77 -256,-115 -34,-70 -69,-139 -104,-209 -83,-40 -165,-81 -248,-122 -62,-87 -125,-175 -187,-262 -8,-210 107,-368 273,-504z" style="fill:#9fac3d"/>
+   <path class="WeaponBelmontBack-Mediumfil28" d="M7169 19205c-46,-75 -463,-231 -521,-97 -57,134 332,16 521,97z" style="fill:#8207db"/>
+   <path class="WeaponBelmontBack-Mediumfil28" d="M7531 19533c-46,-74 -463,-231 -521,-97 -58,134 332,16 521,97z" style="fill:#d08be7"/>
+   <path class="WeaponBelmontBack-Mediumfil28" d="M7961 19893c-47,-74 -464,-231 -522,-97 -57,134 332,16 522,97z" style="fill:#2d1458"/>
+   <path class="WeaponBelmontBack-Mediumfil28" d="M6726 18805c-47,-75 -464,-231 -521,-97 -58,134 332,16 521,97z" style="fill:#88690b"/>
+   <path class="WeaponBelmontBack-Mediumfil32 WeaponBelmontBack-Mediumstr2" d="M6070 19393c-130,-93 -380,-330 -493,-437 -259,-325 386,-953 747,-739 107,100 357,333 464,458 -327,-197 -909,388 -718,718z" style="fill:#6a1f8b"/>
+   <path class="WeaponBelmontBack-Mediumfil30" d="M6070 19393c-130,-93 -380,-330 -493,-437 -117,-147 -37,-421 126,-586 -42,197 268,551 504,495 -146,160 -227,372 -137,528z" style="fill:#df8c53"/>
+  </g>
+ </g><g id="RightPaw-Pig10">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_59Corel-Layer"/>
+  <path class="RightPaw-Pig10fil74" d="M18486 19871c155,269 247,281 434,498 211,244 446,948 341,1067 -34,39 -389,8 -389,8 -15,58 -145,373 -188,392 -161,73 -598,-324 -814,-554 -63,111 -195,178 -216,147 -79,-27 -146,-195 -211,-374 -34,-92 -45,-318 -86,-348 139,-387 621,-775 1129,-836z" style="fill:#6e48dd"/>
+  <path class="RightPaw-Pig10fil51" d="M18063 19685c64,96 204,233 173,396 -121,-193 -339,-214 -585,-235 238,177 108,282 254,484 -200,-157 -432,-58 -531,-118 16,106 146,295 254,363 -96,58 -223,-45 -463,-38 162,64 47,59 219,189 25,86 -26,97 59,329 65,179 132,347 211,374 21,31 153,-36 216,-147 216,230 653,627 814,554 43,-19 173,-334 188,-392 0,0 355,31 389,-8 105,-119 -130,-823 -341,-1067 -248,-288 -190,-203 -432,-495 -83,-100 -255,-190 -425,-189z" style="fill:#256b96"/>
+  <path class="RightPaw-Pig10fil10" d="M17452 20518c31,24 62,48 92,70 4,3 39,31 43,34 13,14 26,28 39,43 79,93 97,228 104,283 2,13 3,21 4,24 -2,92 -166,169 -227,208 0,-8 -67,-223 -116,-364 0,-31 3,-54 -7,-90 -9,-6 -18,-13 -27,-19 23,-64 55,-127 95,-189z" style="fill:#8f7a34"/>
+  <path class="RightPaw-Pig10fil77" d="M18910 20358c-402,-76 -337,407 -242,635 -239,-309 -538,-414 -692,-297 -104,79 -113,131 -203,226 -99,104 -339,-108 -394,-184 -18,147 139,645 275,691 21,31 153,-36 216,-147 216,230 653,627 814,554 43,-19 173,-334 188,-392 0,0 355,31 389,-8 109,-123 -135,-862 -351,-1078z" style="fill:#c25ab1"/>
+  <path class="RightPaw-Pig10fil10" d="M18804 21498c-67,307 -352,47 -875,-255 4,66 -100,45 -131,-12 -41,-92 -52,-190 -68,-283 -88,22 -225,-79 -303,-156 -5,-5 -11,-11 -16,-16 49,174 144,541 243,653 90,2 173,-73 216,-147 195,208 586,566 808,522 90,-18 70,-138 126,-306z" style="fill:#263205"/>
+  <polygon class="RightPaw-Pig10fil40" points="18796,21484 18678,21021 18973,21393 "/>
+  <path class="RightPaw-Pig10fil0 RightPaw-Pig10str2" d="M17136 20561c121,75 170,94 271,202 1,149 38,330 93,461 54,128 115,197 196,208 55,8 128,-6 194,-123 208,221 642,571 796,501 41,-19 164,-344 179,-400 0,0 356,75 389,38 86,-99 -94,-785 -280,-992 -109,-122 -404,-420 -409,-427 -68,-85 -123,-182 -179,-276" style="fill:#34d569"/>
+ </g><g id="LeftPaw-Pig10">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_81Corel-Layer"/>
+  <path class="LeftPaw-Pig10fil91" d="M8878 19871c-155,269 -247,281 -434,498 -211,244 -446,948 -341,1067 34,39 388,8 388,8 16,58 146,373 189,392 161,73 598,-324 814,-554 63,111 195,178 216,147 79,-27 146,-195 211,-374 34,-92 45,-318 85,-348 -138,-387 -621,-775 -1128,-836z" style="fill:#ec11ce"/>
+  <path class="LeftPaw-Pig10fil51" d="M9301 19685c-64,96 -204,233 -173,396 121,-193 339,-214 585,-235 -238,177 -108,282 -254,484 200,-157 432,-58 531,-118 -16,106 -146,295 -254,363 96,58 222,-45 463,-38 -162,64 -47,59 -219,189 -25,86 26,97 -59,329 -65,179 -132,347 -211,374 -21,31 -153,-36 -216,-147 -216,230 -653,627 -814,554 -43,-19 -173,-334 -189,-392 0,0 -354,31 -388,-8 -105,-119 130,-823 341,-1067 248,-288 190,-203 432,-495 83,-100 255,-190 425,-189z" style="fill:#cfc6b6"/>
+  <path class="LeftPaw-Pig10fil10" d="M9912 20518c-31,24 -62,48 -92,70 -4,3 -39,31 -43,34 -14,14 -27,28 -39,43 -79,93 -97,228 -104,283 -2,13 -3,21 -4,24 2,92 166,169 226,208 0,-8 68,-223 117,-364 -1,-31 -3,-54 7,-90 9,-6 18,-13 26,-19 -22,-64 -54,-127 -94,-189z" style="fill:#2dada2"/>
+  <path class="LeftPaw-Pig10fil94" d="M8454 20358c401,-76 337,407 242,635 239,-309 538,-414 692,-297 104,79 113,131 203,226 99,104 339,-108 394,-184 18,147 -140,645 -275,691 -21,31 -153,-36 -216,-147 -216,230 -653,627 -814,554 -43,-19 -173,-334 -189,-392 0,0 -354,31 -388,-8 -109,-123 135,-862 351,-1078z" style="fill:#6b1282"/>
+  <path class="LeftPaw-Pig10fil10" d="M8560 21498c67,307 352,47 875,-255 -5,66 100,45 131,-12 40,-92 52,-190 68,-283 88,22 225,-79 303,-156 5,-5 11,-11 16,-16 -49,174 -144,541 -243,653 -90,2 -173,-73 -216,-147 -196,208 -586,566 -808,522 -90,-18 -70,-138 -126,-306z" style="fill:#3f831c"/>
+  <polygon class="LeftPaw-Pig10fil40" points="8568,21484 8686,21021 8391,21393 "/>
+  <path class="LeftPaw-Pig10fil0 LeftPaw-Pig10str2" d="M10228 20561c-121,75 -170,94 -272,202 0,149 -37,330 -92,461 -55,128 -115,197 -196,208 -55,8 -128,-6 -194,-123 -208,221 -642,571 -797,501 -41,-19 -163,-344 -178,-400 0,0 -356,75 -389,38 -86,-99 94,-785 280,-992 109,-122 404,-420 409,-427 68,-85 123,-182 179,-276" style="fill:#732260"/>
+ </g><g id="NecklaceVanHelsingCoat-Medium">
+  <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_10Corel-Layer"/>
+  <g id="_1448428860096">
+   <path class="NecklaceVanHelsingCoat-Mediumfil3" d="M10844 21062c-12,108 -29,201 -54,276 137,701 1385,1289 2661,1333 75,-3 144,-40 226,-135 71,57 197,138 295,135 1281,-43 2453,-632 2586,-1315 -24,-74 -42,-190 -57,-334l-5657 40z" style="fill:#d2106b"/>
+   <path class="NecklaceVanHelsingCoat-Mediumfil83 NecklaceVanHelsingCoat-Mediumstr1" d="M13660 19524c-261,-711 -618,-1236 -880,-1551 -485,-327 -1123,-217 -1481,-165 -611,1241 -371,2687 -552,3228 138,700 1405,1288 2700,1332 77,-2 146,-40 230,-135 72,57 200,139 299,136 1301,-44 2491,-632 2626,-1315 -180,-539 -19,-3260 -652,-3285 -360,-53 -1249,-55 -1631,195 -260,430 -373,884 -659,1560z" style="fill:#b08d24"/>
+   <path class="NecklaceVanHelsingCoat-Mediumfil23" d="M13677 22233c72,57 200,139 299,136 1301,-44 2098,-632 2233,-1315 -180,-539 -19,-3260 -652,-3285 -6,3278 154,3894 -1880,4464z" style="fill:#1aa4fc"/>
+   <path class="NecklaceVanHelsingCoat-Mediumfil42" d="M14475 19420c0,0 -252,170 -575,337 -269,141 -708,320 -844,437 -299,257 -659,582 -722,609 -62,27 1358,-651 1604,-838 246,-186 537,-545 537,-545z" style="fill:#d3e220"/>
+   <path class="NecklaceVanHelsingCoat-Mediumfil20 NecklaceVanHelsingCoat-Mediumstr4" d="M13660 19524c96,716 -37,1812 22,2709" style="fill:#b65e7a"/>
+   <path class="NecklaceVanHelsingCoat-Mediumfil27" d="M14342 20554c-168,-6 -2239,101 0,0z" style="fill:#59e162"/>
+   <path class="NecklaceVanHelsingCoat-Mediumfil42" d="M14484 20594c-767,-73 -907,459 -1423,715 362,-36 1022,-692 1423,-715z" style="fill:#6712f2"/>
+   <path class="NecklaceVanHelsingCoat-Mediumfil27" d="M14799 21252c0,0 -828,388 -1230,471 -402,83 -837,217 -837,217 0,0 768,-397 1142,-500 374,-103 925,-188 925,-188z" style="fill:#325434"/>
+   <path class="NecklaceVanHelsingCoat-Mediumfil42" d="M14939 21281c-161,239 -708,539 -1113,623 -406,84 -669,38 -1043,92 363,-127 697,-166 1191,-322 372,-75 965,-393 965,-393z" style="fill:#7f900f"/>
+   <path class="NecklaceVanHelsingCoat-Mediumfil23" d="M13045 17929c-76,-115 -847,314 -943,610 503,193 849,375 1360,1029 2,17 66,158 4,177 -181,55 -641,-10 -637,32 -29,100 -73,360 45,494 54,62 623,-2 622,40 -1,116 -5,104 -10,280 -29,1 -417,2 -637,-4 -62,5 -99,580 25,560 60,16 482,24 593,12 -4,94 6,142 1,241 -40,22 -613,-30 -642,33 -35,39 -68,415 33,515 95,64 491,62 569,58 -4,196 9,203 19,362l180 -158c-5,-71 -8,-143 -11,-216 -1,-23 512,-109 512,-133 -1,-29 -515,5 -516,-24 -3,-224 1,-454 7,-683 1,-38 509,-91 511,-129 1,-44 -505,-73 -504,-117 7,-210 13,-417 15,-615 0,-20 492,-75 492,-95 0,-27 -492,-19 -492,-45 -1,-125 -3,-246 -10,-361 17,23 34,46 51,70 19,-27 25,-238 44,-263 605,-832 981,-848 1536,-1060 -96,-296 -867,-725 -943,-610 -281,465 -523,812 -637,1374 -114,-562 -356,-909 -637,-1374z" style="fill:#d20714"/>
+   <path class="NecklaceVanHelsingCoat-Mediumfil84 NecklaceVanHelsingCoat-Mediumstr2" d="M13045 17591c-76,-115 -847,314 -943,610 572,218 940,425 1580,1323 -127,-875 -277,-1338 -637,-1933z" style="fill:#fb892e"/>
+   <path class="NecklaceVanHelsingCoat-Mediumfil85 NecklaceVanHelsingCoat-Mediumstr2" d="M14319 17591c76,-115 847,314 943,610 -572,218 -940,425 -1580,1323 127,-875 277,-1338 637,-1933z" style="fill:#3556fc"/>
+   <path class="NecklaceVanHelsingCoat-Mediumfil45 NecklaceVanHelsingCoat-Mediumstr5" d="M12240 18002c464,135 1132,662 1377,1193" style="fill:#b99de9"/>
+   <path class="NecklaceVanHelsingCoat-Mediumfil16" d="M14319 17591c76,-115 847,314 943,610 -572,218 -940,425 -1580,1323 127,-875 277,-1338 637,-1933z" style="fill:#ebff28"/>
+   <path class="NecklaceVanHelsingCoat-Mediumfil45 NecklaceVanHelsingCoat-Mediumstr5" d="M15124 18002c-464,135 -1132,662 -1377,1193" style="fill:#6a0379"/>
+   <path class="NecklaceVanHelsingCoat-Mediumfil46" d="M13447 21234c-99,143 -57,429 140,457 25,64 60,129 96,187 -18,54 -21,107 16,168 74,119 598,233 732,196 56,-16 88,-49 111,-89 66,4 140,-5 206,-16 115,89 256,38 376,-26l96 -316c-276,31 -894,44 -1049,2 -45,-21 -92,-40 -139,-55 -26,-93 -71,-197 -121,-281l-101 -884c-305,0 -485,392 -363,657z" style="fill:#42ba87"/>
+   <g>
+    <path class="NecklaceVanHelsingCoat-Mediumfil86" d="M14118 21416c-70,0 -1082,8 -1155,19 -56,136 -45,268 -4,398 156,4 1090,-1 1153,-10 9,-118 2,-288 6,-407z" style="fill:#32b042"/>
+    <path class="NecklaceVanHelsingCoat-Mediumfil87" d="M14118 20579c-70,0 -1082,8 -1155,19 -56,136 -45,268 -4,398 156,4 1090,-1 1153,-10 9,-118 2,-287 6,-407z" style="fill:#9e4a3d"/>
+    <path class="NecklaceVanHelsingCoat-Mediumfil87" d="M14118 19742c-70,0 -1082,8 -1155,19 -56,136 -45,268 -4,398 156,4 1090,-1 1153,-10 9,-118 2,-287 6,-407z" style="fill:#03406c"/>
+    <path class="NecklaceVanHelsingCoat-Mediumfil20 NecklaceVanHelsingCoat-Mediumstr6" d="M14131 19843c-67,0 -1064,5 -1133,10m-24 206c150,1 1092,-1 1151,-6" style="fill:#b85b76"/>
+    <path class="NecklaceVanHelsingCoat-Mediumfil20 NecklaceVanHelsingCoat-Mediumstr7" d="M14118 19742c-70,0 -1082,8 -1155,19 -56,136 -45,268 -4,398 156,4 1090,-1 1153,-10" style="fill:#d7f06e"/>
+    <path class="NecklaceVanHelsingCoat-Mediumfil88 NecklaceVanHelsingCoat-Mediumstr8" d="M13512 19638c28,-1 57,23 59,49 2,26 -21,56 -49,57 -111,6 -207,-16 -212,31 -11,30 -13,308 -1,330 8,31 138,34 238,27 54,-3 71,104 -5,109 -148,10 -280,14 -339,-63 -27,-49 -28,-401 -6,-458 20,-89 153,-84 315,-82z" style="fill:#6a6c6d"/>
+    <path class="NecklaceVanHelsingCoat-Mediumfil20 NecklaceVanHelsingCoat-Mediumstr6" d="M14131 20680c-67,0 -1064,5 -1133,10m-24 206c150,1 1092,-1 1151,-6" style="fill:#97d775"/>
+    <path class="NecklaceVanHelsingCoat-Mediumfil20 NecklaceVanHelsingCoat-Mediumstr7" d="M14118 20579c-70,0 -1082,8 -1155,19 -56,136 -45,268 -4,398 156,4 1090,-1 1153,-10" style="fill:#8b6693"/>
+    <path class="NecklaceVanHelsingCoat-Mediumfil89 NecklaceVanHelsingCoat-Mediumstr8" d="M13512 20475c28,-2 57,22 59,48 2,27 -21,57 -49,58 -111,6 -207,-16 -212,31 -11,30 -13,308 -1,330 8,31 138,34 238,27 54,-3 71,104 -5,109 -148,10 -280,14 -339,-63 -27,-49 -28,-401 -6,-458 20,-89 153,-84 315,-82z" style="fill:#d12cbe"/>
+    <path class="NecklaceVanHelsingCoat-Mediumfil20 NecklaceVanHelsingCoat-Mediumstr6" d="M14131 21517c-67,0 -1064,4 -1133,10m-24 206c150,1 1092,-1 1151,-6" style="fill:#4115f7"/>
+    <path class="NecklaceVanHelsingCoat-Mediumfil20 NecklaceVanHelsingCoat-Mediumstr7" d="M14118 21416c-70,0 -1082,8 -1155,19 -56,136 -45,268 -4,398 156,4 1090,-1 1153,-10" style="fill:#fcc9c0"/>
+    <path class="NecklaceVanHelsingCoat-Mediumfil90 NecklaceVanHelsingCoat-Mediumstr8" d="M13512 21312c28,-2 57,22 59,48 2,26 -21,56 -49,58 -111,6 -207,-16 -212,31 -11,30 -13,308 -1,330 8,31 138,34 238,27 54,-3 71,104 -5,109 -148,10 -280,14 -339,-63 -27,-49 -28,-401 -6,-459 20,-89 153,-83 315,-81z" style="fill:#ce4d1f"/>
+   </g>
+   <g>
+    <path class="NecklaceVanHelsingCoat-Mediumfil91 NecklaceVanHelsingCoat-Mediumstr7" d="M13982 21365c51,-23 -21,-185 -78,-155 -57,30 -104,68 -116,148 -10,64 -6,124 59,253 64,128 154,254 210,283 71,36 129,20 186,-10 56,-30 -12,-161 -69,-137 -19,11 -37,17 -50,10 -29,-15 -95,-120 -144,-216 -48,-97 -40,-107 -35,-140 2,-15 18,-26 37,-36z" style="fill:#2774ec"/>
+    <path class="NecklaceVanHelsingCoat-Mediumfil92 NecklaceVanHelsingCoat-Mediumstr7" d="M14495 21775c-2,-57 -176,-47 -169,18 6,65 24,124 93,165 54,33 110,50 251,36 141,-15 288,-54 335,-97 58,-55 65,-116 58,-181 -6,-65 -151,-47 -149,16 2,22 2,41 -10,51 -24,22 -144,47 -249,58 -105,11 -112,0 -140,-17 -13,-8 -18,-27 -20,-49z" style="fill:#f4308d"/>
+    <path class="NecklaceVanHelsingCoat-Mediumfil93 NecklaceVanHelsingCoat-Mediumstr7" d="M15304 21709c30,-48 -118,-142 -149,-85 -31,57 -50,115 -17,189 26,59 62,107 185,177 124,71 266,126 328,119 79,-10 119,-57 150,-114 31,-56 -97,-127 -131,-75 -10,19 -21,35 -37,37 -31,4 -144,-47 -236,-100 -92,-53 -91,-67 -105,-96 -6,-15 1,-32 12,-52z" style="fill:#ab8bc2"/>
+    <path class="NecklaceVanHelsingCoat-Mediumfil94 NecklaceVanHelsingCoat-Mediumstr7" d="M13963 20993c-20,-10 -38,-17 -51,-10 -28,15 -63,60 -110,158 -47,98 -60,154 -55,186 3,15 19,25 39,35 19,10 37,16 50,9 26,-14 57,-53 98,-133 4,-8 143,51 147,43 -62,129 -120,195 -175,225 -70,38 -129,22 -186,-6 -58,-29 -105,-66 -120,-146 -11,-62 5,-149 68,-280 62,-131 120,-197 175,-226 71,-38 128,-22 186,7l-66 138z" style="fill:#c5764e"/>
+    <path class="NecklaceVanHelsingCoat-Mediumfil95 NecklaceVanHelsingCoat-Mediumstr7" d="M13913 21693c23,-61 56,-113 132,-134 61,-16 147,-8 278,45 132,52 201,104 235,158 43,69 33,130 9,191 -23,60 -54,112 -131,134 -60,16 -146,8 -279,-45 -133,-53 -202,-105 -236,-160 -42,-68 -31,-128 -8,-189zm171 14c-15,4 -24,21 -31,41 -8,21 -13,40 -5,53 17,27 64,59 163,98 100,40 155,49 186,40 14,-4 23,-21 31,-42 7,-20 12,-39 4,-52 -17,-28 -64,-59 -163,-98 -99,-40 -154,-49 -185,-40z" style="fill:#152665"/>
+    <path class="NecklaceVanHelsingCoat-Mediumfil96 NecklaceVanHelsingCoat-Mediumstr7" d="M14681 21846c-11,-64 -10,-126 44,-185 43,-47 121,-85 260,-112 138,-26 224,-18 281,9 71,36 94,93 106,157 11,64 11,125 -43,184 -43,47 -120,86 -260,113 -141,26 -227,19 -283,-9 -71,-36 -93,-93 -105,-157zm153 -80c-10,11 -9,30 -5,52 4,22 9,41 23,47 28,14 84,16 189,-4 105,-20 157,-42 179,-66 10,-11 8,-30 4,-52 -4,-22 -9,-40 -23,-47 -29,-14 -85,-16 -189,4 -104,20 -156,42 -178,66z" style="fill:#59fe94"/>
+    <path class="NecklaceVanHelsingCoat-Mediumfil97 NecklaceVanHelsingCoat-Mediumstr7" d="M15505 21793c45,-47 95,-81 174,-69 62,9 137,51 238,153 101,101 144,177 154,240 13,80 -20,132 -64,179 -45,46 -94,81 -173,70 -62,-9 -138,-52 -239,-154 -102,-102 -145,-178 -155,-242 -12,-80 21,-131 65,-177zm152 82c-15,-2 -29,10 -45,25 -15,16 -27,32 -24,47 5,31 36,79 112,156 76,76 123,107 155,112 14,2 29,-11 44,-27 16,-15 27,-31 25,-46 -6,-32 -37,-80 -112,-156 -75,-76 -123,-106 -155,-111z" style="fill:#c65cce"/>
+    <path class="NecklaceVanHelsingCoat-Mediumfil98 NecklaceVanHelsingCoat-Mediumstr7" d="M13893 21329c-48,30 -134,-125 -78,-155 57,-30 115,-46 186,-10 57,28 102,68 166,196 65,128 113,276 103,339 -12,80 -59,119 -116,149 -57,30 -121,-104 -68,-136 19,-11 34,-21 37,-37 5,-32 -41,-149 -89,-245 -48,-96 -61,-96 -90,-111 -14,-7 -31,0 -51,10z" style="fill:#b1fdde"/>
+    <path class="NecklaceVanHelsingCoat-Mediumfil99 NecklaceVanHelsingCoat-Mediumstr7" d="M14430 21847c10,56 -163,82 -169,18 -7,-65 -1,-127 58,-181 46,-43 99,-72 239,-87 141,-15 293,-7 347,25 68,42 87,100 93,165 7,65 -139,78 -149,16 -2,-22 -7,-41 -20,-49 -27,-16 -150,-15 -256,-4 -105,11 -109,23 -133,45 -11,11 -12,30 -10,52z" style="fill:#876be7"/>
+    <path class="NecklaceVanHelsingCoat-Mediumfil100 NecklaceVanHelsingCoat-Mediumstr7" d="M15210 21729c-24,52 -180,-28 -148,-85 31,-57 71,-104 149,-113 63,-8 122,-1 245,70 123,70 243,166 269,225 32,74 14,132 -17,189 -31,57 -157,-18 -131,-75 11,-19 18,-37 11,-51 -13,-30 -114,-102 -206,-155 -92,-53 -103,-45 -135,-41 -15,2 -26,17 -37,36z" style="fill:#64fa95"/>
+   </g>
+   <g>
+    <ellipse class="NecklaceVanHelsingCoat-Mediumfil101 NecklaceVanHelsingCoat-Mediumstr9" cx="14038" cy="20893" rx="408" ry="417"/>
+    <polygon class="NecklaceVanHelsingCoat-Mediumfil3" points="14038,20603 14096,20791 14284,20748 14153,20893 14284,21038 14096,20995 14038,21183 13980,20995 13792,21038 13922,20893 13792,20748 13980,20791 "/>
+    <ellipse class="NecklaceVanHelsingCoat-Mediumfil20 NecklaceVanHelsingCoat-Mediumstr10" cx="14038" cy="20893" rx="287" ry="294"/>
+   </g>
+   <g>
+    <path class="NecklaceVanHelsingCoat-Mediumfil64" d="M14462 18364c-9,893 74,1440 206,1986 -70,16 -266,-1 -430,20 7,26 239,143 378,236 59,3 125,-1 143,-1 67,261 128,611 132,875 -156,29 -232,-18 -541,-66 -1,28 160,192 318,298 100,14 216,10 215,27 -20,287 -76,556 -123,831 -5,28 -488,-147 -493,-119 -2,13 145,176 271,302 100,40 168,35 166,44 -63,415 -60,777 93,1322 1032,-1316 1473,-1669 1334,-2203 -122,-580 -593,-3545 -927,-4386 -508,31 -687,281 -742,834z" style="fill:#e0c32f"/>
+    <path class="NecklaceVanHelsingCoat-Mediumfil102" d="M14845 17577c-125,1633 94,2479 303,3290 324,1255 -585,1940 -351,3252 1032,-1316 2851,-1146 2712,-1679 -127,-600 -755,-982 -844,-2153 160,15 523,279 725,466 192,5 1147,-588 1368,-951 -425,-526 -1255,-1364 -1683,-1873 -652,-155 -1130,-330 -2230,-352z" style="fill:#d38500"/>
+    <path class="NecklaceVanHelsingCoat-Mediumfil27" d="M16780 18891c137,234 50,846 18,1017 235,-95 425,-284 569,-492 1,62 -38,160 -64,214 -99,207 -307,328 -390,417 37,216 701,436 910,467 -429,-168 -685,-296 -773,-430 392,-249 444,-498 368,-947 -152,369 -481,575 -531,629 90,-309 149,-829 -239,-1238 55,290 14,814 -69,961 -33,-63 -168,-505 -271,-748 -92,1154 -720,1416 -459,2556 215,-145 313,-227 412,-357 -47,704 356,1292 -267,2239 887,-1020 252,-1406 420,-2520 -341,395 -290,292 -501,524 -65,-906 266,-1113 478,-1905 25,89 116,491 192,530 111,-203 192,-823 197,-917z" style="fill:#83a955"/>
+    <path class="NecklaceVanHelsingCoat-Mediumfil27" d="M16970 18258c199,299 248,549 234,749 31,39 173,-307 162,-392 357,346 499,522 442,1140 135,-45 154,-117 222,-360 26,-94 483,496 413,739 110,-70 259,-225 315,-332 -151,-214 -1093,-1317 -1709,-1879l-79 335z" style="fill:#b2a708"/>
+    <path class="NecklaceVanHelsingCoat-Mediumfil20 NecklaceVanHelsingCoat-Mediumstr11" d="M18636 19713c-328,367 -926,780 -1436,951m1344 -1115c-328,367 -907,758 -1416,930m1292 -1071c-329,366 -946,790 -1454,972" style="fill:#df36df"/>
+    <path class="NecklaceVanHelsingCoat-Mediumfil20 NecklaceVanHelsingCoat-Mediumstr2" d="M14845 17577c-125,1633 94,2479 303,3290 324,1255 -585,1940 -351,3252 1032,-1316 2851,-1146 2712,-1679 -127,-600 -755,-982 -844,-2153 160,15 523,279 725,466 192,5 1147,-588 1368,-951 -425,-526 -1255,-1364 -1683,-1873 -652,-155 -1130,-330 -2230,-352z" style="fill:#9c2b2e"/>
+    <path class="NecklaceVanHelsingCoat-Mediumfil42" d="M15960 19399c17,158 -83,553 -198,754 -114,201 -171,200 -286,377 82,-199 189,-353 306,-618 81,-197 178,-513 178,-513z" style="fill:#068082"/>
+    <path class="NecklaceVanHelsingCoat-Mediumfil23" d="M16571 19806c90,-159 198,-607 209,-915 54,110 149,350 18,1017 0,0 353,-159 569,-492 -16,224 -189,430 -454,631 23,102 168,206 352,291 216,100 486,175 680,192 -152,106 -556,270 -586,260 -18,-6 -257,-142 -355,-307 -70,-120 -291,-133 -313,-163 99,1087 900,1747 818,2120 109,337 -479,326 -1515,739 858,-905 263,-1473 420,-2520 -124,142 -219,242 -501,524 -93,-916 384,-1363 478,-1905 72,224 88,378 180,528z" style="fill:#e23218"/>
+    <path class="NecklaceVanHelsingCoat-Mediumfil27" d="M15531 20301c0,0 135,-326 207,-495 71,-170 172,-349 172,-349 0,0 -311,311 -391,466 -80,155 12,378 12,378z" style="fill:#fcb86c"/>
+    <path class="NecklaceVanHelsingCoat-Mediumfil45 NecklaceVanHelsingCoat-Mediumstr12" d="M14971 23918c-235,-1360 1109,-1832 45,-3969" style="fill:#2ca025"/>
+    <path class="NecklaceVanHelsingCoat-Mediumfil67" d="M16737 20341c-55,-262 -142,-542 -267,-720 49,190 91,485 125,742l142 -22z" style="fill:#8591ad"/>
+    <g>
+     <path class="NecklaceVanHelsingCoat-Mediumfil64" d="M17104 17981l-1973 -173c-126,294 -110,913 -64,1432 254,281 1703,303 2010,123 119,-274 112,-978 27,-1382z" style="fill:#7a699f"/>
+     <path class="NecklaceVanHelsingCoat-Mediumfil15" d="M15067 18916c-46,-519 -62,-1139 64,-1431 472,24 1524,75 1973,218 85,407 92,1111 -27,1382 -307,173 -1756,118 -2010,-169z" style="fill:#1a6ca2"/>
+     <path class="NecklaceVanHelsingCoat-Mediumfil66" d="M15044 18809l-20 -5c-6,-108 -12,-215 -18,-322 91,126 168,225 338,309 -122,-138 -35,-267 3,-369 126,164 248,237 523,331 1,-113 183,-188 183,-301 131,181 164,222 336,353 120,-73 185,-181 217,-311 115,56 168,173 209,301 19,-144 28,-227 -13,-416 114,105 135,127 159,216 -20,-40 -53,-84 -127,-142 42,189 27,336 9,480 -41,-128 -94,-245 -209,-300 -32,130 -97,238 -217,310 -172,-130 -205,-171 -336,-353 -1,114 -182,188 -183,301 -275,-94 -397,-166 -524,-331 -37,102 -30,215 92,353 -169,-84 -342,-166 -432,-293l10 189z" style="fill:#eceb58"/>
+     <path class="NecklaceVanHelsingCoat-Mediumfil16" d="M17059 19112c-81,9 -161,19 -241,28 -297,9 -593,17 -890,25 -292,-74 -584,-149 -876,-223 -6,-107 -12,-215 -18,-322 90,127 263,209 432,293 -122,-138 -129,-251 -92,-353 127,165 249,237 524,331 1,-113 182,-187 183,-301 131,182 164,223 336,353 120,-72 185,-180 217,-310 115,55 168,172 209,300 18,-144 33,-291 -9,-480 74,58 107,102 127,142l76 -917c48,29 73,25 79,57 81,446 78,933 -57,1377z" style="fill:#89da6d"/>
+     <path class="NecklaceVanHelsingCoat-Mediumfil20 NecklaceVanHelsingCoat-Mediumstr13" d="M15976 17507c-57,411 -86,1056 -50,1628m-384 -1673c-57,411 -86,1056 -50,1628m1612 -1387c85,407 92,1111 -27,1382 -307,173 -1756,118 -2010,-169 -46,-519 -62,-1139 64,-1431m1688 151c-57,411 -70,974 -24,1523m-411 -1618c-57,410 -99,1058 -17,1624" style="fill:#314e1f"/>
+     <path class="NecklaceVanHelsingCoat-Mediumfil20 NecklaceVanHelsingCoat-Mediumstr2" d="M15095 17470c537,-20 1601,62 2009,233 26,125 -7,268 98,403" style="fill:#1c89d8"/>
+     <path class="NecklaceVanHelsingCoat-Mediumfil20 NecklaceVanHelsingCoat-Mediumstr14" d="M15076 18761c413,273 1513,315 2054,137" style="fill:#af71cc"/>
+    </g>
+    <g>
+     <path class="NecklaceVanHelsingCoat-Mediumfil103 NecklaceVanHelsingCoat-Mediumstr2" d="M14845 17470c347,46 651,291 820,509 -726,397 -650,1185 -691,2160 -196,-972 -223,-2099 -129,-2669z" style="fill:#d1d3ed"/>
+     <path class="NecklaceVanHelsingCoat-Mediumfil64" d="M14845 17470c130,17 253,62 366,123 -242,329 -269,742 -2,832 -236,431 -225,802 -254,1490 -195,-972 -204,-1875 -110,-2445z" style="fill:#5cf30d"/>
+     <path class="NecklaceVanHelsingCoat-Mediumfil20 NecklaceVanHelsingCoat-Mediumstr15" d="M15524 17823c-438,225 -682,779 -643,1411" style="fill:#28f8de"/>
+    </g>
+    <g>
+     <path class="NecklaceVanHelsingCoat-Mediumfil104" d="M14949 19876c171,-27 258,-31 429,-58 49,77 158,318 86,597 -185,17 -239,34 -424,52 -30,-200 -60,-391 -91,-591z" style="fill:#ec0e24"/>
+     <path class="NecklaceVanHelsingCoat-Mediumfil105" d="M15159 20987c155,-2 233,8 388,7 40,84 127,339 51,604 -167,-11 -216,-3 -382,-14 -19,-202 -38,-395 -57,-597z" style="fill:#487ac6"/>
+     <path class="NecklaceVanHelsingCoat-Mediumfil106" d="M15079 22132c173,13 258,30 431,43 30,86 84,346 -49,601 -183,-26 -240,-22 -424,-48 15,-201 28,-394 42,-596z" style="fill:#5ff3b2"/>
+     <path class="NecklaceVanHelsingCoat-Mediumfil20 NecklaceVanHelsingCoat-Mediumstr3" d="M15159 20987c155,-2 233,8 388,7 40,84 96,339 19,604 -166,-11 -184,-3 -350,-14 -19,-202 -38,-395 -57,-597z" style="fill:#e22042"/>
+     <path class="NecklaceVanHelsingCoat-Mediumfil20 NecklaceVanHelsingCoat-Mediumstr3" d="M15079 22132c173,13 258,30 431,43 30,86 84,346 -49,601 -183,-26 -240,-22 -424,-48 15,-201 28,-394 42,-596z" style="fill:#50b8dd"/>
+     <path class="NecklaceVanHelsingCoat-Mediumfil20 NecklaceVanHelsingCoat-Mediumstr3" d="M14949 19876c171,-27 258,-31 429,-58 49,77 158,318 86,597 -185,17 -239,34 -424,52 -30,-200 -60,-391 -91,-591z" style="fill:#12eb2a"/>
+     <path class="NecklaceVanHelsingCoat-Mediumfil107" d="M14629 20414c172,-42 513,-91 702,-66 -19,-120 -50,-291 -81,-410 -155,-6 -574,44 -717,81 -108,61 -218,227 -262,339 117,-8 245,32 358,56z" style="fill:#3e758a"/>
+     <path class="NecklaceVanHelsingCoat-Mediumfil108" d="M14726 21486c175,-21 520,-28 704,19 -4,-120 -16,-295 -33,-416 -153,-25 -574,-27 -721,-7 -114,47 -243,199 -299,304 116,7 239,62 349,100z" style="fill:#9d9abe"/>
+     <path class="NecklaceVanHelsingCoat-Mediumfil109" d="M14625 22557c176,5 518,46 694,119 13,-120 25,-295 24,-417 -148,-47 -565,-108 -713,-109 -119,31 -267,163 -337,259 114,24 228,96 332,148z" style="fill:#9c04fd"/>
+     <path class="NecklaceVanHelsingCoat-Mediumfil22" d="M15250 19938c-155,-6 -574,44 -717,81 -68,39 -138,120 -191,203 32,-24 64,-43 97,-57 132,-27 443,-60 684,-74 27,-2 29,252 54,250l151 -10c13,-30 -60,-325 -78,-393zm69 2738c2,-42 24,-382 24,-417 -148,-47 -565,-108 -713,-109 -119,31 -267,163 -337,259 3,1 7,2 11,3 83,-54 177,-100 260,-116 129,0 415,45 647,77l-19 248c12,56 112,52 127,55zm93 -1167c-4,-48 -9,-380 -15,-420 -153,-25 -574,-27 -721,-7 -109,45 -232,186 -292,291 74,-64 160,-120 240,-146 121,-12 416,-15 644,-10 18,0 5,228 23,265l121 27z" style="fill:#812843"/>
+     <path class="NecklaceVanHelsingCoat-Mediumfil20 NecklaceVanHelsingCoat-Mediumstr16" d="M15379 21185c-103,-17 -563,-19 -662,-5 -64,34 -131,92 -169,138 77,20 128,38 194,59 120,-14 549,-15 674,18" style="fill:#7f034d"/>
+     <path class="NecklaceVanHelsingCoat-Mediumfil20 NecklaceVanHelsingCoat-Mediumstr16" d="M15313 22352c-101,-32 -555,-99 -656,-99 -68,24 -142,73 -186,113 74,31 122,56 185,86 120,3 545,62 664,112" style="fill:#fff477"/>
+     <path class="NecklaceVanHelsingCoat-Mediumfil20 NecklaceVanHelsingCoat-Mediumstr16" d="M15243 20036c-105,-4 -561,50 -658,75 -59,42 -119,108 -152,159 79,10 132,22 200,34 117,-28 543,-81 671,-64" style="fill:#e9f30f"/>
+     <path class="NecklaceVanHelsingCoat-Mediumfil20 NecklaceVanHelsingCoat-Mediumstr7" d="M14726 21486c175,-21 520,-28 704,19 -4,-120 -16,-295 -33,-416 -153,-25 -574,-27 -721,-7 -114,47 -243,199 -299,304 116,7 239,62 349,100z" style="fill:#07eb15"/>
+     <path class="NecklaceVanHelsingCoat-Mediumfil20 NecklaceVanHelsingCoat-Mediumstr7" d="M14625 22557c176,5 518,46 694,119 13,-120 25,-295 24,-417 -148,-47 -565,-108 -713,-109 -119,31 -267,163 -337,259 114,24 228,96 332,148z" style="fill:#4031cb"/>
+     <path class="NecklaceVanHelsingCoat-Mediumfil20 NecklaceVanHelsingCoat-Mediumstr7" d="M14629 20414c172,-42 513,-91 702,-66 -19,-120 -50,-291 -81,-410 -155,-6 -574,44 -717,81 -108,61 -218,227 -262,339 117,-8 245,32 358,56z" style="fill:#951ba5"/>
+    </g>
+   </g>
+   <g>
+    <path class="NecklaceVanHelsingCoat-Mediumfil110" d="M12519 17577c125,1633 -94,2479 -303,3290 -325,1255 585,1940 351,3252 -1032,-1316 -2851,-1146 -2712,-1679 126,-600 754,-982 844,-2153 -160,15 -523,279 -726,466 -191,5 -1146,-588 -1367,-951 425,-526 1255,-1364 1683,-1873 652,-155 1130,-330 2230,-352z" style="fill:#156e5b"/>
+    <path class="NecklaceVanHelsingCoat-Mediumfil27" d="M10725 19419c-58,236 -155,410 -123,582 -222,-105 -590,-310 -745,-511 1,222 172,430 309,579 -28,255 -285,455 -540,489l-59 -29c235,-87 331,-199 454,-436 -268,-303 -262,-521 -215,-882 125,322 601,543 675,580 31,-172 108,-458 377,-735 -55,290 -21,529 25,623 93,-88 213,-259 297,-519 83,1001 28,2248 837,3279 -376,-32 -880,-240 -1155,-546 294,480 528,936 863,1250 -487,-407 -802,-980 -934,-1332 425,301 642,449 1120,571 -921,-1048 -741,-2555 -776,-2903 -26,90 -265,483 -321,549 -74,-185 -83,-515 -89,-609z" style="fill:#77ec82"/>
+    <path class="NecklaceVanHelsingCoat-Mediumfil23" d="M10791 21811c0,0 551,454 1120,571 -903,-983 -748,-2600 -776,-2903 -39,92 -163,340 -321,549 -79,-256 -67,-346 -89,-609 -87,359 -156,377 -123,582 -322,-140 -664,-398 -745,-511 22,265 160,404 309,579 -19,232 -278,505 -678,497 198,102 292,184 472,198 125,-8 349,-146 439,-311 134,-84 165,-92 273,-159 71,634 -790,1938 -808,2107 -69,613 1415,495 2487,1348 -308,-485 -1091,-710 -1560,-1938z" style="fill:#02699d"/>
+    <path class="NecklaceVanHelsingCoat-Mediumfil20 NecklaceVanHelsingCoat-Mediumstr11" d="M8728 19713c328,367 926,780 1435,951m-1344 -1115c329,367 907,758 1417,930m-1292 -1071c328,366 946,790 1454,972" style="fill:#b3aa5f"/>
+    <path class="NecklaceVanHelsingCoat-Mediumfil20 NecklaceVanHelsingCoat-Mediumstr2" d="M12519 17577c125,1633 -94,2479 -303,3290 -325,1255 585,1940 351,3252 -1032,-1316 -2851,-1146 -2712,-1679 126,-600 754,-982 844,-2153 -160,15 -523,279 -726,466 -191,5 -1146,-588 -1367,-951 425,-526 1255,-1364 1683,-1873 652,-155 1130,-330 2230,-352z" style="fill:#5cdefd"/>
+    <path class="NecklaceVanHelsingCoat-Mediumfil3" d="M10453 18453c-67,39 -89,638 -85,897 -346,-107 -473,-332 -535,-480 -152,145 -215,522 -176,761 -334,-150 -562,377 -427,737 -146,-85 -596,-540 -624,-566 338,-394 1407,-1497 1732,-1860 40,179 74,332 115,511z" style="fill:#48fdad"/>
+    <path class="NecklaceVanHelsingCoat-Mediumfil45 NecklaceVanHelsingCoat-Mediumstr12" d="M12393 23918c235,-1360 -1126,-1910 -8,-3938" style="fill:#caa754"/>
+    <path class="NecklaceVanHelsingCoat-Mediumfil27" d="M11957 20673c0,0 -213,-536 -252,-793 -39,-257 -108,-536 -108,-536 0,0 269,526 321,766 52,240 39,563 39,563z" style="fill:#76dc41"/>
+    <g>
+     <path class="NecklaceVanHelsingCoat-Mediumfil111 NecklaceVanHelsingCoat-Mediumstr7" d="M11739 22431c149,-25 296,-51 420,-46 29,141 66,318 95,458 -162,23 -292,29 -433,47l-82 -459z" style="fill:#3c19d9"/>
+     <path class="NecklaceVanHelsingCoat-Mediumfil112 NecklaceVanHelsingCoat-Mediumstr7" d="M11594 21304c81,-6 324,-19 409,-13 21,142 41,317 62,459 -181,18 -357,30 -430,25 -21,-136 -27,-333 -41,-471z" style="fill:#786d15"/>
+     <path class="NecklaceVanHelsingCoat-Mediumfil113 NecklaceVanHelsingCoat-Mediumstr7" d="M11711 20242c193,26 292,39 477,84 -5,144 -42,287 -47,430 -230,-48 -301,-58 -489,-95 19,-133 41,-276 59,-419z" style="fill:#aa1a27"/>
+     <path class="NecklaceVanHelsingCoat-Mediumfil114 NecklaceVanHelsingCoat-Mediumstr8" d="M11959 20142c-32,-7 -68,10 -75,40 -6,29 15,59 46,65 127,27 226,19 223,74 8,36 -33,363 -51,386 -29,44 -140,10 -254,-15 -31,-7 -63,11 -70,40 -7,30 14,59 45,67 168,37 290,71 372,-7 39,-51 87,-440 72,-510 -7,-105 -121,-113 -308,-140z" style="fill:#d0d119"/>
+     <path class="NecklaceVanHelsingCoat-Mediumfil115 NecklaceVanHelsingCoat-Mediumstr8" d="M11764 21186c-33,1 -65,25 -64,56 0,30 26,54 59,53 129,-3 223,-33 233,22 15,33 46,361 33,388 -18,49 -134,41 -250,42 -33,0 -59,25 -60,55 0,31 26,55 59,55 171,-1 298,4 360,-90 27,-59 -9,-449 -40,-514 -30,-101 -142,-83 -330,-67z" style="fill:#59cfd3"/>
+     <path class="NecklaceVanHelsingCoat-Mediumfil116 NecklaceVanHelsingCoat-Mediumstr8" d="M11921 22297c-32,3 -63,30 -61,60 2,30 30,53 62,50 129,-10 222,-46 234,7 18,33 67,358 56,386 -16,50 -132,49 -248,57 -33,2 -58,29 -56,59 1,30 28,53 61,51 171,-12 298,-13 355,-112 24,-60 -35,-447 -69,-510 -35,-99 -147,-75 -334,-48z" style="fill:#26132b"/>
+     <path class="NecklaceVanHelsingCoat-Mediumfil23" d="M11592 22460l279 -33 91 448c-40,3 -246,41 -288,46l-82 -461zm-144 -1157l265 -1c16,138 23,335 46,470 -53,2 -236,3 -265,1 -24,-136 -30,-332 -46,-470zm104 -1091c45,5 260,49 298,54 -19,138 -44,275 -64,404l-288 -48c21,-132 34,-268 54,-410z" style="fill:#31faac"/>
+     <path class="NecklaceVanHelsingCoat-Mediumfil74" d="M12047 20283c40,5 59,12 109,17 28,88 -32,379 -57,430l-124 -24c49,-142 76,-317 72,-423z" style="fill:#c552c4"/>
+     <polygon class="NecklaceVanHelsingCoat-Mediumfil74" points="11906,21746 12028,21733 11988,21290 11866,21288 "/>
+     <polygon class="NecklaceVanHelsingCoat-Mediumfil74" points="12023,22371 12113,22827 12227,22813 12147,22379 "/>
+    </g>
+    <path class="NecklaceVanHelsingCoat-Mediumfil67" d="M10627 20341c55,-262 142,-542 267,-720 -49,190 -92,485 -125,742l-142 -22z" style="fill:#216506"/>
+    <path class="NecklaceVanHelsingCoat-Mediumfil64" d="M10260 17981l1973 -173c126,294 110,913 64,1432 -254,281 -1703,303 -2010,123 -119,-274 -112,-978 -27,-1382z" style="fill:#39415a"/>
+    <g>
+     <path class="NecklaceVanHelsingCoat-Mediumfil117" d="M12297 18916c46,-519 62,-1139 -64,-1431 -472,24 -1524,75 -1973,218 -85,407 -92,1111 27,1382 307,173 1756,118 2010,-169z" style="fill:#0f5b5b"/>
+     <path class="NecklaceVanHelsingCoat-Mediumfil66" d="M12320 18809l20 -5c6,-108 12,-215 18,-322 -91,126 -168,225 -338,309 122,-138 35,-267 -3,-369 -126,164 -248,237 -523,331 -1,-113 -183,-188 -183,-301 -131,181 -164,222 -336,353 -120,-73 -185,-181 -217,-311 -115,56 -168,173 -209,301 -19,-144 -28,-227 13,-416 -114,105 -135,127 -159,216 20,-40 53,-84 126,-142 -41,189 -26,336 -8,480 41,-128 94,-245 209,-300 32,130 97,238 217,310 172,-130 205,-171 336,-353 1,114 182,188 183,301 275,-94 397,-166 524,-331 37,102 30,215 -92,353 169,-84 342,-166 432,-293l-10 189z" style="fill:#f22d00"/>
+     <path class="NecklaceVanHelsingCoat-Mediumfil16" d="M10305 19112c80,9 161,19 241,28 297,9 593,17 890,25 292,-74 584,-149 876,-223 6,-107 12,-215 18,-322 -90,127 -263,209 -432,293 122,-138 129,-251 92,-353 -127,165 -249,237 -524,331 -1,-113 -182,-187 -183,-301 -131,182 -164,223 -336,353 -120,-72 -185,-180 -217,-310 -115,55 -168,172 -209,300 -18,-144 -33,-291 8,-480 -73,58 -106,102 -126,142l-76 -917c-48,29 -73,25 -79,57 -81,446 -78,933 57,1377z" style="fill:#a9dc8a"/>
+     <path class="NecklaceVanHelsingCoat-Mediumfil20 NecklaceVanHelsingCoat-Mediumstr13" d="M11388 17507c57,411 86,1056 49,1628m385 -1673c57,411 86,1056 49,1628m-1611 -1387c-85,407 -92,1111 27,1382 307,173 1756,118 2010,-169 46,-519 62,-1139 -64,-1431m-1688 151c57,411 70,974 24,1523m411 -1618c57,410 99,1058 17,1624" style="fill:#42e267"/>
+     <path class="NecklaceVanHelsingCoat-Mediumfil20 NecklaceVanHelsingCoat-Mediumstr2" d="M12269 17470c-537,-20 -1601,62 -2009,233 -26,125 7,268 -98,403" style="fill:#88be43"/>
+     <path class="NecklaceVanHelsingCoat-Mediumfil20 NecklaceVanHelsingCoat-Mediumstr14" d="M12288 18761c-413,273 -1513,315 -2054,137" style="fill:#37b40d"/>
+    </g>
+    <path class="NecklaceVanHelsingCoat-Mediumfil64" d="M12396 19358c-6,529 -71,1036 -228,1478 72,-994 77,-2244 -760,-2493 60,-106 168,-236 291,-364 316,177 527,357 697,1379z" style="fill:#c0137c"/>
+    <g>
+     <path class="NecklaceVanHelsingCoat-Mediumfil39" d="M12519 17470c-347,46 -651,291 -820,509 726,397 650,1185 691,2160 196,-972 223,-2099 129,-2669z" style="fill:#36f929"/>
+     <path class="NecklaceVanHelsingCoat-Mediumfil22" d="M12434 18887c-24,-179 -151,-408 -243,-484 180,466 187,763 239,1322 113,-562 85,-831 95,-1358 -81,120 -77,275 -91,520z" style="fill:#8f19c6"/>
+     <path class="NecklaceVanHelsingCoat-Mediumfil20 NecklaceVanHelsingCoat-Mediumstr15" d="M11840 17823c438,225 682,779 643,1411" style="fill:#0b43ae"/>
+     <path class="NecklaceVanHelsingCoat-Mediumfil20 NecklaceVanHelsingCoat-Mediumstr2" d="M12519 17470c-347,46 -651,291 -820,509 726,397 650,1185 691,2160 196,-972 223,-2099 129,-2669z" style="fill:#b2166f"/>
+    </g>
+   </g>
+   <path class="NecklaceVanHelsingCoat-Mediumfil3" d="M16942 17726c-502,-288 -2809,-249 -3260,-225 -451,-24 -2758,-63 -3260,225 110,443 1684,775 3260,775 1574,0 3150,-332 3260,-775z" style="fill:#e92f60"/>
+  </g>
+ </g><g id="BraceletBlackMetal-Medium">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_16Corel-Layer"/>
+  <g>
+   <polygon class="BraceletBlackMetal-Mediumfil174 BraceletBlackMetal-Mediumstr8" points="10256,21031 9943,20861 10239,20645 "/>
+   <polygon class="BraceletBlackMetal-Mediumfil175 BraceletBlackMetal-Mediumstr8" points="8517,19613 8914,19584 8720,19894 "/>
+   <path class="BraceletBlackMetal-Mediumfil176 BraceletBlackMetal-Mediumstr0" d="M8759 19936c505,101 1052,597 1179,975 113,-76 249,-188 314,-287 86,-398 -931,-1254 -1357,-1077 -60,66 -126,167 -175,257 -41,78 3,118 39,132z" style="fill:#dd580c"/>
+   <path class="BraceletBlackMetal-Mediumfil177 BraceletBlackMetal-Mediumstr13" d="M9356 19691c58,35 80,146 27,229 -53,83 -163,108 -219,72 -75,-48 -121,-196 -136,-279 76,-22 252,-68 328,-22z" style="fill:#2c6a38"/>
+   <path class="BraceletBlackMetal-Mediumfil32" d="M9376 19803c20,32 44,59 7,117 -37,57 -163,108 -219,72 -48,-30 -94,-154 -87,-229 16,60 67,145 137,153 81,10 155,-64 162,-113z" style="fill:#498a4e"/>
+   <path class="BraceletBlackMetal-Mediumfil25" d="M9082 19746c80,-22 177,-43 244,-15 26,11 38,42 42,68 -37,-48 -191,-62 -286,-53z" style="fill:#6cffb2"/>
+   <path class="BraceletBlackMetal-Mediumfil178 BraceletBlackMetal-Mediumstr13" d="M9731 20445c-42,-53 -24,-165 55,-224 79,-59 191,-44 231,9 53,71 44,226 29,310 -79,-6 -260,-26 -315,-95z" style="fill:#02b328"/>
+   <path class="BraceletBlackMetal-Mediumfil32" d="M9844 20232c-105,10 -138,130 -98,193 30,48 154,94 228,87 -60,-15 -127,-71 -156,-135 -32,-70 -23,-138 26,-145z" style="fill:#587c33"/>
+   <path class="BraceletBlackMetal-Mediumfil25" d="M10007 20500c6,-83 7,-182 -33,-243 -15,-23 -48,-28 -74,-28 54,27 97,176 107,271z" style="fill:#f985c2"/>
+  </g>
+  <g>
+   <polygon class="BraceletBlackMetal-Mediumfil179 BraceletBlackMetal-Mediumstr8" points="17108,21031 17420,20861 17125,20645 "/>
+   <polygon class="BraceletBlackMetal-Mediumfil180 BraceletBlackMetal-Mediumstr8" points="18847,19613 18450,19584 18644,19894 "/>
+   <path class="BraceletBlackMetal-Mediumfil181 BraceletBlackMetal-Mediumstr0" d="M18591 19939c-501,107 -1040,597 -1165,972 -114,-76 -249,-188 -314,-287 -86,-398 931,-1254 1357,-1077 67,75 143,195 193,293 7,43 -23,72 -71,99z" style="fill:#d0d17c"/>
+   <path class="BraceletBlackMetal-Mediumfil182 BraceletBlackMetal-Mediumstr13" d="M18008 19691c-58,35 -80,146 -27,229 53,83 163,108 219,72 75,-48 121,-196 136,-279 -76,-22 -253,-68 -328,-22z" style="fill:#9ad4ba"/>
+   <path class="BraceletBlackMetal-Mediumfil32" d="M17988 19803c-20,32 -44,59 -7,117 36,57 163,108 219,72 47,-30 94,-154 86,-229 -15,60 -67,145 -137,153 -80,10 -154,-64 -161,-113z" style="fill:#672b70"/>
+   <path class="BraceletBlackMetal-Mediumfil25" d="M18282 19746c-80,-22 -177,-43 -245,-15 -25,11 -37,42 -41,68 37,-48 191,-62 286,-53z" style="fill:#ebebfa"/>
+   <path class="BraceletBlackMetal-Mediumfil183 BraceletBlackMetal-Mediumstr13" d="M17633 20445c42,-53 24,-165 -55,-224 -79,-59 -191,-44 -231,9 -53,71 -45,226 -29,310 78,-6 260,-26 315,-95z" style="fill:#c7af86"/>
+   <path class="BraceletBlackMetal-Mediumfil32" d="M17520 20232c105,10 138,130 98,193 -30,48 -154,94 -228,87 59,-15 127,-71 156,-135 32,-70 23,-138 -26,-145z" style="fill:#503e95"/>
+   <path class="BraceletBlackMetal-Mediumfil25" d="M17357 20500c-6,-83 -8,-182 33,-243 15,-23 48,-28 74,-28 -54,27 -97,176 -107,271z" style="fill:#3ae17a"/>
+  </g>
+ </g><g id="Head-Pig7">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_102Corel-Layer"/>
+  <path class="Head-Pig7fil167" d="M13682 17937c481,0 1034,-24 1605,-101 850,-115 1745,-334 2518,-713 517,-252 891,-642 1496,-281 46,-295 -60,-531 -278,-760 297,43 1046,-179 1293,-503 -349,-69 -742,-317 -739,-506 429,-36 980,-397 1235,-1090 -342,197 -775,217 -929,104 339,-83 701,-286 849,-530 -370,-85 -578,-255 -736,-469 -234,-317 -474,-802 -682,-1160 -101,-175 -213,-370 -333,-603 -102,-182 -198,-394 -302,-573 -28,-47 -54,-103 -82,-149 -358,-597 -759,-1164 -1324,-1636 -1249,-1046 -2354,-1447 -3590,-1474l-1 0 -1 0c-1236,27 -2341,428 -3591,1474 -564,472 -965,1039 -1323,1636 -28,46 -55,102 -82,149 -105,179 -200,391 -302,573 -120,233 -232,428 -333,603 -208,358 -448,843 -682,1160 -159,214 -366,384 -736,469 148,244 510,447 849,530 -154,113 -587,93 -929,-104 255,693 806,1054 1235,1090 3,189 -390,437 -739,506 247,324 996,546 1293,503 -218,229 -324,465 -279,760 606,-361 980,29 1496,281 774,379 1669,598 2519,713 571,77 1124,101 1605,101z" style="fill:#c09df7"/>
+  <path class="Head-Pig7fil10" d="M8595 11042c-58,94 -129,186 -208,277l-4 6c-120,233 -232,428 -333,603 -208,358 -448,843 -682,1160 -159,214 -366,384 -736,469 148,244 510,447 849,530 -154,113 -587,93 -929,-104 255,693 806,1054 1235,1090 3,189 -390,437 -739,506 247,324 996,546 1293,503 -218,229 -324,465 -279,760 606,-361 980,29 1496,281 774,379 1669,598 2519,713 127,17 253,31 378,44 62,5 124,10 184,15 -2326,-552 -4001,-1593 -4496,-3087 -323,-975 -154,-2267 452,-3766z" style="fill:#6f4c29"/>
+  <path class="Head-Pig7fil84" d="M9861 9172c974,-1177 2398,-1757 3821,-1747 1423,-10 2847,570 3821,1747 -1223,-1081 -2522,-1612 -3821,-1603 -1299,-9 -2598,522 -3821,1603z" style="fill:#5ebf02"/>
+  <path class="Head-Pig7fil168" d="M11342 16322c-59,-17 -121,-32 -187,-46 -271,-56 -493,16 -558,-89 -80,-266 186,-712 95,-695 -209,21 -431,229 -517,138 -94,-99 -27,-600 34,-762 427,-1118 3218,-1915 2085,-3512 -196,-276 -573,-673 -894,-787 -154,-55 -336,-83 -628,-148 -272,-60 -441,-158 -91,-441 214,-174 502,-317 687,-361 365,-85 591,-64 766,31 652,349 732,1121 1548,1205 816,-84 896,-856 1548,-1205 175,-95 401,-116 766,-31 185,44 473,187 687,361 350,283 181,381 -91,441 -292,65 -474,93 -629,148 -320,114 -697,511 -893,787 -1133,1597 1658,2394 2085,3512 61,162 128,663 34,762 -87,91 -308,-117 -517,-138 -91,-17 175,429 94,695 -64,105 -287,33 -557,89 -66,14 -128,29 -188,46 -553,524 -1400,956 -2339,956 -939,0 -1786,-432 -2340,-956z" style="fill:#08835b"/>
+  <path class="Head-Pig7fil84" d="M15213 17846c610,-96 1204,-300 1416,-360 397,-113 784,-254 1144,-430 97,-47 194,-103 289,-158 374,-214 707,-405 1175,-176 1,-92 -14,-177 -46,-258 -44,-115 -120,-223 -222,-330 -29,-30 -28,-78 2,-106 18,-17 41,-23 62,-20 151,22 431,-32 695,-135 171,-66 334,-153 446,-253 -149,-44 -296,-115 -414,-195 -154,-106 -260,-234 -258,-353 0,-39 30,-71 68,-74l0 0c217,-18 467,-125 691,-322 155,-137 297,-317 405,-541 -120,47 -242,76 -356,88 -199,23 -376,-5 -471,-75 -34,-25 -41,-72 -16,-105 11,-15 26,-24 42,-28 169,-42 344,-114 493,-208 99,-61 185,-131 249,-205 -144,-43 -263,-101 -364,-169 -126,-86 -223,-188 -307,-301 -167,-225 -333,-529 -490,-815 -304,-554 -490,-1038 -805,-1630 377,501 498,790 738,1204 65,111 131,231 198,354 155,282 319,582 479,798 75,101 161,191 271,266 109,74 245,134 418,175 9,1 18,4 26,9 35,21 47,67 25,103 -77,127 -206,243 -358,339 -91,56 -190,106 -292,146 45,2 95,-1 148,-6 153,-18 324,-67 476,-154 19,-13 44,-17 67,-8 39,14 59,57 45,96 -122,333 -311,592 -522,779 -220,194 -466,310 -689,348 30,52 93,110 174,165 135,93 316,171 485,204l0 0c11,2 22,7 31,14 33,25 40,72 15,105 -122,160 -351,294 -594,389 -206,80 -425,132 -595,145 61,81 110,165 144,252 53,137 69,283 45,444l-1 0c-1,9 -4,18 -9,27 -22,35 -68,47 -103,26 -447,-268 -766,-85 -1126,122 -94,53 -190,109 -299,161 -369,181 -764,326 -1169,440 -159,45 -836,206 -1456,216z" style="fill:#687c03"/>
+  <path class="Head-Pig7fil84" d="M12151 17846c-610,-96 -1204,-300 -1416,-360 -397,-113 -784,-254 -1144,-430 -97,-47 -194,-103 -289,-158 -374,-214 -707,-405 -1175,-176 -1,-92 14,-177 46,-258 44,-115 120,-223 222,-330 29,-30 27,-78 -2,-106 -18,-17 -41,-23 -63,-20 -150,22 -430,-32 -694,-135 -172,-66 -334,-153 -446,-253 148,-44 296,-115 414,-195 154,-106 260,-234 258,-353 0,-39 -31,-71 -69,-74l0 0c-216,-18 -466,-125 -690,-322 -155,-137 -297,-317 -405,-541 119,47 242,76 356,88 198,23 375,-5 471,-75 33,-25 41,-72 16,-105 -11,-15 -26,-24 -42,-28 -169,-42 -344,-114 -494,-208 -98,-61 -184,-131 -248,-205 144,-43 263,-101 364,-169 126,-86 223,-188 307,-301 167,-225 333,-529 490,-815 304,-554 490,-1038 805,-1630 -377,501 -498,790 -738,1204 -65,111 -131,231 -198,354 -155,282 -320,582 -479,798 -75,101 -161,191 -271,266 -109,74 -245,134 -419,175 -8,1 -17,4 -25,9 -35,21 -47,67 -25,103 77,127 206,243 358,339 91,56 190,106 292,146 -46,2 -95,-1 -148,-6 -153,-18 -324,-67 -476,-154 -19,-13 -44,-17 -68,-8 -38,14 -58,57 -44,96 122,333 310,592 522,779 220,194 466,310 689,348 -30,52 -93,110 -174,165 -135,93 -316,171 -486,204l0 0c-10,2 -21,7 -31,14 -32,25 -39,72 -14,105 122,160 351,294 594,389 206,80 424,132 595,145 -62,81 -110,165 -144,252 -53,137 -70,283 -45,444l1 0c1,9 4,18 9,27 21,35 67,47 103,26 447,-268 766,-85 1126,122 94,53 190,109 299,161 369,181 764,326 1168,440 160,45 837,206 1457,216z" style="fill:#f6ee44"/>
+ </g><g id="Mouth-Pig8">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_111Corel-Layer"/>
+  <g id="_2991504389776">
+   <path class="Mouth-Pig8fil26" d="M13682 14770c-424,3 -779,756 -1190,753 421,32 506,120 1190,123 684,-3 769,-91 1189,-123 -410,3 -765,-750 -1189,-753z" style="fill:#5cac6f"/>
+   <path class="Mouth-Pig8fil172" d="M12698 16324c387,-49 597,-173 984,-173 387,0 597,124 984,173 -370,-152 -602,-340 -984,-340 -382,0 -614,188 -984,340z" style="fill:#0c0d90"/>
+   <path class="Mouth-Pig8fil0 Mouth-Pig8str0" d="M16484 15778c-132,-434 -334,-469 -580,-358 -93,42 -148,160 -271,205 -299,109 -504,123 -653,81 -175,-50 -297,-133 -546,-209 -237,-72 -507,-101 -752,-112" style="fill:#d9039f"/>
+   <path class="Mouth-Pig8fil0 Mouth-Pig8str0" d="M10880 15778c132,-434 334,-469 580,-358 92,42 148,160 271,205 298,109 503,123 653,81 175,-50 296,-133 546,-209 236,-72 507,-101 752,-112" style="fill:#1e77e8"/>
+   <path class="Mouth-Pig8fil169" d="M16353 15752c11,-37 23,-82 -17,-150 -21,-35 -30,-295 115,-91 63,89 178,290 67,358 -80,49 -201,4 -165,-117z" style="fill:#d809a2"/>
+   <path class="Mouth-Pig8fil169" d="M14510 15478l412 172c0,0 -47,-161 40,-241 88,-79 165,-152 165,-152l-516 -15 -262 152 161 84z" style="fill:#9bcf96"/>
+   <path class="Mouth-Pig8fil169" d="M11011 15752c-11,-37 -23,-82 17,-150 21,-35 30,-295 -115,-91 -64,89 -179,290 -67,358 80,49 201,4 165,-117z" style="fill:#a8b5b6"/>
+   <path class="Mouth-Pig8fil169" d="M12854 15478l-412 172c0,0 47,-161 -40,-241 -88,-79 -165,-152 -165,-152l516 -15 262 152 -161 84z" style="fill:#6d9ba6"/>
+   <path class="Mouth-Pig8fil173 Mouth-Pig8str0" d="M11484 14521c-31,82 -16,155 28,231 114,197 517,350 703,470 186,119 292,322 199,437 -94,116 -590,3 -657,-22 -215,-83 -671,-623 -659,-904 6,-130 93,-285 360,-460 227,-148 50,185 26,248z" style="fill:#5061f7"/>
+   <path class="Mouth-Pig8fil173 Mouth-Pig8str0" d="M15880 14521c31,82 16,155 -28,231 -114,197 -517,350 -703,470 -186,119 -292,322 -199,437 53,66 225,74 385,51 123,-19 243,-62 272,-73 215,-83 671,-623 658,-904 -5,-130 -92,-285 -359,-460 -227,-148 -50,185 -26,248z" style="fill:#a4de32"/>
+   <path class="Mouth-Pig8fil10" d="M15359 15156c0,0 -185,173 -64,292 121,118 459,43 646,-169 188,-212 -231,320 -320,350 -89,30 -586,153 -699,21 -113,-132 3,-245 3,-245 0,0 278,-252 434,-249z" style="fill:#f0210b"/>
+   <path class="Mouth-Pig8fil10" d="M12005 15156c0,0 185,173 64,292 -122,118 -459,43 -646,-169 -188,-212 231,320 320,350 89,30 586,153 699,21 113,-132 -3,-245 -3,-245 0,0 -278,-252 -434,-249z" style="fill:#8b865e"/>
+  </g>
+ </g><g id="EyesClosed-Pig9">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_134Corel-Layer"/>
+  <g id="_2991533207088">
+   <path class="EyesClosed-Pig9fil38" d="M17001 10300c-57,131 -516,301 -943,673 -391,341 -602,759 -809,758 -229,-1 -320,-450 -218,-710 84,-214 483,-587 984,-766 591,-211 1055,-115 986,45z"/>
+   <path class="EyesClosed-Pig9fil148" d="M17001 10300c-57,131 -516,301 -943,673 -391,341 -602,759 -809,758 -229,-1 -320,-450 -218,-710 84,-214 483,-587 984,-766 591,-211 1055,-115 986,45z"/>
+  </g>
+  <g id="_2991533207760">
+   <path class="EyesClosed-Pig9fil38" d="M10363 10300c57,131 516,301 943,673 391,341 602,759 808,758 230,-1 321,-450 219,-710 -84,-214 -484,-587 -984,-766 -591,-211 -1055,-115 -986,45z"/>
+   <path class="EyesClosed-Pig9fil148" d="M10363 10300c57,131 516,301 943,673 391,341 602,759 808,758 230,-1 321,-450 219,-710 -84,-214 -484,-587 -984,-766 -591,-211 -1055,-115 -986,45z"/>
+  </g>
+  <path class="EyesClosed-Pig9fil84" d="M15494 13742c-74,-13 -76,-85 -9,-93 423,-50 1995,-305 2780,-832 115,-77 178,-127 267,-221 44,-46 73,-86 108,-79 108,23 30,179 9,231 -308,774 -1612,1018 -3155,994z"/>
+  <path class="EyesClosed-Pig9fil84" d="M11870 13742c74,-13 76,-85 9,-93 -423,-50 -1995,-305 -2780,-832 -115,-77 -178,-127 -267,-221 -44,-46 -73,-86 -108,-79 -108,23 -30,179 -10,231 309,774 1613,1018 3156,994z"/>
+ </g><g id="Eyes-Pig9">
+ <animate attributeName="opacity" dur="10" repeatCount="indefinite" values="0;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;0;0"/>
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_135Corel-Layer"/>
+  <g id="_2991533203472">
+   <path class="Eyes-Pig9fil226" d="M15655 13804c-299,-174 -334,-515 -332,-844 3,-301 26,-590 135,-770 292,-480 1316,-1120 2066,-1097 264,8 486,223 707,450 286,292 409,765 421,1184 27,1046 -927,1522 -1788,1512 -481,-5 -834,-217 -1209,-435z"/>
+   <path class="Eyes-Pig9fil227" d="M15666 11951c478,-293 1194,-628 1786,-792 177,78 320,206 478,396 614,737 274,1782 -186,2105 -558,391 -1354,295 -1750,20 -228,-159 -516,-447 -620,-799 -66,-224 -203,-626 292,-930z"/>
+   <path class="Eyes-Pig9fil228" d="M15587 11982c172,-108 422,-343 644,-453 269,-133 502,-184 783,-285 529,192 905,785 766,1396 -368,1617 -2500,823 -2199,-500 78,-346 -15,-105 6,-158z"/>
+   <path class="Eyes-Pig9fil148" d="M15365 13403c-125,-545 -37,-1050 141,-1331 224,-354 726,-586 1223,-774 376,-142 765,-303 1090,-101 239,149 598,539 707,836 93,255 151,667 114,933 -127,-464 -335,-887 -586,-1073 -489,-364 -2028,213 -2396,648 -221,263 -286,407 -293,862z"/>
+   <g>
+    <circle class="Eyes-Pig9fil173" r="235" transform="matrix(-0.127023 2.18149 1.98577 0.284037 17238.7 11929.4)"/>
+    <circle class="Eyes-Pig9fil173" r="235" transform="matrix(-0.686977 0.523683 0.42619 0.668712 18124.5 13261.3)"/>
+    <circle class="Eyes-Pig9fil173" r="235" transform="matrix(-0.252399 0.323889 0.276862 0.255805 18358.4 12924)"/>
+   </g>
+   <path class="Eyes-Pig9fil0 Eyes-Pig9str0" d="M15497 13682c98,115 513,326 647,387 1118,511 2466,-181 2507,-1257 22,-583 -346,-1434 -907,-1655 -364,-143 -1162,140 -1739,505 -402,254 -554,459 -624,718 -83,309 -113,1035 116,1302z"/>
+  </g>
+  <g id="_2991533200240">
+   <path class="Eyes-Pig9fil229" d="M11709 13804c299,-174 334,-515 331,-844 -2,-301 -25,-590 -134,-770 -292,-480 -1316,-1120 -2066,-1097 -264,8 -486,223 -707,450 -286,292 -410,765 -421,1184 -28,1046 927,1522 1788,1512 481,-5 834,-217 1209,-435z"/>
+   <path class="Eyes-Pig9fil230" d="M11698 11951c-478,-293 -1194,-628 -1786,-792 -177,78 -320,206 -478,396 -615,737 -274,1782 186,2105 558,391 1354,295 1750,20 228,-159 516,-447 620,-799 66,-224 203,-626 -292,-930z"/>
+   <path class="Eyes-Pig9fil231" d="M11777 11982c-172,-108 -423,-343 -644,-453 -269,-133 -502,-184 -783,-285 -529,192 -905,785 -766,1396 367,1617 2500,823 2199,-500 -78,-346 14,-105 -6,-158z"/>
+   <path class="Eyes-Pig9fil148" d="M11999 13403c124,-545 37,-1050 -141,-1331 -224,-354 -726,-586 -1223,-774 -376,-142 -766,-303 -1091,-101 -238,149 -597,539 -706,836 -93,255 -151,667 -114,933 126,-464 335,-887 586,-1073 489,-364 2028,213 2395,648 222,263 287,407 294,862z"/>
+   <g>
+    <circle class="Eyes-Pig9fil173" r="235" transform="matrix(0.127023 2.18149 -1.98577 0.284037 10125.1 11929.4)"/>
+    <circle class="Eyes-Pig9fil173" r="235" transform="matrix(0.686977 0.523683 -0.42619 0.668712 9239.4 13261.3)"/>
+    <circle class="Eyes-Pig9fil173" r="235" transform="matrix(0.252399 0.323889 -0.276862 0.255805 9005.45 12924)"/>
+   </g>
+   <path class="Eyes-Pig9fil0 Eyes-Pig9str0" d="M11867 13682c-98,115 -513,326 -647,387 -1118,511 -2467,-181 -2507,-1257 -22,-583 346,-1434 907,-1655 364,-143 1162,140 1739,505 402,254 554,459 624,718 83,309 113,1035 -116,1302z"/>
+  </g>
+ </g><g id="HatVanHelsing-Medium">
+  <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_7Corel-Layer"/>
+  <g id="_1448401301424">
+   <path class="HatVanHelsing-Mediumfil31" d="M13678 10972l5591 -168c-1000,-2216 -703,-2634 -1118,-4557 -157,-1677 -2269,-1874 -3239,-1145 -375,282 -1209,375 -1471,376 -795,-22 -1081,-699 -2734,-154 -1829,648 -1273,4025 -2661,5886l5632 -238z" style="fill:#c747d9"/>
+   <path class="HatVanHelsing-Mediumfil2" d="M9032 8626c235,-1068 534,-2512 1355,-3147 440,-341 1308,-380 1918,-314 -702,89 -1415,258 -1848,572 -528,383 -1057,1889 -1278,2897l-147 -8z" style="fill:#37dfad"/>
+   <path class="HatVanHelsing-Mediumfil16" d="M13031 8450c734,-567 439,-2034 -135,-2968 118,-6 237,-13 353,-26 -1064,-495 -2381,-509 -3099,243 -718,752 -963,1945 -1047,3061 298,347 3690,-32 4314,-24 -379,-70 -658,-155 -866,-246 245,30 407,20 480,-40zm-778 -2954c1162,795 468,2581 60,2869 -574,-362 -306,-759 -795,-709 -1621,457 -732,-1768 26,-2063 124,-76 388,-91 709,-97z" style="fill:#b4529a"/>
+   <path class="HatVanHelsing-Mediumfil32" d="M16301 4701c806,10 1826,406 1913,1855 63,350 210,1396 360,2292 -584,35 -1541,-147 -2076,-218 127,-745 -188,-1163 -180,-1723 62,-782 634,-1434 -188,-1639 -917,-258 -1627,540 -2245,170 998,-36 1337,-834 2416,-737z" style="fill:#440d5c"/>
+   <path class="HatVanHelsing-Mediumfil33" d="M12429 5240c0,0 165,-41 473,240 167,152 388,619 512,1254 50,256 203,1440 -522,1749l1822 -28c-846,-307 -811,-1324 -752,-1685 137,-837 322,-1408 900,-1597 -620,121 -937,568 -2433,67z" style="fill:#8e201c"/>
+   <path class="HatVanHelsing-Mediumfil19" d="M14382 5390l185 -100c-542,775 -691,1675 -474,2601 -333,-800 -218,-1986 289,-2501z" style="fill:#3eb9ef"/>
+   <path class="HatVanHelsing-Mediumfil20 HatVanHelsing-Mediumstr1" d="M13678 10972l5591 -168c-1000,-2216 -703,-2634 -1118,-4557 -157,-1677 -2269,-1874 -3239,-1145 -375,282 -1209,375 -1471,376 -795,-22 -1088,-717 -2734,-154 -1606,549 -1375,3220 -2222,5121 1739,-136 3209,611 5193,527z" style="fill:#15ae0e"/>
+   <path class="HatVanHelsing-Mediumfil21 HatVanHelsing-Mediumstr2" d="M8873 8617c-166,192 -301,739 -256,1108 -147,280 -491,575 -476,1133 1795,175 3590,350 5384,525 1952,-204 3868,-405 5819,-609 -412,-533 -192,-536 -362,-991 -118,-231 -280,-431 -292,-944 -796,88 -2998,-458 -4865,-394 -1493,-25 -1944,359 -4952,172z" style="fill:#36bffa"/>
+   <path class="HatVanHelsing-Mediumfil22" d="M18419 8924c58,5 117,6 198,-2 20,323 88,567 267,835 155,320 0,506 304,914 -83,34 -384,45 -737,39 488,-144 545,-637 304,-817 -187,-104 19,-680 -336,-969z" style="fill:#d45fbe"/>
+   <path class="HatVanHelsing-Mediumfil23" d="M18052 8825c218,17 469,24 589,21 221,21 -9,558 304,868 232,339 -10,443 307,929 -137,93 -900,102 -1451,38 1041,34 1009,-535 577,-548 -442,-14 235,-950 -326,-1308z" style="fill:#be6248"/>
+   <path class="HatVanHelsing-Mediumfil34 HatVanHelsing-Mediumstr2" d="M18429 8746c239,559 411,1522 334,2106 -34,33 -407,38 -507,-34 78,-657 -105,-1580 -317,-2120 52,-58 428,-56 490,48z" style="fill:#964f7b"/>
+   <path class="HatVanHelsing-Mediumfil35 HatVanHelsing-Mediumstr2" d="M17485 8660c260,495 411,1522 334,2106 -34,33 -407,38 -507,-34 78,-657 -110,-1533 -317,-2120 52,-58 428,-56 490,48z" style="fill:#cb7ec5"/>
+   <path class="HatVanHelsing-Mediumfil36" d="M3816 11667c734,-732 2492,-1150 4671,-1238 1388,251 4127,234 5723,121 1752,-112 3411,217 4991,157 2201,-53 4051,-348 4813,963 -1521,-1106 -3552,-479 -4904,13 -2444,759 -3700,731 -4968,731 -4148,1 -5508,-2357 -10326,-747z" style="fill:#6775d4"/>
+   <path class="HatVanHelsing-Mediumfil27" d="M14210 10550c1752,-112 3411,217 4991,157 880,-21 1828,-64 2548,-45 -1507,254 -2541,580 -2833,686 -2443,760 -3506,736 -4774,736 3985,-369 4013,-1247 68,-1534z" style="fill:#b21d73"/>
+   <path class="HatVanHelsing-Mediumfil28" d="M14142 12054c1268,0 2524,28 4968,-731 607,-221 1351,-469 2124,-575 1273,-7 2268,40 2780,922 -1521,-1106 -3552,-479 -4904,13 -2444,759 -3700,731 -4968,731 -2075,1 -3453,-589 -4914,-978 2421,567 4019,619 4914,618z" style="fill:#11ce4c"/>
+   <path class="HatVanHelsing-Mediumfil20 HatVanHelsing-Mediumstr1" d="M3816 11667c734,-732 2492,-1150 4671,-1238 1388,251 4127,234 5723,121 1752,-112 3411,217 4991,157 2138,-27 4051,-348 4813,963 -1521,-1106 -3552,-479 -4904,13 -2444,759 -3700,731 -4968,731 -4148,1 -5508,-2357 -10326,-747z" style="fill:#777a26"/>
+   <path class="HatVanHelsing-Mediumfil16" d="M8223 10383c85,-277 415,-495 394,-658 -20,-163 139,-739 256,-1108 144,75 1179,132 3348,-59 1492,605 -4384,1324 1818,2004 -2140,83 -4597,68 -5816,-179z" style="fill:#4138ca"/>
+   <path class="HatVanHelsing-Mediumfil3" d="M9575 10544c-491,7 -952,-135 -1335,-104 -8,-296 386,-620 371,-784 -16,-163 32,-868 262,-1039 46,26 273,59 502,77 -446,-27 -480,721 -224,965 258,245 -784,56 424,885z" style="fill:#1c37e9"/>
+   <path class="HatVanHelsing-Mediumfil20 HatVanHelsing-Mediumstr3" d="M22961 10875c-1404,-393 -2804,104 -3851,414 -2444,759 -3344,775 -4968,795 -3805,46 -5509,-2027 -9540,-932" style="fill:#caa41f"/>
+   <path class="HatVanHelsing-Mediumfil29" d="M12660 5302c18,-36 122,-9 153,13 1,0 322,268 474,774 193,741 250,1135 111,1733 -1,-588 -94,-1375 -373,-2001 -85,-190 -183,-349 -365,-519z" style="fill:#94c8cb"/>
+   <path class="HatVanHelsing-Mediumfil3" d="M18106 8683c250,448 417,1499 327,2026 -34,30 -283,-10 -395,-29 93,-593 -102,-1343 -297,-1874 50,-1 148,5 250,14 48,4 -62,-92 -52,-122 12,-41 135,-20 167,-15z" style="fill:#4ddd0b"/>
+   <path class="HatVanHelsing-Mediumfil3" d="M17185 8624c212,466 367,1436 338,2040 -34,29 -420,7 -519,-58 78,-593 -110,-1384 -318,-1915 29,-29 209,4 330,-16 30,-4 7,-55 28,-66 47,-25 122,-14 141,15z" style="fill:#062cd5"/>
+   <path class="HatVanHelsing-Mediumfil30" d="M17654 10595c18,1 70,4 102,9 33,-652 -83,-1327 -338,-1909 -41,-23 -79,-31 -114,-36 311,701 364,1367 350,1936z" style="fill:#88df72"/>
+   <path class="HatVanHelsing-Mediumfil30" d="M18602 10638c18,0 70,2 102,1 8,-659 -117,-1284 -341,-1856 -16,-14 -76,-30 -112,-38 285,695 333,1324 351,1893z" style="fill:#9d0c58"/>
+   <path class="HatVanHelsing-Mediumfil3" d="M3816 11667c734,-732 2492,-1150 4671,-1238 1179,213 3332,233 4932,165 -1567,455 -4571,-79 -3784,482 302,231 1510,418 2256,841 -468,-54 -1298,-199 -1680,-269 -2584,-475 -3103,-1103 -6395,19z" style="fill:#bd580e"/>
+  </g>
+ </g><g id="Moustache-Pig3">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_139Corel-Layer"/>
+  <path class="Moustache-Pig3fil234" d="M10904 16360c18,1 82,389 307,458 92,29 54,-287 160,-188 51,48 159,299 235,358 60,46 84,-101 155,-52 444,308 1055,622 1284,416 233,-209 -273,-240 56,-316 17,-4 119,84 169,76 56,-9 70,-173 129,-148 183,77 245,-10 283,-10 38,0 100,87 283,10 59,-25 73,139 129,148 50,8 152,-80 169,-76 329,76 -177,107 55,316 229,206 841,-108 1285,-416 71,-49 95,98 155,52 76,-59 184,-310 234,-358 107,-99 69,217 161,188 225,-69 289,-457 306,-458 428,508 -378,1121 -737,1290 -307,145 -866,312 -1200,421 -5,-42 1,-166 24,-183 -356,117 -586,377 -694,392 16,-65 -123,-279 -170,-360 -47,81 -166,223 -151,288 -107,-15 -357,-203 -713,-320 23,17 29,141 24,183 -334,-109 -893,-276 -1200,-421 -360,-169 -1165,-782 -738,-1290z" style="fill:#9f040f"/>
+  <path class="Moustache-Pig3fil84" d="M16389 17131c-259,461 -1484,895 -1627,941 -67,21 -129,41 -217,70 -39,13 -81,-9 -94,-48 -2,-6 -3,-13 -3,-19 -2,-17 -3,-42 -2,-68 -146,67 -267,154 -361,222 -92,66 -161,116 -223,125 -41,5 -69,-23 -74,-64 -9,-67 -75,-173 -109,-229 -44,64 -108,193 -133,220 -9,2 -16,2 -24,1 -61,-9 -140,-50 -243,-105 -98,-52 -220,-117 -362,-174 2,31 1,60 -1,77 -6,41 -43,70 -84,65 -5,-1 -9,-2 -14,-3 -87,-29 -149,-49 -216,-70 -146,-46 -1177,-386 -1578,-883 645,474 1437,681 1623,741l118 37 25 5c-2,-13 -14,-20 -16,-24 -26,-19 -37,-52 -27,-84 13,-39 55,-61 95,-48 207,69 378,159 507,228 50,27 94,50 128,66 22,-50 57,-102 90,-150l2 -4c19,-28 37,-55 48,-73 6,-11 16,-21 28,-28 35,-21 81,-8 102,27 5,9 16,27 28,48 41,68 97,162 129,244 26,-17 58,-40 93,-66 128,-93 302,-218 525,-292l0 1c29,-10 62,-1 82,24 26,33 20,80 -12,105 -20,16 -16,22 7,21l118 -37c190,-61 1329,-427 1672,-799z" style="fill:#530072"/>
+  <path class="Moustache-Pig3fil10" d="M11851 17651c0,0 682,180 719,180 37,0 -109,-185 -109,-185 0,0 467,94 605,125 137,32 15,-244 86,-407 111,316 213,379 321,495 71,-113 157,-385 179,-432 100,692 494,565 892,145 5,85 54,301 113,329 60,29 826,-207 826,-207 0,0 -918,417 -939,397 -22,-20 -35,-179 -35,-179 0,0 -548,265 -619,366 -71,101 -175,-272 -218,-341 -43,-70 -191,256 -191,256l-651 -283 12 161c0,0 -911,-297 -991,-420z" style="fill:#29e673"/>
+ </g><g id="Nose-Pig6">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_147Corel-Layer"/>
+  <g id="_2991533224368">
+   <path class="Nose-Pig6fil244 Nose-Pig6str0" d="M15270 14963c0,-1041 -1142,-1152 -1588,-1883 -446,731 -1588,842 -1588,1883 0,708 795,391 1588,392 795,1 1588,318 1588,-392z" style="fill:#21f042"/>
+   <g>
+    <path class="Nose-Pig6fil26 Nose-Pig6str3" d="M14614 14852c-125,28 -305,-100 -404,-285 -98,-185 -77,-357 48,-384 124,-27 305,100 403,285 98,185 77,357 -47,384z" style="fill:#1c4e80"/>
+    <path class="Nose-Pig6fil237 Nose-Pig6str3" d="M14614 14852c-125,28 -305,-100 -404,-285 -98,-185 -77,-357 48,-384 124,-27 305,100 403,285 98,185 77,357 -47,384z" style="fill:#eca49b"/>
+   </g>
+   <g>
+    <path class="Nose-Pig6fil26 Nose-Pig6str3" d="M12750 14852c125,28 305,-100 403,-285 99,-185 78,-357 -47,-384 -124,-27 -305,100 -403,285 -98,185 -77,357 47,384z" style="fill:#1c7cdb"/>
+    <path class="Nose-Pig6fil237 Nose-Pig6str3" d="M12750 14852c125,28 305,-100 403,-285 99,-185 78,-357 -47,-384 -124,-27 -305,100 -403,285 -98,185 -77,357 47,384z" style="fill:#737a23"/>
+   </g>
+  </g>
+ </g><g id="WeaponBelmont-Medium">
+     <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+     <metadata id="CorelCorpID_7Corel-Layer"/>
+  <g id="_2887544751488">
+   <path class="WeaponBelmont-Mediumfil37 WeaponBelmont-Mediumstr2" d="M9911 21803l248 241c705,663 1479,1751 1186,2883 -718,2811 -6712,2359 -8483,1055 -1646,-1213 -303,-2403 1612,-2626 3175,-370 417,-2672 -1857,-1771 2552,-1346 5579,1594 1912,2074 -1472,193 -2754,1079 -1367,2030 1401,960 7076,1520 7683,-882 228,-901 -431,-1779 -1068,-2377l-223 -189 357 -438z" style="fill:#7cc49e"/>
+   <path class="WeaponBelmont-Mediumfil30" d="M6139 22425c192,640 -318,1065 -1610,1234 -982,129 -1880,566 -1956,1126 -64,-899 1340,-1201 2379,-1344 583,-81 1299,-516 1187,-1016z" style="fill:#473ceb"/>
+   <path class="WeaponBelmont-Mediumfil30" d="M11024 25597c-1494,2138 -6650,1499 -8162,385 -525,-387 -745,-771 -741,-1122 653,1728 4199,2163 6370,1827 1127,-175 2075,-589 2533,-1090z" style="fill:#710b65"/>
+   <path class="WeaponBelmont-Mediumfil38 WeaponBelmont-Mediumstr2" d="M9348 22159c-190,-238 384,-705 593,-492l299 325c-189,-107 -639,274 -553,475l-339 -308z" style="fill:#222329"/>
+   <path class="WeaponBelmont-Mediumfil30" d="M9348 22159c-78,-98 -27,-234 75,-346 52,191 184,304 378,357 -92,98 -150,213 -114,297l-339 -308z" style="fill:#b3210b"/>
+   <path class="WeaponBelmont-Mediumfil27" d="M9885 22144c1167,1179 1463,2303 785,3179 506,-1014 55,-2077 -955,-2963 33,-111 67,-169 170,-216z" style="fill:#375e3d"/>
+   <path class="WeaponBelmont-Mediumfil28" d="M8660 26552c2809,-517 3028,-2526 1630,-4178 1575,1582 1376,3797 -1630,4178z" style="fill:#9597f4"/>
+   <path class="WeaponBelmont-Mediumfil28" d="M2715 24220c-1143,1101 1253,2487 4040,2488 -2685,179 -5460,-1429 -4040,-2488z" style="fill:#b8dc23"/>
+   <path class="WeaponBelmont-Mediumfil28" d="M4797 21441c921,298 1511,923 1108,1533 110,-121 214,-264 203,-432 -25,-403 -466,-887 -1311,-1101z" style="fill:#8a3329"/>
+  </g>
+ </g></svg>

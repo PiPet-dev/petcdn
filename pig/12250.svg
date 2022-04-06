@@ -1,0 +1,989 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd" version="1.1" viewBox="0 0 29000 29000" xml:space="preserve"><defs><style type="text/css">.HairBack-Pig0fil0 {fill:none}
+.Tail-Pig4fil10 {fill:black;fill-opacity:0.200000}
+.Tail-Pig4fil33 {fill:url(#Tail-Pig4id131)}
+.Tail-Pig4fil30 {fill:black;fill-rule:nonzero}
+.Tail-Pig4fil26 {fill:black;fill-opacity:0.301961}
+.Tail-Pig4fil32 {fill:url(#Tail-Pig4id167)}
+.Tail-Pig4str0 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.Tail-Pig4fil34 {fill:url(#Tail-Pig4id149)}
+.Tail-Pig4str1 {stroke:black;stroke-width:150}
+.RightFoot-Pig10fil37 {fill:#ffffff}
+.RightFoot-Pig10fil51 {fill:black;fill-opacity:0.400000}
+.RightFoot-Pig10fil44 {fill:url(#RightFoot-Pig10id138)}
+.RightFoot-Pig10fil45 {fill:url(#RightFoot-Pig10id225)}
+.RightFoot-Pig10fil40 {fill:black}
+.RightFoot-Pig10fil10 {fill:black;fill-opacity:0.200000}
+.RightFoot-Pig10fil0 {fill:none}
+.RightFoot-Pig10str2 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.RightLeg-Pig0fil52 {fill:url(#RightLeg-Pig0id37)}
+.RightLeg-Pig0fil10 {fill:black;fill-opacity:0.200000}
+.RightLeg-Pig0fil0 {fill:none}
+.RightLeg-Pig0str2 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.LeftFoot-Pig10fil37 {fill:#ffffff}
+.LeftFoot-Pig10fil51 {fill:black;fill-opacity:0.400000}
+.LeftFoot-Pig10fil58 {fill:url(#LeftFoot-Pig10id135)}
+.LeftFoot-Pig10fil59 {fill:url(#LeftFoot-Pig10id222)}
+.LeftFoot-Pig10fil40 {fill:black}
+.LeftFoot-Pig10fil10 {fill:black;fill-opacity:0.200000}
+.LeftFoot-Pig10fil0 {fill:none}
+.LeftFoot-Pig10str2 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.LeftLeg-Pig0fil62 {fill:url(#LeftLeg-Pig0id49)}
+.LeftLeg-Pig0fil10 {fill:black;fill-opacity:0.200000}
+.LeftLeg-Pig0fil0 {fill:none}
+.LeftLeg-Pig0str2 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.RightHand-Pig0fil68 {fill:url(#RightHand-Pig0id57)}
+.RightHand-Pig0fil10 {fill:black;fill-opacity:0.200000}
+.RightHand-Pig0fil0 {fill:none}
+.RightHand-Pig0str0 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.RightPaw-Pig10fil74 {fill:url(#RightPaw-Pig10id25)}
+.RightPaw-Pig10fil51 {fill:black;fill-opacity:0.400000}
+.RightPaw-Pig10fil10 {fill:black;fill-opacity:0.200000}
+.RightPaw-Pig10fil77 {fill:url(#RightPaw-Pig10id216)}
+.RightPaw-Pig10fil40 {fill:black}
+.RightPaw-Pig10fil0 {fill:none}
+.RightPaw-Pig10str2 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.LeftHand-Pig0fil79 {fill:url(#LeftHand-Pig0id22)}
+.LeftHand-Pig0fil10 {fill:black;fill-opacity:0.200000}
+.LeftHand-Pig0fil0 {fill:none}
+.LeftHand-Pig0str0 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.Body-Pig2fil83 {fill:url(#Body-Pig2id42)}
+.Body-Pig2fil86 {fill:url(#Body-Pig2id214)}
+.Body-Pig2fil87 {fill:url(#Body-Pig2id215)}
+.Body-Pig2fil10 {fill:black;fill-opacity:0.200000}
+.Body-Pig2fil84 {fill:black;fill-rule:nonzero}
+.LeftPaw-Pig10fil91 {fill:url(#LeftPaw-Pig10id70)}
+.LeftPaw-Pig10fil51 {fill:black;fill-opacity:0.400000}
+.LeftPaw-Pig10fil10 {fill:black;fill-opacity:0.200000}
+.LeftPaw-Pig10fil94 {fill:url(#LeftPaw-Pig10id212)}
+.LeftPaw-Pig10fil40 {fill:black}
+.LeftPaw-Pig10fil0 {fill:none}
+.LeftPaw-Pig10str2 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.Ears-Pig6fil127 {fill:url(#Ears-Pig6id43)}
+.Ears-Pig6fil128 {fill:url(#Ears-Pig6id18)}
+.Ears-Pig6fil129 {fill:url(#Ears-Pig6id52)}
+.Ears-Pig6fil10 {fill:black;fill-opacity:0.200000}
+.Ears-Pig6fil130 {fill:url(#Ears-Pig6id110)}
+.Ears-Pig6fil131 {fill:url(#Ears-Pig6id86)}
+.Ears-Pig6fil132 {fill:url(#Ears-Pig6id126)}
+.Ears-Pig6fil0 {fill:none}
+.Ears-Pig6str0 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.Head-Pig1fil160 {fill:url(#Head-Pig1id50)}
+.Head-Pig1fil161 {fill:url(#Head-Pig1id159)}
+.Head-Pig1fil10 {fill:black;fill-opacity:0.200000}
+.Head-Pig1fil84 {fill:black;fill-rule:nonzero}
+.Mouth-Pig10fil172 {fill:black;fill-rule:nonzero;fill-opacity:0.200000}
+.Mouth-Pig10fil169 {fill:black}
+.Mouth-Pig10fil171 {fill:#FF9999}
+.Mouth-Pig10fil10 {fill:black;fill-opacity:0.200000}
+.Mouth-Pig10fil0 {fill:none}
+.Mouth-Pig10str0 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.Mouth-Pig10fil173 {fill:white}
+.EyesClosed-Pig3fil38 {fill:#b97d4b}
+.EyesClosed-Pig3fil10 {fill:black;fill-opacity:0.200000}
+.EyesClosed-Pig3fil84 {fill:black;fill-rule:nonzero}
+.Eyes-Pig3fil192 {fill:url(#Eyes-Pig3id177)}
+.Eyes-Pig3fil190 {fill:url(#Eyes-Pig3id118)}
+.Eyes-Pig3fil193 {fill:url(#Eyes-Pig3id104)}
+.Eyes-Pig3fil148 {fill:black;fill-opacity:0.501961}
+.Eyes-Pig3fil173 {fill:white}
+.Eyes-Pig3fil194 {fill:url(#Eyes-Pig3id175)}
+.Eyes-Pig3fil195 {fill:url(#Eyes-Pig3id90)}
+.Eyes-Pig3fil196 {fill:url(#Eyes-Pig3id93)}
+.Eyes-Pig3fil0 {fill:none}
+.Eyes-Pig3str0 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.Moustache-Pig0fil0 {fill:none}
+.Nose-Pig0fil236 {fill:url(#Nose-Pig0id201)}
+.Nose-Pig0str0 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.Nose-Pig0fil26 {fill:black;fill-opacity:0.301961}
+.Nose-Pig0str3 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.301961}
+.Nose-Pig0fil237 {fill:none}
+.Hair-Pig6fil254 {fill:url(#Hair-Pig6id14)}
+.Hair-Pig6fil30 {fill:black;fill-rule:nonzero}
+.Hair-Pig6fil10 {fill:black;fill-opacity:0.200000}
+.Hair-Pig6fil255 {fill:#fffefa}
+.AccessorySuitcaseWithMoney2fil4suitcase {fill:#2B2B0C}
+.AccessorySuitcaseWithMoney2fil5suitcase {fill:#97BF6F}
+.AccessorySuitcaseWithMoney2fil7suitcase {fill:#99CC66}
+.AccessorySuitcaseWithMoney2fil8suitcase {fill:black;fill-opacity:0.301961}
+.AccessorySuitcaseWithMoney2fil16suitcase {fill:url(#AccessorySuitcaseWithMoney2id3suitcase)}
+.AccessorySuitcaseWithMoney2fil17suitcase {fill:#FFD3A6;fill-opacity:0.501961}
+.AccessorySuitcaseWithMoney2fil20suitcase {fill:url(#AccessorySuitcaseWithMoney2id6suitcase)}
+.AccessorySuitcaseWithMoney2fil21suitcase {fill:black;fill-opacity:0.600000}
+.AccessorySuitcaseWithMoney2fil0suitcase {fill:url(#AccessorySuitcaseWithMoney2id2suitcase)}
+.AccessorySuitcaseWithMoney2str0suitcase {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.AccessorySuitcaseWithMoney2fil1suitcase {fill:url(#AccessorySuitcaseWithMoney2id0suitcase)}
+.AccessorySuitcaseWithMoney2str1suitcase {stroke:black;stroke-width:150}
+.AccessorySuitcaseWithMoney2fil2suitcase {fill:none}
+.AccessorySuitcaseWithMoney2str2suitcase {stroke:black;stroke-width:100;stroke-opacity:0.501961}
+.AccessorySuitcaseWithMoney2fil3suitcase {fill:url(#AccessorySuitcaseWithMoney2id8suitcase)}
+.AccessorySuitcaseWithMoney2fil6suitcase {fill:url(#AccessorySuitcaseWithMoney2id12suitcase)}
+.AccessorySuitcaseWithMoney2fil9suitcase {fill:url(#AccessorySuitcaseWithMoney2id9suitcase)}
+.AccessorySuitcaseWithMoney2fil10suitcase {fill:url(#AccessorySuitcaseWithMoney2id1suitcase)}
+.AccessorySuitcaseWithMoney2fil11suitcase {fill:url(#AccessorySuitcaseWithMoney2id10suitcase)}
+.AccessorySuitcaseWithMoney2fil12suitcase {fill:url(#AccessorySuitcaseWithMoney2id13suitcase)}
+.AccessorySuitcaseWithMoney2fil13suitcase {fill:url(#AccessorySuitcaseWithMoney2id7suitcase)}
+.AccessorySuitcaseWithMoney2fil14suitcase {fill:url(#AccessorySuitcaseWithMoney2id4suitcase)}
+.AccessorySuitcaseWithMoney2fil15suitcase {fill:url(#AccessorySuitcaseWithMoney2id11suitcase)}
+.AccessorySuitcaseWithMoney2str3suitcase {stroke:black;stroke-width:75;stroke-linejoin:round;stroke-dasharray:150.000000 225.000000;stroke-opacity:0.501961}
+.AccessorySuitcaseWithMoney2fil18suitcase {fill:none}
+.AccessorySuitcaseWithMoney2str4suitcase {stroke:black;stroke-width:150;stroke-linejoin:round}
+.AccessorySuitcaseWithMoney2fil19suitcase {fill:url(#AccessorySuitcaseWithMoney2id5suitcase)}
+.BraceletCyberPunkMSet-Mediumfil97 {fill:black;fill-opacity:0.400000}
+.BraceletCyberPunkMSet-Mediumfil159 {fill:#00D5FF;fill-opacity:0.200000}
+.BraceletCyberPunkMSet-Mediumfil160 {fill:#F7F4FF}
+.BraceletCyberPunkMSet-Mediumfil161 {fill:#00BBFF;fill-opacity:0.301961}
+.BraceletCyberPunkMSet-Mediumfil319 {fill:url(#BraceletCyberPunkMSet-Mediumid81)}
+.BraceletCyberPunkMSet-Mediumfil173 {fill:#FF7A7A;fill-opacity:0.600000}
+.BraceletCyberPunkMSet-Mediumfil54 {fill:black;fill-opacity:0.301961}
+.BraceletCyberPunkMSet-Mediumfil214 {fill:yellow;fill-opacity:0.200000}
+.BraceletCyberPunkMSet-Mediumfil215 {fill:yellow}
+.BraceletCyberPunkMSet-Mediumfil312 {fill:url(#BraceletCyberPunkMSet-Mediumid230)}
+.BraceletCyberPunkMSet-Mediumstr15 {stroke:black;stroke-width:150}
+.BraceletCyberPunkMSet-Mediumfil313 {fill:url(#BraceletCyberPunkMSet-Mediumid137)}
+.BraceletCyberPunkMSet-Mediumstr0 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.BraceletCyberPunkMSet-Mediumfil314 {fill:url(#BraceletCyberPunkMSet-Mediumid138)}
+.BraceletCyberPunkMSet-Mediumstr16 {stroke:black;stroke-width:150}
+.BraceletCyberPunkMSet-Mediumfil10 {fill:none}
+.BraceletCyberPunkMSet-Mediumstr17 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.501961}
+.BraceletCyberPunkMSet-Mediumfil315 {fill:url(#BraceletCyberPunkMSet-Mediumid231)}
+.BraceletCyberPunkMSet-Mediumfil316 {fill:url(#BraceletCyberPunkMSet-Mediumid139)}
+.BraceletCyberPunkMSet-Mediumstr2 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.BraceletCyberPunkMSet-Mediumfil317 {fill:url(#BraceletCyberPunkMSet-Mediumid317)}
+.BraceletCyberPunkMSet-Mediumfil318 {fill:url(#BraceletCyberPunkMSet-Mediumid299)}
+.BraceletCyberPunkMSet-Mediumfil320 {fill:url(#BraceletCyberPunkMSet-Mediumid324)}
+.BraceletCyberPunkMSet-Mediumfil3 {fill:none}
+.BraceletCyberPunkMSet-Mediumstr18 {stroke:yellow;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.BraceletCyberPunkMSet-Mediumfil174 {fill:none}
+.BraceletCyberPunkMSet-Mediumstr19 {stroke:black;stroke-width:100;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.400000}
+.HeadCyberPunkMSet-Mediumfil4 {fill:black;fill-opacity:0.301961}
+.HeadCyberPunkMSet-Mediumfil365 {fill:url(#HeadCyberPunkMSet-Mediumid78)}
+.HeadCyberPunkMSet-Mediumfil366 {fill:url(#HeadCyberPunkMSet-Mediumid93)}
+.HeadCyberPunkMSet-Mediumfil119 {fill:white;fill-opacity:0.400000}
+.HeadCyberPunkMSet-Mediumfil341 {fill:white;fill-opacity:0.400000}
+.HeadCyberPunkMSet-Mediumfil29 {fill:black}
+.HeadCyberPunkMSet-Mediumfil342 {fill:black;fill-rule:nonzero}
+.HeadCyberPunkMSet-Mediumfil343 {fill:black;fill-opacity:0.701961}
+.HeadCyberPunkMSet-Mediumfil344 {fill:#003399;fill-opacity:0.501961}
+.HeadCyberPunkMSet-Mediumfil345 {fill:#EF08FF;fill-opacity:0.400000}
+.HeadCyberPunkMSet-Mediumfil112 {fill:black;fill-opacity:0.501961}
+.HeadCyberPunkMSet-Mediumfil367 {fill:url(#HeadCyberPunkMSet-Mediumid11)}
+.HeadCyberPunkMSet-Mediumfil368 {fill:url(#HeadCyberPunkMSet-Mediumid51)}
+.HeadCyberPunkMSet-Mediumfil369 {fill:url(#HeadCyberPunkMSet-Mediumid1)}
+.HeadCyberPunkMSet-Mediumfil370 {fill:url(#HeadCyberPunkMSet-Mediumid8)}
+.HeadCyberPunkMSet-Mediumfil371 {fill:url(#HeadCyberPunkMSet-Mediumid22)}
+.HeadCyberPunkMSet-Mediumfil372 {fill:url(#HeadCyberPunkMSet-Mediumid17)}
+.HeadCyberPunkMSet-Mediumfil373 {fill:url(#HeadCyberPunkMSet-Mediumid15)}
+.HeadCyberPunkMSet-Mediumfil374 {fill:url(#HeadCyberPunkMSet-Mediumid10)}
+.HeadCyberPunkMSet-Mediumfil375 {fill:url(#HeadCyberPunkMSet-Mediumid21)}
+.HeadCyberPunkMSet-Mediumfil376 {fill:url(#HeadCyberPunkMSet-Mediumid9)}
+.HeadCyberPunkMSet-Mediumfil377 {fill:url(#HeadCyberPunkMSet-Mediumid7)}
+.HeadCyberPunkMSet-Mediumfil378 {fill:url(#HeadCyberPunkMSet-Mediumid4)}
+.HeadCyberPunkMSet-Mediumfil379 {fill:url(#HeadCyberPunkMSet-Mediumid12)}
+.HeadCyberPunkMSet-Mediumfil380 {fill:url(#HeadCyberPunkMSet-Mediumid6)}
+.HeadCyberPunkMSet-Mediumfil381 {fill:url(#HeadCyberPunkMSet-Mediumid23)}
+.HeadCyberPunkMSet-Mediumfil97 {fill:black;fill-opacity:0.400000}
+.HeadCyberPunkMSet-Mediumfil382 {fill:url(#HeadCyberPunkMSet-Mediumid5)}
+.HeadCyberPunkMSet-Mediumfil364 {fill:#04D1FF;fill-opacity:0.400000}
+.HeadCyberPunkMSet-Mediumfil201 {fill:none;fill-rule:nonzero}
+.HeadCyberPunkMSet-Mediumstr2 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.HeadCyberPunkMSet-Mediumfil188 {fill:none}
+.HeadCyberPunkMSet-Mediumstr39 {stroke:#13C8F5;stroke-width:150;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.701961}
+.HeadCyberPunkMSet-Mediumfil3 {fill:none}
+.HeadCyberPunkMSet-Mediumstr0 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.HeadCyberPunkMSet-Mediumfil383 {fill:url(#HeadCyberPunkMSet-Mediumid26)}
+.HeadCyberPunkMSet-Mediumfil10 {fill:none}
+.HeadCyberPunkMSet-Mediumstr7 {stroke:white;stroke-width:100;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.501961}
+.HeadCyberPunkMSet-Mediumstr40 {stroke:#19D9FF;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.HeadCyberPunkMSet-Mediumstr37 {stroke:#00CCFF;stroke-width:100;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.501961}
+.HeadCyberPunkMSet-Mediumstr41 {stroke:#13C8F5;stroke-width:100;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.701961}
+</style><linearGradient gradientUnits="userSpaceOnUse" id="Tail-Pig4id131" x1="16818.1" x2="18132.1" xlink:href="#Tail-Pig4id94" y1="24163.1" y2="22966.9">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Tail-Pig4id167" x1="19588.7" x2="18835.7" xlink:href="#Tail-Pig4id5" y1="20715.4" y2="23880.9">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Tail-Pig4id149" x1="13985.9" x2="17433.3" xlink:href="#Tail-Pig4id94" y1="23274.1" y2="22920.4">
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="RightFoot-Pig10id138" x1="80.9513%" x2="19.0466%" xlink:href="#RightFoot-Pig10id5" y1="87.6013%" y2="12.3987%">
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="RightFoot-Pig10id225" x1="37.5631%" x2="62.4363%" xlink:href="#RightFoot-Pig10id5" y1="0%" y2="104.389%">
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="RightLeg-Pig0id37" x1="50%" x2="50%" xlink:href="#RightLeg-Pig0id2" y1="100%" y2="0%">
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="LeftFoot-Pig10id135" x1="19.0487%" x2="80.9534%" xlink:href="#LeftFoot-Pig10id5" y1="87.6013%" y2="12.3987%">
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="LeftFoot-Pig10id222" x1="62.4369%" x2="37.5637%" xlink:href="#LeftFoot-Pig10id5" y1="0%" y2="104.389%">
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="LeftLeg-Pig0id49" x1="50%" x2="50%" xlink:href="#LeftLeg-Pig0id2" y1="100%" y2="0%">
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="RightHand-Pig0id57" x1="30.1244%" x2="69.8756%" xlink:href="#RightHand-Pig0id22" y1="2.32158%" y2="97.6784%">
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="RightPaw-Pig10id25" x1="81.8832%" x2="18.1168%" y1="89.1977%" y2="10.8018%">
+   <stop offset="0" style="stop-opacity:1; stop-color:#d9d2c3"/>
+   <stop offset="0.619608" style="stop-opacity:1; stop-color:#fffbf2"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#fffbf2"/>
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="RightPaw-Pig10id216" x1="28.208%" x2="71.792%" xlink:href="#RightPaw-Pig10id5" y1="1.78354%" y2="98.2165%">
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="LeftHand-Pig0id22" x1="69.8756%" x2="30.1244%" y1="2.32158%" y2="97.6784%">
+   <stop offset="0" style="stop-opacity:1; stop-color:#d9d2c3"/>
+   <stop offset="0.0196078" style="stop-opacity:1; stop-color:#d9d2c3"/>
+   <stop offset="0.921569" style="stop-opacity:1; stop-color:#fffbf2"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#fffbf2"/>
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="Body-Pig2id42" x1="50%" x2="50%" y1="0.000186021%" y2="100%">
+   <stop offset="0" style="stop-opacity:1; stop-color:#d9d2c3"/>
+   <stop offset="0.0313725" style="stop-opacity:1; stop-color:#d9d2c3"/>
+   <stop offset="0.529412" style="stop-opacity:1; stop-color:#fffbf2"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#ffffff"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Body-Pig2id214" x1="15766.2" x2="15766.2" xlink:href="#Body-Pig2id0" y1="19640.4" y2="22051.2">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Body-Pig2id215" x1="11499.5" x2="11499.5" xlink:href="#Body-Pig2id0" y1="19195.6" y2="22068.4">
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="LeftPaw-Pig10id70" x1="18.1168%" x2="81.8832%" xlink:href="#LeftPaw-Pig10id25" y1="89.1977%" y2="10.8018%">
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="LeftPaw-Pig10id212" x1="71.792%" x2="28.208%" xlink:href="#LeftPaw-Pig10id5" y1="1.78354%" y2="98.2165%">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Ears-Pig6id43" x1="18977.4" x2="18977.4" xlink:href="#Ears-Pig6id16" y1="10754.1" y2="6172.15">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Ears-Pig6id18" x1="21517.2" x2="17496.7" y1="8655.92" y2="7801.34">
+   <stop offset="0" style="stop-opacity:1; stop-color:#F5E2E2"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#C49D9D"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Ears-Pig6id52" x1="19827.1" x2="17755.5" y1="8390.45" y2="8209.21">
+   <stop offset="0" style="stop-opacity:1; stop-color:#E4A7A1"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#B87170"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Ears-Pig6id110" x1="8386.51" x2="8386.51" xlink:href="#Ears-Pig6id16" y1="10754.1" y2="6172.15">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Ears-Pig6id86" x1="5853.92" x2="9859.98" xlink:href="#Ears-Pig6id18" y1="8663.33" y2="7793.93">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Ears-Pig6id126" x1="7538.88" x2="9606.33" xlink:href="#Ears-Pig6id52" y1="8392.17" y2="8207.49">
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="Head-Pig1id50" x1="50%" x2="50%" xlink:href="#Head-Pig1id3" y1="99.9999%" y2="0%">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Head-Pig1id159" x1="10433.5" x2="10113" xlink:href="#Head-Pig1id0" y1="14832.1" y2="10239.8">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Eyes-Pig3id177" x1="16548.6" x2="17276.1" xlink:href="#Eyes-Pig3id148" y1="14169.8" y2="11077">
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="Eyes-Pig3id118" x1="99.9997%" x2="0%" xlink:href="#Eyes-Pig3id10" y1="50.0002%" y2="50.0002%">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Eyes-Pig3id104" x1="16988.9" x2="16389" xlink:href="#Eyes-Pig3id45" y1="11146.2" y2="13685.3">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Eyes-Pig3id175" x1="10815.3" x2="10087.8" xlink:href="#Eyes-Pig3id148" y1="14169.8" y2="11077">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Eyes-Pig3id90" x1="9091.21" x2="11978.6" xlink:href="#Eyes-Pig3id10" y1="12662.2" y2="12662.2">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Eyes-Pig3id93" x1="10375" x2="10974.8" xlink:href="#Eyes-Pig3id45" y1="11146.2" y2="13685.3">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Nose-Pig0id201" x1="13681.9" x2="13681.9" xlink:href="#Nose-Pig0id151" y1="13309.5" y2="15458">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Hair-Pig6id14" x1="11906.6" x2="15774.6" xlink:href="#Hair-Pig6id7" y1="9095.76" y2="5227.8">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessorySuitcaseWithMoney2id3suitcase" x1="4071.32" x2="4071.32" y1="24128" y2="22049.1">
+   <stop offset="0" style="stop-opacity:1; stop-color:#F0A152"/>
+   <stop offset="0.509804" style="stop-opacity:1; stop-color:#905828"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#5C380F"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessorySuitcaseWithMoney2id6suitcase" x1="4065" x2="4065" xlink:href="#AccessorySuitcaseWithMoney2id0suitcase" y1="21780.4" y2="21073">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessorySuitcaseWithMoney2id2suitcase" x1="3721.95" x2="3721.95" y1="25447" y2="22331">
+   <stop offset="0" style="stop-opacity:1; stop-color:#F0A152"/>
+   <stop offset="0.439216" style="stop-opacity:1; stop-color:#7A4110"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#3D1C0B"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessorySuitcaseWithMoney2id8suitcase" x1="6329.29" x2="7310.71" xlink:href="#AccessorySuitcaseWithMoney2id1suitcase" y1="22475.9" y2="23420.1">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessorySuitcaseWithMoney2id12suitcase" x1="2288.7" x2="2306.3" xlink:href="#AccessorySuitcaseWithMoney2id1suitcase" y1="23323.9" y2="24906.1">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessorySuitcaseWithMoney2id9suitcase" x1="5888.3" x2="6617.7" xlink:href="#AccessorySuitcaseWithMoney2id1suitcase" y1="22571.6" y2="23912.4">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessorySuitcaseWithMoney2id10suitcase" x1="4502.47" x2="5505.53" xlink:href="#AccessorySuitcaseWithMoney2id1suitcase" y1="23565.1" y2="24530.9">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessorySuitcaseWithMoney2id13suitcase" x1="2107.54" x2="612.46" xlink:href="#AccessorySuitcaseWithMoney2id1suitcase" y1="23155.9" y2="23392.1">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessorySuitcaseWithMoney2id7suitcase" x1="1723.69" x2="590.31" xlink:href="#AccessorySuitcaseWithMoney2id1suitcase" y1="23039.4" y2="22115.6">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessorySuitcaseWithMoney2id4suitcase" x1="2359.68" x2="2544.48" y1="21450.5" y2="22346.5">
+   <stop offset="0" style="stop-opacity:1; stop-color:#77838F"/>
+   <stop offset="0.290196" style="stop-opacity:1; stop-color:#ADB3B8"/>
+   <stop offset="0.619608" style="stop-opacity:1; stop-color:#7F8A93"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#f6f0e5"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessorySuitcaseWithMoney2id11suitcase" x1="5631.41" x2="5850.65" xlink:href="#AccessorySuitcaseWithMoney2id4suitcase" y1="21439" y2="22358">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessorySuitcaseWithMoney2id5suitcase" x1="3332.63" x2="3667.69" xlink:href="#AccessorySuitcaseWithMoney2id4suitcase" y1="23737.5" y2="24557.5">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletCyberPunkMSet-Mediumid81" x1="18891.4" x2="17943.4" y1="19800.4" y2="20703.3">
+   <stop offset="0" style="stop-opacity:1; stop-color:red"/>
+   <stop offset="0.180392" style="stop-opacity:1; stop-color:#FF3333"/>
+   <stop offset="0.329412" style="stop-opacity:1; stop-color:#EC0000"/>
+   <stop offset="0.6" style="stop-opacity:1; stop-color:#B10000"/>
+   <stop offset="0.690196" style="stop-opacity:1; stop-color:#8D0101"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#690202"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletCyberPunkMSet-Mediumid230" x1="17598.3" x2="18499.1" xlink:href="#BraceletCyberPunkMSet-Mediumid103" y1="21536.9" y2="21181.4">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletCyberPunkMSet-Mediumid137" x1="18649.2" x2="19408.8" xlink:href="#BraceletCyberPunkMSet-Mediumid103" y1="21114.9" y2="20815.1">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletCyberPunkMSet-Mediumid138" x1="18467.6" x2="19391.7" xlink:href="#BraceletCyberPunkMSet-Mediumid103" y1="21466.5" y2="21101.7">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletCyberPunkMSet-Mediumid231" x1="18091.4" x2="19006.8" xlink:href="#BraceletCyberPunkMSet-Mediumid103" y1="21714.7" y2="21353.3">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletCyberPunkMSet-Mediumid139" x1="17456.8" x2="18245.3" xlink:href="#BraceletCyberPunkMSet-Mediumid103" y1="20636.4" y2="20123.8">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletCyberPunkMSet-Mediumid317" x1="17915.5" x2="17355.1" xlink:href="#BraceletCyberPunkMSet-Mediumid81" y1="20763.1" y2="21620.9">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletCyberPunkMSet-Mediumid299" x1="18970" x2="18225" xlink:href="#BraceletCyberPunkMSet-Mediumid107" y1="20254.3" y2="21224.9">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletCyberPunkMSet-Mediumid324" x1="18816.4" x2="18018.3" xlink:href="#BraceletCyberPunkMSet-Mediumid81" y1="19728.1" y2="20775.5">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="HeadCyberPunkMSet-Mediumid78" x1="14152.1" x2="13499.3" y1="2330.2" y2="9402.34">
+   <stop offset="0" style="stop-opacity:1; stop-color:red"/>
+   <stop offset="0.580392" style="stop-opacity:1; stop-color:#B10000"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#690202"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="HeadCyberPunkMSet-Mediumid93" x1="13523.5" x2="14088.5" y1="2509.67" y2="9384.17">
+   <stop offset="0" style="stop-opacity:1; stop-color:#A20000"/>
+   <stop offset="0.580392" style="stop-opacity:1; stop-color:#7B0000"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#330202"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="HeadCyberPunkMSet-Mediumid11" x1="9347.7" x2="9347.7" y1="12761.4" y2="8972.45">
+   <stop offset="0" style="stop-opacity:1; stop-color:#AB82AF"/>
+   <stop offset="0.270588" style="stop-opacity:1; stop-color:#765A79"/>
+   <stop offset="0.501961" style="stop-opacity:1; stop-color:#634C66"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#7E6081"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="HeadCyberPunkMSet-Mediumid51" x1="18165.6" x2="18165.6" xlink:href="#HeadCyberPunkMSet-Mediumid11" y1="12761.4" y2="9409.41">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="HeadCyberPunkMSet-Mediumid1" x1="13766.8" x2="13766.8" y1="10803.5" y2="9572.5">
+   <stop offset="0" style="stop-opacity:1; stop-color:#4C3A4E"/>
+   <stop offset="0.0313725" style="stop-opacity:1; stop-color:#4C3A4E"/>
+   <stop offset="0.329412" style="stop-opacity:1; stop-color:#7E6081"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#F8BFFF"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="HeadCyberPunkMSet-Mediumid8" x1="18005.6" x2="18389" xlink:href="#HeadCyberPunkMSet-Mediumid7" y1="12702.5" y2="8178.69">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="HeadCyberPunkMSet-Mediumid22" x1="17967.2" x2="17967.2" xlink:href="#HeadCyberPunkMSet-Mediumid14" y1="12562" y2="8110.04">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="HeadCyberPunkMSet-Mediumid17" x1="17163.8" x2="17163.8" xlink:href="#HeadCyberPunkMSet-Mediumid15" y1="14082.3" y2="10604.4">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="HeadCyberPunkMSet-Mediumid10" x1="8985.53" x2="9368.91" xlink:href="#HeadCyberPunkMSet-Mediumid7" y1="12691.9" y2="8168.11">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="HeadCyberPunkMSet-Mediumid21" x1="9369.8" x2="9369.8" xlink:href="#HeadCyberPunkMSet-Mediumid14" y1="12562" y2="8109.44">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="HeadCyberPunkMSet-Mediumid9" x1="8884.76" x2="12065.7" xlink:href="#HeadCyberPunkMSet-Mediumid7" y1="10896.3" y2="13045.6">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="HeadCyberPunkMSet-Mediumid4" x1="13667.2" x2="13689.8" y1="13019.5" y2="12115.1">
+   <stop offset="0" style="stop-opacity:1; stop-color:#201921"/>
+   <stop offset="0.0313725" style="stop-opacity:1; stop-color:#201921"/>
+   <stop offset="0.329412" style="stop-opacity:1; stop-color:#523F54"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#7F6182"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="HeadCyberPunkMSet-Mediumid12" x1="13681" x2="13681" xlink:href="#HeadCyberPunkMSet-Mediumid11" y1="12431.3" y2="9909.46">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="HeadCyberPunkMSet-Mediumid6" x1="16506" x2="16506" xlink:href="#HeadCyberPunkMSet-Mediumid5" y1="11735.2" y2="7877.44">
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="HeadCyberPunkMSet-Mediumid23" x1="49.9999%" x2="49.9999%" y1="100%" y2="0%">
+   <stop offset="0" style="stop-opacity:1; stop-color:#AB82AF"/>
+   <stop offset="0.670588" style="stop-opacity:1; stop-color:#7E6081"/>
+   <stop offset="0.968627" style="stop-opacity:1; stop-color:#4C3A4E"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#4C3A4E"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="HeadCyberPunkMSet-Mediumid26" x1="18477.9" x2="19359.4" y1="8148.49" y2="9597.35">
+   <stop offset="0" style="stop-opacity:1; stop-color:#00CCFF"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#028BAD"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Tail-Pig4id94" x1="13432.5" x2="17737.9" y1="23392.7" y2="23392.7">
+   <stop offset="0" style="stop-opacity:1; stop-color:#d9d2c3"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#ffffff"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Tail-Pig4id5" x1="18537.4" x2="18537.4" y1="11625" y2="5118.17">
+   <stop offset="0" style="stop-opacity:1; stop-color:#b97d4b"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#fffbf2"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="RightFoot-Pig10id5" x1="18537.4" x2="18537.4" y1="11625" y2="5118.17">
+   <stop offset="0" style="stop-opacity:1; stop-color:#b97d4b"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#fffbf2"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="RightLeg-Pig0id2" x1="11782.6" x2="11782.6" y1="24212.9" y2="21311.8">
+   <stop offset="0" style="stop-opacity:1; stop-color:#ffffff"/>
+   <stop offset="0.388235" style="stop-opacity:1; stop-color:#ffffff"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#fffbf2"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="LeftFoot-Pig10id5" x1="18537.4" x2="18537.4" y1="11625" y2="5118.17">
+   <stop offset="0" style="stop-opacity:1; stop-color:#b97d4b"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#fffbf2"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="LeftLeg-Pig0id2" x1="11782.6" x2="11782.6" y1="24212.9" y2="21311.8">
+   <stop offset="0" style="stop-opacity:1; stop-color:#ffffff"/>
+   <stop offset="0.388235" style="stop-opacity:1; stop-color:#ffffff"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#fffbf2"/>
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="RightHand-Pig0id22" x1="69.8756%" x2="30.1244%" y1="2.32158%" y2="97.6784%">
+   <stop offset="0" style="stop-opacity:1; stop-color:#d9d2c3"/>
+   <stop offset="0.0196078" style="stop-opacity:1; stop-color:#d9d2c3"/>
+   <stop offset="0.921569" style="stop-opacity:1; stop-color:#fffbf2"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#fffbf2"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="RightPaw-Pig10id5" x1="18537.4" x2="18537.4" y1="11625" y2="5118.17">
+   <stop offset="0" style="stop-opacity:1; stop-color:#b97d4b"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#fffbf2"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Body-Pig2id0" x1="16257.8" x2="16257.8" y1="21560.3" y2="23683.4">
+   <stop offset="0" style="stop-opacity:1; stop-color:#b97d4b"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#e0a472"/>
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="LeftPaw-Pig10id25" x1="81.8832%" x2="18.1168%" y1="89.1977%" y2="10.8018%">
+   <stop offset="0" style="stop-opacity:1; stop-color:#d9d2c3"/>
+   <stop offset="0.619608" style="stop-opacity:1; stop-color:#fffbf2"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#fffbf2"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="LeftPaw-Pig10id5" x1="18537.4" x2="18537.4" y1="11625" y2="5118.17">
+   <stop offset="0" style="stop-opacity:1; stop-color:#b97d4b"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#fffbf2"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Ears-Pig6id16" x1="16438.6" x2="20876.9" y1="9204.54" y2="7320.6">
+   <stop offset="0" style="stop-opacity:1; stop-color:#b97d4b"/>
+   <stop offset="0.6" style="stop-opacity:1; stop-color:#b97d4b"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#e0a472"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Head-Pig1id3" x1="18922.8" x2="18922.8" y1="11187.2" y2="5413.87">
+   <stop offset="0" style="stop-opacity:1; stop-color:#d9d2c3"/>
+   <stop offset="0.388235" style="stop-opacity:1; stop-color:#fffbf2"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#ffffff"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Head-Pig1id0" x1="16257.8" x2="16257.8" y1="21560.3" y2="23683.4">
+   <stop offset="0" style="stop-opacity:1; stop-color:#b97d4b"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#e0a472"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Eyes-Pig3id148" x1="16641" x2="17334.4" y1="14255.9" y2="11076.2">
+   <stop offset="0" style="stop-opacity:1; stop-color:#778000"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:black"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Eyes-Pig3id10" x1="15305.7" x2="18262.7" y1="12539.6" y2="12539.6">
+   <stop offset="0" style="stop-opacity:1; stop-color:#778000"/>
+   <stop offset="0.501961" style="stop-opacity:1; stop-color:#f0ff00"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#778000"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Eyes-Pig3id45" x1="16680.3" x2="16680.3" y1="11243.5" y2="13543.4">
+   <stop offset="0" style="stop-opacity:1; stop-color:black"/>
+   <stop offset="0.4" style="stop-opacity:1; stop-color:black"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#5f6600"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Nose-Pig0id151" x1="13681.9" x2="13681.9" y1="13554.2" y2="15469.2">
+   <stop offset="0" style="stop-opacity:1; stop-color:#FFCCCC"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#DB9092"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Hair-Pig6id7" x1="17165.3" x2="17165.3" y1="19960.9" y2="12270.8">
+   <stop offset="0" style="stop-opacity:1; stop-color:#e6e0ca"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#fffefa"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessorySuitcaseWithMoney2id0suitcase" x1="6508.19" x2="6508.19" y1="25446" y2="22331">
+   <stop offset="0" style="stop-opacity:1; stop-color:#B36D1D"/>
+   <stop offset="0.45098" style="stop-opacity:1; stop-color:#80421C"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#4D240F"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessorySuitcaseWithMoney2id1suitcase" x1="3138.98" x2="2463.02" y1="23298.1" y2="24652.9">
+   <stop offset="0" style="stop-opacity:1; stop-color:#335724"/>
+   <stop offset="0.509804" style="stop-opacity:1; stop-color:#92B871"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#BECF9D"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletCyberPunkMSet-Mediumid103" x1="10532.2" x2="9183.45" y1="20539.2" y2="19208.4">
+   <stop offset="0" style="stop-opacity:1; stop-color:#020405"/>
+   <stop offset="0.329412" style="stop-opacity:1; stop-color:#123E4C"/>
+   <stop offset="0.419608" style="stop-opacity:1; stop-color:#061214"/>
+   <stop offset="0.6" style="stop-opacity:1; stop-color:#5B5B5B"/>
+   <stop offset="0.690196" style="stop-opacity:1; stop-color:#D1D1D1"/>
+   <stop offset="0.831373" style="stop-opacity:1; stop-color:#274F5C"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#123E4C"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletCyberPunkMSet-Mediumid107" x1="11348" x2="10905.5" y1="18730.7" y2="18111.2">
+   <stop offset="0" style="stop-opacity:1; stop-color:red"/>
+   <stop offset="0.580392" style="stop-opacity:1; stop-color:#B40101"/>
+   <stop offset="0.180392" style="stop-opacity:1; stop-color:#FF3333"/>
+   <stop offset="0.329412" style="stop-opacity:1; stop-color:#EC0000"/>
+   <stop offset="0.6" style="stop-opacity:1; stop-color:#B10000"/>
+   <stop offset="0.690196" style="stop-opacity:1; stop-color:#8D0101"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#690202"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="HeadCyberPunkMSet-Mediumid7" x1="18235.7" x2="15562.9" y1="10684" y2="13257.9">
+   <stop offset="0" style="stop-opacity:1; stop-color:#4C3A4E"/>
+   <stop offset="0.25098" style="stop-opacity:1; stop-color:#7E6081"/>
+   <stop offset="0.490196" style="stop-opacity:1; stop-color:#D1A3D6"/>
+   <stop offset="0.780392" style="stop-opacity:1; stop-color:#AD84B1"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#7E6081"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="HeadCyberPunkMSet-Mediumid14" x1="18313.4" x2="18313.4" y1="12297.2" y2="7706.38">
+   <stop offset="0" style="stop-opacity:1; stop-color:#4C3A4E"/>
+   <stop offset="0.0313725" style="stop-opacity:1; stop-color:#4C3A4E"/>
+   <stop offset="0.74902" style="stop-opacity:1; stop-color:#7E6081"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#AB82AF"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="HeadCyberPunkMSet-Mediumid15" x1="10178.8" x2="10178.8" y1="14082.3" y2="10906">
+   <stop offset="0" style="stop-opacity:1; stop-color:#7F6182"/>
+   <stop offset="0.670588" style="stop-opacity:1; stop-color:#523F54"/>
+   <stop offset="0.968627" style="stop-opacity:1; stop-color:#201921"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#201921"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="HeadCyberPunkMSet-Mediumid5" x1="10857.9" x2="10857.9" y1="11735.2" y2="7877.44">
+   <stop offset="0" style="stop-opacity:1; stop-color:#4C3A4E"/>
+   <stop offset="0.0313725" style="stop-opacity:1; stop-color:#4C3A4E"/>
+   <stop offset="0.329412" style="stop-opacity:1; stop-color:#7E6081"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#AB82AF"/>
+  </linearGradient></defs><g id="HairBack-Pig0">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect class="HairBack-Pig0fil0" height="890" width="890" x="13237" y="6590"/>
+  <rect class="HairBack-Pig0fil0" height="890" width="890" x="13237" y="6590"/>
+ </g><g id="Tail-Pig4">
+  <metadata id="CorelCorpID_7Corel-Layer"/>
+  <path class="Tail-Pig4fil32 Tail-Pig4str0" d="M18327 23822c-507,-169 -732,-913 -375,-1407 74,-102 173,-187 275,-273 40,-34 81,467 121,432 6,-639 303,-807 355,-1161 28,-384 -43,-549 -91,-632 -48,-83 434,90 461,663 -12,-309 120,-947 1573,-763 -840,167 -999,789 -1025,1614 117,-238 413,-483 609,-410 -243,179 -318,617 -323,920 -3,189 -230,595 -615,728 191,16 336,-45 573,-161 -272,542 -853,723 -1538,450z" style="fill:#34758d"/>
+  <path class="Tail-Pig4fil10" d="M20155 21954c-116,-72 -245,213 -364,477 -74,165 -84,360 -151,482 -274,495 -649,438 -1033,956 0,0 -272,-130 -424,-194 260,-395 -74,-620 17,-966 0,0 86,68 225,235 70,85 138,3 175,-130 125,-450 -138,-660 250,-1358 72,-130 -309,366 -309,366l-193 752 -119 -433c0,0 -375,273 -371,437 4,165 -169,574 57,897 225,322 655,448 834,461 178,12 781,-97 929,-294 148,-197 138,-182 138,-182 0,0 -388,19 -456,46 -68,27 209,-61 427,-381 219,-320 118,-506 154,-661 36,-155 130,-390 214,-510z" style="fill:#85133d"/>
+  <path class="Tail-Pig4fil33" d="M18822 22851c166,27 42,1340 -1082,1510 -269,40 -540,2 -785,-120 -477,-237 -893,-535 -887,-1078 5,-420 525,-627 608,-74 54,357 247,496 534,638 138,69 292,90 444,67 156,-15 391,-60 535,-186 373,-310 471,-783 633,-757z" style="fill:#a207a1"/>
+  <path class="Tail-Pig4fil30" d="M18499 24074c-182,175 -427,312 -748,361 -143,21 -287,22 -428,0 -138,-21 -273,-63 -402,-127 -216,-107 -420,-228 -583,-379l235 0c124,91 266,171 415,245 114,57 234,95 357,113 126,19 255,19 383,0 288,-44 525,-156 687,-311 214,-206 381,-450 432,-670 -21,316 -201,626 -348,768zm-1407 -496c46,28 97,55 152,82 61,31 125,51 192,61 68,10 138,10 207,-1l4 0c85,-8 194,-26 297,-62 341,-119 473,-284 612,-507 -117,319 -218,528 -562,649 -115,40 -235,59 -328,68l0 1c-85,12 -170,13 -252,0 -82,-12 -162,-37 -237,-75 -29,-14 -58,-29 -85,-43l0 -173z" style="fill:#e0f706"/>
+  <path class="Tail-Pig4fil34 Tail-Pig4str1" d="M13590 22980c-74,-146 -60,-518 114,-580 173,-62 626,30 700,176 2,3 367,1151 1782,1081 176,-9 745,6 968,-383 187,-327 61,-627 -118,-753 -194,-137 -451,-83 -443,15 -97,-166 -385,-358 -265,-522 6,16 403,-347 904,-94 720,362 748,1036 493,1582 -233,500 -764,786 -1396,846 -2017,192 -2737,-1364 -2739,-1368z" style="fill:#09a281"/>
+  <path class="Tail-Pig4fil10" d="M17707 23822c0,0 112,152 19,294 -93,142 596,-33 666,-89 69,-56 -276,415 -1054,335 -779,-80 -299,-199 -299,-199l506 -360 162 19z" style="fill:#81ac19"/>
+  <path class="Tail-Pig4fil26" d="M17270 23437c0,0 -158,311 -59,337 99,27 374,-139 423,-235 50,-95 137,356 -677,660 -814,303 -523,-15 -523,-15 0,0 340,-59 836,-747z" style="fill:#fa20fa"/>
+  <path class="Tail-Pig4fil26" d="M13814 23259c0,0 183,264 356,449 173,185 719,440 898,480 178,39 479,-245 446,-427 -32,-182 -703,-330 -803,-503 -101,-172 -328,-397 -361,-403 -33,-7 -776,84 -536,404z" style="fill:#d275e8"/>
+  <path class="Tail-Pig4fil10" d="M19850 21266c0,0 -519,437 -589,814 -70,376 -168,643 -226,718 176,-126 295,-319 345,-481 49,-162 218,-452 218,-452 0,0 194,-488 252,-599z" style="fill:#157bba"/>
+ </g><g id="RightFoot-Pig10">
+  <metadata id="CorelCorpID_20Corel-Layer"/>
+  <path class="RightFoot-Pig10fil37" d="M16559 24190c54,65 143,233 173,292 63,268 -151,365 -297,365 -143,0 -686,-98 -894,289 -330,-192 -541,-572 -540,-565 -22,-43 -41,-85 -54,-126 -58,-176 -10,-247 31,-317 479,-107 1078,-83 1581,62z" style="fill:#9e3701"/>
+  <path class="RightFoot-Pig10fil51" d="M16379 24509c-102,-83 -47,-187 -378,-291 56,135 -98,169 -103,310 -77,-168 -271,-149 -273,-265 -88,64 -148,220 -148,347 -61,-70 -217,-166 -234,-246 -87,138 -61,367 -21,477 -1,-7 -11,103 319,295 -31,-82 100,-461 385,-504 199,-30 402,215 509,215 95,0 -8,-275 47,-353 50,-73 182,-37 250,-12 -29,-56 -62,-69 -93,-148 -38,-54 -20,-132 -138,-144 -22,95 -130,112 -122,319z" style="fill:#3f78ef"/>
+  <path class="RightFoot-Pig10fil44" d="M15011 24496c-3,101 -14,73 -14,176 -5,821 346,600 430,523 11,-11 59,-71 57,-73 -109,-146 -274,-300 -473,-626z" style="fill:#c0c572"/>
+  <path class="RightFoot-Pig10fil0 RightFoot-Pig10str2" d="M14995 24537c1,45 2,90 2,135 -5,821 346,600 430,523 4,-4 19,-23 37,-48" style="fill:#38b5d5"/>
+  <path class="RightFoot-Pig10fil45" d="M16755 24466c0,0 -224,-105 -293,-5 -54,78 49,353 -47,353 -106,0 -310,-245 -509,-215 -288,43 -418,429 -385,506 36,82 344,409 764,435 419,26 490,-14 487,-39 -3,-24 42,-150 42,-150 0,0 458,-59 491,-95 100,-109 -467,-691 -550,-790z" style="fill:#48f4fe"/>
+  <polygon class="RightFoot-Pig10fil40" points="16740,25393 16571,24994 16934,25330 "/>
+  <path class="RightFoot-Pig10fil0 RightFoot-Pig10str2" d="M16567 24189c147,241 633,739 718,969 84,231 -492,167 -492,167 0,0 5,189 -122,220 -281,70 -831,-103 -1075,-309 -49,-41 -100,-87 -150,-135" style="fill:#b3997a"/>
+  <path class="RightFoot-Pig10fil0 RightFoot-Pig10str2" d="M16567 24189c45,73 121,170 208,277m-1262 697c-342,-311 -707,-789 -548,-1037" style="fill:#86ce83"/>
+  <path class="RightFoot-Pig10fil10" d="M15252 24171c-250,336 427,769 691,965 282,210 555,378 651,406 -46,23 -445,-31 -727,-123 -179,-96 -710,-617 -803,-752 -94,-163 -147,-331 -119,-480 10,-21 22,-40 33,-59 85,-7 193,-3 274,43z" style="fill:#acdb83"/>
+ </g><g id="LeftFoot-Pig10">
+  <metadata id="CorelCorpID_37Corel-Layer"/>
+  <path class="LeftFoot-Pig10fil37" d="M10805 24190c-54,65 -143,233 -174,292 -62,268 152,365 298,365 143,0 685,-98 894,289 330,-192 541,-572 540,-565 22,-43 40,-85 54,-126 58,-176 10,-247 -31,-317 -480,-107 -1078,-83 -1581,62z" style="fill:#167939"/>
+  <path class="LeftFoot-Pig10fil51" d="M10985 24509c102,-83 46,-187 377,-291 -55,135 99,169 104,310 77,-168 271,-149 273,-265 88,64 147,220 148,347 61,-70 217,-166 234,-246 87,138 61,367 21,477 1,-7 11,103 -319,295 31,-82 -100,-461 -385,-504 -199,-30 -403,215 -509,215 -96,0 7,-275 -47,-353 -50,-73 -182,-37 -251,-12 29,-56 63,-69 94,-148 38,-54 19,-132 137,-144 23,95 131,112 123,319z" style="fill:#da03a3"/>
+  <path class="LeftFoot-Pig10fil58" d="M12353 24496c3,101 14,73 14,176 5,821 -346,600 -430,523 -12,-11 -59,-71 -57,-73 109,-146 274,-300 473,-626z" style="fill:#7bb8a6"/>
+  <path class="LeftFoot-Pig10fil0 LeftFoot-Pig10str2" d="M12369 24537c-1,45 -2,90 -2,135 5,821 -346,600 -430,523 -4,-4 -19,-23 -37,-48" style="fill:#906a71"/>
+  <path class="LeftFoot-Pig10fil59" d="M10608 24466c0,0 225,-105 294,-5 54,78 -49,353 47,353 106,0 309,-245 509,-215 288,43 418,429 384,506 -35,82 -343,409 -763,435 -419,26 -490,-14 -487,-39 3,-24 -42,-150 -42,-150 0,0 -458,-59 -491,-95 -101,-109 467,-691 549,-790z" style="fill:#261b95"/>
+  <polygon class="LeftFoot-Pig10fil40" points="10624,25393 10793,24994 10430,25330 "/>
+  <path class="LeftFoot-Pig10fil0 LeftFoot-Pig10str2" d="M10797 24189c-147,241 -633,739 -718,969 -85,231 492,167 492,167 0,0 -5,189 122,220 281,70 831,-103 1075,-309 49,-41 99,-87 150,-135" style="fill:#5d64af"/>
+  <path class="LeftFoot-Pig10fil0 LeftFoot-Pig10str2" d="M10797 24189c-45,73 -121,170 -208,277m1262 697c341,-311 707,-789 548,-1037" style="fill:#1ea30f"/>
+  <path class="LeftFoot-Pig10fil10" d="M12112 24171c250,336 -428,769 -691,965 -282,210 -555,378 -651,406 45,23 444,-31 727,-123 179,-96 710,-617 803,-752 94,-163 147,-331 119,-480 -10,-21 -22,-40 -33,-59 -85,-7 -193,-3 -274,43z" style="fill:#e5a92d"/>
+ </g><g id="RightLeg-Pig0">
+  <metadata id="CorelCorpID_22Corel-Layer"/>
+  <path class="RightLeg-Pig0fil52" d="M16570 21416c0,0 1181,1189 570,2176 -128,221 -511,470 -581,598 -599,44 -1104,27 -1581,-62 45,-78 82,-155 -44,-376 -113,-198 -400,-446 -1252,-493 0,-147 0,-280 0,-522 373,-788 1598,-1745 2888,-1321z" style="fill:#23fe3c"/>
+  <path class="RightLeg-Pig0fil10" d="M17192 23421c67,-141 106,-290 107,-439 2,-734 -540,-1374 -869,-1659l-157 688c26,45 52,90 79,136 387,-391 947,832 840,1274z" style="fill:#5c0aab"/>
+  <path class="RightLeg-Pig0fil0 RightLeg-Pig0str2" d="M16570 21416c303,324 585,778 689,1246 115,521 25,950 -408,1282 -95,72 -194,144 -284,245m-1602 -63c284,-396 -518,-875 -1283,-867" style="fill:#afb2ac"/>
+  <path class="RightLeg-Pig0fil10" d="M13760 23246c341,-28 1532,124 1607,584 27,166 -52,256 -115,341 -93,-12 -184,-26 -274,-43 40,-70 74,-140 -11,-313 -8,-22 -19,-42 -33,-62l0 -1c-104,-182 -357,-408 -1066,-479 -35,-9 -71,-18 -108,-27z" style="fill:#ed896a"/>
+ </g><g id="LeftLeg-Pig0">
+  <metadata id="CorelCorpID_39Corel-Layer"/>
+  <path class="LeftLeg-Pig0fil62" d="M10794 21416c0,0 -1181,1189 -570,2176 128,221 511,470 581,598 599,44 1104,27 1581,-62 -45,-78 -82,-155 44,-376 113,-198 400,-446 1252,-493 0,-147 0,-280 0,-522 -373,-788 -1598,-1745 -2888,-1321z" style="fill:#5da79e"/>
+  <path class="LeftLeg-Pig0fil10" d="M10172 23421c-67,-141 -106,-290 -107,-439 -2,-734 540,-1374 869,-1659l157 688c-26,45 -53,90 -79,136 -388,-391 -947,832 -840,1274z" style="fill:#66d8a9"/>
+  <path class="LeftLeg-Pig0fil0 LeftLeg-Pig0str2" d="M10794 21416c-303,324 -586,778 -689,1246 -115,521 -25,950 408,1282 95,72 193,144 284,245m1602 -63c-284,-396 517,-875 1283,-867" style="fill:#349505"/>
+  <path class="LeftLeg-Pig0fil10" d="M13604 23246c-341,-28 -1532,124 -1607,584 -27,166 52,256 115,341 93,-12 184,-26 274,-43 -40,-70 -74,-140 11,-313 8,-22 19,-42 33,-62l0 -1c104,-182 357,-408 1066,-479 35,-9 71,-18 108,-27z" style="fill:#ba8676"/>
+ </g><g id="RightHand-Pig0">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_44Corel-Layer"/>
+  <path class="RightHand-Pig0fil68" d="M16231 17709c1005,345 1816,1398 2255,2162 -88,184 -847,720 -1129,836 -543,-402 -1045,-430 -1469,-362 -742,120 -1353,-1920 -931,-2545 422,-21 934,-40 1274,-91z" style="fill:#0ec00e"/>
+  <path class="RightHand-Pig0fil10" d="M17342 20696c-537,-391 -1034,-418 -1454,-351 -171,28 -335,-59 -481,-217 -325,-472 753,-1098 1039,-656 258,399 723,837 1098,1116 3,2 22,18 34,27l-219 113c-8,-18 -14,-30 -17,-32z" style="fill:#2d5a33"/>
+  <path class="RightHand-Pig0fil0 RightHand-Pig0str0" d="M16477 20333c179,24 366,81 561,178 100,50 205,104 305,189m1121 -817c-161,-280 -388,-607 -632,-916 -422,-534 -963,-1039 -1601,-1258 -90,-31 -172,-59 -246,-84" style="fill:#63bb7f"/>
+ </g><g id="LeftHand-Pig0">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_61Corel-Layer"/>
+  <path class="LeftHand-Pig0fil79" d="M11133 17709c-1005,345 -1817,1398 -2255,2162 88,184 847,720 1128,836 544,-402 1046,-430 1470,-362 742,120 1352,-1920 931,-2545 -422,-21 -934,-40 -1274,-91z" style="fill:#9630a5"/>
+  <path class="LeftHand-Pig0fil10" d="M10022 20696c537,-391 1034,-418 1454,-351 171,28 335,-59 481,-217 325,-472 -753,-1098 -1039,-656 -258,399 -723,837 -1098,1116 -3,2 -22,18 -34,27l219 113c8,-18 14,-30 17,-32z" style="fill:#36468f"/>
+  <path class="LeftHand-Pig0fil0 LeftHand-Pig0str0" d="M10887 20333c-179,24 -366,81 -561,178 -100,50 -205,104 -305,189m-1121 -817c161,-280 388,-607 632,-916 422,-534 963,-1039 1601,-1258 90,-31 171,-59 246,-84" style="fill:#396bc4"/>
+ </g><g id="Body-Pig2">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_68Corel-Layer"/>
+  <path class="Body-Pig2fil83" d="M13682 23135c-1548,0 -2752,-291 -2993,-1956 -147,-1014 391,-2287 991,-3420 634,80 1289,123 2002,142 713,-19 1367,-62 2002,-142 600,1133 1137,2406 991,3420 -242,1665 -1445,1956 -2993,1956z" style="fill:#77457d"/>
+  <path class="Body-Pig2fil86" d="M16270 19898c134,250 -117,476 -346,598 -228,121 -348,93 -482,-156 -133,-250 32,-520 260,-642 229,-122 435,-49 568,200zm15 633c131,-442 317,-421 362,-394 57,413 135,1166 -176,1646 -166,256 -535,351 -807,187 -378,-227 -310,-544 -105,-779 273,-314 600,-235 726,-660zm-1307 660c-211,-46 -217,-508 150,-427 163,36 212,180 170,298 -41,118 -158,165 -320,129z" style="fill:#fee400"/>
+  <path class="Body-Pig2fil87" d="M11050 21679c-133,-250 117,-476 346,-598 229,-121 502,182 635,432 147,275 -60,547 -369,555 -187,5 -419,-27 -612,-389zm406 -990c-125,-56 -242,-80 -465,177 -269,310 -233,579 -313,504 -32,-235 -42,-674 25,-1094 29,-180 54,-323 111,-440 224,-465 886,-793 1236,-567 612,393 205,1777 -594,1420z" style="fill:#9b39d8"/>
+  <path class="Body-Pig2fil10" d="M12621 23067c-1016,-156 -1749,-629 -1932,-1888 -75,-519 29,-1106 229,-1707 -223,2001 402,3257 1703,3595z" style="fill:#707081"/>
+  <path class="Body-Pig2fil84" d="M11012 22144c-250,-321 -348,-641 -397,-954 -59,-377 -24,-998 184,-1320 -78,421 -93,905 -36,1298 50,341 104,572 249,976z" style="fill:#fb54d0"/>
+  <path class="Body-Pig2fil10" d="M14743 23067c1016,-156 1749,-629 1932,-1888 75,-519 -29,-1106 -229,-1707 223,2001 -402,3257 -1703,3595z" style="fill:#745846"/>
+  <path class="Body-Pig2fil84" d="M16352 22144c250,-321 347,-641 397,-954 59,-377 24,-998 -184,-1320 78,421 93,905 36,1298 -50,341 -104,572 -249,976z" style="fill:#fbf378"/>
+ </g><g id="RightPaw-Pig10">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_59Corel-Layer"/>
+  <path class="RightPaw-Pig10fil74" d="M18486 19871c155,269 247,281 434,498 211,244 446,948 341,1067 -34,39 -389,8 -389,8 -15,58 -145,373 -188,392 -161,73 -598,-324 -814,-554 -63,111 -195,178 -216,147 -79,-27 -146,-195 -211,-374 -34,-92 -45,-318 -86,-348 139,-387 621,-775 1129,-836z" style="fill:#20d3aa"/>
+  <path class="RightPaw-Pig10fil51" d="M18063 19685c64,96 204,233 173,396 -121,-193 -339,-214 -585,-235 238,177 108,282 254,484 -200,-157 -432,-58 -531,-118 16,106 146,295 254,363 -96,58 -223,-45 -463,-38 162,64 47,59 219,189 25,86 -26,97 59,329 65,179 132,347 211,374 21,31 153,-36 216,-147 216,230 653,627 814,554 43,-19 173,-334 188,-392 0,0 355,31 389,-8 105,-119 -130,-823 -341,-1067 -248,-288 -190,-203 -432,-495 -83,-100 -255,-190 -425,-189z" style="fill:#43ef16"/>
+  <path class="RightPaw-Pig10fil10" d="M17452 20518c31,24 62,48 92,70 4,3 39,31 43,34 13,14 26,28 39,43 79,93 97,228 104,283 2,13 3,21 4,24 -2,92 -166,169 -227,208 0,-8 -67,-223 -116,-364 0,-31 3,-54 -7,-90 -9,-6 -18,-13 -27,-19 23,-64 55,-127 95,-189z" style="fill:#82b9a5"/>
+  <path class="RightPaw-Pig10fil77" d="M18910 20358c-402,-76 -337,407 -242,635 -239,-309 -538,-414 -692,-297 -104,79 -113,131 -203,226 -99,104 -339,-108 -394,-184 -18,147 139,645 275,691 21,31 153,-36 216,-147 216,230 653,627 814,554 43,-19 173,-334 188,-392 0,0 355,31 389,-8 109,-123 -135,-862 -351,-1078z" style="fill:#249262"/>
+  <path class="RightPaw-Pig10fil10" d="M18804 21498c-67,307 -352,47 -875,-255 4,66 -100,45 -131,-12 -41,-92 -52,-190 -68,-283 -88,22 -225,-79 -303,-156 -5,-5 -11,-11 -16,-16 49,174 144,541 243,653 90,2 173,-73 216,-147 195,208 586,566 808,522 90,-18 70,-138 126,-306z" style="fill:#b1ae97"/>
+  <polygon class="RightPaw-Pig10fil40" points="18796,21484 18678,21021 18973,21393 "/>
+  <path class="RightPaw-Pig10fil0 RightPaw-Pig10str2" d="M17136 20561c121,75 170,94 271,202 1,149 38,330 93,461 54,128 115,197 196,208 55,8 128,-6 194,-123 208,221 642,571 796,501 41,-19 164,-344 179,-400 0,0 356,75 389,38 86,-99 -94,-785 -280,-992 -109,-122 -404,-420 -409,-427 -68,-85 -123,-182 -179,-276" style="fill:#6fd1f3"/>
+ </g><g id="LeftPaw-Pig10">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_81Corel-Layer"/>
+  <path class="LeftPaw-Pig10fil91" d="M8878 19871c-155,269 -247,281 -434,498 -211,244 -446,948 -341,1067 34,39 388,8 388,8 16,58 146,373 189,392 161,73 598,-324 814,-554 63,111 195,178 216,147 79,-27 146,-195 211,-374 34,-92 45,-318 85,-348 -138,-387 -621,-775 -1128,-836z" style="fill:#15d02f"/>
+  <path class="LeftPaw-Pig10fil51" d="M9301 19685c-64,96 -204,233 -173,396 121,-193 339,-214 585,-235 -238,177 -108,282 -254,484 200,-157 432,-58 531,-118 -16,106 -146,295 -254,363 96,58 222,-45 463,-38 -162,64 -47,59 -219,189 -25,86 26,97 -59,329 -65,179 -132,347 -211,374 -21,31 -153,-36 -216,-147 -216,230 -653,627 -814,554 -43,-19 -173,-334 -189,-392 0,0 -354,31 -388,-8 -105,-119 130,-823 341,-1067 248,-288 190,-203 432,-495 83,-100 255,-190 425,-189z" style="fill:#0f54bc"/>
+  <path class="LeftPaw-Pig10fil10" d="M9912 20518c-31,24 -62,48 -92,70 -4,3 -39,31 -43,34 -14,14 -27,28 -39,43 -79,93 -97,228 -104,283 -2,13 -3,21 -4,24 2,92 166,169 226,208 0,-8 68,-223 117,-364 -1,-31 -3,-54 7,-90 9,-6 18,-13 26,-19 -22,-64 -54,-127 -94,-189z" style="fill:#ce85a3"/>
+  <path class="LeftPaw-Pig10fil94" d="M8454 20358c401,-76 337,407 242,635 239,-309 538,-414 692,-297 104,79 113,131 203,226 99,104 339,-108 394,-184 18,147 -140,645 -275,691 -21,31 -153,-36 -216,-147 -216,230 -653,627 -814,554 -43,-19 -173,-334 -189,-392 0,0 -354,31 -388,-8 -109,-123 135,-862 351,-1078z" style="fill:#1c2674"/>
+  <path class="LeftPaw-Pig10fil10" d="M8560 21498c67,307 352,47 875,-255 -5,66 100,45 131,-12 40,-92 52,-190 68,-283 88,22 225,-79 303,-156 5,-5 11,-11 16,-16 -49,174 -144,541 -243,653 -90,2 -173,-73 -216,-147 -196,208 -586,566 -808,522 -90,-18 -70,-138 -126,-306z" style="fill:#aa595a"/>
+  <polygon class="LeftPaw-Pig10fil40" points="8568,21484 8686,21021 8391,21393 "/>
+  <path class="LeftPaw-Pig10fil0 LeftPaw-Pig10str2" d="M10228 20561c-121,75 -170,94 -272,202 0,149 -37,330 -92,461 -55,128 -115,197 -196,208 -55,8 -128,-6 -194,-123 -208,221 -642,571 -797,501 -41,-19 -163,-344 -178,-400 0,0 -356,75 -389,38 -86,-99 94,-785 280,-992 109,-122 404,-420 409,-427 68,-85 123,-182 179,-276" style="fill:#93fa01"/>
+ </g><g id="BraceletCyberPunkMSet-Medium"><animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_14Corel-Layer"/>
+  <g id="_1952485707600">
+   <g>
+    <path class="BraceletCyberPunkMSet-Mediumfil312 BraceletCyberPunkMSet-Mediumstr15" d="M17821 20877c232,-24 521,172 646,438 126,266 40,502 -191,526 -231,25 -520,-171 -646,-438 -125,-266 -40,-501 191,-526z" style="fill:#d9d268"/>
+    <path class="BraceletCyberPunkMSet-Mediumfil313 BraceletCyberPunkMSet-Mediumstr0" d="M19418 20937c-21,-240 -211,-423 -426,-407 -214,15 -372,222 -352,463 21,240 211,423 426,407 214,-15 372,-222 352,-463z" style="fill:#3e9665"/>
+    <path class="BraceletCyberPunkMSet-Mediumfil314 BraceletCyberPunkMSet-Mediumstr16" d="M18820 20776c259,-47 518,143 578,423 61,281 -100,546 -359,593 -259,47 -517,-142 -578,-423 -60,-280 100,-546 359,-593z" style="fill:#e2ec73"/>
+    <path class="BraceletCyberPunkMSet-Mediumfil10 BraceletCyberPunkMSet-Mediumstr17" d="M18807 21465c16,-48 38,-91 65,-130 111,-161 301,-215 501,-144" style="fill:#72692f"/>
+    <path class="BraceletCyberPunkMSet-Mediumfil10 BraceletCyberPunkMSet-Mediumstr17" d="M18801 21820c12,-49 30,-94 53,-134 99,-169 288,-243 502,-195" style="fill:#4a7864"/>
+    <path class="BraceletCyberPunkMSet-Mediumfil97" d="M19408 21372c-59,573 -826,557 -947,-3 -59,-274 93,-533 341,-589 -155,491 379,1125 606,592z" style="fill:#7365e8"/>
+    <path class="BraceletCyberPunkMSet-Mediumfil315 BraceletCyberPunkMSet-Mediumstr16" d="M18505 21009c258,-18 488,202 513,491 24,290 -166,540 -425,559 -258,18 -488,-202 -512,-491 -25,-290 165,-540 424,-559z" style="fill:#33203d"/>
+    <path class="BraceletCyberPunkMSet-Mediumfil10 BraceletCyberPunkMSet-Mediumstr17" d="M18156 21768c255,-416 617,-437 857,-288" style="fill:#8584ce"/>
+    <path class="BraceletCyberPunkMSet-Mediumfil10 BraceletCyberPunkMSet-Mediumstr17" d="M18325 21998c155,-237 396,-290 605,-145" style="fill:#a79b4d"/>
+    <path class="BraceletCyberPunkMSet-Mediumfil97" d="M18285 21095c2,376 450,1139 752,601 -131,585 -905,492 -956,-112 -15,-171 45,-368 204,-489z" style="fill:#3077a5"/>
+   </g>
+   <path class="BraceletCyberPunkMSet-Mediumfil97" d="M17753 21511c88,388 65,51 389,307 -107,-589 -156,-243 -389,-307z" style="fill:#ca23dd"/>
+  </g>
+  <g id="_1952485704144">
+   <animate attributeName="opacity" dur="1" repeatCount="indefinite" values="1;0;0;0;0;0"/>
+   <path class="BraceletCyberPunkMSet-Mediumfil159" d="M18819 21409l111 155 302 124 203 239c31,139 80,297 89,438l37 602 -319 -934 -148 -148 -293 -117 -223 -290 11 -291 -187 -144c-8,-138 51,-230 198,-178l241 211 -22 333z" style="fill:#b8ea14"/>
+   <path class="BraceletCyberPunkMSet-Mediumfil159" d="M18791 21417l121 169 303 125 197 227c100,373 89,500 109,830l-255 -750 -156 -156 -292 -116 -212 -277 11 -294 -189 -146c-4,-107 37,-181 158,-141l227 199 -22 330z" style="fill:#7d1d29"/>
+   <path class="BraceletCyberPunkMSet-Mediumfil159" d="M18764 21425l131 183 304 125 186 218c57,230 82,372 97,618l-193 -565 -164 -165 -290 -116 -202 -262 11 -299 -189 -147c-4,-75 34,-136 117,-102l213 186 -21 326z" style="fill:#8dec82"/>
+   <path class="BraceletCyberPunkMSet-Mediumfil160" d="M18758 21110l-22 323 141 197 306 126 177 207c28,136 75,277 83,407l-130 -381 -173 -173 -288 -115 -192 -249 11 -303 -190 -148c0,0 -5,-94 77,-64l200 173z" style="fill:#8ff69e"/>
+  </g>
+  <g id="_1952485705712">
+   <animate attributeName="opacity" dur="1" repeatCount="indefinite" values="1;0;0;0;0;0"/>
+   <path class="BraceletCyberPunkMSet-Mediumfil159" d="M18017 21849l84 131 239 115 155 203c18,115 51,246 51,361l2 491 -216 -774 -113 -128 -233 -108 -168 -247 23 -236 -146 -126c1,-113 53,-185 170,-135l186 182 -34 271z" style="fill:#b0b379"/>
+   <path class="BraceletCyberPunkMSet-Mediumfil159" d="M17995 21854l90 142 241 116 149 195c64,308 49,410 50,680l-173 -622 -119 -134 -232 -109 -160 -235 23 -239 -147 -127c2,-87 39,-146 135,-107l176 172 -33 268z" style="fill:#e0ac9e"/>
+   <path class="BraceletCyberPunkMSet-Mediumfil159" d="M17972 21859l98 155 241 116 142 186c35,189 49,307 49,507l-130 -469 -126 -142 -230 -107 -152 -223 22 -243 -146 -128c0,-62 34,-109 100,-78l165 161 -33 265z" style="fill:#042e1f"/>
+   <path class="BraceletCyberPunkMSet-Mediumfil160" d="M17982 21602l-33 262 106 167 242 117 135 176c16,112 47,229 48,336l-88 -317 -133 -148 -228 -108 -145 -211 24 -246 -148 -129c0,0 0,-77 65,-49l155 150z" style="fill:#2a649a"/>
+  </g>
+  <g id="_1952485703216">
+   <animate attributeName="opacity" dur="1" repeatCount="indefinite" values="1;0;0;0;0;0"/>
+   <path class="BraceletCyberPunkMSet-Mediumfil159" d="M19481 21053l91 91 214 50 161 137c35,90 85,190 105,282l89 397 -312 -587 -114 -83 -207 -47 -180 -169 -23 -194 -140 -77c-20,-90 9,-158 113,-139l182 115 21 224z" style="fill:#e38ea5"/>
+   <path class="BraceletCyberPunkMSet-Mediumfil159" d="M19464 21061l98 99 215 51 155 130c107,238 113,323 161,541l-249 -472 -121 -87 -206 -46 -171 -161 -24 -198 -141 -77c-14,-70 5,-124 90,-110l172 108 21 222z" style="fill:#72edf8"/>
+   <path class="BraceletCyberPunkMSet-Mediumfil159" d="M19446 21069l107 108 216 51 147 125c62,146 94,239 130,401l-188 -356 -127 -92 -206 -46 -162 -153 -25 -200 -141 -77c-11,-50 9,-95 67,-81l162 101 20 219z" style="fill:#86d3ef"/>
+   <path class="BraceletCyberPunkMSet-Mediumfil160" d="M19409 20860l20 218 115 115 216 52 140 118c33,88 80,177 99,263l-127 -240 -134 -97 -203 -46 -155 -145 -24 -203 -143 -77c0,0 -13,-62 44,-52l152 94z" style="fill:#f2ec57"/>
+  </g>
+  <g id="_1952485701072">
+   <animate attributeName="opacity" dur="1" repeatCount="indefinite" values="1;0;0;0;0;0"/>
+   <path class="BraceletCyberPunkMSet-Mediumfil159" d="M19349 21351l116 116 274 63 206 174c46,114 109,242 136,360l115 506 -400 -749 -147 -105 -265 -58 -230 -215 -31 -249 -179 -96c-26,-116 11,-203 143,-179l234 145 28 287z" style="fill:#0e598f"/>
+   <path class="BraceletCyberPunkMSet-Mediumfil159" d="M19327 21362l126 126 275 63 199 166c137,303 145,412 208,690l-321 -601 -155 -111 -264 -58 -219 -205 -32 -252 -180 -98c-18,-90 6,-158 114,-141l221 137 28 284z" style="fill:#056ab2"/>
+   <path class="BraceletCyberPunkMSet-Mediumfil159" d="M19304 21372l138 137 275 64 189 159c80,187 121,304 168,511l-242 -453 -163 -117 -263 -58 -208 -194 -32 -256 -181 -98c-14,-63 10,-120 85,-103l207 128 27 280z" style="fill:#014feb"/>
+   <path class="BraceletCyberPunkMSet-Mediumfil160" d="M19255 21105l27 278 147 147 277 64 180 151c42,112 102,225 127,335l-163 -306 -172 -123 -260 -57 -198 -185 -33 -259 -182 -98c0,0 -17,-79 56,-66l194 119z" style="fill:#0ad1d1"/>
+  </g>
+  <g id="_1952485698128">
+   <animate attributeName="opacity" dur="1" repeatCount="indefinite" values="1;0;0;0;0;0"/>
+   <path class="BraceletCyberPunkMSet-Mediumfil159" d="M18801 21452l80 228 -91 404 100 384c122,134 251,300 391,411l597 475 -737 -1009 -47 -261 93 -389 -139 -443 -310 -200 -14 -299c-138,-108 -276,-115 -328,76l43 403 362 220z" style="fill:#eddb68"/>
+   <path class="BraceletCyberPunkMSet-Mediumfil159" d="M18830 21430l86 248 -90 405 93 370c314,375 453,455 782,716l-593 -810 -48 -276 91 -387 -133 -421 -313 -203 -15 -302c-108,-81 -214,-93 -260,62l41 380 359 218z" style="fill:#b5bdf2"/>
+   <path class="BraceletCyberPunkMSet-Mediumfil159" d="M18858 21407l94 269 -91 406 90 352c197,226 327,356 572,550l-447 -611 -51 -291 90 -385 -125 -400 -319 -207 -14 -302c-76,-59 -167,-63 -192,47l38 356 355 216z" style="fill:#94b203"/>
+   <path class="BraceletCyberPunkMSet-Mediumfil160" d="M18535 21171l351 213 101 289 -91 409 86 335c121,127 234,279 363,382l-302 -412 -53 -306 90 -382 -119 -380 -323 -209 -15 -305c0,0 -93,-74 -123,33l35 333z" style="fill:#24db6c"/>
+  </g>
+  <g id="_1952485697264">
+   <animate attributeName="opacity" dur="1" repeatCount="indefinite" values="1;0;0;0;0;0"/>
+   <path class="BraceletCyberPunkMSet-Mediumfil159" d="M19348 21347l106 123 267 81 191 187c38,116 92,247 110,366l79 508 -344 -768 -138 -115 -258 -76 -213 -229 -13 -248 -171 -108c-17,-116 26,-199 155,-166l221 160 8 285z" style="fill:#1a20e5"/>
+   <path class="BraceletCyberPunkMSet-Mediumfil159" d="M19325 21356l116 134 267 82 186 178c114,309 115,417 158,696l-276 -617 -146 -120 -257 -76 -202 -218 -14 -252 -172 -109c-11,-90 18,-156 124,-131l208 150 8 283z" style="fill:#69c025"/>
+   <path class="BraceletCyberPunkMSet-Mediumfil159" d="M19302 21365l126 145 268 82 176 171c66,190 99,310 131,517l-209 -465 -153 -127 -255 -76 -192 -207 -15 -255 -172 -109c-9,-64 19,-119 91,-97l197 142 7 279z" style="fill:#30563a"/>
+   <path class="BraceletCyberPunkMSet-Mediumfil160" d="M19272 21097l7 277 136 156 269 83 167 162c35,113 86,230 103,340l-141 -314 -160 -134 -254 -75 -183 -196 -14 -259 -174 -110c0,0 -11,-80 61,-61l183 131z" style="fill:#8ed456"/>
+  </g>
+  <g id="_1952472122864">
+   <animate attributeName="opacity" dur="1.2" repeatCount="indefinite" values="0;1;0;0;0;0"/>
+   <path class="BraceletCyberPunkMSet-Mediumfil159" d="M18107 21737c-17,55 -56,166 -55,214 11,32 41,83 59,115l245 -20 71 234 206 26 356 344c-209,-38 -236,-112 -411,-193 -66,-6 -258,11 -279,-60l-52 -181 -73 8 28 218 -219 26c-9,14 -19,45 -23,57 -49,172 -271,263 -418,349 47,-60 260,-317 275,-375 -1,-135 88,-187 205,-199l-9 -76c-61,-43 -100,-174 -123,-242l25 -145 -77 -34 -137 -199c4,-86 44,-158 142,-98l96 153 168 78z" style="fill:#042a3d"/>
+   <path class="BraceletCyberPunkMSet-Mediumfil159" d="M18083 21747c-13,44 -54,169 -50,207 13,38 47,96 67,132l242 -19 70 231 213 27 310 295c-171,-39 -224,-131 -352,-182 -54,-6 -250,8 -265,-46l-56 -197 -109 13 27 217 -207 25c-13,12 -27,56 -31,70 -44,151 -199,214 -323,286 30,-37 213,-259 217,-304 -2,-60 46,-157 108,-171 32,-7 67,-11 99,-14l-12 -105c-60,-36 -98,-167 -121,-231l27 -156 -87 -37 -129 -190c1,-69 37,-122 108,-78l97 154 157 73z" style="fill:#180761"/>
+   <path class="BraceletCyberPunkMSet-Mediumfil159" d="M17913 21689l147 68c-12,39 -53,175 -45,201 12,42 53,110 74,148l239 -19 69 228 220 28 285 252c-119,-29 -229,-153 -313,-176 -40,-5 -243,1 -253,-32l-60 -213 -145 17 28 217 -191 23c-17,0 -41,70 -44,83 -36,121 -128,168 -228,225l63 -79c20,-26 96,-129 96,-159 -1,-50 40,-140 93,-151 38,-8 79,-12 117,-16l-16 -134c-56,-25 -98,-160 -118,-216l27 -171 -95 -41 -123 -179c1,-43 26,-95 75,-59l98 155z" style="fill:#f6b206"/>
+   <path class="BraceletCyberPunkMSet-Mediumfil160" d="M17899 21704l138 64c0,0 -51,161 -41,196 10,34 83,162 83,162l235 -19 69 226 226 29 251 204c0,0 -242,-162 -269,-165 -26,-5 -233,-8 -236,-20l-65 -228 -181 21 28 217 -169 21c0,0 -33,-7 -63,97 -30,104 -131,163 -131,163 0,0 101,-128 100,-171 -1,-43 37,-123 79,-132 41,-9 133,-18 133,-18l-19 -166c0,0 -27,-1 -52,-46 -25,-44 -66,-162 -66,-162l31 -176 -104 -44 -117 -170c0,0 2,-63 42,-39l98 156z" style="fill:#4fd065"/>
+  </g>
+  <g id="_1952472123024">
+   <animate attributeName="opacity" dur="1.2" repeatCount="indefinite" values="0;1;0;0;0;0"/>
+   <path class="BraceletCyberPunkMSet-Mediumfil159" d="M18494 21326c-8,54 -26,164 -18,208 15,29 51,72 72,99l226 -56 103 208 197 -8 385 266c-201,-3 -237,-68 -413,-117 -63,5 -240,51 -270,-13l-77 -161 -67 19 60 200 -201 58c-6,14 -11,45 -12,56 -20,169 -214,288 -337,391 34,-63 194,-336 198,-392 -21,-127 54,-189 161,-219l-20 -69c-63,-31 -120,-147 -152,-207l1 -140 -78 -19 -158 -165c-10,-81 16,-154 118,-113l113 127 169 47z" style="fill:#55b01e"/>
+   <path class="BraceletCyberPunkMSet-Mediumfil159" d="M18474 21339c-6,44 -25,167 -16,201 18,34 59,83 83,114l223 -56 102 205 203 -8 335 228c-166,-9 -230,-87 -357,-115 -51,2 -232,46 -255,-2l-83 -176 -100 29 60 199 -190 55c-10,13 -17,57 -18,70 -18,148 -153,232 -257,318 21,-39 158,-276 155,-318 -11,-56 18,-154 75,-176 29,-12 60,-21 90,-29l-27 -96c-62,-24 -118,-141 -150,-197l1 -150 -86 -22 -151 -157c-9,-64 16,-119 89,-89l115 129 159 43z" style="fill:#c4907c"/>
+   <path class="BraceletCyberPunkMSet-Mediumfil159" d="M18305 21312l148 41c-5,38 -22,171 -11,194 18,37 67,95 92,127l220 -55 101 203 209 -8 306 191c-116,-8 -238,-107 -321,-115 -38,1 -226,38 -240,8l-90 -190 -132 39 59 199 -175 50c-16,3 -27,72 -28,85 -15,119 -94,176 -178,245l46 -83c15,-28 71,-136 65,-163 -8,-47 17,-138 64,-156 34,-13 72,-24 106,-34l-35 -122c-56,-14 -117,-135 -143,-184l-1 -163 -96 -24 -142 -149c-6,-40 10,-92 61,-66l115 130z" style="fill:#4cad79"/>
+   <path class="BraceletCyberPunkMSet-Mediumfil160" d="M18295 21328l138 38c0,0 -23,158 -8,189 15,31 102,140 102,140l218 -55 99 201 216 -9 266 153c0,0 -252,-114 -277,-113 -25,0 -219,28 -224,18l-96 -203 -165 47 60 199 -155 45c0,0 -33,-1 -44,101 -12,102 -98,173 -98,173 0,0 75,-136 67,-176 -7,-40 16,-121 53,-135 38,-15 122,-38 122,-38l-43 -152c0,0 -26,4 -56,-34 -30,-39 -86,-142 -86,-142l1 -169 -104 -25 -135 -141c0,0 -8,-60 33,-43l116 131z" style="fill:#7e8d17"/>
+  </g>
+  <g id="_1952472119824">
+   <animate attributeName="opacity" dur="1.4" repeatCount="indefinite" values="0;0;1;0;0;0"/>
+   <path class="BraceletCyberPunkMSet-Mediumfil159" d="M17951 21750l88 116 140 36 175 151 119 212 446 218 -289 -11c-69,-3 -200,-53 -276,-72l-142 -245 -119 -98 -157 -40 -41 -56 -22 56 -139 574 -23 -602 63 -176 -8 -151 -65 -105c-74,-110 56,-171 148,-145l96 195 6 143z" style="fill:#53734a"/>
+   <path class="BraceletCyberPunkMSet-Mediumfil159" d="M17931 21757l96 127 142 37 169 145 120 215 365 178 -192 -8c-66,-3 -193,-50 -264,-69l-140 -241 -125 -102 -154 -40 -59 -79 -36 91 -104 433 -18 -452 63 -176 -9 -160 -66 -109c-51,-100 32,-129 116,-117l90 182 6 145z" style="fill:#4b363d"/>
+   <path class="BraceletCyberPunkMSet-Mediumfil159" d="M17911 21765l104 137 144 37 163 140 122 217 284 139c-154,-6 -203,-31 -347,-70l-138 -237 -131 -108 -152 -39 -76 -103 -50 127 -71 292 -11 -302 63 -176 -10 -169 -68 -113c-50,-62 25,-100 85,-88l83 168 6 148z" style="fill:#6ac2c3"/>
+   <path class="BraceletCyberPunkMSet-Mediumfil160" d="M17754 21527l71 117 10 178 -63 177 6 151 37 -151 63 -162 94 126 149 39 138 113 135 233c80,21 197,61 238,63l-203 -99 -123 -220 -156 -134 -147 -39 -112 -147 -6 -150 -77 -155c-94,-13 -54,64 -54,60z" style="fill:#f4887a"/>
+  </g>
+  <g id="_1952472118224">
+   <animate attributeName="opacity" dur="1.4" repeatCount="indefinite" values="0;0;1;0;0;0"/>
+   <path class="BraceletCyberPunkMSet-Mediumfil159" d="M19524 21054l83 101 126 28 162 130 113 187 407 182 -260 -1c-62,0 -181,-42 -249,-56l-136 -216 -110 -84 -141 -32 -39 -48 -18 51 -107 519 -39 -540 51 -160 -12 -135 -61 -92c-70,-97 45,-156 128,-135l92 172 10 129z" style="fill:#22a8ee"/>
+   <path class="BraceletCyberPunkMSet-Mediumfil159" d="M19506 21061l91 110 128 29 156 125 114 189 333 150 -173 -2c-59,0 -174,-39 -238,-54l-133 -212 -116 -88 -139 -31 -55 -70 -30 84 -81 392 -29 -406 52 -159 -13 -144 -63 -96c-49,-88 24,-116 101,-108l86 161 9 130z" style="fill:#b5b4bf"/>
+   <path class="BraceletCyberPunkMSet-Mediumfil159" d="M19489 21068l97 120 131 29 150 120 116 192 259 116c-138,-1 -183,-22 -314,-53l-131 -208 -121 -93 -137 -31 -71 -90 -41 116 -55 264 -19 -270 51 -161 -14 -151 -65 -99c-46,-55 20,-90 74,-82l80 149 10 132z" style="fill:#5d4611"/>
+   <path class="BraceletCyberPunkMSet-Mediumfil160" d="M19341 20859l67 103 15 160 -52 160 10 136 28 -137 52 -148 89 111 134 30 127 98 129 204c72,17 178,50 215,50l-185 -83 -117 -194 -144 -115 -133 -30 -105 -129 -10 -134 -73 -137c-85,-9 -47,59 -47,55z" style="fill:#4d92af"/>
+  </g>
+  <g id="_1952472116368">
+   <animate attributeName="opacity" dur="1.4" repeatCount="indefinite" values="0;0;1;0;0;0"/>
+   <path class="BraceletCyberPunkMSet-Mediumfil159" d="M18847 21442l67 112 121 46 142 152 85 201 376 239 -257 -39c-61,-9 -174,-67 -239,-91l-103 -234 -96 -98 -136 -52 -31 -54 -26 48 -180 498 39 -539 74 -151 7 -135 -47 -100c-55,-107 67,-148 147,-116l66 184 -9 129z" style="fill:#c23438"/>
+   <path class="BraceletCyberPunkMSet-Mediumfil159" d="M18828 21446l74 122 123 48 136 146 86 204 308 195 -171 -26c-59,-9 -167,-64 -228,-88l-101 -229 -102 -104 -134 -51 -44 -76 -41 78 -137 376 30 -405 74 -151 8 -144 -49 -104c-36,-94 41,-111 116,-93l61 172 -9 130z" style="fill:#c7e43a"/>
+   <path class="BraceletCyberPunkMSet-Mediumfil159" d="M18810 21451l79 132 125 48 131 141 87 206 240 152c-137,-21 -178,-48 -303,-97l-99 -225 -107 -109 -131 -50 -58 -100 -57 108 -92 254 20 -270 74 -152 8 -151 -50 -108c-38,-60 32,-86 85,-70l57 159 -9 132z" style="fill:#f5141f"/>
+   <path class="BraceletCyberPunkMSet-Mediumfil160" d="M18694 21223l51 111 -8 160 -74 152 -10 136 48 -132 72 -139 72 123 128 49 112 115 98 221c69,27 169,74 206,80l-171 -109 -88 -208 -126 -135 -128 -49 -85 -143 9 -134 -52 -146c-83,-21 -55,51 -54,48z" style="fill:#3dc107"/>
+  </g>
+  <g id="_1952472114448">
+   <animate attributeName="opacity" dur="1.6" repeatCount="indefinite" values="0;0;0;1;0;0"/>
+   <path class="BraceletCyberPunkMSet-Mediumfil159" d="M19329 21192l208 297 398 173c244,263 407,486 608,781l-707 -591 -66 -26 15 160c35,51 74,96 101,154l202 420 -496 -490 -34 -214 -82 -118 -108 -89 -249 -333 -104 -200 -209 -61c-111,-123 -58,-223 100,-240l291 109 132 268z" style="fill:#011a93"/>
+   <path class="BraceletCyberPunkMSet-Mediumfil159" d="M19306 21206l213 305 400 173c228,236 298,328 492,614l-561 -470 -120 -47 28 215c107,154 157,267 238,436l-379 -375 -33 -212 -88 -125 -108 -90 -246 -329 -108 -208 -213 -62c-91,-95 -39,-176 82,-189l275 103 128 261z" style="fill:#1f2e79"/>
+   <path class="BraceletCyberPunkMSet-Mediumfil159" d="M19282 21219l219 314 403 174c138,137 266,284 376,445l-416 -347 -203 -80 53 81 18 199c78,114 113,174 173,298l-262 -259 -33 -209 -94 -134 -108 -89 -243 -325 -113 -217 -216 -63c-66,-75 -27,-128 63,-137l259 96 124 253z" style="fill:#f82f09"/>
+   <path class="BraceletCyberPunkMSet-Mediumfil160" d="M19139 20988l120 246 225 321 404 175c87,92 219,217 261,278l-271 -227 -285 -112 94 147 19 198c36,54 79,102 107,161l-145 -144 -33 -206 -99 -142 -108 -90 -240 -321 -118 -225 -219 -64c0,0 -68,-74 45,-86l243 91z" style="fill:#4914d5"/>
+  </g>
+  <g id="_1952472113968">
+   <animate attributeName="opacity" dur="1.6" repeatCount="indefinite" values="0;0;0;1;0;0"/>
+   <path class="BraceletCyberPunkMSet-Mediumfil159" d="M19477 20846l122 212 257 139c148,191 245,351 362,561l-439 -439 -44 -22 1 109c21,36 44,69 59,109l111 294 -304 -358 -10 -146 -48 -84 -67 -66 -148 -238 -58 -140 -136 -54c-68,-88 -26,-153 81,-155l189 90 72 188z" style="fill:#a3ea09"/>
+   <path class="BraceletCyberPunkMSet-Mediumfil159" d="M19460 20851l127 216 260 137c140,170 183,236 298,438l-352 -345 -79 -38 8 146c64,109 92,187 137,305l-234 -271 -12 -144 -52 -89 -68 -66 -148 -234 -62 -145 -139 -53c-56,-69 -18,-120 65,-123l179 84 72 182z" style="fill:#308137"/>
+   <path class="BraceletCyberPunkMSet-Mediumfil159" d="M19443 20858l131 223 261 137c86,100 164,205 230,319l-261 -255 -133 -64 32 57 1 135c47,80 67,122 101,209l-163 -188 -11 -142 -56 -95 -68 -66 -146 -230 -64 -152 -142 -53c-40,-54 -12,-88 50,-90l169 79 69 176z" style="fill:#094d5f"/>
+   <path class="BraceletCyberPunkMSet-Mediumfil160" d="M19359 20696l68 171 134 227 263 139c53,66 136,157 160,200l-170 -166 -186 -90 56 103 2 134c22,38 48,73 64,114l-90 -104 -11 -141 -59 -100 -69 -66 -144 -228 -67 -157 -144 -55c0,0 -41,-53 35,-55l158 74z" style="fill:#ffcf07"/>
+  </g>
+  <g id="_1952472112400">
+   <animate attributeName="opacity" dur="2" repeatCount="indefinite" values="0;0;0;0;0;1"/>
+   <path class="BraceletCyberPunkMSet-Mediumfil159" d="M17980 21959l96 139 266 115 177 215c63,355 79,565 94,928l-268 -836 -129 -134 -258 -109 -194 -262 14 -258 -164 -132c-2,-117 45,-205 179,-154l212 191 -25 297z" style="fill:#670c77"/>
+   <path class="BraceletCyberPunkMSet-Mediumfil159" d="M17955 21965l104 152 268 116 169 206c48,253 74,482 85,739l-214 -671 -137 -141 -257 -108 -184 -250 14 -262 -165 -132c-2,-100 39,-158 143,-123l199 181 -25 293z" style="fill:#54586b"/>
+   <path class="BraceletCyberPunkMSet-Mediumfil159" d="M17931 21972l113 164 268 117 162 196c48,211 67,340 76,551l-162 -506 -143 -149 -257 -107 -175 -237 15 -266 -166 -133c-2,-72 32,-116 106,-90l186 169 -23 291z" style="fill:#334d78"/>
+   <path class="BraceletCyberPunkMSet-Mediumfil160" d="M17930 21691l-24 287 122 177 269 117 155 188c22,121 61,247 66,363l-109 -341 -151 -157 -254 -107 -166 -225 15 -269 -167 -134c0,0 -3,-83 69,-57l175 158z" style="fill:#656c83"/>
+  </g>
+  <g id="_1952472111120">
+   <animate attributeName="opacity" dur="2" repeatCount="indefinite" values="0;0;0;0;0;1"/>
+   <path class="BraceletCyberPunkMSet-Mediumfil159" d="M19415 21401l89 156 31 292 131 266c268,239 432,361 718,562l-605 -666 -78 -182 -27 -282 -164 -304 -210 -122 -67 -211c-93,-63 -174,-67 -165,76l104 283 243 132z" style="fill:#5b0bd6"/>
+   <path class="BraceletCyberPunkMSet-Mediumfil159" d="M19426 21383l97 170 31 293 125 255c191,173 368,314 571,457l-486 -535 -82 -192 -27 -281 -157 -290 -212 -123 -68 -212c-79,-54 -135,-49 -130,61l98 266 240 131z" style="fill:#e30579"/>
+   <path class="BraceletCyberPunkMSet-Mediumfil159" d="M19437 21365l105 184 31 294 120 244c157,151 255,234 422,352l-366 -404 -87 -203 -26 -279 -149 -275 -216 -125 -68 -214c-57,-39 -100,-32 -96,47l93 250 237 129z" style="fill:#264687"/>
+   <path class="BraceletCyberPunkMSet-Mediumfil160" d="M19213 21219l235 128 113 198 31 296 114 232c92,82 184,181 275,246l-247 -272 -91 -213 -27 -277 -141 -262 -218 -126 -69 -215c0,0 -65,-46 -61,31l86 234z" style="fill:#005c0e"/>
+  </g>
+  <g id="_1952472109200">
+   <animate attributeName="opacity" dur="2" repeatCount="indefinite" values="0;0;0;0;0;1"/>
+   <path class="BraceletCyberPunkMSet-Mediumfil159" d="M19246 21262l55 108 10 197 78 184c172,170 278,259 463,404l-383 -470 -45 -125 -9 -191 -99 -211 -137 -89 -37 -144c-61,-46 -115,-52 -114,45l60 194 158 98z" style="fill:#2985ea"/>
+   <path class="BraceletCyberPunkMSet-Mediumfil159" d="M19254 21250l59 117 11 199 75 176c122,123 236,224 367,328l-307 -378 -48 -132 -8 -190 -95 -200 -139 -90 -38 -146c-51,-39 -89,-37 -90,36l57 183 156 97z" style="fill:#dd35d1"/>
+   <path class="BraceletCyberPunkMSet-Mediumfil159" d="M19262 21238l64 128 11 199 72 168c100,107 163,166 271,252l-232 -285 -51 -139 -8 -189 -90 -191 -140 -91 -38 -147c-37,-28 -66,-25 -66,28l53 172 154 95z" style="fill:#7d9fbd"/>
+   <path class="BraceletCyberPunkMSet-Mediumfil160" d="M19117 21132l153 94 69 138 11 200 68 160c59,58 117,129 176,175l-156 -192 -54 -146 -8 -187 -85 -181 -142 -93 -39 -148c0,0 -42,-33 -42,19l49 161z" style="fill:#302b8e"/>
+  </g>
+  <g id="_1952472105360">
+   <animate attributeName="opacity" dur="2" repeatCount="indefinite" values="0;0;0;0;0;1"/>
+   <path class="BraceletCyberPunkMSet-Mediumfil159" d="M19457 20944l108 120 259 108 194 187c115,297 163,472 236,774l-377 -706 -138 -117 -250 -102 -217 -226 -30 -214 -169 -117c-21,-98 7,-168 136,-120l221 168 27 245z" style="fill:#2d79c0"/>
+   <path class="BraceletCyberPunkMSet-Mediumfil159" d="M19435 20948l119 131 259 109 187 178c84,213 145,404 197,618l-303 -567 -146 -123 -249 -102 -206 -215 -30 -217 -170 -117c-18,-83 9,-130 108,-96l208 159 26 242z" style="fill:#76e672"/>
+   <path class="BraceletCyberPunkMSet-Mediumfil159" d="M19414 20953l129 142 260 108 178 171c78,177 116,285 159,461l-229 -427 -153 -131 -248 -100 -196 -205 -31 -220 -171 -118c-14,-60 10,-95 81,-70l195 149 26 240z" style="fill:#87544f"/>
+   <path class="BraceletCyberPunkMSet-Mediumfil160" d="M19368 20720l25 237 139 153 261 109 170 163c39,101 95,208 119,304l-154 -288 -161 -137 -246 -100 -187 -194 -30 -223 -172 -119c0,0 -17,-69 53,-44l183 139z" style="fill:#b7802c"/>
+  </g>
+  <g id="_1952472103632">
+   <path class="BraceletCyberPunkMSet-Mediumfil161" d="M18488 21361c-53,15 -134,53 -167,68 -68,32 -137,64 -214,67 -8,0 -17,0 -26,0 -6,-1 -11,-1 -16,-2 -53,116 -101,246 -133,369 -108,24 -212,37 -278,20 -191,-49 -63,-775 -63,-775l1772 -528c0,0 101,114 198,260 -56,120 -159,222 -257,301 -93,75 -200,143 -307,195 -105,51 -238,100 -356,85 -56,-7 -109,-27 -153,-60z" style="fill:#dfbf30"/>
+   <path class="BraceletCyberPunkMSet-Mediumfil161" d="M18519 21254c-52,-3 -198,65 -240,85 -54,24 -116,55 -175,57 -6,0 -12,0 -18,0 -27,-2 -52,-9 -75,-20 -9,19 -18,37 -27,55 -62,130 -116,280 -152,419l0 1c-2,11 -5,22 -9,32 -67,9 -126,11 -169,0 -191,-49 -63,-775 -63,-775l1772 -528c0,0 58,66 129,162 -36,127 -152,242 -250,321 -88,70 -188,134 -289,183 -85,42 -204,88 -299,76 -53,-7 -100,-29 -135,-68z" style="fill:#ec51d0"/>
+  </g>
+  <g id="_1952472099664">
+   <path class="BraceletCyberPunkMSet-Mediumfil316 BraceletCyberPunkMSet-Mediumstr2" d="M18318 19900c0,0 -645,234 -888,663 -242,430 545,267 545,267l343 -930z" style="fill:#679142"/>
+   <path class="BraceletCyberPunkMSet-Mediumfil317 BraceletCyberPunkMSet-Mediumstr0" d="M17372 21099c-93,534 47,669 289,718 72,-293 272,-761 386,-722 146,-59 -40,-479 -309,-463 -42,3 -175,-41 -268,-63 -88,-21 -263,146 -296,258 -21,70 211,198 198,272z" style="fill:#9e6ca9"/>
+   <path class="BraceletCyberPunkMSet-Mediumfil318 BraceletCyberPunkMSet-Mediumstr0" d="M17867 20753c23,142 167,465 229,468 63,4 423,-246 550,-87 72,90 654,-247 681,-459 14,-104 -328,-416 -343,-417 -15,-1 -1072,349 -1117,495z" style="fill:#b0b2e2"/>
+   <path class="BraceletCyberPunkMSet-Mediumfil319" d="M18653 19648c-87,-6 -453,218 -495,333 -50,137 -302,647 -457,679 49,101 82,142 121,163 40,20 203,-122 372,-19 47,29 173,108 243,-17 310,-561 714,-370 696,-489 -6,-41 -434,-647 -480,-650z" style="fill:#73da47"/>
+   <path class="BraceletCyberPunkMSet-Mediumfil173" d="M18653 19648c-87,-6 -453,218 -495,333 -14,38 -81,192 -119,269 86,-35 196,-177 239,-245 53,-82 179,-152 247,-178 160,-62 345,406 608,471 -6,-41 -434,-647 -480,-650z" style="fill:#6ccf0b"/>
+   <path class="BraceletCyberPunkMSet-Mediumfil320 BraceletCyberPunkMSet-Mediumstr0" d="M18653 19648c-87,-6 -453,218 -495,333 -50,137 -302,647 -457,679 49,101 82,142 121,163 40,20 203,-122 372,-19 47,29 173,108 243,-17 310,-561 714,-370 696,-489 -6,-41 -434,-647 -480,-650z" style="fill:#98dc03"/>
+   <line class="BraceletCyberPunkMSet-Mediumfil3 BraceletCyberPunkMSet-Mediumstr18" x1="18517" x2="18640" y1="20015" y2="20176"/>
+   <path class="BraceletCyberPunkMSet-Mediumfil54" d="M18074 20167c-206,387 -240,315 -480,188 -96,108 -192,217 -288,325 105,78 247,67 256,87 281,431 482,387 520,400 638,-160 583,150 1162,-341 -129,-11 -479,117 -594,-29 -124,-159 -62,-184 65,-299 -448,-4 -676,283 -641,-331zm-694 1000c162,230 281,318 373,344l-85 279c-3,6 -5,11 -8,17 -218,3 -454,-213 -280,-640z" style="fill:#c9f1fb"/>
+   <path class="BraceletCyberPunkMSet-Mediumfil174 BraceletCyberPunkMSet-Mediumstr19" d="M17452 20708c57,-2 104,45 106,104 2,59 -43,108 -100,110 -57,1 -104,-45 -106,-104 -2,-59 43,-108 100,-110z" style="fill:#0ef079"/>
+  </g>
+  <g id="_1952472097648">
+   <animate attributeName="opacity" dur="1" repeatCount="indefinite" values="1;0;0;0;0;0"/>
+   <path class="BraceletCyberPunkMSet-Mediumfil159" d="M18967 20897l240 -180c12,-175 -60,-292 -247,-229l-310 263c-70,117 -46,470 317,146z" style="fill:#8f1df3"/>
+   <path class="BraceletCyberPunkMSet-Mediumfil159" d="M18933 20880l241 -181c7,-135 -44,-230 -197,-181l-292 248c-73,224 77,305 248,114z" style="fill:#3aea82"/>
+   <path class="BraceletCyberPunkMSet-Mediumfil159" d="M18899 20863l242 -182c6,-95 -42,-173 -147,-132l-273 232c-36,136 38,227 178,82z" style="fill:#d45943"/>
+   <path class="BraceletCyberPunkMSet-Mediumfil160" d="M18788 20768c-58,51 12,120 68,80 81,-61 150,-121 231,-182 50,-37 -18,-119 -77,-77 -91,64 -139,104 -222,179z" style="fill:#6dbca7"/>
+  </g>
+  <g id="_1952472098992">
+   <animate attributeName="opacity" dur="1" repeatCount="indefinite" values="1;0;0;0;0;0"/>
+   <path class="BraceletCyberPunkMSet-Mediumfil159" d="M17708 21352l84 -205c-58,-116 -149,-163 -243,-52l-97 284c0,101 149,316 256,-27z" style="fill:#d7a967"/>
+   <path class="BraceletCyberPunkMSet-Mediumfil159" d="M17680 21354l85 -206c-47,-88 -115,-129 -194,-40l-91 267c39,171 165,165 200,-21z" style="fill:#760e27"/>
+   <path class="BraceletCyberPunkMSet-Mediumfil159" d="M17652 21356l85 -207c-32,-63 -92,-94 -143,-28l-86 251c29,99 111,129 144,-16z" style="fill:#c31465"/>
+   <path class="BraceletCyberPunkMSet-Mediumfil160" d="M17546 21338c-18,54 53,72 73,25 29,-69 50,-133 78,-203 18,-42 -57,-69 -78,-20 -33,76 -49,119 -73,198z" style="fill:#098880"/>
+  </g>
+  <g id="_1952472096208">
+   <animate attributeName="opacity" dur="1.4" repeatCount="indefinite" values="0;0;1;0;0;0"/>
+   <path class="BraceletCyberPunkMSet-Mediumfil159" d="M18713 20677c58,-48 117,-97 175,-145 183,-166 329,56 306,231 -111,76 -222,151 -332,227 -207,-32 -250,-139 -149,-313z" style="fill:#e8de54"/>
+   <path class="BraceletCyberPunkMSet-Mediumfil159" d="M18729 20714l182 -153c170,-120 244,24 245,182 -103,71 -206,143 -310,214 -152,-26 -186,-109 -117,-243z" style="fill:#04c9b0"/>
+   <path class="BraceletCyberPunkMSet-Mediumfil159" d="M18746 20747l189 -156c100,-107 188,19 183,133 -95,65 -191,130 -286,196 -121,-9 -123,-80 -86,-173z" style="fill:#c1d554"/>
+   <path class="BraceletCyberPunkMSet-Mediumfil160" d="M18957 20626c-65,54 -120,91 -175,139 -64,57 12,128 62,95 82,-55 131,-96 216,-161 68,-52 -18,-143 -103,-73z" style="fill:#4dd02c"/>
+  </g>
+  <g id="_1952472093296">
+   <animate attributeName="opacity" dur="1.4" repeatCount="indefinite" values="0;0;1;0;0;0"/>
+   <path class="BraceletCyberPunkMSet-Mediumfil159" d="M17463 21309c19,-53 38,-106 57,-159 53,-174 230,-89 281,31 -41,90 -83,180 -124,270 -143,58 -211,6 -214,-142z" style="fill:#f5b870"/>
+   <path class="BraceletCyberPunkMSet-Mediumfil159" d="M17488 21326l58 -166c62,-141 163,-77 224,22 -38,85 -77,169 -115,254 -107,41 -160,1 -167,-110z" style="fill:#02f28c"/>
+   <path class="BraceletCyberPunkMSet-Mediumfil159" d="M17511 21340l61 -170c23,-106 127,-59 167,15 -36,77 -72,155 -108,233 -80,40 -108,-4 -120,-78z" style="fill:#f0d65a"/>
+   <path class="BraceletCyberPunkMSet-Mediumfil160" d="M17599 21184c-21,59 -42,103 -58,155 -19,60 56,76 75,36 32,-66 47,-111 76,-184 23,-59 -66,-84 -93,-7z" style="fill:#db4770"/>
+  </g>
+  <g id="_1952472092752">
+   <animate attributeName="opacity" dur="1.4" repeatCount="indefinite" values="0;0;1;0;0;0"/>
+   <path class="BraceletCyberPunkMSet-Mediumfil214" d="M18624 19915c43,52 94,117 139,166 155,172 -117,329 -187,252 -79,-85 -179,-201 -215,-276 -75,-153 169,-257 263,-142z" style="fill:#20f7d5"/>
+   <path class="BraceletCyberPunkMSet-Mediumfil214" d="M18606 19925l128 161c129,161 -69,267 -143,216 -61,-42 -155,-165 -198,-253 -63,-128 125,-208 213,-124z" style="fill:#7a635b"/>
+   <path class="BraceletCyberPunkMSet-Mediumfil214" d="M18579 19935l135 172c103,119 -64,200 -113,167 -86,-77 -143,-155 -185,-244 -34,-87 103,-158 163,-95z" style="fill:#4bdde1"/>
+   <path class="BraceletCyberPunkMSet-Mediumfil215" d="M18684 20128c-50,-56 -100,-112 -149,-168 -41,-2 -80,-1 -88,56l170 224c154,-7 67,-118 67,-112z" style="fill:#c4ae75"/>
+  </g>
+ </g><g id="Ears-Pig6">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_89Corel-Layer"/>
+  <path class="Ears-Pig6fil127" d="M21571 6374c0,0 -3128,-549 -3937,164 -809,712 -940,1273 -970,1424 -30,152 -39,502 -188,825 -545,1176 1480,1979 2153,1967 266,-5 648,-82 860,-144 338,-99 677,-152 866,-350 230,-242 343,-536 325,-832 -40,-691 -251,-632 -376,-1357 -125,-725 -295,-869 1267,-1697z" style="fill:#36544f"/>
+  <path class="Ears-Pig6fil128" d="M18032 6327c-368,333 -80,1309 14,1885 108,654 -9,1055 -480,1224 -471,168 538,-116 857,-25 319,91 678,605 898,744 219,139 473,151 901,108 434,-100 518,-696 438,-1042 -270,-1186 -1265,-1693 911,-2847 0,0 -2399,-421 -3539,-47z" style="fill:#70cf89"/>
+  <path class="Ears-Pig6fil129" d="M17767 9423c0,0 342,-76 636,-17 84,17 149,119 241,131 376,51 779,46 939,-160 335,-432 -1004,-371 -1224,-342 159,-55 1383,-303 1454,-1135 71,-833 -1640,1035 -1640,1035 0,0 1437,-2273 576,-1846 -376,187 -590,603 -714,1031 -59,204 69,433 44,619 -44,314 -304,608 -312,684z" style="fill:#f7ea96"/>
+  <path class="Ears-Pig6fil0 Ears-Pig6str0" d="M18266 6265c-329,107 -386,293 -406,460 -52,441 118,1069 186,1487 108,654 -9,1055 -480,1224 -471,168 538,-116 857,-25 319,91 626,572 898,744 224,142 1013,191 1236,-152" style="fill:#274922"/>
+  <path class="Ears-Pig6fil0 Ears-Pig6str0" d="M21571 6374c0,0 -3128,-549 -3937,164 -809,712 -940,1273 -970,1424 -30,152 -39,502 -188,825 -483,1041 1650,2198 2071,2053 680,-233 1614,-276 1916,-685 264,-357 308,-860 22,-1494 -413,-915 -592,-1397 1086,-2287z" style="fill:#34fb68"/>
+  <path class="Ears-Pig6fil10" d="M17517 9248c0,0 348,-420 139,-970 -513,-1344 -967,-295 -1005,127 -58,649 566,1012 866,843z" style="fill:#6303aa"/>
+  <path class="Ears-Pig6fil10" d="M17524 9542c0,0 346,-89 612,-112 267,-24 417,-18 669,240 115,116 310,413 597,521 347,132 792,67 911,100 105,29 -331,162 -712,284 -408,131 -869,245 -869,245 -101,9 -804,-434 -907,-404 -104,30 -601,-462 -301,-874z" style="fill:#b6697e"/>
+  <path class="Ears-Pig6fil10" d="M19050 6177c0,0 -931,253 -891,881 36,557 78,2004 -370,2312 466,-34 573,-57 940,41 161,42 1709,1232 1907,89 31,94 72,379 -122,579 -194,201 -609,359 -1112,112 -503,-247 -620,-602 -800,-691 -179,-89 -588,-120 -781,-67 -193,53 -89,-96 -89,-96 0,0 319,-142 343,-576 24,-434 -66,-825 -113,-995 -48,-169 -115,-930 -105,-1009 10,-79 103,-353 196,-408 92,-55 816,-163 997,-172z" style="fill:#3bef20"/>
+  <path class="Ears-Pig6fil130" d="M5793 6374c0,0 3128,-549 3937,164 808,712 940,1273 970,1424 30,152 38,502 188,825 545,1176 -1480,1979 -2153,1967 -267,-5 -648,-82 -861,-144 -337,-99 -676,-152 -865,-350 -230,-242 -343,-536 -325,-832 40,-691 251,-632 376,-1357 125,-725 295,-869 -1267,-1697z" style="fill:#665e73"/>
+  <path class="Ears-Pig6fil131" d="M9331 6327c369,333 81,1309 -14,1885 -107,654 10,1055 481,1224 471,168 -538,-116 -857,-25 -319,91 -679,605 -898,744 -219,139 -473,151 -901,108 -434,-100 -518,-696 -439,-1042 271,-1186 1266,-1693 -910,-2847 0,0 2399,-421 3538,-47z" style="fill:#fe2f7b"/>
+  <path class="Ears-Pig6fil132" d="M9596 9423c0,0 -341,-76 -635,-17 -85,17 -150,119 -241,131 -376,51 -779,46 -939,-160 -336,-432 1004,-371 1224,-342 -159,-55 -1383,-303 -1454,-1135 -71,-833 1640,1035 1640,1035 0,0 -1437,-2273 -576,-1846 376,187 590,603 714,1031 59,204 -69,433 -44,619 44,314 304,608 311,684z" style="fill:#e26f4e"/>
+  <path class="Ears-Pig6fil0 Ears-Pig6str0" d="M9098 6265c329,107 386,293 406,460 52,441 -118,1069 -187,1487 -107,654 10,1055 481,1224 471,168 -538,-116 -857,-25 -319,91 -626,572 -898,744 -224,142 -1013,191 -1236,-152" style="fill:#4f8313"/>
+  <path class="Ears-Pig6fil0 Ears-Pig6str0" d="M5793 6374c0,0 3128,-549 3937,164 808,712 940,1273 970,1424 30,152 38,502 188,825 483,1041 -1650,2198 -2071,2053 -680,-233 -1614,-276 -1916,-685 -264,-357 -308,-860 -22,-1494 413,-915 592,-1397 -1086,-2287z" style="fill:#0e74c8"/>
+  <path class="Ears-Pig6fil10" d="M9847 9248c0,0 -348,-420 -139,-970 512,-1344 967,-295 1005,127 58,649 -566,1012 -866,843z" style="fill:#9a5920"/>
+  <path class="Ears-Pig6fil10" d="M9840 9542c0,0 -346,-89 -612,-112 -267,-24 -417,-18 -670,240 -114,116 -309,413 -596,521 -347,132 -793,67 -912,100 -104,29 332,162 713,284 408,131 869,245 869,245 101,9 803,-434 907,-404 104,30 601,-462 301,-874z" style="fill:#4b783e"/>
+  <path class="Ears-Pig6fil10" d="M8314 6177c0,0 931,253 890,881 -35,557 -78,2004 371,2312 -466,-34 -573,-57 -941,41 -160,42 -1708,1232 -1906,89 -31,94 -73,379 122,579 194,201 609,359 1112,112 503,-247 620,-602 800,-691 179,-89 587,-120 781,-67 193,53 89,-96 89,-96 0,0 -320,-142 -343,-576 -24,-434 66,-825 113,-995 48,-169 115,-930 105,-1009 -10,-79 -103,-353 -196,-408 -92,-55 -817,-163 -997,-172z" style="fill:#42c256"/>
+ </g><g id="Head-Pig1">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_96Corel-Layer"/>
+  <path class="Head-Pig1fil160" d="M10090 8967c-564,472 -965,1039 -1323,1636 -28,46 -55,102 -82,149 -105,179 -200,391 -302,573 -611,1185 -1006,1397 -934,2868 118,2421 2509,3357 4628,3643 571,77 1124,101 1605,101 481,0 1034,-24 1605,-101 2119,-286 4510,-1222 4628,-3643 72,-1471 -323,-1683 -934,-2868 -102,-182 -198,-394 -302,-573 -28,-47 -54,-103 -82,-149 -358,-597 -759,-1164 -1324,-1636 -1249,-1046 -2354,-1447 -3590,-1474l-1 0 -1 0c-1236,27 -2341,428 -3591,1474z" style="fill:#89643d"/>
+  <path class="Head-Pig1fil161" d="M11011 10284c-943,-245 -1264,313 -2147,1484 -218,289 -451,622 -550,930 -149,463 -194,939 9,1354 485,957 1684,924 2653,546 659,-257 1269,-724 1365,-1531 130,-1092 -406,-2543 -1330,-2783z" style="fill:#8e1454"/>
+  <path class="Head-Pig1fil10" d="M8595 11042c-473,768 -891,1422 -1070,2009 -158,520 -73,1353 39,1856 421,1891 2663,2792 5075,2988 -2326,-552 -4001,-1593 -4496,-3087 -323,-975 -154,-2267 452,-3766z" style="fill:#7f02ec"/>
+  <path class="Head-Pig1fil84" d="M9861 9172c974,-1177 2398,-1757 3821,-1747 1423,-10 2847,570 3821,1747 -1223,-1081 -2522,-1612 -3821,-1603 -1299,-9 -2598,522 -3821,1603z" style="fill:#bb29d4"/>
+  <path class="Head-Pig1fil84" d="M8768 10601c-179,508 -382,903 -718,1463 -406,679 -582,1421 -536,2131 131,1999 1755,2951 3508,3372 210,51 827,205 1390,308 -522,-14 -1257,-122 -1418,-161 -1810,-434 -3533,-1443 -3636,-3515 -36,-724 131,-1489 564,-2211 314,-524 479,-741 846,-1387z" style="fill:#f90f32"/>
+  <path class="Head-Pig1fil84" d="M18596 10601c179,508 382,903 717,1463 407,679 583,1421 537,2131 -131,1999 -1755,2951 -3508,3372 -210,51 -828,205 -1390,308 522,-14 1257,-122 1418,-161 1810,-434 3533,-1443 3636,-3515 36,-724 -131,-1489 -564,-2211 -314,-524 -479,-741 -846,-1387z" style="fill:#5d1c48"/>
+ </g><g id="Mouth-Pig10">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_113Corel-Layer"/>
+  <g id="_2991504383152">
+   <path class="Mouth-Pig10fil0 Mouth-Pig10str0" d="M16391 15096c-124,142 -303,119 -445,156 -110,28 -248,142 -358,136 -176,-10 -332,-60 -400,-72 -329,-57 -652,293 -737,388" style="fill:#2d77e5"/>
+   <path class="Mouth-Pig10fil0 Mouth-Pig10str0" d="M10973 15096c124,142 303,119 445,156 110,28 248,142 358,136 176,-10 332,-60 399,-72 330,-57 653,293 737,388" style="fill:#c67313"/>
+   <path class="Mouth-Pig10fil172" d="M12761 16255c362,46 559,161 921,161 362,0 559,-115 921,-161 -346,142 -563,318 -921,318 -358,0 -575,-176 -921,-318z" style="fill:#380452"/>
+   <path class="Mouth-Pig10fil169" d="M13682 14578c131,-71 2089,406 1605,830 -396,-21 -660,307 -723,384 -169,209 -492,317 -882,317 -390,0 -713,-108 -882,-317 -63,-77 -328,-405 -723,-384 -484,-424 1474,-901 1605,-830z" style="fill:#52ba55"/>
+   <path class="Mouth-Pig10fil171" d="M14243 15783c-107,-146 -424,-164 -561,-57 -137,-107 -454,-89 -561,57 45,114 301,191 561,191 260,0 516,-77 561,-191z" style="fill:#24f08e"/>
+   <path class="Mouth-Pig10fil173 Mouth-Pig10str0" d="M16144 14125c0,0 -278,219 -258,711 9,199 110,465 -151,538 -142,40 -424,6 -432,-188 -9,-195 165,-925 841,-1061z" style="fill:#60ccdb"/>
+   <path class="Mouth-Pig10fil173 Mouth-Pig10str0" d="M11220 14125c0,0 278,219 257,711 -8,199 -109,465 152,538 142,40 424,6 432,-188 9,-195 -165,-925 -841,-1061z" style="fill:#34df50"/>
+   <path class="Mouth-Pig10fil10" d="M15841 14949c-82,350 -517,195 -407,-48 -16,-52 -252,428 152,454 138,9 225,-15 271,-81 73,-102 30,-303 -16,-325z" style="fill:#77fd52"/>
+   <path class="Mouth-Pig10fil10" d="M11523 14949c82,350 517,195 407,-48 16,-52 252,428 -152,454 -138,9 -225,-15 -271,-81 -73,-102 -30,-303 16,-325z" style="fill:#ea11fc"/>
+   <path class="Mouth-Pig10fil169" d="M16219 15274c-44,14 -59,-86 -132,-93 -9,-1 138,-35 179,-88 102,-131 238,-94 244,-14 7,102 -203,166 -291,195z" style="fill:#eb9c2a"/>
+   <path class="Mouth-Pig10fil169" d="M11145 15274c44,14 59,-86 132,-93 9,-1 -138,-35 -179,-88 -102,-131 -238,-94 -244,-14 -7,102 203,166 291,195z" style="fill:#b4469c"/>
+  </g>
+ </g><g id="EyesClosed-Pig3">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_122Corel-Layer"/>
+  <g id="_2991498729424">
+   <path class="EyesClosed-Pig3fil38" d="M16061 10051c87,104 437,83 847,269 376,172 671,491 798,406 290,-193 -168,-1189 -1055,-1119 -448,36 -696,318 -590,444z"/>
+   <path class="EyesClosed-Pig3fil10" d="M16061 10051c87,104 437,83 847,269 376,172 671,491 798,406 290,-193 -168,-1189 -1055,-1119 -448,36 -696,318 -590,444z"/>
+  </g>
+  <g id="_2991498728720">
+   <path class="EyesClosed-Pig3fil38" d="M11303 10051c-87,104 -437,83 -847,269 -377,172 -671,491 -798,406 -290,-193 168,-1189 1054,-1119 449,36 697,318 591,444z"/>
+   <path class="EyesClosed-Pig3fil10" d="M11303 10051c-87,104 -437,83 -847,269 -377,172 -671,491 -798,406 -290,-193 168,-1189 1054,-1119 449,36 697,318 591,444z"/>
+  </g>
+  <path class="EyesClosed-Pig3fil84" d="M11961 13609c-198,-170 -934,272 -1817,-163 -509,-249 -938,-643 -1220,-1277 144,1319 1436,2054 2632,1619 115,-42 214,-94 328,-77 45,7 179,-15 77,-102z"/>
+  <path class="EyesClosed-Pig3fil84" d="M15403 13609c198,-170 934,272 1817,-163 509,-249 938,-643 1220,-1277 -144,1319 -1436,2054 -2632,1619 -115,-42 -214,-94 -328,-77 -45,7 -179,-15 -77,-102z"/>
+ </g><g id="Eyes-Pig3">
+ <animate attributeName="opacity" dur="10" repeatCount="indefinite" values="0;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;0;0"/>
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_123Corel-Layer"/>
+  <g id="_2991498723248">
+   <path class="Eyes-Pig3fil192" d="M16992 14281c-574,1 -993,-204 -1355,-415 -418,-243 -401,-952 -260,-1525 138,-559 444,-1405 1477,-1374 225,6 442,104 617,222 312,210 873,643 1020,1252 205,851 -257,1838 -1499,1840z"/>
+   <path class="Eyes-Pig3fil190" d="M15385 13188c17,-329 101,-747 275,-1110 211,-443 557,-805 1075,-824 438,17 828,207 1124,515 790,826 291,1753 -188,2050 -673,417 -1512,237 -1949,26 -217,-104 -320,-353 -337,-657z"/>
+   <path class="Eyes-Pig3fil193" d="M16978 11146c-672,-153 -1346,292 -1506,993 -159,702 256,1394 928,1547 672,153 1346,-292 1506,-994 159,-701 -256,-1394 -928,-1546z"/>
+   <path class="Eyes-Pig3fil0 Eyes-Pig3str0" d="M15338 13328c0,0 -1,393 299,538 118,58 328,157 550,259 1016,464 2313,-141 2374,-1241 49,-868 -1290,-2473 -2463,-1703 -738,485 -811,1331 -760,2147z"/>
+   <path class="Eyes-Pig3fil148" d="M15365 13472c-194,-844 177,-2326 1098,-2456 620,-88 1121,99 1521,574 327,388 582,1140 622,1568 -362,-980 -1347,-1627 -2016,-1563 -850,81 -1211,900 -1225,1877z"/>
+   <g>
+    <circle class="Eyes-Pig3fil173" r="235" transform="matrix(0.480204 -0.0447209 0.0558787 0.490001 17550.3 12993.2)"/>
+    <path class="Eyes-Pig3fil173" d="M15737 13268c323,-33 362,-143 382,-541 21,398 60,508 383,541 -323,32 -362,142 -383,540 -20,-398 -59,-508 -382,-540z"/>
+    <path class="Eyes-Pig3fil173" d="M15634 13572c132,-13 149,-58 157,-222 8,164 25,209 158,222 -133,14 -150,59 -158,223 -8,-164 -25,-209 -157,-223z"/>
+    <path class="Eyes-Pig3fil173" d="M16365 13576c59,-6 66,-26 69,-97 4,71 11,91 69,97 -58,6 -65,26 -69,98 -3,-72 -10,-92 -69,-98z"/>
+    <path class="Eyes-Pig3fil173" d="M17458 13883c58,-6 66,-26 69,-98 4,72 11,92 69,98 -58,6 -65,26 -69,97 -3,-71 -11,-91 -69,-97z"/>
+    <path class="Eyes-Pig3fil173" d="M17274 13649c58,-6 66,-26 69,-98 4,72 11,92 69,98 -58,6 -65,25 -69,97 -3,-72 -11,-91 -69,-97z"/>
+    <circle class="Eyes-Pig3fil173" r="235" transform="matrix(1.21808 -1.52375 1.23949 0.832024 16366.4 11820.6)"/>
+    <circle class="Eyes-Pig3fil173" r="235" transform="matrix(0.526812 -0.984081 0.798594 0.34986 17862.7 13457.7)"/>
+   </g>
+  </g>
+  <g id="_2991498784048">
+   <path class="Eyes-Pig3fil194" d="M10371 14281c574,1 994,-204 1356,-415 418,-243 401,-952 260,-1525 -139,-559 -444,-1405 -1477,-1374 -225,6 -442,104 -618,222 -311,210 -872,643 -1019,1252 -205,851 257,1838 1498,1840z"/>
+   <path class="Eyes-Pig3fil195" d="M11979 13188c-17,-329 -101,-747 -275,-1110 -212,-443 -557,-805 -1075,-824 -438,17 -828,207 -1124,515 -790,826 -291,1753 188,2050 673,417 1512,237 1949,26 217,-104 320,-353 337,-657z"/>
+   <path class="Eyes-Pig3fil196" d="M10386 11146c672,-153 1346,292 1506,993 159,702 -256,1394 -928,1547 -672,153 -1346,-292 -1506,-994 -159,-701 256,-1394 928,-1546z"/>
+   <path class="Eyes-Pig3fil0 Eyes-Pig3str0" d="M12026 13328c0,0 1,393 -299,538 -118,58 -328,157 -551,259 -1015,464 -2312,-141 -2374,-1241 -48,-868 1291,-2473 2464,-1703 738,485 811,1331 760,2147z"/>
+   <path class="Eyes-Pig3fil148" d="M11999 13472c194,-844 -177,-2326 -1098,-2456 -620,-88 -1121,99 -1521,574 -327,388 -582,1140 -623,1568 363,-980 1348,-1627 2017,-1563 850,81 1211,900 1225,1877z"/>
+   <g>
+    <circle class="Eyes-Pig3fil173" r="235" transform="matrix(0.480204 -0.0447209 0.0558787 0.490001 11193.2 12993.2)"/>
+    <path class="Eyes-Pig3fil173" d="M9380 13268c323,-33 362,-143 382,-541 20,398 60,508 383,541 -323,32 -363,142 -383,540 -20,-398 -59,-508 -382,-540z"/>
+    <path class="Eyes-Pig3fil173" d="M9277 13572c132,-13 149,-58 157,-222 8,164 25,209 157,222 -132,14 -149,59 -157,223 -8,-164 -25,-209 -157,-223z"/>
+    <path class="Eyes-Pig3fil173" d="M10008 13576c59,-6 66,-26 69,-97 4,71 11,91 69,97 -58,6 -65,26 -69,98 -3,-72 -10,-92 -69,-98z"/>
+    <path class="Eyes-Pig3fil173" d="M11101 13883c58,-6 65,-26 69,-98 4,72 11,92 69,98 -58,6 -65,26 -69,97 -4,-71 -11,-91 -69,-97z"/>
+    <path class="Eyes-Pig3fil173" d="M10917 13649c58,-6 65,-26 69,-98 4,72 11,92 69,98 -58,6 -65,25 -69,97 -4,-72 -11,-91 -69,-97z"/>
+    <circle class="Eyes-Pig3fil173" r="235" transform="matrix(1.21808 -1.52375 1.23949 0.832024 10009.3 11820.6)"/>
+    <circle class="Eyes-Pig3fil173" r="235" transform="matrix(0.526812 -0.98408 0.798594 0.34986 11505.6 13457.7)"/>
+   </g>
+  </g>
+ </g><g id="Moustache-Pig0">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_136Corel-Layer"/>
+  <rect class="Moustache-Pig0fil0" height="1459" width="1352" x="13006" y="12662"/>
+ </g><g id="Nose-Pig0">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_141Corel-Layer"/>
+  <g id="_2991533171152">
+   <path class="Nose-Pig0fil236 Nose-Pig0str0" d="M13682 15431c688,0 1646,200 1573,-487 -68,-630 -928,-1635 -1573,-1635 -645,0 -1505,1005 -1573,1635 -73,687 885,487 1573,487z" style="fill:#de3675"/>
+   <g>
+    <path class="Nose-Pig0fil26 Nose-Pig0str3" d="M14332 14239c-113,0 -205,188 -205,418 0,231 92,418 205,418 114,0 206,-187 206,-418 -1,-230 -93,-418 -206,-418z" style="fill:#105dbb"/>
+    <path class="Nose-Pig0fil237 Nose-Pig0str3" d="M14332 14239c-113,0 -205,188 -205,418 0,231 92,418 205,418 114,0 206,-187 206,-418 -1,-230 -93,-418 -206,-418z" style="fill:#f58da0"/>
+   </g>
+   <g>
+    <path class="Nose-Pig0fil26 Nose-Pig0str3" d="M13032 14239c113,0 205,188 205,418 0,231 -92,418 -205,418 -114,0 -206,-187 -206,-418 0,-230 93,-418 206,-418z" style="fill:#2bd5a4"/>
+    <path class="Nose-Pig0fil237 Nose-Pig0str3" d="M13032 14239c113,0 205,188 205,418 0,231 -92,418 -205,418 -114,0 -206,-187 -206,-418 0,-230 93,-418 206,-418z" style="fill:#5cf561"/>
+   </g>
+  </g>
+ </g><g id="AccessorySuitcaseWithMoney2">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_3081300009712">
+   <path class="AccessorySuitcaseWithMoney2fil0suitcase AccessorySuitcaseWithMoney2str0suitcase" d="M1986 22331c1581,0 2327,0 3909,0 80,0 15,1822 15,2447 0,502 13,350 14,669 -1366,-17 -2671,-65 -4029,-45 -262,4 -386,-236 -386,-524 0,-708 0,-1315 0,-2022 0,-289 215,-525 477,-525z" style="fill:#675a8c"/>
+   <path class="AccessorySuitcaseWithMoney2fil1suitcase AccessorySuitcaseWithMoney2str1suitcase" d="M6346 22331c126,0 252,0 379,0 288,0 462,168 431,525 -65,756 -2,1626 93,2360 6,142 -1094,230 -1369,230 -51,-5 -133,-174 -108,-334 120,-749 33,-1499 50,-2256 6,-289 236,-525 524,-525z" style="fill:#420aef"/>
+   <path class="AccessorySuitcaseWithMoney2fil2suitcase AccessorySuitcaseWithMoney2str2suitcase" d="M6562 25395c212,11 0,-2043 0,-3064" style="fill:#677c35"/>
+   <g>
+    <path class="AccessorySuitcaseWithMoney2fil3suitcase AccessorySuitcaseWithMoney2str0suitcase" d="M6006 22991c73,-200 146,-400 219,-600 225,82 464,95 699,180 234,86 465,245 710,334 -73,200 -146,400 -220,600 -244,-89 -475,-248 -709,-334 -235,-86 -474,-98 -699,-180z" style="fill:#296627"/>
+    <path class="AccessorySuitcaseWithMoney2fil4suitcase" d="M6769 23086c113,42 238,-16 279,-129 41,-113 -17,-238 -130,-279 -112,-41 -237,17 -278,130 -42,112 16,237 129,278z" style="fill:#f55b01"/>
+    <path class="AccessorySuitcaseWithMoney2fil5suitcase" d="M6744 22997c-1,6 0,9 2,14 5,9 14,17 25,16 15,-1 26,-7 37,-12 6,-3 11,-5 17,-7 10,-4 17,-5 27,-5 3,0 6,1 9,1 15,3 33,13 45,12l1 0 1 0c6,0 8,0 14,-3 10,-5 16,-15 16,-27 1,-18 -12,-40 -22,-54 -5,-8 -12,-18 -19,-25 -2,-2 -5,-5 -7,-7l-9 -8c-4,-3 -11,-7 -15,-9 -13,-4 -16,-3 -29,-2 -17,1 -39,14 -51,27 -5,6 -5,6 -9,11 -13,16 -33,57 -33,78l0 0zm-54 -129c0,8 1,10 2,17 0,4 1,7 3,11 3,8 9,18 16,23 8,6 17,12 29,11 16,-2 27,-20 27,-38 0,-20 -6,-34 -17,-46 -2,-2 -3,-4 -6,-6 -11,-8 -24,-13 -38,-4 -10,7 -13,14 -15,25 0,3 -1,4 -1,7l0 0zm217 4c0,11 1,20 7,28 4,5 11,10 20,9 9,0 15,-3 23,-9 11,-8 18,-20 23,-33 4,-10 5,-18 5,-29 0,-5 -2,-13 -4,-17 -2,-2 -3,-4 -4,-6 -9,-11 -26,-10 -38,-2 -9,7 -16,14 -22,24 -5,9 -10,22 -10,35l0 0zm-111 -29c10,-1 18,-7 24,-16 18,-28 8,-73 -15,-88 -7,-4 -12,-7 -22,-6 -8,1 -17,8 -22,14 -11,17 -11,40 -6,59 2,7 7,17 12,22 7,8 16,16 29,15l0 0zm50 -57l0 8c0,16 7,32 18,39 12,7 24,4 35,-6 17,-14 25,-36 26,-58 0,-13 -3,-24 -8,-32 -3,-5 -10,-11 -16,-12 -3,-1 -6,-2 -8,-2l-3 0c-3,1 -6,2 -10,4 -4,2 -7,4 -10,7 -4,4 -3,2 -7,7 -9,12 -16,30 -17,45l0 0z" style="fill:#71e5b8"/>
+   </g>
+   <g>
+    <path class="AccessorySuitcaseWithMoney2fil6suitcase AccessorySuitcaseWithMoney2str0suitcase" d="M2776 23456c-207,-48 -415,-95 -622,-143 -53,233 -173,441 -229,684 -56,244 -48,524 -106,778 207,47 415,95 622,142 59,-254 51,-533 107,-777 56,-243 175,-451 228,-684z" style="fill:#cb123a"/>
+    <path class="AccessorySuitcaseWithMoney2fil4suitcase" d="M2441 24148c-26,117 -143,190 -260,164 -117,-27 -190,-144 -164,-261 27,-117 144,-190 261,-163 117,26 190,143 163,260z" style="fill:#ad6ce9"/>
+    <path class="AccessorySuitcaseWithMoney2fil7suitcase" d="M2380 24078c5,3 8,5 11,10 5,9 6,20 -1,30 -8,11 -19,17 -30,24 -5,3 -10,6 -15,10 -8,6 -14,12 -19,21 -1,2 -2,5 -3,7 -6,14 -7,35 -15,45l0 0 -1 2c-3,4 -5,5 -10,9 -10,6 -21,6 -32,-1 -15,-9 -27,-32 -33,-47 -4,-9 -8,-21 -10,-30 -1,-4 -2,-7 -3,-11l-1 -11c-1,-4 0,-13 1,-17 3,-13 5,-16 13,-26 11,-14 33,-25 51,-28 7,-1 7,-1 14,-2 20,-2 66,4 83,15l0 0zm-79 -115c7,4 9,6 14,11 2,2 5,5 7,8 5,7 10,17 11,26 1,10 0,21 -7,30 -10,13 -31,12 -46,3 -18,-11 -26,-24 -30,-39 -1,-3 -1,-5 -1,-9 -1,-13 2,-27 17,-34 11,-5 18,-3 29,1 2,1 4,2 6,3l0 0zm-115 184c10,6 16,12 20,21 2,6 3,15 -3,22 -5,7 -11,11 -20,15 -13,4 -27,4 -41,1 -10,-2 -17,-6 -26,-12 -4,-3 -10,-9 -12,-13 -1,-2 -2,-4 -3,-7 -5,-13 5,-26 19,-32 10,-4 21,-6 32,-5 10,0 23,3 34,10l0 0zm37 -109c-6,9 -16,12 -27,12 -33,-1 -65,-34 -65,-61 0,-8 1,-14 6,-21 5,-7 16,-11 24,-11 20,0 40,12 53,27 5,5 11,15 12,21 3,11 5,23 -3,33l0 0zm-76 11l7 5c13,8 23,22 23,36 0,14 -9,22 -24,26 -20,6 -44,1 -62,-10 -11,-7 -19,-16 -23,-24 -3,-6 -4,-14 -2,-20 1,-3 2,-6 3,-8l2 -2c2,-2 5,-4 9,-7 3,-2 7,-4 11,-4 5,-2 3,-1 9,-2 16,-1 34,2 47,10l0 0z" style="fill:#540f53"/>
+   </g>
+   <path class="AccessorySuitcaseWithMoney2fil8suitcase" d="M4005 24010c-163,-125 111,183 443,87 288,380 224,807 366,920 76,60 668,-282 699,-430 44,-216 -131,-461 -247,-594 -9,-10 508,-84 664,-124 11,-2 124,-249 157,-225 118,85 254,556 350,587 72,23 552,-428 524,-560 -13,-64 -285,-365 -155,-435 -153,-372 -561,-671 -24,-905 -45,-65 -384,63 -421,64 -277,8 -196,1137 -204,1137 -156,-4 -803,364 -806,362 -110,143 -3284,-397 -3666,-221 -197,90 -116,198 -176,276 -37,48 -18,1349 83,1381 -83,-1740 661,-1140 589,-1018 -35,58 -93,112 -144,164 -94,96 -32,95 90,167 119,70 256,141 398,237 -5,23 -7,41 -14,66 25,37 79,80 123,112 63,47 73,16 117,-57 84,-140 113,-280 161,-437 35,-115 436,474 1104,-89 88,-74 -35,-248 -11,-465z" style="fill:#243a7a"/>
+   <g>
+    <path class="AccessorySuitcaseWithMoney2fil9suitcase AccessorySuitcaseWithMoney2str0suitcase" d="M5525 22876c162,-137 325,-275 487,-412 155,182 356,312 517,502 162,191 284,443 452,642 -162,137 -325,275 -487,412 -169,-198 -290,-450 -452,-641 -161,-191 -363,-320 -517,-503z" style="fill:#30410a"/>
+    <path class="AccessorySuitcaseWithMoney2fil4suitcase" d="M6140 23337c78,92 215,103 307,26 91,-78 103,-215 25,-307 -77,-91 -215,-103 -306,-25 -92,77 -103,215 -26,306z" style="fill:#4d5eb7"/>
+    <path class="AccessorySuitcaseWithMoney2fil5suitcase" d="M6162 23247c-3,5 -4,8 -5,14 0,10 4,21 15,26 13,6 25,6 38,7 6,1 11,1 17,2 11,2 18,5 27,10 2,2 4,3 6,5 12,10 23,28 34,33l0 1 2 0c5,2 7,3 13,4 11,1 22,-5 28,-15 9,-15 9,-41 8,-58 -1,-10 -2,-22 -5,-31 -1,-4 -1,-7 -3,-10l-3 -11c-2,-4 -6,-12 -10,-15 -8,-10 -11,-12 -23,-17 -16,-7 -41,-7 -58,-1 -7,2 -7,2 -13,4 -19,8 -57,34 -68,52l0 0zm18 -138c-4,6 -5,8 -7,15 -2,4 -2,7 -3,11 -1,8 -1,20 2,28 4,9 9,19 20,24 15,7 33,-4 43,-19 10,-18 11,-33 8,-49 -1,-3 -1,-5 -3,-8 -5,-12 -14,-23 -30,-22 -12,0 -18,5 -26,14 -1,2 -3,3 -4,6l0 0zm186 110c-6,10 -8,18 -7,28 1,6 4,14 12,18 8,4 15,5 25,4 13,-2 26,-9 36,-18 8,-6 13,-14 19,-23 2,-4 4,-12 4,-16 0,-3 0,-5 0,-8 -2,-14 -17,-21 -32,-20 -11,1 -21,4 -31,10 -8,5 -19,14 -26,25l0 0zm-82 -80c9,5 19,3 29,-2 29,-16 43,-60 30,-84 -3,-7 -7,-12 -15,-16 -8,-3 -19,-2 -27,2 -18,9 -29,28 -34,48 -2,7 -3,18 -1,25 2,10 7,22 18,27l0 0zm72 -24l-4 7c-8,13 -10,30 -4,42 7,12 19,15 33,12 22,-4 40,-19 51,-37 7,-12 10,-23 10,-32 -1,-6 -3,-14 -8,-19 -2,-2 -4,-4 -6,-5l-3 -1c-3,-1 -6,-2 -11,-2 -4,-1 -8,0 -12,1 -5,1 -3,0 -9,3 -14,6 -29,17 -37,31l0 0z" style="fill:#f8d837"/>
+   </g>
+   <g>
+    <path class="AccessorySuitcaseWithMoney2fil10suitcase AccessorySuitcaseWithMoney2str0suitcase" d="M3510 23574c-169,-130 -338,-259 -507,-388 -145,190 -340,329 -492,528 -152,198 -261,456 -419,663 169,129 338,258 507,388 159,-207 268,-465 419,-663 152,-199 347,-338 492,-528z" style="fill:#a15223"/>
+    <path class="AccessorySuitcaseWithMoney2fil4suitcase" d="M2787 24223c-73,96 -209,114 -305,41 -95,-73 -113,-210 -40,-305 73,-96 209,-114 305,-41 95,73 113,210 40,305z" style="fill:#86bf64"/>
+    <path class="AccessorySuitcaseWithMoney2fil5suitcase" d="M2761 24134c3,5 5,8 5,14 2,10 -2,21 -13,26 -12,7 -25,8 -37,9 -6,1 -12,2 -18,3 -10,3 -17,6 -26,12 -2,2 -4,3 -6,5 -11,10 -21,29 -32,35l0 0 -2 1c-4,2 -6,3 -13,4 -11,2 -22,-3 -28,-14 -10,-14 -11,-40 -11,-57 0,-9 1,-22 3,-31 1,-4 1,-7 2,-11l4 -10c1,-5 5,-12 8,-16 8,-10 11,-12 22,-18 16,-8 41,-9 58,-4 8,2 8,2 14,4 19,6 59,31 70,48l0 0zm-25 -137c4,6 6,8 8,15 2,3 3,7 3,10 2,9 2,20 0,28 -4,10 -9,20 -19,25 -15,8 -33,-2 -43,-17 -12,-17 -14,-32 -11,-47 1,-4 1,-6 2,-9 5,-13 14,-24 30,-24 12,0 18,5 26,13 1,2 3,4 4,6l0 0zm-180 119c6,10 9,18 9,28 -1,6 -4,14 -12,18 -8,5 -15,6 -24,5 -14,-1 -27,-7 -38,-15 -8,-7 -13,-14 -19,-22 -3,-4 -5,-12 -5,-17 -1,-3 -1,-5 0,-7 0,-14 15,-22 31,-22 10,0 21,3 30,8 9,5 20,13 28,24l0 0zm78 -84c-9,5 -19,5 -30,0 -29,-15 -45,-58 -34,-82 4,-7 7,-13 15,-17 8,-4 19,-3 27,0 18,8 31,27 36,46 3,7 4,18 3,25 -2,11 -6,23 -17,28l0 0zm-73 -21l4 7c9,13 11,30 6,42 -6,13 -18,16 -32,14 -22,-3 -41,-17 -53,-35 -7,-11 -11,-22 -11,-31 0,-6 2,-14 6,-19 3,-3 5,-4 7,-6l2 -1c3,-1 6,-2 11,-3 4,0 8,0 12,1 5,1 3,0 9,2 15,6 30,16 39,29l0 0z" style="fill:#358bd2"/>
+   </g>
+   <g>
+    <path class="AccessorySuitcaseWithMoney2fil11suitcase AccessorySuitcaseWithMoney2str0suitcase" d="M4992 23233c-195,87 -389,173 -584,259 97,219 126,456 227,685 102,228 275,448 381,686 194,-87 389,-173 584,-259 -106,-238 -280,-458 -381,-686 -101,-228 -130,-466 -227,-685z" style="fill:#ca8ca5"/>
+    <path class="AccessorySuitcaseWithMoney2fil4suitcase" d="M5199 24101c53,107 10,238 -98,292 -107,53 -238,10 -291,-98 -54,-107 -11,-238 97,-292 107,-53 238,-10 292,98z" style="fill:#66537f"/>
+    <path class="AccessorySuitcaseWithMoney2fil5suitcase" d="M5107 24085c6,0 9,-1 15,1 9,4 17,12 18,24 0,14 -4,25 -8,38 -2,5 -4,11 -5,17 -3,10 -3,18 -2,28 1,3 2,5 3,8 4,14 16,32 17,44l0 0 0 2c0,5 0,7 -2,13 -4,11 -13,19 -25,20 -17,2 -41,-8 -56,-15 -9,-5 -19,-11 -27,-17 -3,-2 -6,-4 -8,-7l-9 -7c-3,-4 -8,-10 -10,-15 -6,-11 -6,-15 -6,-28 -1,-17 9,-40 21,-54 5,-5 6,-5 10,-10 14,-14 54,-39 74,-42l0 0zm-134 -38c7,-1 10,-1 17,0 4,0 7,0 11,1 8,2 19,7 25,14 7,7 13,15 14,27 0,17 -17,29 -34,32 -21,2 -36,-2 -48,-12 -3,-2 -4,-3 -7,-6 -9,-9 -15,-22 -8,-36 5,-11 12,-15 23,-18 2,-1 4,-2 7,-2l0 0zm28 215c12,-1 20,-1 29,4 5,3 11,10 11,18 1,10 -1,16 -6,24 -7,12 -18,21 -30,27 -10,5 -18,7 -29,8 -4,1 -13,-1 -17,-2 -3,-1 -4,-2 -7,-4 -12,-6 -13,-24 -5,-37 5,-10 12,-17 21,-24 8,-6 20,-12 33,-14l0 0zm-41 -108c0,11 -5,20 -14,27 -25,20 -71,15 -88,-5 -5,-6 -9,-12 -9,-21 0,-8 6,-18 12,-24 15,-13 38,-16 57,-13 7,1 18,5 24,9 9,7 18,15 18,27l0 0zm-51 57l8 -1c15,-2 32,3 40,14 9,11 7,23 -1,35 -12,18 -34,29 -55,32 -13,2 -24,0 -32,-4 -6,-3 -13,-8 -15,-14 -1,-3 -2,-6 -2,-8l0 -3c0,-3 1,-6 2,-11 1,-4 3,-7 6,-10 3,-5 1,-3 6,-8 11,-10 28,-20 43,-22l0 0z" style="fill:#4964eb"/>
+   </g>
+   <g>
+    <path class="AccessorySuitcaseWithMoney2fil12suitcase AccessorySuitcaseWithMoney2str0suitcase" d="M688 23734c-42,-209 -84,-418 -126,-626 235,-47 446,-161 691,-210 245,-49 524,-33 780,-84 41,208 83,417 125,626 -256,51 -535,35 -780,84 -245,49 -456,163 -690,210z" style="fill:#e7365c"/>
+    <path class="AccessorySuitcaseWithMoney2fil4suitcase" d="M1389 23418c118,-23 194,-138 171,-256 -24,-117 -139,-194 -256,-170 -118,23 -194,138 -171,256 24,117 138,194 256,170z" style="fill:#36209c"/>
+    <path class="AccessorySuitcaseWithMoney2fil5suitcase" d="M1320 23355c3,5 5,8 10,11 9,6 20,7 30,0 11,-8 18,-19 25,-29 3,-5 6,-10 10,-15 7,-8 13,-13 22,-18 2,-1 5,-2 7,-3 14,-6 36,-7 46,-14l0 0 1 -1c4,-3 6,-4 10,-10 6,-9 6,-21 0,-32 -9,-15 -32,-27 -47,-34 -8,-4 -20,-9 -29,-11 -4,-1 -7,-2 -11,-3l-11 -2c-4,0 -13,0 -17,1 -13,3 -16,5 -26,12 -14,11 -26,33 -30,50 -1,8 -1,8 -2,14 -3,20 2,67 12,84l0 0zm-112 -82c4,6 5,8 10,14 3,3 5,5 8,7 7,5 17,11 26,12 10,1 21,1 30,-6 14,-10 13,-31 4,-46 -10,-18 -23,-27 -38,-31 -3,-1 -5,-1 -9,-2 -13,-1 -27,2 -34,16 -5,11 -4,19 0,29 1,3 2,5 3,7l0 0zm187 -110c6,10 11,17 21,20 5,3 14,4 21,-1 8,-6 12,-11 16,-20 5,-13 5,-27 2,-41 -2,-10 -6,-18 -11,-27 -2,-4 -9,-10 -13,-12 -2,-2 -4,-2 -6,-3 -13,-6 -27,4 -33,18 -5,10 -7,20 -6,31 0,10 2,24 9,35l0 0zm-110 34c9,-6 12,-16 12,-27 1,-33 -31,-66 -58,-67 -8,0 -14,1 -22,6 -7,5 -11,16 -11,24 -1,20 10,39 25,53 5,5 15,11 21,13 11,3 23,5 33,-2l0 0zm14 -75l4 7c7,13 22,23 35,23 14,0 22,-8 27,-23 7,-20 2,-44 -8,-62 -7,-12 -15,-20 -24,-24 -5,-3 -13,-4 -20,-2 -3,0 -5,1 -8,3l-2 2c-2,1 -4,4 -7,8 -2,3 -4,7 -5,11 -1,5 -1,3 -2,9 -1,16 2,34 10,48l0 0z" style="fill:#79a10f"/>
+   </g>
+   <g>
+    <path class="AccessorySuitcaseWithMoney2fil13suitcase AccessorySuitcaseWithMoney2str0suitcase" d="M343 22547c91,-193 182,-385 273,-578 216,102 453,137 679,243 226,107 441,286 676,397 -90,192 -181,385 -272,577 -236,-111 -451,-290 -677,-396 -226,-107 -462,-141 -679,-243z" style="fill:#1088bd"/>
+    <path class="AccessorySuitcaseWithMoney2fil4suitcase" d="M1094 22711c109,51 239,5 290,-104 51,-108 5,-238 -104,-289 -109,-52 -238,-5 -290,104 -51,108 -4,238 104,289z" style="fill:#8c94aa"/>
+    <path class="AccessorySuitcaseWithMoney2fil5suitcase" d="M1077 22620c-1,6 -1,9 1,14 4,10 12,18 24,18 14,0 26,-5 38,-9 5,-2 10,-4 16,-5 11,-3 19,-4 29,-2 3,0 5,1 8,2 14,4 32,16 44,16l0 0 2 0c5,0 7,0 14,-2 10,-4 18,-13 19,-26 2,-17 -9,-41 -17,-56 -4,-8 -11,-18 -17,-26 -2,-3 -4,-6 -7,-8l-8 -8c-3,-3 -10,-8 -14,-10 -12,-5 -16,-6 -29,-6 -17,0 -40,11 -53,23 -6,5 -5,5 -10,10 -14,14 -38,54 -40,75l0 0zm-41 -133c-1,7 -1,10 -1,17 1,3 1,7 2,10 3,9 8,19 14,25 7,7 16,13 28,13 17,1 29,-17 31,-34 2,-21 -3,-35 -13,-48 -2,-2 -3,-4 -6,-6 -10,-9 -23,-15 -37,-8 -10,6 -14,13 -17,24 0,2 -1,4 -1,7l0 0zm215 23c-1,11 -1,20 5,28 3,6 10,12 18,12 10,0 16,-2 24,-7 12,-7 20,-19 26,-31 5,-10 6,-18 8,-29 0,-4 -2,-13 -3,-17 -1,-2 -2,-4 -4,-6 -7,-12 -24,-13 -37,-5 -10,5 -17,12 -24,21 -5,8 -11,21 -13,34l0 0zm-108 -39c10,1 19,-5 26,-14 20,-26 14,-72 -8,-88 -6,-5 -11,-8 -21,-9 -8,0 -18,6 -23,13 -12,15 -15,38 -11,57 1,8 5,18 9,24 7,8 15,17 28,17l0 0zm55 -52l0 8c-2,15 3,32 14,40 11,9 23,6 35,-2 18,-13 28,-35 31,-56 1,-13 -1,-24 -5,-32 -3,-6 -8,-12 -14,-14 -4,-2 -6,-2 -9,-3l-3 0c-3,1 -6,2 -10,3 -4,2 -8,4 -11,6 -4,3 -2,2 -7,6 -10,12 -19,29 -21,44l0 0z" style="fill:#156fad"/>
+   </g>
+   <path class="AccessorySuitcaseWithMoney2fil14suitcase AccessorySuitcaseWithMoney2str1suitcase" d="M2142 22390c-17,-215 44,-436 146,-613 109,-191 268,-335 430,-370l47 294c-91,20 -189,114 -262,241 -72,125 -116,278 -104,421l-257 27z" style="fill:#662aa3"/>
+   <path class="AccessorySuitcaseWithMoney2fil15suitcase AccessorySuitcaseWithMoney2str1suitcase" d="M6101 22390c19,-215 -52,-436 -170,-613 -126,-191 -311,-335 -498,-370l-55 294c107,20 219,114 304,241 83,125 134,278 121,421l298 27z" style="fill:#c7194d"/>
+   <path class="AccessorySuitcaseWithMoney2fil16suitcase" d="M1589 22155c1662,-150 3405,-132 5068,0 152,0 126,69 125,176 -539,0 -641,194 -641,396 0,326 134,1130 -396,1190 -710,79 -1320,211 -1992,211 -698,0 -1433,-79 -2119,-211 -144,-28 -266,-132 -266,-292 0,-250 -80,-1443 221,-1470z" style="fill:#0b78dd"/>
+   <path class="AccessorySuitcaseWithMoney2fil2suitcase AccessorySuitcaseWithMoney2str3suitcase" d="M1789 22155c1662,-150 3205,-132 4868,0 152,0 -168,5 -258,-1 -569,-56 -584,391 -585,593 -1,326 -4,913 -421,977 -705,109 -1209,129 -1881,129 -699,0 -992,-4 -1678,-136 -144,-28 -266,-132 -266,-292 0,-250 -80,-1243 221,-1270z" style="fill:#a72d09"/>
+   <path class="AccessorySuitcaseWithMoney2fil17suitcase" d="M6584 22149l73 6c152,0 126,69 125,176 -539,0 -641,194 -641,396 0,326 134,1130 -396,1190 -710,79 -1320,211 -1992,211 -698,0 -1433,-79 -2119,-211 -73,-14 -140,-48 -188,-98 683,131 1413,209 2107,209 672,0 1282,-132 1992,-211 530,-60 396,-864 396,-1190 0,-202 102,-396 641,-396 0,-31 3,-58 2,-82z" style="fill:#982491"/>
+   <path class="AccessorySuitcaseWithMoney2fil18suitcase AccessorySuitcaseWithMoney2str4suitcase" d="M1589 22155c1662,-150 3405,-132 5068,0 152,0 126,69 125,176 -539,0 -641,194 -641,396 0,326 134,1130 -396,1190 -710,79 -1320,211 -1992,211 -698,0 -1433,-79 -2119,-211 -144,-28 -266,-132 -266,-292 0,-250 -80,-1443 221,-1470z" style="fill:#708911"/>
+   <path class="AccessorySuitcaseWithMoney2fil19suitcase AccessorySuitcaseWithMoney2str1suitcase" d="M3905 23845l100 501c29,146 -296,224 -528,224 -210,0 -507,-102 -482,-224l100 -501c24,-122 172,-118 382,-118 232,0 399,-27 428,118z" style="fill:#e4ad1a"/>
+   <path class="AccessorySuitcaseWithMoney2fil20suitcase" d="M4031 21073c353,0 1524,5 1524,395 0,567 -536,189 -1524,189 -987,0 -1456,350 -1456,-156 0,-434 1104,-428 1456,-428z" style="fill:#435ec4"/>
+   <path class="AccessorySuitcaseWithMoney2fil17suitcase" d="M4031 21073c353,0 1524,5 1524,395 0,223 -83,300 -245,311 30,-48 45,-117 45,-211 0,-390 -1171,-395 -1524,-395 -231,0 -786,-3 -1141,118 293,-222 1059,-218 1341,-218z" style="fill:#e57213"/>
+   <path class="AccessorySuitcaseWithMoney2fil18suitcase AccessorySuitcaseWithMoney2str1suitcase" d="M4031 21073c353,0 1524,5 1524,395 0,567 -536,189 -1524,189 -987,0 -1456,350 -1456,-156 0,-434 1104,-428 1456,-428z" style="fill:#c54742"/>
+   <path class="AccessorySuitcaseWithMoney2fil21suitcase" d="M3477 24428c137,0 249,-35 249,-77 0,-43 -112,-77 -249,-77 -137,0 -249,34 -249,77 0,42 112,77 249,77z" style="fill:#e7c1ac"/>
+  </g>
+ </g><g id="Hair-Pig6">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_154Corel-Layer"/>
+  <path class="Hair-Pig6fil254" d="M17022 7893c153,-53 276,-144 299,-230 0,0 -180,-83 -587,-273 172,-186 306,-282 306,-282 -102,-113 -342,-145 -711,-161 209,-256 227,-911 187,-1043 -411,640 -789,485 -1315,433 6,-91 529,-482 652,-494 -155,-195 -567,-196 -1057,-78 -70,17 -213,129 -284,152 319,-236 306,-431 412,-801 -459,359 -1113,262 -1835,799 113,-270 163,-491 375,-560 -442,-294 -1406,565 -1796,984 237,-422 337,-670 337,-670 -425,-22 -927,757 -1127,1138 -15,-284 -217,-464 -287,-500 88,1631 -570,1526 14,2278 531,-298 802,-355 1348,-264 779,129 1041,535 1384,596 -58,-131 -71,-378 35,-319 103,57 275,471 335,610 93,-108 263,-540 408,-609 108,-51 18,335 -18,450 283,-26 468,-391 965,-581 502,-192 1173,-139 1657,90 2,-81 -21,-217 72,-390 45,-82 117,-175 231,-275z" style="fill:#98abf9"/>
+  <path class="Hair-Pig6fil30" d="M16719 8554c-50,-359 131,-610 376,-780 39,-27 75,-52 103,-74l-487 -227c-36,-17 -54,-68 -41,-113 5,-17 13,-31 24,-41 81,-88 154,-156 209,-204 -36,-15 -79,-27 -129,-37 -115,-23 -265,-35 -447,-43 -38,-1 -68,-42 -67,-90 0,-24 8,-46 21,-61 74,-91 125,-252 157,-419 25,-131 39,-262 44,-367 -323,444 -729,394 -1128,345 -48,-6 -96,-12 -159,-18 -38,-4 -66,-46 -63,-95 1,-24 10,-44 23,-59 47,-76 164,-179 291,-269 80,-56 165,-110 240,-152 -137,-51 -314,-73 -493,-66 -213,9 -424,60 -567,155 -21,18 -43,35 -66,52 -31,25 -72,16 -94,-23 -22,-39 -15,-94 16,-123 22,-20 47,-40 73,-58 109,-92 192,-201 244,-316 38,-85 58,-174 60,-263 -221,196 -480,269 -767,351 -297,85 -626,178 -968,432 -33,25 -76,10 -95,-32 -10,-23 -12,-50 -5,-74 30,-124 81,-233 145,-328 35,-52 74,-100 114,-144 -633,-57 -1088,453 -1427,835 -46,51 -89,100 -144,158 -29,31 -72,26 -97,-11 -20,-32 -21,-76 -3,-108 127,-225 214,-400 267,-512 -118,37 -241,130 -359,250 -247,249 -469,609 -585,831 -21,41 -64,51 -96,24 -18,-16 -29,-41 -30,-67l0 0c-6,-104 -38,-195 -79,-267 -21,-37 -44,-68 -65,-92 4,183 -1,346 -16,502l0 1c-20,199 -57,384 -118,583l0 0 -5 17c-216,630 71,948 79,1028 -101,-68 -379,-476 -207,-1095l5 -14 0 0c57,-185 91,-358 110,-542 18,-184 19,-382 9,-618 -4,-55 32,-103 76,-96 66,10 168,92 243,222 26,46 50,98 68,156 130,-223 319,-503 525,-712 182,-184 380,-313 570,-305 51,-1 86,69 62,128 0,1 -21,52 -65,148 363,-377 833,-742 1472,-590 63,11 83,119 28,163 -79,63 -161,143 -228,242 -7,12 -15,23 -22,35 287,-171 560,-249 811,-320 312,-89 589,-168 804,-410 38,-42 99,-20 112,44 40,182 16,367 -60,537 -14,33 -30,65 -49,96 102,-26 211,-41 319,-46 281,-11 564,48 722,176 59,43 39,158 -29,164 -54,6 -219,103 -368,208 -56,40 -110,79 -152,111l5 1c407,50 822,101 1113,-450 31,-59 102,-51 122,17 27,89 25,391 -29,673 -25,128 -60,254 -108,358 129,8 239,20 331,38 129,27 224,68 286,133 40,38 37,116 -6,148 -1,0 -84,60 -203,176 334,155 472,219 472,219 0,1 53,67 42,111 -26,99 -132,151 -241,227 -431,300 -405,461 -426,636z" style="fill:#0d1126"/>
+  <path class="Hair-Pig6fil10" d="M13749 9147c357,-929 -2078,-1771 -1230,-2948 -901,141 -1047,1541 -756,2092 60,9 123,19 190,30 108,17 205,40 295,67 -227,-320 -476,-515 -252,-1383 14,530 113,785 315,1043 298,381 724,712 727,740 172,108 299,129 299,129 -58,-131 -71,-378 35,-319 103,57 275,471 335,610 12,-15 27,-36 42,-61zm-2334 -860c-164,-74 -357,-214 -473,-410 -306,-513 -286,-1448 -319,-1460 0,0 -7,652 -81,871l0 0c-69,373 -175,565 -176,762 9,71 22,144 45,219 37,92 94,187 194,316 326,-189 560,-270 810,-298z" style="fill:#d8d9b4"/>
+  <path class="Hair-Pig6fil255" d="M14948 8517c200,-501 119,-839 -93,-1193 -212,-354 -112,-1199 68,-1316 182,-118 -1078,335 -707,1463 -340,-118 -719,-468 -543,-1104 -704,215 -369,1076 27,1356 196,138 456,506 465,920 4,32 1,77 -6,126 -5,45 -13,91 -25,137 -13,58 -27,111 -37,143 260,-24 437,-334 849,-531l2 -1z" style="fill:#972c97"/>
+  <path class="Hair-Pig6fil255" d="M15308 8396c0,0 380,-294 404,-740 23,-447 -133,-460 -45,-622 88,-161 419,-385 419,-385 0,0 -165,299 -107,486 59,187 407,444 312,649 -95,205 -368,416 -556,567 -159,0 -304,19 -427,45l0 0z" style="fill:#e6f162"/>
+ </g><g id="HeadCyberPunkMSet-Medium"><animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_20Corel-Layer"/>
+  <g id="Hat_x0020_Medium">
+   <g>
+    <path class="HeadCyberPunkMSet-Mediumfil4" d="M11278 8248c0,0 821,-66 989,234 308,552 921,963 1241,1056 -178,-1285 -1556,-2060 -2230,-1290z" style="fill:#33c5a6"/>
+    <path class="HeadCyberPunkMSet-Mediumfil365" d="M13517 9544c-714,-345 -905,-1765 -1843,-1479 44,-444 402,-982 857,-579 -21,-1740 -786,-3433 1631,-5297 -922,1972 497,1967 -221,3184 407,-187 668,-690 539,-1181 1015,941 216,1848 276,2351 296,-514 943,-509 1222,-203 -819,453 86,904 -360,1836 -194,-104 -400,-218 -423,62 -92,-161 -184,-281 -289,-294 -314,-39 -204,608 -500,826 24,-262 -90,-412 -168,-456 -70,658 -326,483 -416,868 -50,-62 -61,-415 45,-641 -164,128 -295,409 -350,1003z" style="fill:#b40214"/>
+    <path class="HeadCyberPunkMSet-Mediumfil366" d="M13507 9533c-714,-345 -895,-1754 -1833,-1468 296,-499 994,-462 1182,281 -28,-481 -237,-766 -406,-910 -550,-1395 139,-4139 1472,-5075 -1370,2016 -539,2744 -922,3976 579,-826 1756,-1186 1465,-2131 498,1200 -283,1787 -783,2538 -2,-240 291,-936 127,-1196 -49,492 -680,358 -500,1850 316,-245 986,-271 1136,-22 -1079,-106 -1053,1630 -938,2157zm1165 -2262c-237,-1043 866,-1492 1266,-904 -614,-122 -1130,435 -1266,904z" style="fill:#4037b6"/>
+    <path class="HeadCyberPunkMSet-Mediumfil119" d="M13578 3365c-130,718 727,988 158,1994 215,-752 -586,-1346 -158,-1994z" style="fill:#520753"/>
+    <path class="HeadCyberPunkMSet-Mediumfil341" d="M15565 6494c-279,438 176,824 -91,1457 52,-508 -515,-762 91,-1457z" style="fill:#313451"/>
+    <path class="HeadCyberPunkMSet-Mediumfil341" d="M14377 7514c-270,368 -38,863 -407,1368 52,-509 -143,-954 407,-1368z" style="fill:#8a01b6"/>
+    <path class="HeadCyberPunkMSet-Mediumfil341" d="M15095 7952c-249,-203 -431,-257 -509,351 -144,-614 237,-919 509,-351z" style="fill:#86e6fe"/>
+    <path class="HeadCyberPunkMSet-Mediumfil201 HeadCyberPunkMSet-Mediumstr2" d="M12179 8103c-264,-139 -478,-30 -564,-31 94,-335 408,-997 847,-700 -835,-2846 1279,-5137 1738,-5152 -67,231 -666,972 -243,1843 163,337 230,793 12,1300 425,-323 492,-640 500,-1161 878,765 539,1479 287,2341 369,-376 785,-722 1233,-215 -161,129 -472,65 -293,830 58,251 127,549 -18,935" style="fill:#495525"/>
+    <path class="HeadCyberPunkMSet-Mediumfil29" d="M12658 8541c-119,-180 -269,-427 -457,-511 -33,33 -22,107 -54,140 226,130 367,215 511,371z" style="fill:#08dcdb"/>
+    <path class="HeadCyberPunkMSet-Mediumfil342" d="M15206 8167c40,-190 232,-101 311,-80 51,14 89,2 109,-74 29,-126 179,-80 148,38 -100,362 -460,-74 -568,116z" style="fill:#3272b3"/>
+   </g>
+   <g>
+    <path class="HeadCyberPunkMSet-Mediumfil4" d="M7601 13143c821,14 3073,-5174 4795,995 89,-207 216,-1232 1288,-1153 535,39 1089,414 1252,1132 1502,-3800 -6352,-7088 -7335,-974z" style="fill:#e3ec0a"/>
+    <g>
+     <path class="HeadCyberPunkMSet-Mediumfil343" d="M16240 14895c583,409 1027,904 690,2339 812,-901 2020,-1535 1947,-3543 -343,552 -877,1153 -1606,1274 -380,64 -728,23 -1031,-70z" style="fill:#a235a9"/>
+     <path class="HeadCyberPunkMSet-Mediumfil343" d="M11125 14895c-583,409 -1028,904 -690,2339 -813,-901 -2020,-1535 -1948,-3543 344,552 878,1153 1606,1274 381,64 728,23 1032,-70z" style="fill:#ae7ac3"/>
+     <g>
+      <path class="HeadCyberPunkMSet-Mediumfil344" d="M17311 11178l2112 1411c0,0 -617,2155 -1977,2392 -1361,237 -2365,-1015 -2365,-1015 0,0 151,-2744 2230,-2788z" style="fill:#9f49b2"/>
+      <path class="HeadCyberPunkMSet-Mediumfil188 HeadCyberPunkMSet-Mediumstr39" d="M17374 10991l1354 770 653 859c-4,66 -576,2148 -1935,2361 -1359,213 -2365,-1015 -2365,-1015 0,0 214,-2931 2293,-2975z" style="fill:#01e066"/>
+     </g>
+     <g>
+      <path class="HeadCyberPunkMSet-Mediumfil344" d="M10053 11178l-2112 1411c0,0 616,2155 1977,2392 1360,237 2365,-1015 2365,-1015 0,0 -151,-2744 -2230,-2788z" style="fill:#539684"/>
+      <path class="HeadCyberPunkMSet-Mediumfil188 HeadCyberPunkMSet-Mediumstr39" d="M9990 10991l-1354 770 -653 859c4,66 576,2148 1935,2361 1359,213 2365,-1015 2365,-1015 0,0 -215,-2931 -2293,-2975z" style="fill:#f17c1f"/>
+     </g>
+     <g>
+      <path class="HeadCyberPunkMSet-Mediumfil345" d="M10243 11972c328,0 624,136 838,356 215,219 348,522 348,857 0,335 -133,638 -348,858 -214,219 -510,355 -838,355 -327,0 -623,-136 -838,-355 -214,-220 -347,-523 -347,-858 0,-335 133,-638 347,-857 215,-220 511,-356 838,-356zm1053 136c-270,-275 -642,-446 -1053,-446 -410,0 -782,171 -1052,446 -269,276 -436,657 -436,1077 0,421 167,801 436,1077 270,276 642,446 1052,446 411,0 783,-170 1053,-446 269,-276 436,-656 436,-1077 0,-420 -167,-801 -436,-1077z" style="fill:#e5b00d"/>
+      <path class="HeadCyberPunkMSet-Mediumfil345" d="M17162 11972c-327,0 -624,136 -838,356 -215,219 -347,522 -347,857 0,335 132,638 347,858 214,219 511,355 838,355 327,0 623,-136 838,-355 214,-220 347,-523 347,-858 0,-335 -133,-638 -347,-857 -215,-220 -511,-356 -838,-356zm-1052 136c269,-275 641,-446 1052,-446 411,0 783,171 1052,446 269,276 436,657 436,1077 0,421 -167,801 -436,1077 -269,276 -641,446 -1052,446 -411,0 -783,-170 -1052,-446 -270,-276 -436,-656 -436,-1077 0,-420 166,-801 436,-1077z" style="fill:#996b29"/>
+     </g>
+    </g>
+    <path class="HeadCyberPunkMSet-Mediumfil112" d="M19444 12724c-179,-82 -3094,-2029 -4413,1334 0,0 148,-1916 1450,-2424 1417,-565 2732,808 2963,1090z" style="fill:#9ed604"/>
+    <path class="HeadCyberPunkMSet-Mediumfil112" d="M7961 12724c179,-82 3094,-2029 4413,1334 0,0 -148,-1916 -1449,-2424 -1418,-565 -2733,808 -2964,1090z" style="fill:#cba86e"/>
+    <path class="HeadCyberPunkMSet-Mediumfil367" d="M7805 12761c264,-1568 1018,-2955 1873,-3789 2357,3673 1035,623 -1873,3789z" style="fill:#f1b724"/>
+    <path class="HeadCyberPunkMSet-Mediumfil368" d="M18357 9409c932,1127 1250,2680 1202,3352 -2588,-2789 -4130,-886 -1202,-3352z" style="fill:#c73219"/>
+    <path class="HeadCyberPunkMSet-Mediumfil369" d="M12845 9580c580,-3 1161,-5 1741,-7 1385,1579 -2824,1700 -1741,7z" style="fill:#04af7c"/>
+    <path class="HeadCyberPunkMSet-Mediumfil370" d="M19570 12772c94,-30 226,-73 336,-109 -231,-2064 -944,-4566 -3418,-4554 2601,2109 1837,1714 3082,4663z" style="fill:#57a722"/>
+    <path class="HeadCyberPunkMSet-Mediumfil371" d="M16565 8110c-598,-10 2915,1514 1737,2627 379,608 758,1217 1137,1825 -179,-1922 -781,-4178 -2874,-4452z" style="fill:#3e56d1"/>
+    <path class="HeadCyberPunkMSet-Mediumfil3 HeadCyberPunkMSet-Mediumstr0" d="M18507 10063l93 184 -309 479 1268 2035c94,-30 226,-73 337,-108 -229,-2036 -925,-4497 -3317,-4553" style="fill:#13c3db"/>
+    <path class="HeadCyberPunkMSet-Mediumfil372" d="M19559 12761c-1139,-931 -1811,-1415 -2755,-1181 -1281,319 -1353,1119 -1819,2502 -72,-360 -144,-721 -217,-1082l186 -1201 2750 -1195 1855 2157z" style="fill:#044bff"/>
+    <path class="HeadCyberPunkMSet-Mediumfil373" d="M7783 12761c1139,-931 1812,-1415 2755,-1181 1282,319 1353,1119 1820,2502 72,-360 144,-721 216,-1082l-211 -1619 -2957 -475 -1623 1855z" style="fill:#b15006"/>
+    <path class="HeadCyberPunkMSet-Mediumfil374" d="M7858 12761c-94,-30 -279,-73 -390,-108 232,-2065 944,-4566 3418,-4554 -1175,372 -2164,1806 -3028,4662z" style="fill:#e45db4"/>
+    <path class="HeadCyberPunkMSet-Mediumfil375" d="M10779 8110c521,-36 -2844,1409 -1737,2627 -379,608 -758,1217 -1137,1825 179,-1922 781,-4178 2874,-4452z" style="fill:#6dfdd7"/>
+    <path class="HeadCyberPunkMSet-Mediumfil376" d="M12490 13579l116 -579 -238 -1630 -1239 -1007 -1432 188 -1353 1543c866,-791 1541,-1081 2374,-874 1078,268 1506,1085 1772,2359z" style="fill:#483f13"/>
+    <path class="HeadCyberPunkMSet-Mediumfil377" d="M14884 13579l-116 -579 254 -1619 1224 -1018 1490 192 1294 1539c-865,-791 -1540,-1081 -2374,-874 -1077,268 -1505,1085 -1772,2359z" style="fill:#d320ea"/>
+    <path class="HeadCyberPunkMSet-Mediumfil378" d="M12531 12216l108 784c29,0 506,-306 1043,-306 537,0 1014,306 1042,306l102 -794c-667,-20 -1634,-157 -2295,10z" style="fill:#cd983d"/>
+    <path class="HeadCyberPunkMSet-Mediumfil379" d="M12684 9909c-66,422 -482,1875 -141,2519 807,-212 1484,-211 2291,3 314,-701 -90,-2114 -154,-2522l-1996 0z" style="fill:#0d4534"/>
+    <polygon class="HeadCyberPunkMSet-Mediumfil4" points="17846,8798 18867,9946 18306,10698 17809,10698 17925,10857 16370,10650 14938,11598 14962,11476 "/>
+    <polygon class="HeadCyberPunkMSet-Mediumfil4" points="9604,8729 8461,9909 9133,10724 9583,10698 9467,10857 11022,10650 12454,11598 12430,11476 "/>
+    <path class="HeadCyberPunkMSet-Mediumfil4" d="M14434 10994c78,1083 -26,1347 507,878 191,-741 -135,-1085 -507,-878z" style="fill:#209302"/>
+    <path class="HeadCyberPunkMSet-Mediumfil4" d="M12942 10994c-79,1083 25,1347 -508,878 -191,-741 136,-1085 508,-878z" style="fill:#db65ae"/>
+    <polygon class="HeadCyberPunkMSet-Mediumfil380" points="14538,11735 16246,10363 18072,10555 18642,9901 17770,8808 16184,7877 15809,8747 14370,9548 "/>
+    <polygon class="HeadCyberPunkMSet-Mediumfil381" points="14835,11520 16231,10343 18047,10568 18037,10214 18250,9915 17511,9017 16287,8315 16056,8952 14709,9639 "/>
+    <path class="HeadCyberPunkMSet-Mediumfil97" d="M18123 9272l-318 -508c0,0 -1640,-21 -1577,1524 286,180 1133,148 1133,148 0,0 -191,-783 762,-1164z" style="fill:#cb0c36"/>
+    <polygon class="HeadCyberPunkMSet-Mediumfil3 HeadCyberPunkMSet-Mediumstr0" points="14538,11735 16246,10363 18072,10555 18642,9901 17770,8808 16184,7877 15857,8720 14370,9548 "/>
+    <polygon class="HeadCyberPunkMSet-Mediumfil382" points="12826,11735 11118,10363 9292,10555 8722,9901 9594,8808 11180,7877 11555,8747 12994,9548 "/>
+    <polygon class="HeadCyberPunkMSet-Mediumfil381" points="12529,11520 11133,10343 9323,10547 9345,10214 9114,9915 9853,9017 11077,8315 11307,8952 12663,9658 "/>
+    <path class="HeadCyberPunkMSet-Mediumfil97" d="M9241 9272l318 -508c0,0 1640,-21 1577,1524 -286,180 -1133,148 -1133,148 0,0 191,-783 -762,-1164z" style="fill:#1845e6"/>
+    <polygon class="HeadCyberPunkMSet-Mediumfil3 HeadCyberPunkMSet-Mediumstr0" points="12826,11735 11118,10363 9292,10555 8722,9901 9594,8808 11180,7877 11507,8720 12994,9548 "/>
+    <path class="HeadCyberPunkMSet-Mediumfil3 HeadCyberPunkMSet-Mediumstr0" d="M8857 10063l-93 184 309 479 -1268 2035c-94,-30 -226,-73 -337,-108 229,-2036 925,-4497 3317,-4553" style="fill:#3ec45f"/>
+    <polygon class="HeadCyberPunkMSet-Mediumfil4" points="14537,11735 16245,10363 18071,10555 18641,9859 18020,10216 16210,10042 14808,11058 14702,9655 14369,9548 "/>
+    <polygon class="HeadCyberPunkMSet-Mediumfil4" points="12827,11735 11119,10363 9293,10555 8723,9859 9344,10216 11154,10042 12556,11058 12662,9655 12995,9548 "/>
+    <path class="HeadCyberPunkMSet-Mediumfil97" d="M13312 9546c126,841 173,1774 127,2705 -23,327 -116,439 -145,491 38,-59 666,19 754,-8 -74,-84 -115,-309 -123,-483 -42,-956 32,-2055 127,-2705 -162,0 -578,0 -740,0z" style="fill:#af6de6"/>
+    <path class="HeadCyberPunkMSet-Mediumfil3 HeadCyberPunkMSet-Mediumstr0" d="M12639 13000c539,-392 1547,-420 2085,0" style="fill:#9c93ae"/>
+    <path class="HeadCyberPunkMSet-Mediumfil3 HeadCyberPunkMSet-Mediumstr0" d="M17648 10527l1911 2234c-1139,-931 -1811,-1415 -2755,-1181 -1281,319 -1353,1119 -1819,2502 -72,-360 -144,-721 -217,-1082l249 -1645" style="fill:#6cd181"/>
+    <path class="HeadCyberPunkMSet-Mediumfil3 HeadCyberPunkMSet-Mediumstr0" d="M9716 10527l-1911 2234c1138,-931 1811,-1415 2755,-1181 1281,319 1353,1119 1819,2502 72,-360 144,-721 216,-1082l-248 -1645" style="fill:#733e6d"/>
+    <line class="HeadCyberPunkMSet-Mediumfil3 HeadCyberPunkMSet-Mediumstr0" x1="13001" x2="14366" y1="9570" y2="9570"/>
+    <path class="HeadCyberPunkMSet-Mediumfil383 HeadCyberPunkMSet-Mediumstr0" d="M18930 9410c427,-49 761,-597 398,-924 -238,-214 -590,-181 -814,35 -150,144 -217,387 -130,586 35,79 -15,162 -110,168 -149,10 -177,-60 -197,-131 -88,-301 15,-621 240,-837 335,-324 858,-361 1211,-42 537,483 184,1275 -434,1437 -54,-102 -108,-199 -164,-292z" style="fill:#447d36"/>
+    <path class="HeadCyberPunkMSet-Mediumfil4" d="M18078 8689c-31,26 110,325 213,137 48,122 69,270 69,270 49,180 -290,342 -306,5l24 -412z" style="fill:#245b33"/>
+    <path class="HeadCyberPunkMSet-Mediumfil4" d="M18919 9408c0,0 425,-185 457,-285 24,105 176,119 317,53 -104,238 -370,486 -551,513 -41,6 -174,-195 -223,-281z" style="fill:#45a616"/>
+    <path class="HeadCyberPunkMSet-Mediumfil10 HeadCyberPunkMSet-Mediumstr7" d="M18238 8694c164,-472 792,-668 1187,-332" style="fill:#7071d9"/>
+    <path class="HeadCyberPunkMSet-Mediumfil10 HeadCyberPunkMSet-Mediumstr7" d="M18929 8187c150,0 329,38 481,168" style="fill:#216911"/>
+    <path class="HeadCyberPunkMSet-Mediumfil4" d="M19854 12642c-102,-621 -204,-1241 -307,-1862 -134,14 -273,28 -407,42 90,328 158,658 206,985 -125,22 -245,41 -370,63 190,296 381,592 571,889 103,-39 205,-78 307,-117z" style="fill:#cd352a"/>
+    <path class="HeadCyberPunkMSet-Mediumfil4" d="M7493 12642c102,-621 204,-1241 307,-1862 134,14 268,28 402,42 -77,309 -145,617 -193,926 121,41 242,81 362,122l-571 889 -307 -117z" style="fill:#4a256f"/>
+    <path class="HeadCyberPunkMSet-Mediumfil4" d="M14760 13011c37,-154 100,-577 100,-577l170 539 -138 609 -132 -571z" style="fill:#a0f573"/>
+    <path class="HeadCyberPunkMSet-Mediumfil4" d="M12611 13011c-37,-154 -100,-577 -100,-577l-170 539 149 585 121 -547z" style="fill:#698ec3"/>
+   </g>
+  </g>
+  <g id="Glow_x0020_Medium"><animate attributeName="opacity" dur="7" repeatCount="indefinite" values="0.1;0.3;0.5;0.7;0.9;1;1;0.9;0.7;0.5;0.3;0.1"/>
+   <g>
+    <g>
+     <path class="HeadCyberPunkMSet-Mediumfil364" d="M17162 12047c-307,0 -585,127 -787,333 -201,206 -325,491 -325,805 0,315 124,599 325,805 202,206 480,334 787,334 307,0 585,-128 786,-334 202,-206 326,-490 326,-805 0,-314 -124,-599 -326,-805 -201,-206 -479,-333 -786,-333zm-988 127c253,-258 602,-418 988,-418 386,0 735,160 988,418 252,259 409,617 409,1011 0,395 -157,752 -409,1011 -253,259 -602,419 -988,419 -386,0 -735,-160 -988,-419 -253,-259 -409,-616 -409,-1011 0,-394 156,-752 409,-1011z" style="fill:#0c9c72"/>
+     <path class="HeadCyberPunkMSet-Mediumfil364" d="M17162 11744c-389,0 -741,162 -996,422 -254,261 -412,621 -412,1019 0,398 158,758 412,1019 255,261 607,422 996,422 389,0 741,-161 995,-422 255,-261 413,-621 413,-1019 0,-398 -158,-758 -413,-1019 -254,-260 -606,-422 -995,-422zm-1250 162c320,-327 762,-530 1250,-530 488,0 930,203 1250,530 320,327 518,780 518,1279 0,500 -198,952 -518,1280 -320,327 -762,530 -1250,530 -488,0 -930,-203 -1250,-530 -320,-328 -518,-780 -518,-1280 0,-499 198,-952 518,-1279z" style="fill:#68245e"/>
+     <path class="HeadCyberPunkMSet-Mediumfil3 HeadCyberPunkMSet-Mediumstr40" d="M16132 12131c-263,270 -426,643 -426,1054 0,411 163,784 426,1054 264,269 628,436 1030,436 402,0 766,-167 1029,-436 264,-270 427,-643 427,-1054 0,-411 -163,-784 -427,-1054 -565,-578 -1493,-578 -2059,0z" style="fill:#a15723"/>
+    </g>
+    <g>
+     <path class="HeadCyberPunkMSet-Mediumfil364" d="M10240 12047c-307,0 -585,127 -786,333 -201,206 -326,491 -326,805 0,315 125,599 326,805 201,206 479,334 786,334 308,0 586,-128 787,-334 201,-206 326,-490 326,-805 0,-314 -125,-599 -326,-805 -201,-206 -479,-333 -787,-333zm-987 127c252,-258 602,-418 987,-418 386,0 735,160 988,418 253,259 409,617 409,1011 0,395 -156,752 -409,1011 -253,259 -602,419 -988,419 -385,0 -735,-160 -987,-419 -253,-259 -409,-616 -409,-1011 0,-394 156,-752 409,-1011z" style="fill:#3e7c5a"/>
+     <path class="HeadCyberPunkMSet-Mediumfil364" d="M10240 11744c-388,0 -740,162 -995,422 -255,261 -412,621 -412,1019 0,398 157,758 412,1019 255,261 607,422 995,422 389,0 741,-161 996,-422 255,-261 412,-621 412,-1019 0,-398 -157,-758 -412,-1019 -255,-260 -607,-422 -996,-422zm-1250 162c320,-327 762,-530 1250,-530 489,0 931,203 1250,530 320,327 518,780 518,1279 0,500 -198,952 -518,1280 -319,327 -761,530 -1250,530 -488,0 -930,-203 -1250,-530 -320,-328 -518,-780 -518,-1280 0,-499 198,-952 518,-1279z" style="fill:#009024"/>
+     <path class="HeadCyberPunkMSet-Mediumfil3 HeadCyberPunkMSet-Mediumstr40" d="M9211 12131c-264,270 -427,643 -427,1054 0,411 163,784 427,1054 263,269 627,436 1029,436 402,0 766,-167 1030,-436 263,-270 426,-643 426,-1054 0,-411 -163,-784 -426,-1054 -566,-578 -1494,-578 -2059,0z" style="fill:#6b02b2"/>
+    </g>
+   </g>
+   <path class="HeadCyberPunkMSet-Mediumfil10 HeadCyberPunkMSet-Mediumstr37" d="M17157 12475c-380,0 -688,307 -688,685 0,378 308,685 688,685 381,0 689,-307 689,-685 0,-378 -308,-685 -689,-685z" style="fill:#0626cb"/>
+   <path class="HeadCyberPunkMSet-Mediumfil10 HeadCyberPunkMSet-Mediumstr37" d="M10229 12475c-380,0 -688,307 -688,685 0,378 308,685 688,685 381,0 689,-307 689,-685 0,-378 -308,-685 -689,-685z" style="fill:#3c4c81"/>
+   <g>
+    <line class="HeadCyberPunkMSet-Mediumfil188 HeadCyberPunkMSet-Mediumstr41" x1="10229" x2="10229" y1="11806" y2="14515"/>
+    <line class="HeadCyberPunkMSet-Mediumfil188 HeadCyberPunkMSet-Mediumstr41" x1="11591" x2="8868" y1="13160" y2="13160"/>
+   </g>
+  </g>
+ </g></svg>

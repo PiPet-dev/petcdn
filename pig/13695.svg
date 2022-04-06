@@ -1,0 +1,860 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd" version="1.1" viewBox="0 0 29000 29000" xml:space="preserve"><defs><style type="text/css">.HairBack-Pig0fil0 {fill:none}
+.Tail-Pig0fil0 {fill:none}
+.RightFoot-Pig0fil37 {fill:#ffc89c}
+.RightFoot-Pig0fil38 {fill:#332822}
+.RightFoot-Pig0fil39 {fill:url(#RightFoot-Pig0id227)}
+.RightFoot-Pig0fil40 {fill:black}
+.RightFoot-Pig0fil10 {fill:black;fill-opacity:0.200000}
+.RightFoot-Pig0fil0 {fill:none}
+.RightFoot-Pig0str2 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.RightLeg-Pig0fil52 {fill:url(#RightLeg-Pig0id37)}
+.RightLeg-Pig0fil10 {fill:black;fill-opacity:0.200000}
+.RightLeg-Pig0fil0 {fill:none}
+.RightLeg-Pig0str2 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.LeftFoot-Pig0fil37 {fill:#ffc89c}
+.LeftFoot-Pig0fil38 {fill:#332822}
+.LeftFoot-Pig0fil57 {fill:url(#LeftFoot-Pig0id220)}
+.LeftFoot-Pig0fil40 {fill:black}
+.LeftFoot-Pig0fil10 {fill:black;fill-opacity:0.200000}
+.LeftFoot-Pig0fil0 {fill:none}
+.LeftFoot-Pig0str2 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.LeftLeg-Pig0fil62 {fill:url(#LeftLeg-Pig0id49)}
+.LeftLeg-Pig0fil10 {fill:black;fill-opacity:0.200000}
+.LeftLeg-Pig0fil0 {fill:none}
+.LeftLeg-Pig0str2 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.RightHand-Pig0fil68 {fill:url(#RightHand-Pig0id57)}
+.RightHand-Pig0fil10 {fill:black;fill-opacity:0.200000}
+.RightHand-Pig0fil0 {fill:none}
+.RightHand-Pig0str0 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.RightPaw-Pig0fil74 {fill:url(#RightPaw-Pig0id25)}
+.RightPaw-Pig0fil10 {fill:black;fill-opacity:0.200000}
+.RightPaw-Pig0fil75 {fill:url(#RightPaw-Pig0id217)}
+.RightPaw-Pig0fil40 {fill:black}
+.RightPaw-Pig0fil0 {fill:none}
+.RightPaw-Pig0str2 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.LeftHand-Pig0fil79 {fill:url(#LeftHand-Pig0id22)}
+.LeftHand-Pig0fil10 {fill:black;fill-opacity:0.200000}
+.LeftHand-Pig0fil0 {fill:none}
+.LeftHand-Pig0str0 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.Body-Pig1fil83 {fill:url(#Body-Pig1id42)}
+.Body-Pig1fil10 {fill:black;fill-opacity:0.200000}
+.Body-Pig1fil84 {fill:black;fill-rule:nonzero}
+.Body-Pig1fil85 {fill:url(#Body-Pig1id44)}
+.LeftPaw-Pig0fil91 {fill:url(#LeftPaw-Pig0id70)}
+.LeftPaw-Pig0fil10 {fill:black;fill-opacity:0.200000}
+.LeftPaw-Pig0fil92 {fill:url(#LeftPaw-Pig0id209)}
+.LeftPaw-Pig0fil40 {fill:black}
+.LeftPaw-Pig0fil0 {fill:none}
+.LeftPaw-Pig0str2 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.Ears-Pig10fil38 {fill:#332822}
+.Ears-Pig10fil10 {fill:black;fill-opacity:0.200000}
+.Ears-Pig10fil153 {fill:url(#Ears-Pig10id213)}
+.Ears-Pig10fil155 {fill:url(#Ears-Pig10id228)}
+.Ears-Pig10fil152 {fill:url(#Ears-Pig10id5)}
+.Ears-Pig10str0 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.Ears-Pig10fil154 {fill:url(#Ears-Pig10id111)}
+.Head-Pig1fil160 {fill:url(#Head-Pig1id50)}
+.Head-Pig1fil161 {fill:url(#Head-Pig1id159)}
+.Head-Pig1fil10 {fill:black;fill-opacity:0.200000}
+.Head-Pig1fil84 {fill:black;fill-rule:nonzero}
+.Mouth-Pig6fil169 {fill:black}
+.Mouth-Pig6fil170 {fill:black;fill-rule:nonzero;fill-opacity:0.301961}
+.Mouth-Pig6fil0 {fill:none}
+.Mouth-Pig6str0 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.EyesClosed-Pig0fil38 {fill:#332822}
+.EyesClosed-Pig0fil10 {fill:black;fill-opacity:0.200000}
+.EyesClosed-Pig0fil84 {fill:black;fill-rule:nonzero}
+.Eyes-Pig0fil174 {fill:url(#Eyes-Pig0id154)}
+.Eyes-Pig0fil148 {fill:black;fill-opacity:0.501961}
+.Eyes-Pig0fil175 {fill:url(#Eyes-Pig0id108)}
+.Eyes-Pig0fil173 {fill:white}
+.Eyes-Pig0fil176 {fill:url(#Eyes-Pig0id100)}
+.Eyes-Pig0fil177 {fill:url(#Eyes-Pig0id156)}
+.Eyes-Pig0fil178 {fill:url(#Eyes-Pig0id106)}
+.Eyes-Pig0fil179 {fill:url(#Eyes-Pig0id102)}
+.Eyes-Pig0fil0 {fill:none}
+.Eyes-Pig0str0 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.Moustache-Pig0fil0 {fill:none}
+.Nose-Pig6fil244 {fill:url(#Nose-Pig6id181)}
+.Nose-Pig6str0 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.Nose-Pig6fil26 {fill:black;fill-opacity:0.301961}
+.Nose-Pig6str3 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.301961}
+.Nose-Pig6fil237 {fill:none}
+.Hair-Pig4fil250 {fill:url(#Hair-Pig4id8)}
+.Hair-Pig4fil10 {fill:black;fill-opacity:0.200000}
+.Hair-Pig4fil84 {fill:black;fill-rule:nonzero}
+.Hair-Pig4fil246 {fill:#b49868;fill-opacity:0.701961}
+.Hair-Pig4fil251 {fill:url(#Hair-Pig4id24)}
+.Hair-Pig4fil0 {fill:none}
+.Hair-Pig4str0 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.Hair-Pig4fil252 {fill:url(#Hair-Pig4id85)}
+.Hair-Pig4str1 {stroke:black;stroke-width:150}
+.AccessoryChristmas2020-Mediumfil0 {fill:url(#AccessoryChristmas2020-Mediumid155)}
+.AccessoryChristmas2020-Mediumfil1 {fill:url(#AccessoryChristmas2020-Mediumid97)}
+.AccessoryChristmas2020-Mediumfil2 {fill:url(#AccessoryChristmas2020-Mediumid149)}
+.AccessoryChristmas2020-Mediumfil3 {fill:url(#AccessoryChristmas2020-Mediumid82)}
+.AccessoryChristmas2020-Mediumfil5 {fill:url(#AccessoryChristmas2020-Mediumid99)}
+.AccessoryChristmas2020-Mediumfil6 {fill:url(#AccessoryChristmas2020-Mediumid96)}
+.AccessoryChristmas2020-Mediumfil7 {fill:url(#AccessoryChristmas2020-Mediumid71)}
+.AccessoryChristmas2020-Mediumfil8 {fill:url(#AccessoryChristmas2020-Mediumid133)}
+.AccessoryChristmas2020-Mediumfil9 {fill:url(#AccessoryChristmas2020-Mediumid117)}
+.AccessoryChristmas2020-Mediumfil10 {fill:url(#AccessoryChristmas2020-Mediumid76)}
+.AccessoryChristmas2020-Mediumfil11 {fill:url(#AccessoryChristmas2020-Mediumid109)}
+.AccessoryChristmas2020-Mediumfil12 {fill:black;fill-opacity:0.250980}
+.AccessoryChristmas2020-Mediumfil13 {fill:black;fill-opacity:0.200000}
+.AccessoryChristmas2020-Mediumfil23 {fill:black;fill-opacity:0.200000}
+.AccessoryChristmas2020-Mediumfil24 {fill:url(#AccessoryChristmas2020-Mediumid72)}
+.AccessoryChristmas2020-Mediumfil26 {fill:url(#AccessoryChristmas2020-Mediumid83)}
+.AccessoryChristmas2020-Mediumfil27 {fill:url(#AccessoryChristmas2020-Mediumid102)}
+.AccessoryChristmas2020-Mediumfil28 {fill:url(#AccessoryChristmas2020-Mediumid69)}
+.AccessoryChristmas2020-Mediumfil29 {fill:url(#AccessoryChristmas2020-Mediumid152)}
+.AccessoryChristmas2020-Mediumfil30 {fill:url(#AccessoryChristmas2020-Mediumid70)}
+.AccessoryChristmas2020-Mediumfil31 {fill:url(#AccessoryChristmas2020-Mediumid107)}
+.AccessoryChristmas2020-Mediumfil32 {fill:url(#AccessoryChristmas2020-Mediumid148)}
+.AccessoryChristmas2020-Mediumfil33 {fill:url(#AccessoryChristmas2020-Mediumid112)}
+.AccessoryChristmas2020-Mediumfil34 {fill:url(#AccessoryChristmas2020-Mediumid123)}
+.AccessoryChristmas2020-Mediumfil35 {fill:url(#AccessoryChristmas2020-Mediumid95)}
+.AccessoryChristmas2020-Mediumfil41 {fill:#402703;fill-opacity:0.400000}
+.AccessoryChristmas2020-Mediumfil42 {fill:url(#AccessoryChristmas2020-Mediumid127)}
+.AccessoryChristmas2020-Mediumfil43 {fill:url(#AccessoryChristmas2020-Mediumid103)}
+.AccessoryChristmas2020-Mediumfil44 {fill:url(#AccessoryChristmas2020-Mediumid135)}
+.AccessoryChristmas2020-Mediumfil45 {fill:url(#AccessoryChristmas2020-Mediumid88)}
+.AccessoryChristmas2020-Mediumfil46 {fill:url(#AccessoryChristmas2020-Mediumid79)}
+.AccessoryChristmas2020-Mediumfil47 {fill:url(#AccessoryChristmas2020-Mediumid84)}
+.AccessoryChristmas2020-Mediumfil48 {fill:url(#AccessoryChristmas2020-Mediumid78)}
+.AccessoryChristmas2020-Mediumfil4 {fill:none}
+.AccessoryChristmas2020-Mediumstr0 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.AccessoryChristmas2020-Mediumfil14 {fill:url(#AccessoryChristmas2020-Mediumid142)}
+.AccessoryChristmas2020-Mediumfil15 {fill:url(#AccessoryChristmas2020-Mediumid113)}
+.AccessoryChristmas2020-Mediumfil16 {fill:url(#AccessoryChristmas2020-Mediumid68)}
+.AccessoryChristmas2020-Mediumfil17 {fill:url(#AccessoryChristmas2020-Mediumid132)}
+.AccessoryChristmas2020-Mediumfil18 {fill:url(#AccessoryChristmas2020-Mediumid119)}
+.AccessoryChristmas2020-Mediumfil19 {fill:url(#AccessoryChristmas2020-Mediumid138)}
+.AccessoryChristmas2020-Mediumfil20 {fill:url(#AccessoryChristmas2020-Mediumid67)}
+.AccessoryChristmas2020-Mediumfil21 {fill:url(#AccessoryChristmas2020-Mediumid114)}
+.AccessoryChristmas2020-Mediumfil22 {fill:url(#AccessoryChristmas2020-Mediumid73)}
+.AccessoryChristmas2020-Mediumfil25 {fill:none}
+.AccessoryChristmas2020-Mediumstr1 {stroke:black;stroke-width:100;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.200000}
+.AccessoryChristmas2020-Mediumfil36 {fill:url(#AccessoryChristmas2020-Mediumid105)}
+.AccessoryChristmas2020-Mediumfil37 {fill:url(#AccessoryChristmas2020-Mediumid139)}
+.AccessoryChristmas2020-Mediumfil38 {fill:url(#AccessoryChristmas2020-Mediumid120)}
+.AccessoryChristmas2020-Mediumfil39 {fill:url(#AccessoryChristmas2020-Mediumid150)}
+.AccessoryChristmas2020-Mediumfil40 {fill:url(#AccessoryChristmas2020-Mediumid157)}
+.AccessoryChristmas2020-Mediumstr2 {stroke:black;stroke-width:150}
+.AccessoryChristmas2020-Mediumfil49 {fill:url(#AccessoryChristmas2020-Mediumid144)}
+.AccessoryChristmas2020-Mediumfil50 {fill:url(#AccessoryChristmas2020-Mediumid131)}
+.AccessoryChristmas2020-Mediumfil51 {fill:url(#AccessoryChristmas2020-Mediumid121)}
+.AccessoryChristmas2020-Mediumfil52 {fill:url(#AccessoryChristmas2020-Mediumid65)}
+.AccessoryChristmas2020-Mediumfil53 {fill:url(#AccessoryChristmas2020-Mediumid81)}
+.AccessoryChristmas2020-Mediumfil54 {fill:url(#AccessoryChristmas2020-Mediumid101)}
+.AccessoryChristmas2020-Mediumfil55 {fill:url(#AccessoryChristmas2020-Mediumid90)}
+.AccessoryChristmas2020-Mediumfil56 {fill:url(#AccessoryChristmas2020-Mediumid106)}
+.AccessoryChristmas2020-Mediumfil57 {fill:url(#AccessoryChristmas2020-Mediumid91)}
+.WeaponChristmas2020Back-Mediumfil59 {fill:black;fill-rule:nonzero;fill-opacity:0.301961}
+.WeaponChristmas2020Back-Mediumfil60 {fill:url(#WeaponChristmas2020Back-Mediumid275);fill-rule:nonzero}
+.WeaponChristmas2020Back-Mediumstr3 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.WeaponChristmas2020-Mediumfil59 {fill:black;fill-rule:nonzero;fill-opacity:0.301961}
+.WeaponChristmas2020-Mediumfil210 {fill:#FFC300;fill-opacity:0.050980}
+.WeaponChristmas2020-Mediumfil211 {fill:#FFC60D;fill-opacity:0.050980}
+.WeaponChristmas2020-Mediumfil212 {fill:#FFC91A;fill-opacity:0.050980}
+.WeaponChristmas2020-Mediumfil213 {fill:#FFCC26;fill-opacity:0.050980}
+.WeaponChristmas2020-Mediumfil214 {fill:#FFCF33;fill-opacity:0.050980}
+.WeaponChristmas2020-Mediumfil215 {fill:#FFD240;fill-opacity:0.050980}
+.WeaponChristmas2020-Mediumfil216 {fill:#FFD54D;fill-opacity:0.050980}
+.WeaponChristmas2020-Mediumfil217 {fill:#FFD859;fill-opacity:0.050980}
+.WeaponChristmas2020-Mediumfil218 {fill:#FFDB66;fill-opacity:0.050980}
+.WeaponChristmas2020-Mediumfil219 {fill:#FFDE73;fill-opacity:0.050980}
+.WeaponChristmas2020-Mediumfil220 {fill:#FFE180;fill-opacity:0.050980}
+.WeaponChristmas2020-Mediumfil221 {fill:#FFE48C;fill-opacity:0.050980}
+.WeaponChristmas2020-Mediumfil222 {fill:#FFE799;fill-opacity:0.050980}
+.WeaponChristmas2020-Mediumfil223 {fill:#FFEAA6;fill-opacity:0.050980}
+.WeaponChristmas2020-Mediumfil224 {fill:#FFEDB3;fill-opacity:0.050980}
+.WeaponChristmas2020-Mediumfil225 {fill:#FFF0BF;fill-opacity:0.050980}
+.WeaponChristmas2020-Mediumfil226 {fill:#FFF3CC;fill-opacity:0.050980}
+.WeaponChristmas2020-Mediumfil227 {fill:#FFF6D9;fill-opacity:0.050980}
+.WeaponChristmas2020-Mediumfil228 {fill:#FFF9E6;fill-opacity:0.050980}
+.WeaponChristmas2020-Mediumfil229 {fill:#FFFCF2;fill-opacity:0.050980}
+.WeaponChristmas2020-Mediumfil262 {fill:url(#WeaponChristmas2020-Mediumid163)}
+.WeaponChristmas2020-Mediumfil263 {fill:url(#WeaponChristmas2020-Mediumid172)}
+.WeaponChristmas2020-Mediumfil264 {fill:url(#WeaponChristmas2020-Mediumid185)}
+.WeaponChristmas2020-Mediumfil265 {fill:url(#WeaponChristmas2020-Mediumid179)}
+.WeaponChristmas2020-Mediumfil266 {fill:url(#WeaponChristmas2020-Mediumid186)}
+.WeaponChristmas2020-Mediumfil267 {fill:url(#WeaponChristmas2020-Mediumid167)}
+.WeaponChristmas2020-Mediumfil268 {fill:url(#WeaponChristmas2020-Mediumid190)}
+.WeaponChristmas2020-Mediumfil269 {fill:url(#WeaponChristmas2020-Mediumid182)}
+.WeaponChristmas2020-Mediumfil270 {fill:url(#WeaponChristmas2020-Mediumid169)}
+.WeaponChristmas2020-Mediumfil271 {fill:url(#WeaponChristmas2020-Mediumid165)}
+.WeaponChristmas2020-Mediumfil272 {fill:url(#WeaponChristmas2020-Mediumid175)}
+.WeaponChristmas2020-Mediumfil273 {fill:url(#WeaponChristmas2020-Mediumid187)}
+.WeaponChristmas2020-Mediumfil274 {fill:url(#WeaponChristmas2020-Mediumid171)}
+.WeaponChristmas2020-Mediumfil275 {fill:url(#WeaponChristmas2020-Mediumid189)}
+.WeaponChristmas2020-Mediumfil276 {fill:url(#WeaponChristmas2020-Mediumid168)}
+.WeaponChristmas2020-Mediumfil277 {fill:url(#WeaponChristmas2020-Mediumid170)}
+.WeaponChristmas2020-Mediumfil278 {fill:url(#WeaponChristmas2020-Mediumid166)}
+.WeaponChristmas2020-Mediumfil279 {fill:url(#WeaponChristmas2020-Mediumid183)}
+.WeaponChristmas2020-Mediumfil280 {fill:url(#WeaponChristmas2020-Mediumid173)}
+.WeaponChristmas2020-Mediumfil281 {fill:url(#WeaponChristmas2020-Mediumid176)}
+.WeaponChristmas2020-Mediumfil282 {fill:url(#WeaponChristmas2020-Mediumid174)}
+.WeaponChristmas2020-Mediumfil283 {fill:url(#WeaponChristmas2020-Mediumid188)}
+.WeaponChristmas2020-Mediumfil284 {fill:url(#WeaponChristmas2020-Mediumid191)}
+.WeaponChristmas2020-Mediumfil285 {fill:url(#WeaponChristmas2020-Mediumid177)}
+.WeaponChristmas2020-Mediumfil286 {fill:url(#WeaponChristmas2020-Mediumid180)}
+.WeaponChristmas2020-Mediumfil287 {fill:url(#WeaponChristmas2020-Mediumid178)}
+.WeaponChristmas2020-Mediumfil288 {fill:url(#WeaponChristmas2020-Mediumid164)}
+.WeaponChristmas2020-Mediumfil289 {fill:url(#WeaponChristmas2020-Mediumid184)}
+.WeaponChristmas2020-Mediumfil290 {fill:url(#WeaponChristmas2020-Mediumid181)}
+.WeaponChristmas2020-Mediumfil291 {fill:url(#WeaponChristmas2020-Mediumid208)}
+.WeaponChristmas2020-Mediumfil292 {fill:url(#WeaponChristmas2020-Mediumid233)}
+.WeaponChristmas2020-Mediumfil261 {fill:url(#WeaponChristmas2020-Mediumid274);fill-rule:nonzero}
+.WeaponChristmas2020-Mediumstr4 {stroke:black;stroke-width:150}
+</style><linearGradient gradientUnits="objectBoundingBox" id="RightFoot-Pig0id227" x1="49.9997%" x2="49.9997%" xlink:href="#RightFoot-Pig0id0" y1="100%" y2="0%">
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="RightLeg-Pig0id37" x1="50%" x2="50%" xlink:href="#RightLeg-Pig0id2" y1="100%" y2="0%">
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="LeftFoot-Pig0id220" x1="50.0003%" x2="50.0003%" xlink:href="#LeftFoot-Pig0id0" y1="100%" y2="0%">
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="LeftLeg-Pig0id49" x1="50%" x2="50%" xlink:href="#LeftLeg-Pig0id2" y1="100%" y2="0%">
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="RightHand-Pig0id57" x1="30.1244%" x2="69.8756%" xlink:href="#RightHand-Pig0id22" y1="2.32158%" y2="97.6784%">
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="RightPaw-Pig0id25" x1="81.8832%" x2="18.1168%" y1="89.1977%" y2="10.8018%">
+   <stop offset="0" style="stop-opacity:1; stop-color:#cc8a54"/>
+   <stop offset="0.619608" style="stop-opacity:1; stop-color:#f3ac70"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#f3ac70"/>
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="RightPaw-Pig0id217" x1="50%" x2="50%" xlink:href="#RightPaw-Pig0id0" y1="100%" y2="0%">
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="LeftHand-Pig0id22" x1="69.8756%" x2="30.1244%" y1="2.32158%" y2="97.6784%">
+   <stop offset="0" style="stop-opacity:1; stop-color:#cc8a54"/>
+   <stop offset="0.0196078" style="stop-opacity:1; stop-color:#cc8a54"/>
+   <stop offset="0.921569" style="stop-opacity:1; stop-color:#f3ac70"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#f3ac70"/>
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="Body-Pig1id42" x1="50%" x2="50%" y1="0.000186021%" y2="100%">
+   <stop offset="0" style="stop-opacity:1; stop-color:#cc8a54"/>
+   <stop offset="0.0313725" style="stop-opacity:1; stop-color:#cc8a54"/>
+   <stop offset="0.529412" style="stop-opacity:1; stop-color:#f3ac70"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#ffc89c"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Body-Pig1id44" x1="13681.9" x2="13681.9" xlink:href="#Body-Pig1id30" y1="22736.8" y2="18207.8">
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="LeftPaw-Pig0id70" x1="18.1168%" x2="81.8832%" xlink:href="#LeftPaw-Pig0id25" y1="89.1977%" y2="10.8018%">
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="LeftPaw-Pig0id209" x1="50%" x2="50%" xlink:href="#LeftPaw-Pig0id0" y1="100%" y2="0%">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Ears-Pig10id213" x1="17412.7" x2="17412.7" xlink:href="#Ears-Pig10id3" y1="9449.98" y2="7256.74">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Ears-Pig10id228" x1="9951.22" x2="9951.22" xlink:href="#Ears-Pig10id3" y1="9449.98" y2="7256.74">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Ears-Pig10id5" x1="18537.4" x2="18537.4" y1="11625" y2="5118.17">
+   <stop offset="0" style="stop-opacity:1; stop-color:#332822"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#f3ac70"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Ears-Pig10id111" x1="8826.5" x2="8826.5" xlink:href="#Ears-Pig10id5" y1="11625" y2="5118.07">
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="Head-Pig1id50" x1="50%" x2="50%" xlink:href="#Head-Pig1id3" y1="99.9999%" y2="0%">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Head-Pig1id159" x1="10433.5" x2="10113" xlink:href="#Head-Pig1id0" y1="14832.1" y2="10239.8">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Eyes-Pig0id154" x1="16571.6" x2="17280" xlink:href="#Eyes-Pig0id148" y1="14231.4" y2="11213.2">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Eyes-Pig0id108" x1="18190.8" x2="15498.7" xlink:href="#Eyes-Pig0id10" y1="13790.3" y2="13468">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Eyes-Pig0id100" x1="16928.3" x2="16431.9" xlink:href="#Eyes-Pig0id45" y1="11523.4" y2="13592.4">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Eyes-Pig0id156" x1="10792.3" x2="10083.9" xlink:href="#Eyes-Pig0id148" y1="14231.4" y2="11213.2">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Eyes-Pig0id106" x1="9173.07" x2="11865.2" xlink:href="#Eyes-Pig0id10" y1="13790.3" y2="13468">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Eyes-Pig0id102" x1="10435.6" x2="10932" xlink:href="#Eyes-Pig0id45" y1="11523.4" y2="13592.4">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Nose-Pig6id181" x1="13681.9" x2="13681.9" xlink:href="#Nose-Pig6id151" y1="13079.6" y2="15426.2">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Hair-Pig4id8" x1="14145" x2="14145" xlink:href="#Hair-Pig4id7" y1="3897.69" y2="8320.53">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Hair-Pig4id24" x1="13551.5" x2="13551.5" xlink:href="#Hair-Pig4id7" y1="6803" y2="8984.48">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Hair-Pig4id85" x1="12145.8" x2="14996" xlink:href="#Hair-Pig4id10" y1="6795.31" y2="6795.31">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryChristmas2020-Mediumid155" x1="4527.89" x2="5981.22" xlink:href="#AccessoryChristmas2020-Mediumid69" y1="22587.4" y2="19680.8">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryChristmas2020-Mediumid97" x1="1911.32" x2="3854.36" xlink:href="#AccessoryChristmas2020-Mediumid76" y1="19885" y2="22383.2">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryChristmas2020-Mediumid149" x1="4665.23" x2="5936.16" xlink:href="#AccessoryChristmas2020-Mediumid79" y1="20372.6" y2="21704">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryChristmas2020-Mediumid82" x1="2481.93" x2="3262.88" xlink:href="#AccessoryChristmas2020-Mediumid54" y1="22258.3" y2="19967.5">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryChristmas2020-Mediumid99" x1="3049.95" x2="5087.44" y1="20384.8" y2="18092.6">
+   <stop offset="0" style="stop-opacity:1; stop-color:#D4910C"/>
+   <stop offset="0.341176" style="stop-opacity:1; stop-color:#EDB74C"/>
+   <stop offset="0.780392" style="stop-opacity:1; stop-color:#FFF9D4"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#FFAE17"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryChristmas2020-Mediumid96" x1="3965.52" x2="4426.07" xlink:href="#AccessoryChristmas2020-Mediumid54" y1="19895.2" y2="18544.3">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryChristmas2020-Mediumid71" x1="3770.44" x2="4230.98" xlink:href="#AccessoryChristmas2020-Mediumid54" y1="19894.3" y2="18543.4">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryChristmas2020-Mediumid133" x1="4645.06" x2="6004.41" xlink:href="#AccessoryChristmas2020-Mediumid99" y1="20875.6" y2="19346.4">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryChristmas2020-Mediumid117" x1="5232.51" x2="5551.76" xlink:href="#AccessoryChristmas2020-Mediumid79" y1="20564.4" y2="19627.9">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryChristmas2020-Mediumid109" x1="2595.99" x2="2907.17" xlink:href="#AccessoryChristmas2020-Mediumid54" y1="20503.8" y2="19591">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryChristmas2020-Mediumid72" x1="8443.51" x2="7284.27" y1="19528.3" y2="22046.6">
+   <stop offset="0" style="stop-opacity:1; stop-color:#003823"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#00824E"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryChristmas2020-Mediumid83" x1="7992.97" x2="7637.29" y1="21890.6" y2="19578.7">
+   <stop offset="0" style="stop-opacity:1; stop-color:#D4910C"/>
+   <stop offset="0.270588" style="stop-opacity:1; stop-color:#EDB74C"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#AB6C00"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryChristmas2020-Mediumid102" x1="8932.78" x2="10805.2" xlink:href="#AccessoryChristmas2020-Mediumid89" y1="19975.2" y2="21599.8">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryChristmas2020-Mediumid152" x1="7864.82" x2="9868.04" xlink:href="#AccessoryChristmas2020-Mediumid89" y1="18344.3" y2="20082.4">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryChristmas2020-Mediumid70" x1="8676.98" x2="9258.78" xlink:href="#AccessoryChristmas2020-Mediumid69" y1="19779.4" y2="18615.8">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryChristmas2020-Mediumid107" x1="8349.16" x2="9275.17" xlink:href="#AccessoryChristmas2020-Mediumid76" y1="18601.6" y2="19792.2">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryChristmas2020-Mediumid148" x1="7550.61" x2="8420.1" xlink:href="#AccessoryChristmas2020-Mediumid76" y1="20951.9" y2="19321.6">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryChristmas2020-Mediumid112" x1="8365.19" x2="7798.51" y1="20059.3" y2="19198.3">
+   <stop offset="0" style="stop-opacity:1; stop-color:#C48930"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#A36B10"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryChristmas2020-Mediumid123" x1="9335.88" x2="9812.7" xlink:href="#AccessoryChristmas2020-Mediumid99" y1="19381.4" y2="20937.3">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryChristmas2020-Mediumid95" x1="9235.65" x2="9959.02" y1="20040.1" y2="19549.1">
+   <stop offset="0" style="stop-opacity:1; stop-color:#C48930"/>
+   <stop offset="0.439216" style="stop-opacity:1; stop-color:#B47A20"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#A36B10"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryChristmas2020-Mediumid127" x1="7100.46" x2="10298.1" xlink:href="#AccessoryChristmas2020-Mediumid79" y1="24165.3" y2="22509.3">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryChristmas2020-Mediumid103" x1="8613.7" x2="9169.22" xlink:href="#AccessoryChristmas2020-Mediumid69" y1="23792" y2="22752.6">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryChristmas2020-Mediumid135" x1="4773.69" x2="5510.52" xlink:href="#AccessoryChristmas2020-Mediumid54" y1="24601.2" y2="22439.8">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryChristmas2020-Mediumid88" x1="5127.52" x2="4950.52" xlink:href="#AccessoryChristmas2020-Mediumid83" y1="24017.8" y2="22867.4">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryChristmas2020-Mediumid84" x1="6884.79" x2="7939.38" xlink:href="#AccessoryChristmas2020-Mediumid69" y1="23172.3" y2="21429.9">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryChristmas2020-Mediumid78" x1="6975.16" x2="7319.2" xlink:href="#AccessoryChristmas2020-Mediumid69" y1="23244.5" y2="21381">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryChristmas2020-Mediumid142" x1="4070.51" x2="4018.16" y1="18250.2" y2="17116.1">
+   <stop offset="0" style="stop-opacity:1; stop-color:#80000D"/>
+   <stop offset="0.470588" style="stop-opacity:1; stop-color:#F60023"/>
+   <stop offset="0.780392" style="stop-opacity:1; stop-color:#FF8B85"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#FF001A"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryChristmas2020-Mediumid113" x1="4714.05" x2="5249.98" xlink:href="#AccessoryChristmas2020-Mediumid67" y1="18592.5" y2="17457.5">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryChristmas2020-Mediumid68" x1="4620.97" x2="5880.2" y1="18845.9" y2="18749">
+   <stop offset="0" style="stop-opacity:1; stop-color:#80000D"/>
+   <stop offset="0.470588" style="stop-opacity:1; stop-color:#F60023"/>
+   <stop offset="0.8" style="stop-opacity:1; stop-color:#FF8B85"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#FF001A"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryChristmas2020-Mediumid132" x1="2795.64" x2="3152.13" xlink:href="#AccessoryChristmas2020-Mediumid54" y1="19373" y2="18327.3">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryChristmas2020-Mediumid119" x1="3363.01" x2="2546.32" xlink:href="#AccessoryChristmas2020-Mediumid67" y1="18597.3" y2="17655">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryChristmas2020-Mediumid138" x1="3909.77" x2="3172.63" xlink:href="#AccessoryChristmas2020-Mediumid67" y1="19144.3" y2="17948.9">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryChristmas2020-Mediumid114" x1="3511.06" x2="3587.69" xlink:href="#AccessoryChristmas2020-Mediumid67" y1="19413.8" y2="18724.3">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryChristmas2020-Mediumid73" x1="4673.37" x2="4569.26" xlink:href="#AccessoryChristmas2020-Mediumid67" y1="19511.4" y2="18761.8">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryChristmas2020-Mediumid105" x1="8078.33" x2="7754.59" y1="19246.2" y2="18005.2">
+   <stop offset="0" style="stop-opacity:1; stop-color:#D4910C"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#AB6C00"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryChristmas2020-Mediumid139" x1="7137.48" x2="8709.47" y1="17953.2" y2="18774.9">
+   <stop offset="0" style="stop-opacity:1; stop-color:#CC7700"/>
+   <stop offset="0.341176" style="stop-opacity:1; stop-color:#EDB74C"/>
+   <stop offset="0.780392" style="stop-opacity:1; stop-color:#FFF9D4"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#FFAE17"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryChristmas2020-Mediumid120" x1="10188.2" x2="9879.75" xlink:href="#AccessoryChristmas2020-Mediumid105" y1="19896.6" y2="18714.3">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryChristmas2020-Mediumid150" x1="9085.85" x2="11034.9" xlink:href="#AccessoryChristmas2020-Mediumid65" y1="18979.2" y2="18878.8">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryChristmas2020-Mediumid157" x1="8860.96" x2="9099.85" y1="19382.9" y2="18666.2">
+   <stop offset="0" style="stop-opacity:1; stop-color:#C46900"/>
+   <stop offset="0.341176" style="stop-opacity:1; stop-color:#EDB74C"/>
+   <stop offset="0.780392" style="stop-opacity:1; stop-color:#FFF9D4"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#FFAE17"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryChristmas2020-Mediumid144" x1="7389.81" x2="7474.3" y1="21663.4" y2="20750.9">
+   <stop offset="0" style="stop-opacity:1; stop-color:#BA4D00"/>
+   <stop offset="0.439216" style="stop-opacity:1; stop-color:#EDB74C"/>
+   <stop offset="0.760784" style="stop-opacity:1; stop-color:#FFF9D4"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#FFAE17"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryChristmas2020-Mediumid131" x1="6802.79" x2="6388.68" xlink:href="#AccessoryChristmas2020-Mediumid65" y1="21935.3" y2="21009.6">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryChristmas2020-Mediumid121" x1="5802.92" x2="6888.95" xlink:href="#AccessoryChristmas2020-Mediumid65" y1="22107" y2="22051.1">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryChristmas2020-Mediumid81" x1="7926.87" x2="8727.42" y1="21906.7" y2="21233.2">
+   <stop offset="0" style="stop-opacity:1; stop-color:#BA4D00"/>
+   <stop offset="0.439216" style="stop-opacity:1; stop-color:#EDB74C"/>
+   <stop offset="0.709804" style="stop-opacity:1; stop-color:#FFF9D4"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#FFAE17"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryChristmas2020-Mediumid101" x1="7506.37" x2="8115.88" y1="22391.9" y2="21405.1">
+   <stop offset="0" style="stop-opacity:1; stop-color:#BA4D00"/>
+   <stop offset="0.439216" style="stop-opacity:1; stop-color:#EDB74C"/>
+   <stop offset="0.741176" style="stop-opacity:1; stop-color:#FFF9D4"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#FFAE17"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryChristmas2020-Mediumid90" x1="6966.89" x2="6558.76" xlink:href="#AccessoryChristmas2020-Mediumid81" y1="22419.4" y2="21435.1">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryChristmas2020-Mediumid106" x1="7852.55" x2="7738.87" xlink:href="#AccessoryChristmas2020-Mediumid65" y1="22612.8" y2="22028">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryChristmas2020-Mediumid91" x1="6759.29" x2="6990.55" xlink:href="#AccessoryChristmas2020-Mediumid65" y1="22685.1" y2="22039.4">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="WeaponChristmas2020Back-Mediumid275" x1="7919.43" x2="10200.8" y1="20294.4" y2="22343">
+   <stop offset="0" style="stop-opacity:1; stop-color:#EBE8E8"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#D9D0D0"/>
+  </linearGradient><radialGradient cx="12983.6" cy="23612.3" fx="12983.6" fy="23612.3" gradientTransform="matrix(0.935007 -0 -0 1 844 0)" gradientUnits="userSpaceOnUse" id="WeaponChristmas2020-Mediumid163" r="4075.78">
+   <stop offset="0" style="stop-opacity:1; stop-color:#FFFFEB"/>
+   <stop offset="0.54902" style="stop-opacity:1; stop-color:#FEFFC2"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#FFEA96"/>
+  </radialGradient><radialGradient cx="13296.2" cy="23814" fx="13296.2" fy="23814" gradientTransform="matrix(0.997158 -0 -0 1 38 0)" gradientUnits="userSpaceOnUse" id="WeaponChristmas2020-Mediumid172" r="1491.98">
+   <stop offset="0" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#FFFFED"/>
+  </radialGradient><radialGradient cx="15077.1" cy="22598.6" fx="15077.1" fy="22598.6" gradientTransform="matrix(1 -0 -0 0.739644 0 5884)" gradientUnits="userSpaceOnUse" id="WeaponChristmas2020-Mediumid185" r="869.65" xlink:href="#WeaponChristmas2020-Mediumid164">
+  </radialGradient><radialGradient cx="15200.7" cy="21221.8" fx="15200.7" fy="21221.8" gradientTransform="matrix(1.00001 -0 -0 0.825383 0 3706)" gradientUnits="userSpaceOnUse" id="WeaponChristmas2020-Mediumid179" r="471.88" xlink:href="#WeaponChristmas2020-Mediumid164">
+  </radialGradient><radialGradient cx="12940.8" cy="20892" fx="12940.8" fy="20892" gradientTransform="matrix(1 -0 -0 0.812812 0 3911)" gradientUnits="userSpaceOnUse" id="WeaponChristmas2020-Mediumid186" r="425.5" xlink:href="#WeaponChristmas2020-Mediumid164">
+  </radialGradient><radialGradient cx="12407" cy="27242.6" fx="12407" fy="27242.6" gradientTransform="matrix(1.00001 -0 -0 0.850248 0 4080)" gradientUnits="userSpaceOnUse" id="WeaponChristmas2020-Mediumid167" r="480.18" xlink:href="#WeaponChristmas2020-Mediumid164">
+  </radialGradient><radialGradient cx="12279.1" cy="20486.7" fx="12279.1" fy="20486.7" gradientTransform="matrix(1.00001 -0 -0 0.890504 0 2243)" gradientUnits="userSpaceOnUse" id="WeaponChristmas2020-Mediumid190" r="403.79" xlink:href="#WeaponChristmas2020-Mediumid164">
+  </radialGradient><radialGradient cx="10989.8" cy="21529.6" fx="10989.8" fy="21529.6" gradientTransform="matrix(1 -0 -0 0.853289 0 3159)" gradientUnits="userSpaceOnUse" id="WeaponChristmas2020-Mediumid182" r="479.31" xlink:href="#WeaponChristmas2020-Mediumid164">
+  </radialGradient><radialGradient cx="16237.6" cy="23814.5" fx="16237.6" fy="23814.5" gradientTransform="matrix(1.00001 -0 -0 0.888706 0 2650)" gradientUnits="userSpaceOnUse" id="WeaponChristmas2020-Mediumid169" r="469.22" xlink:href="#WeaponChristmas2020-Mediumid164">
+  </radialGradient><radialGradient cx="13965.2" cy="20581.2" fx="13965.2" fy="20581.2" gradientTransform="matrix(0.999994 -0 -0 0.800142 0 4113)" gradientUnits="userSpaceOnUse" id="WeaponChristmas2020-Mediumid165" r="439.54" xlink:href="#WeaponChristmas2020-Mediumid164">
+  </radialGradient><radialGradient cx="10090.1" cy="24613.7" fx="10090.1" fy="24613.7" gradientTransform="matrix(0.999995 -0 -0 0.937999 0 1526)" gradientUnits="userSpaceOnUse" id="WeaponChristmas2020-Mediumid175" r="400.87" xlink:href="#WeaponChristmas2020-Mediumid164">
+  </radialGradient><radialGradient cx="11668.1" cy="21114.3" fx="11668.1" fy="21114.3" gradientTransform="matrix(0.820841 -0 -0 1 2090 0)" gradientUnits="userSpaceOnUse" id="WeaponChristmas2020-Mediumid187" r="468.82" xlink:href="#WeaponChristmas2020-Mediumid164">
+  </radialGradient><radialGradient cx="16038.1" cy="25471.8" fx="16038.1" fy="25471.8" gradientTransform="matrix(0.947622 -0 -0 0.999998 840 0)" gradientUnits="userSpaceOnUse" id="WeaponChristmas2020-Mediumid171" r="404.02" xlink:href="#WeaponChristmas2020-Mediumid164">
+  </radialGradient><radialGradient cx="15827.9" cy="22824.3" fx="15827.9" fy="22824.3" gradientTransform="matrix(0.898824 -0 -0 1 1601 0)" gradientUnits="userSpaceOnUse" id="WeaponChristmas2020-Mediumid189" r="403.17" xlink:href="#WeaponChristmas2020-Mediumid164">
+  </radialGradient><radialGradient cx="10389.8" cy="22958.7" fx="10389.8" fy="22958.7" gradientTransform="matrix(0.999993 -0 -0 0.891894 0 2482)" gradientUnits="userSpaceOnUse" id="WeaponChristmas2020-Mediumid168" r="403.34" xlink:href="#WeaponChristmas2020-Mediumid164">
+  </radialGradient><radialGradient cx="14243.4" cy="21065.3" fx="14243.4" fy="21065.3" gradientTransform="matrix(1.00001 -0 -0 0.964377 0 750)" gradientUnits="userSpaceOnUse" id="WeaponChristmas2020-Mediumid170" r="420.94" xlink:href="#WeaponChristmas2020-Mediumid164">
+  </radialGradient><radialGradient cx="14167.5" cy="27029.8" fx="14167.5" fy="27029.8" gradientTransform="matrix(0.927471 -0 -0 1 1028 0)" gradientUnits="userSpaceOnUse" id="WeaponChristmas2020-Mediumid166" r="408.27" xlink:href="#WeaponChristmas2020-Mediumid164">
+  </radialGradient><radialGradient cx="10851.8" cy="25777.5" fx="10851.8" fy="25777.5" gradientTransform="matrix(0.99999 -0 -0 0.898239 0 2623)" gradientUnits="userSpaceOnUse" id="WeaponChristmas2020-Mediumid183" r="459.79" xlink:href="#WeaponChristmas2020-Mediumid164">
+  </radialGradient><radialGradient cx="10993.1" cy="22517.6" fx="10993.1" fy="22517.6" gradientTransform="matrix(1.00001 -0 -0 0.883984 0 2612)" gradientUnits="userSpaceOnUse" id="WeaponChristmas2020-Mediumid173" r="336.51" xlink:href="#WeaponChristmas2020-Mediumid164">
+  </radialGradient><radialGradient cx="9773.37" cy="22221.7" fx="9773.37" fy="22221.7" gradientTransform="matrix(0.801196 -0 -0 1.00001 1943 0)" gradientUnits="userSpaceOnUse" id="WeaponChristmas2020-Mediumid176" r="366.87" xlink:href="#WeaponChristmas2020-Mediumid164">
+  </radialGradient><radialGradient cx="12872" cy="23848.1" fx="12872" fy="23848.1" gradientTransform="matrix(0.996144 -0 -0 1 50 0)" gradientUnits="userSpaceOnUse" id="WeaponChristmas2020-Mediumid174" r="5046.95" xlink:href="#WeaponChristmas2020-Mediumid163">
+  </radialGradient><radialGradient cx="12919.4" cy="26326.5" fx="12919.4" fy="26326.5" gradientTransform="matrix(1.00002 -0 -0 0.925285 0 1967)" gradientUnits="userSpaceOnUse" id="WeaponChristmas2020-Mediumid188" r="342.49" xlink:href="#WeaponChristmas2020-Mediumid164">
+  </radialGradient><radialGradient cx="14515.6" cy="26213" fx="14515.6" fy="26213" gradientTransform="matrix(0.929225 -0 -0 0.999996 1027 0)" gradientUnits="userSpaceOnUse" id="WeaponChristmas2020-Mediumid191" r="304.8" xlink:href="#WeaponChristmas2020-Mediumid164">
+  </radialGradient><radialGradient cx="12781.5" cy="21966.3" fx="12781.5" fy="21966.3" gradientTransform="matrix(0.96296 -0 -0 0.999998 473 0)" gradientUnits="userSpaceOnUse" id="WeaponChristmas2020-Mediumid177" r="316.4" xlink:href="#WeaponChristmas2020-Mediumid164">
+  </radialGradient><radialGradient cx="15550.4" cy="24410.7" fx="15550.4" fy="24410.7" gradientTransform="matrix(0.943049 -0 -0 1.00001 886 0)" gradientUnits="userSpaceOnUse" id="WeaponChristmas2020-Mediumid180" r="302.91" xlink:href="#WeaponChristmas2020-Mediumid164">
+  </radialGradient><radialGradient cx="13503.8" cy="21726.2" fx="13503.8" fy="21726.2" gradientTransform="matrix(0.999985 -0 -0 0.863431 0 2967)" gradientUnits="userSpaceOnUse" id="WeaponChristmas2020-Mediumid178" r="311.46" xlink:href="#WeaponChristmas2020-Mediumid164">
+  </radialGradient><radialGradient cx="15730.6" cy="22151.8" fx="15730.6" fy="22151.8" gradientTransform="matrix(0.999997 -0 -0 0.934396 0 1453)" gradientUnits="userSpaceOnUse" id="WeaponChristmas2020-Mediumid184" r="334.29" xlink:href="#WeaponChristmas2020-Mediumid164">
+  </radialGradient><radialGradient cx="10368.1" cy="21701.6" fx="10368.1" fy="21701.6" gradientTransform="matrix(0.952245 -0 -0 1 495 0)" gradientUnits="userSpaceOnUse" id="WeaponChristmas2020-Mediumid181" r="300.36" xlink:href="#WeaponChristmas2020-Mediumid164">
+  </radialGradient><radialGradient cx="10831.6" cy="26745.7" fx="10831.6" fy="26745.7" gradientTransform="matrix(0.014164 0.964073 -1.01736 0.0149468 37888 15904)" gradientUnits="userSpaceOnUse" id="WeaponChristmas2020-Mediumid208" r="254.76" xlink:href="#WeaponChristmas2020-Mediumid164">
+  </radialGradient><radialGradient cx="9506.02" cy="23711.1" fx="9506.02" fy="23711.1" gradientTransform="matrix(-1.09244 0.0858804 -0.0763228 -0.970865 21701 45915)" gradientUnits="userSpaceOnUse" id="WeaponChristmas2020-Mediumid233" r="274.72" xlink:href="#WeaponChristmas2020-Mediumid164">
+  </radialGradient><linearGradient gradientUnits="userSpaceOnUse" id="WeaponChristmas2020-Mediumid274" x1="9888.78" x2="13044.3" y1="22036.1" y2="23530.8">
+   <stop offset="0" style="stop-opacity:1; stop-color:#9E9C9C"/>
+   <stop offset="0.639216" style="stop-opacity:1; stop-color:#9A968E"/>
+   <stop offset="0.819608" style="stop-opacity:1; stop-color:#FFD285"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#fff5f1"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="RightFoot-Pig0id0" x1="16257.8" x2="16257.8" y1="21560.3" y2="23683.4">
+   <stop offset="0" style="stop-opacity:1; stop-color:#332822"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#594c45"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="RightLeg-Pig0id2" x1="11782.6" x2="11782.6" y1="24212.9" y2="21311.8">
+   <stop offset="0" style="stop-opacity:1; stop-color:#ffc89c"/>
+   <stop offset="0.388235" style="stop-opacity:1; stop-color:#ffc89c"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#f3ac70"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="LeftFoot-Pig0id0" x1="16257.8" x2="16257.8" y1="21560.3" y2="23683.4">
+   <stop offset="0" style="stop-opacity:1; stop-color:#332822"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#594c45"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="LeftLeg-Pig0id2" x1="11782.6" x2="11782.6" y1="24212.9" y2="21311.8">
+   <stop offset="0" style="stop-opacity:1; stop-color:#ffc89c"/>
+   <stop offset="0.388235" style="stop-opacity:1; stop-color:#ffc89c"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#f3ac70"/>
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="RightHand-Pig0id22" x1="69.8756%" x2="30.1244%" y1="2.32158%" y2="97.6784%">
+   <stop offset="0" style="stop-opacity:1; stop-color:#cc8a54"/>
+   <stop offset="0.0196078" style="stop-opacity:1; stop-color:#cc8a54"/>
+   <stop offset="0.921569" style="stop-opacity:1; stop-color:#f3ac70"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#f3ac70"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="RightPaw-Pig0id0" x1="16257.8" x2="16257.8" y1="21560.3" y2="23683.4">
+   <stop offset="0" style="stop-opacity:1; stop-color:#332822"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#594c45"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Body-Pig1id30" x1="13681.9" x2="13681.9" y1="9565.57" y2="17278">
+   <stop offset="0" style="stop-opacity:1; stop-color:#fff5f1"/>
+   <stop offset="0.658824" style="stop-opacity:1; stop-color:#fff5f1"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#f2e1da"/>
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="LeftPaw-Pig0id25" x1="81.8832%" x2="18.1168%" y1="89.1977%" y2="10.8018%">
+   <stop offset="0" style="stop-opacity:1; stop-color:#cc8a54"/>
+   <stop offset="0.619608" style="stop-opacity:1; stop-color:#f3ac70"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#f3ac70"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="LeftPaw-Pig0id0" x1="16257.8" x2="16257.8" y1="21560.3" y2="23683.4">
+   <stop offset="0" style="stop-opacity:1; stop-color:#332822"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#594c45"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Ears-Pig10id3" x1="18922.8" x2="18922.8" y1="11187.2" y2="5413.87">
+   <stop offset="0" style="stop-opacity:1; stop-color:#cc8a54"/>
+   <stop offset="0.388235" style="stop-opacity:1; stop-color:#f3ac70"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#ffc89c"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Head-Pig1id3" x1="18922.8" x2="18922.8" y1="11187.2" y2="5413.87">
+   <stop offset="0" style="stop-opacity:1; stop-color:#cc8a54"/>
+   <stop offset="0.388235" style="stop-opacity:1; stop-color:#f3ac70"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#ffc89c"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Head-Pig1id0" x1="16257.8" x2="16257.8" y1="21560.3" y2="23683.4">
+   <stop offset="0" style="stop-opacity:1; stop-color:#332822"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#594c45"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Eyes-Pig0id148" x1="16641" x2="17334.4" y1="14255.9" y2="11076.2">
+   <stop offset="0" style="stop-opacity:1; stop-color:#804400"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:black"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Eyes-Pig0id10" x1="15305.7" x2="18262.7" y1="12539.6" y2="12539.6">
+   <stop offset="0" style="stop-opacity:1; stop-color:#804400"/>
+   <stop offset="0.501961" style="stop-opacity:1; stop-color:#ff8700"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#804400"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Eyes-Pig0id45" x1="16680.3" x2="16680.3" y1="11243.5" y2="13543.4">
+   <stop offset="0" style="stop-opacity:1; stop-color:black"/>
+   <stop offset="0.4" style="stop-opacity:1; stop-color:black"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#663600"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Nose-Pig6id151" x1="13681.9" x2="13681.9" y1="13554.2" y2="15469.2">
+   <stop offset="0" style="stop-opacity:1; stop-color:#FFCCCC"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#DB9092"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Hair-Pig4id7" x1="17165.3" x2="17165.3" y1="19960.9" y2="12270.8">
+   <stop offset="0" style="stop-opacity:1; stop-color:#9c7e4b"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#b49868"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Hair-Pig4id10" x1="15305.7" x2="18262.7" y1="12539.6" y2="12539.6">
+   <stop offset="0" style="stop-opacity:1; stop-color:#804400"/>
+   <stop offset="0.501961" style="stop-opacity:1; stop-color:#ff8700"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#804400"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryChristmas2020-Mediumid69" x1="9839.51" x2="10006" y1="19517.7" y2="21948.9">
+   <stop offset="0" style="stop-opacity:1; stop-color:#D4910C"/>
+   <stop offset="0.341176" style="stop-opacity:1; stop-color:#EDB74C"/>
+   <stop offset="0.658824" style="stop-opacity:1; stop-color:#FFF9D4"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#FFAE17"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryChristmas2020-Mediumid76" x1="2179.07" x2="3446.25" y1="19296.4" y2="20925.6">
+   <stop offset="0" style="stop-opacity:1; stop-color:#D4910C"/>
+   <stop offset="0.501961" style="stop-opacity:1; stop-color:#EDB74C"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#AB6C00"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryChristmas2020-Mediumid79" x1="5659.37" x2="8771.47" y1="20809.3" y2="24069.6">
+   <stop offset="0" style="stop-opacity:1; stop-color:#80000D"/>
+   <stop offset="0.65098" style="stop-opacity:1; stop-color:#F60023"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#FF807D"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryChristmas2020-Mediumid54" x1="18273" x2="18705" y1="20039.3" y2="19765.3">
+   <stop offset="0" style="stop-opacity:1; stop-color:#80000D"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#FF001A"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryChristmas2020-Mediumid89" x1="9836.98" x2="12942.6" y1="19211" y2="21439.9">
+   <stop offset="0" style="stop-opacity:1; stop-color:#004A2E"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#00A161"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryChristmas2020-Mediumid67" x1="4554.77" x2="4976.03" y1="19208.2" y2="17972.6">
+   <stop offset="0" style="stop-opacity:1; stop-color:#80000D"/>
+   <stop offset="0.470588" style="stop-opacity:1; stop-color:#F60023"/>
+   <stop offset="0.701961" style="stop-opacity:1; stop-color:#FF8B85"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#FF001A"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryChristmas2020-Mediumid65" x1="7761.85" x2="8830.72" y1="22132.5" y2="22181.1">
+   <stop offset="0" style="stop-opacity:1; stop-color:#BA4D00"/>
+   <stop offset="0.439216" style="stop-opacity:1; stop-color:#EDB74C"/>
+   <stop offset="0.780392" style="stop-opacity:1; stop-color:#FFF9D4"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#FFAE17"/>
+  </linearGradient><radialGradient cx="13218.4" cy="26979.5" fx="13218.4" fy="26979.5" gradientTransform="matrix(1 -0 -0 0.922712 0 2085)" gradientUnits="userSpaceOnUse" id="WeaponChristmas2020-Mediumid164" r="299.09">
+   <stop offset="0" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.25098" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#FFF27F"/>
+  </radialGradient></defs><g id="AccessoryChristmas2020-Medium">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2117982912720">
+   <g>
+    <polygon class="AccessoryChristmas2020-Mediumfil0" points="6440,19272 4069,19951 4069,22996 6440,22108 "/>
+    <polygon class="AccessoryChristmas2020-Mediumfil1" points="1697,19272 4069,19951 4069,22996 1697,22108 "/>
+    <polygon class="AccessoryChristmas2020-Mediumfil2" points="5586,19493 5016,19650 5016,22584 5586,22377 "/>
+    <polygon class="AccessoryChristmas2020-Mediumfil3" points="2577,19575 3168,19737 3168,22651 2577,22437 "/>
+    <polygon class="AccessoryChristmas2020-Mediumfil4 AccessoryChristmas2020-Mediumstr0" points="6372,19272 4069,19951 4069,22996 6372,22108 "/>
+    <polygon class="AccessoryChristmas2020-Mediumfil4 AccessoryChristmas2020-Mediumstr0" points="1765,19272 4069,19951 4069,22996 1765,22108 "/>
+    <polygon class="AccessoryChristmas2020-Mediumfil5" points="1557,19272 4069,18541 6581,19272 4069,19937 "/>
+    <polygon class="AccessoryChristmas2020-Mediumfil6" points="2644,18944 3198,18782 5748,19480 5077,19657 "/>
+    <polygon class="AccessoryChristmas2020-Mediumfil7" points="5553,18943 4999,18781 2448,19479 3119,19656 "/>
+    <polygon class="AccessoryChristmas2020-Mediumfil4 AccessoryChristmas2020-Mediumstr0" points="1557,19272 4069,18541 6581,19272 4069,19937 "/>
+    <polygon class="AccessoryChristmas2020-Mediumfil8" points="6581,19272 4069,19951 4069,20950 6581,20188 "/>
+    <polygon class="AccessoryChristmas2020-Mediumfil9" points="5677,19523 5107,19680 5107,20669 5677,20462 "/>
+    <polygon class="AccessoryChristmas2020-Mediumfil4 AccessoryChristmas2020-Mediumstr0" points="6581,19272 4069,19951 4069,20950 6581,20188 "/>
+    <polygon class="AccessoryChristmas2020-Mediumfil10" points="1557,19272 4069,19951 4069,20950 1557,20188 "/>
+    <polygon class="AccessoryChristmas2020-Mediumfil11" points="2456,19495 3047,19658 3047,20600 2456,20432 "/>
+    <polygon class="AccessoryChristmas2020-Mediumfil4 AccessoryChristmas2020-Mediumstr0" points="1557,19272 4069,19951 4069,20950 1557,20188 "/>
+    <path class="AccessoryChristmas2020-Mediumfil12" d="M2572 19445l337 132c0,0 348,-43 382,-43 34,0 555,113 664,86 110,-26 170,86 389,56 219,-29 385,40 544,-16 159,-56 856,-203 856,-203 0,0 -2257,-910 -3172,-12z" style="fill:#554601"/>
+    <polygon class="AccessoryChristmas2020-Mediumfil13" points="4021,20954 4021,20954 6372,20251 6372,20494 4069,21252 4069,21252 "/>
+    <path class="AccessoryChristmas2020-Mediumfil14 AccessoryChristmas2020-Mediumstr0" d="M3825 18248c-167,-262 -296,-596 -375,-961 0,0 545,-341 1189,-52 -44,533 -365,977 -365,977 -174,37 -283,34 -449,36z" style="fill:#5482a4"/>
+    <path class="AccessoryChristmas2020-Mediumfil15 AccessoryChristmas2020-Mediumstr0" d="M4325 18414c49,-305 174,-649 359,-992 0,0 652,15 955,601 -394,414 -943,605 -943,605 -159,-64 -241,-126 -371,-214z" style="fill:#20ee71"/>
+    <path class="AccessoryChristmas2020-Mediumfil16 AccessoryChristmas2020-Mediumstr0" d="M4618 18703c288,-176 657,-326 1062,-435 0,0 393,452 87,1058 -596,17 -1099,-225 -1099,-225 -46,-151 -44,-250 -50,-398z" style="fill:#afcd33"/>
+    <path class="AccessoryChristmas2020-Mediumfil17 AccessoryChristmas2020-Mediumstr0" d="M3607 18677c-288,-156 -657,-279 -1063,-359 0,0 -393,480 -86,1065 596,-27 1099,-304 1099,-304 45,-155 44,-254 50,-402z" style="fill:#84cdb8"/>
+    <path class="AccessoryChristmas2020-Mediumfil18 AccessoryChristmas2020-Mediumstr0" d="M3338 18723c-333,-60 -699,-191 -1055,-374 0,0 104,-581 797,-819 408,374 546,873 546,873 -92,139 -172,209 -288,320z" style="fill:#2a1dd9"/>
+    <path class="AccessoryChristmas2020-Mediumfil19 AccessoryChristmas2020-Mediumstr0" d="M3864 19242c-348,-141 -713,-370 -1052,-657 0,0 278,-625 1106,-734 342,510 353,1100 353,1100 -141,134 -249,194 -407,291z" style="fill:#21431f"/>
+    <path class="AccessoryChristmas2020-Mediumfil20 AccessoryChristmas2020-Mediumstr0" d="M4080 19056c5,-335 89,-721 237,-1114 0,0 712,-65 1133,529 -365,496 -932,770 -932,770 -183,-49 -283,-106 -438,-185z" style="fill:#4b6e8a"/>
+    <path class="AccessoryChristmas2020-Mediumfil21 AccessoryChristmas2020-Mediumstr0" d="M2966 18976c-18,106 -4,181 32,234 82,118 276,132 494,156 181,21 387,51 521,-16 75,-37 37,-95 72,-202 33,-103 87,-186 32,-231 -105,-88 -328,-96 -505,-124 -182,-29 -400,-84 -532,-6 -57,34 -98,92 -114,189z" style="fill:#9a1fad"/>
+    <path class="AccessoryChristmas2020-Mediumfil22 AccessoryChristmas2020-Mediumstr0" d="M5206 18994c18,105 4,181 -33,237 -81,124 -276,151 -493,191 -182,33 -393,102 -527,44 -75,-32 -52,-103 -87,-208 -33,-100 -60,-212 -6,-261 105,-95 323,-99 500,-140 182,-42 400,-112 532,-43 56,29 98,85 114,180z" style="fill:#5ada12"/>
+    <polygon class="AccessoryChristmas2020-Mediumfil23" points="4056,21260 1746,20581 1763,20308 4056,20951 "/>
+    <path class="AccessoryChristmas2020-Mediumfil23" d="M3268 18717c359,19 772,-162 820,-473 -1,62 124,129 122,191 44,312 422,301 714,331 -272,62 -544,125 -816,188 -15,-33 -30,-66 -45,-98 -189,-81 -606,-59 -795,-139z" style="fill:#f74c98"/>
+    <path class="AccessoryChristmas2020-Mediumfil23" d="M2480 18448c190,140 300,406 261,905 77,-20 153,-40 229,-61 -50,-187 -57,-369 45,-534 -71,-61 -142,-123 -212,-184 132,-243 333,-449 608,-616 -41,-59 -82,-117 -123,-176 -132,319 -414,532 -808,666z" style="fill:#5089b2"/>
+    <path class="AccessoryChristmas2020-Mediumfil23" d="M3611 17648c258,132 815,185 958,-61 56,325 589,507 870,579 15,362 -240,997 200,1151 -86,-17 -347,-45 -433,-61 -105,39 -209,78 -314,118 -245,37 -490,73 -735,110 -27,-42 -54,-84 -81,-126 -189,10 -378,21 -567,32 -153,-43 -305,-87 -457,-130 -34,-89 -68,-177 -102,-266 369,234 739,280 1109,241 362,100 750,24 1155,-159 -8,-101 -16,-201 -24,-302 69,-109 138,-218 208,-326 -200,-345 -549,-518 -1053,-515 -64,104 -128,207 -192,311 -94,-132 -187,-264 -281,-396 -72,4 -144,8 -217,12 -31,-72 -70,-140 -44,-212z" style="fill:#f0b679"/>
+   </g>
+   <g>
+    <polygon class="AccessoryChristmas2020-Mediumfil24" points="6861,19241 8866,19805 8866,22334 6861,21633 "/>
+    <line class="AccessoryChristmas2020-Mediumfil25 AccessoryChristmas2020-Mediumstr1" x1="6861" x2="8828" y1="19241" y2="22320"/>
+    <line class="AccessoryChristmas2020-Mediumfil25 AccessoryChristmas2020-Mediumstr1" x1="8809" x2="6861" y1="19846" y2="21633"/>
+    <polygon class="AccessoryChristmas2020-Mediumfil26" points="7579,19426 8051,19562 8051,22043 7579,21865 "/>
+    <polygon class="AccessoryChristmas2020-Mediumfil4 AccessoryChristmas2020-Mediumstr0" points="6861,19241 8866,19805 8866,22334 6861,21633 "/>
+    <polygon class="AccessoryChristmas2020-Mediumfil27" points="10872,19241 8866,19805 8866,22334 10872,21596 "/>
+    <polygon class="AccessoryChristmas2020-Mediumfil28" points="10150,19450 9695,19580 9695,22017 10150,21845 "/>
+    <polygon class="AccessoryChristmas2020-Mediumfil4 AccessoryChristmas2020-Mediumstr0" points="10872,19241 8866,19805 8866,22334 10872,21596 "/>
+    <polygon class="AccessoryChristmas2020-Mediumfil29" points="6861,19241 8866,18634 10872,19241 8866,19793 "/>
+    <polygon class="AccessoryChristmas2020-Mediumfil30" points="7729,18968 8171,18834 10207,19414 9672,19561 "/>
+    <polygon class="AccessoryChristmas2020-Mediumfil31" points="10051,18968 9609,18834 7573,19413 8108,19560 "/>
+    <path class="AccessoryChristmas2020-Mediumfil13" d="M7351 19378l1339 335c-16,-159 189,-314 352,-245l99 217 1066 -272 -995 -199 -458 -84 -689 103 -714 145z" style="fill:#44763b"/>
+    <polygon class="AccessoryChristmas2020-Mediumfil4 AccessoryChristmas2020-Mediumstr0" points="6861,19241 8866,18634 10872,19241 8866,19793 "/>
+    <path class="AccessoryChristmas2020-Mediumfil32" d="M8406 19156c0,0 -1284,498 -1233,1590 183,-164 347,-416 432,-417 15,316 246,789 246,789 -46,-836 810,-1830 929,-1877 120,-48 -374,-85 -374,-85z" style="fill:#c09e2c"/>
+    <path class="AccessoryChristmas2020-Mediumfil33" d="M8166 20093c0,0 309,-807 -681,-331 185,-144 825,-599 898,-597 73,1 296,168 296,168l-513 760z" style="fill:#b79792"/>
+    <path class="AccessoryChristmas2020-Mediumfil4 AccessoryChristmas2020-Mediumstr0" d="M8406 19156c0,0 -1283,523 -1232,1615 183,-164 346,-441 431,-442 2,221 246,789 246,789 -5,-1019 840,-1805 960,-1852 119,-48 -405,-110 -405,-110z" style="fill:#0f6750"/>
+    <path class="AccessoryChristmas2020-Mediumfil34" d="M9468 19370c0,0 945,929 450,1704 -96,-200 -139,-457 -215,-495 -144,224 -544,468 -544,468 384,-590 27,-1692 -61,-1779 -88,-87 370,102 370,102z" style="fill:#cc2e02"/>
+    <path class="AccessoryChristmas2020-Mediumfil35" d="M9298 20160c0,0 55,-725 746,58 -106,-186 -493,-800 -559,-831 -66,-31 -334,-7 -334,-7l147 780z" style="fill:#1e5f9c"/>
+    <path class="AccessoryChristmas2020-Mediumfil4 AccessoryChristmas2020-Mediumstr0" d="M9468 19370c0,0 934,947 439,1722 -96,-201 -128,-475 -204,-513 -93,161 -544,468 -544,468 422,-742 -10,-1687 -98,-1774 -88,-87 407,97 407,97z" style="fill:#b98539"/>
+    <path class="AccessoryChristmas2020-Mediumfil36 AccessoryChristmas2020-Mediumstr0" d="M8839 19193c0,0 -2011,12 -1835,-558 177,-570 466,-583 553,-576 86,8 1044,208 1282,1134z" style="fill:#a34989"/>
+    <path class="AccessoryChristmas2020-Mediumfil37 AccessoryChristmas2020-Mediumstr0" d="M8839 19193c0,0 118,-1552 -1099,-1658 -482,102 -736,1100 -736,1100 0,0 237,-634 1835,558z" style="fill:#c02877"/>
+    <path class="AccessoryChristmas2020-Mediumfil38 AccessoryChristmas2020-Mediumstr0" d="M9079 19254c0,0 1762,970 1879,385 117,-585 -131,-735 -211,-769 -80,-35 -1017,-317 -1668,384z" style="fill:#00ca2e"/>
+    <path class="AccessoryChristmas2020-Mediumfil39 AccessoryChristmas2020-Mediumstr0" d="M9079 19254c0,0 637,-1420 1757,-933 376,319 122,1318 122,1318 0,0 94,-670 -1879,-385z" style="fill:#bf66fa"/>
+    <path class="AccessoryChristmas2020-Mediumfil40 AccessoryChristmas2020-Mediumstr2" d="M9304 18772c-68,-25 -144,-6 -266,-37 -97,-24 -111,-54 -173,-76 -55,-20 -88,35 -118,69 -137,156 -159,435 -147,468 61,66 129,115 275,164 157,37 247,41 330,27 56,-52 107,-131 132,-251 30,-143 53,-333 -33,-364z" style="fill:#dd24c3"/>
+    <path class="AccessoryChristmas2020-Mediumfil41" d="M9301 19083c-165,225 -659,125 -572,-253 1,-39 -129,366 -129,366l275 164 345 13c0,0 170,-279 81,-290z" style="fill:#a1bded"/>
+    <path class="AccessoryChristmas2020-Mediumfil23" d="M7737 17517c229,19 434,121 556,210 -511,-113 -1066,462 -692,761 -177,-84 -362,-61 -551,9 53,-379 267,-770 687,-980z" style="fill:#ccfaff"/>
+    <path class="AccessoryChristmas2020-Mediumfil23" d="M9865 18357c-187,288 -229,699 107,827 -124,13 -486,-2 -609,12 7,-141 13,-282 20,-424 110,-206 302,-271 482,-415z" style="fill:#29d929"/>
+    <path class="AccessoryChristmas2020-Mediumfil23" d="M10906 19497c-385,-175 -1232,-155 -922,152 -171,-91 -590,-202 -687,-366 555,-102 1264,-128 1609,214z" style="fill:#c89076"/>
+    <path class="AccessoryChristmas2020-Mediumfil23" d="M8017 18694c-783,-128 -357,370 231,490 -863,-39 -1234,-224 -1252,-515 172,-293 693,-151 1021,25z" style="fill:#09a8ca"/>
+   </g>
+   <g>
+    <polygon class="AccessoryChristmas2020-Mediumfil42" points="6607,23465 6595,24565 10770,23083 10804,22110 "/>
+    <polygon class="AccessoryChristmas2020-Mediumfil43" points="9358,22618 9352,23567 8425,23926 8433,22928 "/>
+    <polygon class="AccessoryChristmas2020-Mediumfil4 AccessoryChristmas2020-Mediumstr0" points="6607,23465 6595,24565 10770,23078 10804,22105 "/>
+    <polygon class="AccessoryChristmas2020-Mediumfil44" points="3678,22473 6607,23466 6595,24568 3707,23402 "/>
+    <polygon class="AccessoryChristmas2020-Mediumfil45" points="4713,22824 5365,23044 5360,24061 4726,23799 "/>
+    <polygon class="AccessoryChristmas2020-Mediumfil4 AccessoryChristmas2020-Mediumstr0" points="3627,22456 6607,23466 6595,24568 3657,23386 "/>
+    <polygon class="AccessoryChristmas2020-Mediumfil46" points="7685,21414 10804,22037 6607,23465 3627,22456 "/>
+    <polygon class="AccessoryChristmas2020-Mediumfil47" points="9255,22537 6375,21763 5570,21934 8292,22839 "/>
+    <polygon class="AccessoryChristmas2020-Mediumfil48" points="4776,22774 8779,21630 9518,21793 5397,22995 "/>
+    <path class="AccessoryChristmas2020-Mediumfil12" d="M5222 22522c-111,63 29,175 272,215 52,13 672,119 936,-4 407,175 934,198 1104,77 384,45 1142,38 1309,-264 167,-302 -1319,-557 -1944,-533 -624,24 -1806,196 -1677,509z" style="fill:#6cfd58"/>
+    <polygon class="AccessoryChristmas2020-Mediumfil4 AccessoryChristmas2020-Mediumstr0" points="7670,21346 10804,22105 6607,23465 3627,22456 "/>
+    <path class="AccessoryChristmas2020-Mediumfil49 AccessoryChristmas2020-Mediumstr0" d="M7586 21660c152,-207 274,-473 355,-764 0,0 -456,-279 -1018,-55 20,427 280,786 280,786 147,31 241,30 383,33z" style="fill:#04ef8e"/>
+    <path class="AccessoryChristmas2020-Mediumfil50 AccessoryChristmas2020-Mediumstr0" d="M7152 21787c-31,-244 -127,-521 -274,-797 0,0 -558,5 -838,470 323,336 786,495 786,495 139,-50 212,-98 326,-168z" style="fill:#a6873d"/>
+    <path class="AccessoryChristmas2020-Mediumfil51 AccessoryChristmas2020-Mediumstr0" d="M6891 22016c-240,-145 -551,-269 -895,-360 0,0 -353,357 -111,845 510,20 950,-168 950,-168 44,-120 46,-199 56,-317z" style="fill:#2677bf"/>
+    <path class="AccessoryChristmas2020-Mediumfil52 AccessoryChristmas2020-Mediumstr0" d="M7758 22006c252,-121 573,-216 923,-275 0,0 320,388 37,852 -510,-28 -931,-255 -931,-255 -33,-125 -29,-203 -29,-322z" style="fill:#57d178"/>
+    <path class="AccessoryChristmas2020-Mediumfil53 AccessoryChristmas2020-Mediumstr0" d="M7987 22045c287,-43 605,-144 917,-287 0,0 -70,-465 -655,-664 -362,295 -498,693 -498,693 74,112 140,169 236,258z" style="fill:#74a22f"/>
+    <path class="AccessoryChristmas2020-Mediumfil54 AccessoryChristmas2020-Mediumstr0" d="M7518 22455c304,-109 624,-288 924,-513 0,0 -216,-503 -922,-600 -310,404 -340,876 -340,876 116,108 206,158 338,237z" style="fill:#aea0e1"/>
+    <path class="AccessoryChristmas2020-Mediumfil55 AccessoryChristmas2020-Mediumstr0" d="M7339 22304c8,-268 -50,-578 -164,-894 0,0 -608,-60 -989,411 295,400 772,626 772,626 159,-37 246,-81 381,-143z" style="fill:#178547"/>
+    <path class="AccessoryChristmas2020-Mediumfil56 AccessoryChristmas2020-Mediumstr0" d="M8297 22252c11,86 -3,145 -36,187 -74,94 -241,102 -428,119 -156,15 -333,37 -446,-18 -63,-31 -29,-76 -55,-163 -25,-82 -68,-149 -19,-185 93,-69 284,-73 436,-93 158,-22 346,-63 457,1 47,28 80,75 91,152z" style="fill:#ed3870"/>
+    <path class="AccessoryChristmas2020-Mediumfil57 AccessoryChristmas2020-Mediumstr0" d="M6377 22242c-19,84 -9,144 20,189 65,100 231,124 416,159 154,29 333,86 450,41 65,-24 48,-82 82,-166 31,-79 59,-168 14,-209 -87,-76 -273,-82 -423,-116 -155,-36 -339,-95 -455,-41 -49,23 -87,67 -104,143z" style="fill:#ccf6a3"/>
+    <path class="AccessoryChristmas2020-Mediumfil23" d="M6357 22017c451,9 817,-178 865,-490 -2,63 158,130 157,192 43,312 422,301 714,331 -272,62 -481,81 -753,143 -15,-32 -93,49 -108,16 -189,-80 -686,-112 -875,-192z" style="fill:#f8cc89"/>
+    <path class="AccessoryChristmas2020-Mediumfil23" d="M6088 21534c191,140 62,770 -179,945 76,-21 402,-14 478,-35 -50,-187 -51,-193 51,-358 -70,-62 -171,-200 -242,-262 133,-243 501,-345 876,-422 -40,-59 -144,-293 -185,-351 -132,318 -494,493 -799,483z" style="fill:#35d7d6"/>
+    <path class="AccessoryChristmas2020-Mediumfil23" d="M6985 21103c259,132 758,171 901,-75 13,72 -145,216 -89,276 89,94 153,150 362,-83 2,185 332,627 590,590 -360,297 -450,580 -97,753 -213,-28 -379,-94 -484,-55 -366,89 -634,31 -799,32 -189,10 -32,96 -221,107 -152,-44 -583,-152 -735,-195 -34,-89 -7,-174 23,-299 27,274 737,449 957,186 175,212 855,51 873,-118 -8,-101 11,-18 3,-119 69,-109 115,-82 184,-190 -131,-227 -362,-349 -469,-413 -148,-88 -289,-150 -461,-149 -64,103 -152,220 -216,324 -94,-132 -35,-156 -129,-288 -72,4 -45,-2 -117,2 -32,-72 -102,-214 -76,-286z" style="fill:#e07595"/>
+   </g>
+  </g>
+ </g><g id="HairBack-Pig0">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect class="HairBack-Pig0fil0" height="890" width="890" x="13237" y="6590"/>
+  <rect class="HairBack-Pig0fil0" height="890" width="890" x="13237" y="6590"/>
+ </g><g id="Tail-Pig0">
+  <metadata id="CorelCorpID_3Corel-Layer"/>
+  <rect class="Tail-Pig0fil0" height="900" width="900" x="13232" y="22153"/>
+ </g><g id="RightFoot-Pig0">
+  <metadata id="CorelCorpID_10Corel-Layer"/>
+  <path class="RightFoot-Pig0fil37" d="M16559 24190c54,65 143,233 174,292 62,268 -152,365 -298,365 -143,0 -686,-98 -894,289 -330,-192 -541,-572 -540,-565 -22,-43 -41,-85 -54,-126 -58,-176 -10,-247 31,-317 480,-107 1078,-83 1581,62z" style="fill:#8a97ea"/>
+  <path class="RightFoot-Pig0fil38" d="M15011 24496c-3,101 -14,73 -14,176 -5,821 346,600 430,523 12,-11 59,-71 57,-73 -109,-146 -274,-300 -473,-626z" style="fill:#1a7450"/>
+  <path class="RightFoot-Pig0fil0 RightFoot-Pig0str2" d="M14995 24537c1,45 2,90 2,135 -5,821 346,600 430,523 4,-4 19,-23 37,-48" style="fill:#a4cda6"/>
+  <path class="RightFoot-Pig0fil39" d="M16756 24466c0,0 -225,-105 -294,-5 -54,78 49,353 -47,353 -106,0 -310,-245 -509,-215 -288,43 -418,429 -384,506 35,82 343,409 763,435 419,26 490,-14 487,-39 -3,-24 42,-150 42,-150 0,0 458,-59 491,-95 100,-109 -467,-691 -549,-790z" style="fill:#6b0b34"/>
+  <polygon class="RightFoot-Pig0fil40" points="16740,25393 16571,24994 16934,25330 "/>
+  <path class="RightFoot-Pig0fil0 RightFoot-Pig0str2" d="M16567 24189c147,241 633,739 718,969 84,231 -492,167 -492,167 0,0 5,189 -122,220 -281,70 -831,-103 -1075,-309 -49,-41 -99,-87 -150,-135" style="fill:#8b4a9e"/>
+  <path class="RightFoot-Pig0fil0 RightFoot-Pig0str2" d="M16567 24189c45,73 121,170 208,277m-1262 697c-341,-311 -707,-789 -548,-1037" style="fill:#c53e10"/>
+  <path class="RightFoot-Pig0fil10" d="M15252 24171c-250,336 427,769 691,965 282,210 555,378 651,406 -45,23 -445,-31 -727,-123 -179,-96 -710,-617 -803,-752 -94,-163 -147,-331 -119,-480 10,-21 22,-40 33,-59 85,-7 193,-3 274,43z" style="fill:#eb891c"/>
+ </g><g id="LeftFoot-Pig0">
+  <metadata id="CorelCorpID_27Corel-Layer"/>
+  <path class="LeftFoot-Pig0fil37" d="M10805 24190c-54,65 -143,233 -174,292 -62,268 152,365 298,365 143,0 685,-98 894,289 330,-192 541,-572 540,-565 22,-43 40,-85 54,-126 58,-176 10,-247 -31,-317 -480,-107 -1078,-83 -1581,62z" style="fill:#ed2e77"/>
+  <path class="LeftFoot-Pig0fil38" d="M12353 24496c3,101 14,73 14,176 5,821 -346,600 -430,523 -12,-11 -59,-71 -57,-73 109,-146 274,-300 473,-626z" style="fill:#92bc22"/>
+  <path class="LeftFoot-Pig0fil0 LeftFoot-Pig0str2" d="M12369 24537c-1,45 -2,90 -2,135 5,821 -346,600 -430,523 -4,-4 -19,-23 -37,-48" style="fill:#46de97"/>
+  <path class="LeftFoot-Pig0fil57" d="M10608 24466c0,0 225,-105 294,-5 54,78 -49,353 47,353 106,0 309,-245 509,-215 288,43 418,429 384,506 -35,82 -343,409 -763,435 -419,26 -490,-14 -487,-39 3,-24 -42,-150 -42,-150 0,0 -458,-59 -491,-95 -101,-109 467,-691 549,-790z" style="fill:#dc22e7"/>
+  <polygon class="LeftFoot-Pig0fil40" points="10624,25393 10793,24994 10430,25330 "/>
+  <path class="LeftFoot-Pig0fil0 LeftFoot-Pig0str2" d="M10797 24189c-147,241 -633,739 -718,969 -85,231 492,167 492,167 0,0 -5,189 122,220 281,70 831,-103 1075,-309 49,-41 99,-87 150,-135" style="fill:#f0e79f"/>
+  <path class="LeftFoot-Pig0fil0 LeftFoot-Pig0str2" d="M10797 24189c-45,73 -121,170 -208,277m1262 697c341,-311 707,-789 548,-1037" style="fill:#5b412d"/>
+  <path class="LeftFoot-Pig0fil10" d="M12112 24171c250,336 -428,769 -691,965 -282,210 -555,378 -651,406 45,23 444,-31 727,-123 179,-96 710,-617 803,-752 94,-163 147,-331 119,-480 -10,-21 -22,-40 -33,-59 -85,-7 -193,-3 -274,43z" style="fill:#44f044"/>
+ </g><g id="RightLeg-Pig0">
+  <metadata id="CorelCorpID_22Corel-Layer"/>
+  <path class="RightLeg-Pig0fil52" d="M16570 21416c0,0 1181,1189 570,2176 -128,221 -511,470 -581,598 -599,44 -1104,27 -1581,-62 45,-78 82,-155 -44,-376 -113,-198 -400,-446 -1252,-493 0,-147 0,-280 0,-522 373,-788 1598,-1745 2888,-1321z" style="fill:#a7c33c"/>
+  <path class="RightLeg-Pig0fil10" d="M17192 23421c67,-141 106,-290 107,-439 2,-734 -540,-1374 -869,-1659l-157 688c26,45 52,90 79,136 387,-391 947,832 840,1274z" style="fill:#9cd165"/>
+  <path class="RightLeg-Pig0fil0 RightLeg-Pig0str2" d="M16570 21416c303,324 585,778 689,1246 115,521 25,950 -408,1282 -95,72 -194,144 -284,245m-1602 -63c284,-396 -518,-875 -1283,-867" style="fill:#78eafd"/>
+  <path class="RightLeg-Pig0fil10" d="M13760 23246c341,-28 1532,124 1607,584 27,166 -52,256 -115,341 -93,-12 -184,-26 -274,-43 40,-70 74,-140 -11,-313 -8,-22 -19,-42 -33,-62l0 -1c-104,-182 -357,-408 -1066,-479 -35,-9 -71,-18 -108,-27z" style="fill:#1a22c4"/>
+ </g><g id="LeftLeg-Pig0">
+  <metadata id="CorelCorpID_39Corel-Layer"/>
+  <path class="LeftLeg-Pig0fil62" d="M10794 21416c0,0 -1181,1189 -570,2176 128,221 511,470 581,598 599,44 1104,27 1581,-62 -45,-78 -82,-155 44,-376 113,-198 400,-446 1252,-493 0,-147 0,-280 0,-522 -373,-788 -1598,-1745 -2888,-1321z" style="fill:#636742"/>
+  <path class="LeftLeg-Pig0fil10" d="M10172 23421c-67,-141 -106,-290 -107,-439 -2,-734 540,-1374 869,-1659l157 688c-26,45 -53,90 -79,136 -388,-391 -947,832 -840,1274z" style="fill:#f66dcb"/>
+  <path class="LeftLeg-Pig0fil0 LeftLeg-Pig0str2" d="M10794 21416c-303,324 -586,778 -689,1246 -115,521 -25,950 408,1282 95,72 193,144 284,245m1602 -63c-284,-396 517,-875 1283,-867" style="fill:#ccfcfa"/>
+  <path class="LeftLeg-Pig0fil10" d="M13604 23246c-341,-28 -1532,124 -1607,584 -27,166 52,256 115,341 93,-12 184,-26 274,-43 -40,-70 -74,-140 11,-313 8,-22 19,-42 33,-62l0 -1c104,-182 357,-408 1066,-479 35,-9 71,-18 108,-27z" style="fill:#ccc2fa"/>
+ </g><g id="RightHand-Pig0">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_44Corel-Layer"/>
+  <path class="RightHand-Pig0fil68" d="M16231 17709c1005,345 1816,1398 2255,2162 -88,184 -847,720 -1129,836 -543,-402 -1045,-430 -1469,-362 -742,120 -1353,-1920 -931,-2545 422,-21 934,-40 1274,-91z" style="fill:#1e1b49"/>
+  <path class="RightHand-Pig0fil10" d="M17342 20696c-537,-391 -1034,-418 -1454,-351 -171,28 -335,-59 -481,-217 -325,-472 753,-1098 1039,-656 258,399 723,837 1098,1116 3,2 22,18 34,27l-219 113c-8,-18 -14,-30 -17,-32z" style="fill:#a44bf5"/>
+  <path class="RightHand-Pig0fil0 RightHand-Pig0str0" d="M16477 20333c179,24 366,81 561,178 100,50 205,104 305,189m1121 -817c-161,-280 -388,-607 -632,-916 -422,-534 -963,-1039 -1601,-1258 -90,-31 -172,-59 -246,-84" style="fill:#0d01db"/>
+ </g><g id="LeftHand-Pig0">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_61Corel-Layer"/>
+  <path class="LeftHand-Pig0fil79" d="M11133 17709c-1005,345 -1817,1398 -2255,2162 88,184 847,720 1128,836 544,-402 1046,-430 1470,-362 742,120 1352,-1920 931,-2545 -422,-21 -934,-40 -1274,-91z" style="fill:#d49a10"/>
+  <path class="LeftHand-Pig0fil10" d="M10022 20696c537,-391 1034,-418 1454,-351 171,28 335,-59 481,-217 325,-472 -753,-1098 -1039,-656 -258,399 -723,837 -1098,1116 -3,2 -22,18 -34,27l219 113c8,-18 14,-30 17,-32z" style="fill:#1557a5"/>
+  <path class="LeftHand-Pig0fil0 LeftHand-Pig0str0" d="M10887 20333c-179,24 -366,81 -561,178 -100,50 -205,104 -305,189m-1121 -817c161,-280 388,-607 632,-916 422,-534 963,-1039 1601,-1258 90,-31 171,-59 246,-84" style="fill:#4766f9"/>
+ </g><g id="Body-Pig1">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_67Corel-Layer"/>
+  <path class="Body-Pig1fil83" d="M13682 23135c-1548,0 -2752,-291 -2993,-1956 -147,-1014 391,-2287 991,-3420 634,80 1289,123 2002,142 713,-19 1367,-62 2002,-142 600,1133 1137,2406 991,3420 -242,1665 -1445,1956 -2993,1956z" style="fill:#7e5e11"/>
+  <path class="Body-Pig1fil10" d="M12621 23067c-1016,-156 -1749,-629 -1932,-1888 -75,-519 29,-1106 229,-1707 -223,2001 402,3257 1703,3595z" style="fill:#4a8af6"/>
+  <path class="Body-Pig1fil84" d="M11012 22144c-250,-321 -348,-641 -397,-954 -59,-377 -24,-998 184,-1320 -78,421 -93,905 -36,1298 50,341 104,572 249,976z" style="fill:#8d5500"/>
+  <path class="Body-Pig1fil10" d="M14743 23067c1016,-156 1749,-629 1932,-1888 75,-519 -29,-1106 -229,-1707 223,2001 -402,3257 -1703,3595z" style="fill:#02f92c"/>
+  <path class="Body-Pig1fil84" d="M16352 22144c250,-321 347,-641 397,-954 59,-377 24,-998 -184,-1320 78,421 93,905 36,1298 -50,341 -104,572 -249,976z" style="fill:#a49b70"/>
+  <path class="Body-Pig1fil85" d="M13682 18283c-887,0 -1587,-322 -1922,364 -851,1742 -881,4090 1922,4090 2803,0 2773,-2348 1922,-4090 -336,-686 -1035,-364 -1922,-364z" style="fill:#f9a059"/>
+ </g><g id="WeaponChristmas2020Back-Medium">
+   <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_2Corel-Layer"/>
+  <g id="_2117982911344">
+   <path class="WeaponChristmas2020Back-Mediumfil60 WeaponChristmas2020Back-Mediumstr3" d="M10833 22277c86,52 132,135 102,185 -30,50 -125,48 -212,-4l-3531 -2135c-53,-67 34,-205 110,-181l3531 2135z" style="fill:#79462c"/>
+   <path class="WeaponChristmas2020Back-Mediumfil59" d="M9383 21647l-2191 -1324c-37,-46 -6,-127 41,-164l2151 1488 -1 0z" style="fill:#dc9835"/>
+  </g>
+ </g><g id="RightPaw-Pig0">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_49Corel-Layer"/>
+  <path class="RightPaw-Pig0fil74" d="M18486 19871c155,269 247,281 434,498 211,244 446,948 341,1067 -34,39 -389,8 -389,8 -15,58 -145,373 -188,392 -161,73 -598,-324 -814,-554 -63,111 -195,178 -216,147 -79,-27 -146,-195 -211,-374 -34,-92 -45,-318 -86,-348 139,-387 621,-775 1129,-836z" style="fill:#fef316"/>
+  <path class="RightPaw-Pig0fil10" d="M17452 20518c31,24 62,48 92,70 4,3 39,31 43,34 13,14 26,28 39,43 79,93 97,228 104,283 2,13 3,21 4,24 -2,92 -166,169 -227,208 0,-8 -67,-223 -116,-364 0,-31 3,-54 -7,-90 -9,-6 -18,-13 -27,-19 23,-64 55,-127 95,-189z" style="fill:#241766"/>
+  <path class="RightPaw-Pig0fil75" d="M18910 20358c-402,-76 -337,407 -242,635 -239,-309 -538,-414 -692,-297 -104,79 -113,131 -203,226 -99,104 -339,-108 -394,-184 -18,147 139,645 275,691 21,31 153,-36 216,-147 216,230 653,627 814,554 43,-19 173,-334 188,-392 0,0 355,31 389,-8 109,-123 -135,-862 -351,-1078z" style="fill:#822e77"/>
+  <path class="RightPaw-Pig0fil10" d="M18804 21498c-67,307 -352,47 -875,-255 4,66 -100,45 -131,-12 -41,-92 -52,-190 -68,-283 -88,22 -225,-79 -303,-156 -5,-5 -11,-11 -16,-16 49,174 144,541 243,653 90,2 173,-72 216,-147 199,212 579,572 803,508 84,-24 78,-133 131,-292z" style="fill:#d03e48"/>
+  <path class="RightPaw-Pig0fil0 RightPaw-Pig0str2" d="M17136 20561c121,75 170,94 271,202 1,149 38,330 93,461 54,128 115,197 196,208 55,8 128,-6 194,-123 208,221 642,571 796,501 41,-19 164,-344 179,-400 0,0 356,75 389,38 86,-99 -94,-785 -280,-992 -109,-122 -404,-420 -409,-427 -68,-85 -123,-182 -179,-276" style="fill:#a0897f"/>
+  <polygon class="RightPaw-Pig0fil40" points="18796,21484 18678,21021 18973,21393 "/>
+ </g><g id="LeftPaw-Pig0">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_71Corel-Layer"/>
+  <path class="LeftPaw-Pig0fil91" d="M8878 19871c-155,269 -247,281 -434,498 -211,244 -446,948 -341,1067 34,39 388,8 388,8 16,58 146,373 189,392 161,73 598,-324 814,-554 63,111 195,178 216,147 79,-27 146,-195 211,-374 34,-92 45,-318 85,-348 -138,-387 -621,-775 -1128,-836z" style="fill:#252880"/>
+  <path class="LeftPaw-Pig0fil10" d="M9912 20518c-31,24 -62,48 -92,70 -4,3 -39,31 -43,34 -14,14 -27,28 -39,43 -79,93 -97,228 -104,283 -2,13 -3,21 -4,24 2,92 166,169 226,208 0,-8 68,-223 117,-364 -1,-31 -3,-54 7,-90 9,-6 18,-13 26,-19 -22,-64 -54,-127 -94,-189z" style="fill:#0234f3"/>
+  <path class="LeftPaw-Pig0fil92" d="M8454 20358c401,-76 337,407 242,635 239,-309 538,-414 692,-297 104,79 113,131 203,226 99,104 339,-108 394,-184 18,147 -140,645 -275,691 -21,31 -153,-36 -216,-147 -216,230 -653,627 -814,554 -43,-19 -173,-334 -189,-392 0,0 -354,31 -388,-8 -109,-123 135,-862 351,-1078z" style="fill:#0d3e60"/>
+  <path class="LeftPaw-Pig0fil10" d="M8560 21498c67,307 352,47 875,-255 -5,66 100,45 131,-12 40,-92 52,-190 68,-283 88,22 225,-79 303,-156 5,-5 11,-11 16,-16 -49,174 -144,541 -243,653 -90,2 -173,-72 -216,-147 -199,212 -579,572 -803,508 -84,-24 -79,-133 -131,-292z" style="fill:#be9550"/>
+  <path class="LeftPaw-Pig0fil0 LeftPaw-Pig0str2" d="M10228 20561c-121,75 -170,94 -272,202 0,149 -37,330 -92,461 -55,128 -115,197 -196,208 -55,8 -128,-6 -194,-123 -208,221 -642,571 -797,501 -41,-19 -163,-344 -178,-400 0,0 -356,75 -389,38 -86,-99 94,-785 280,-992 109,-122 404,-420 409,-427 68,-85 123,-182 179,-276" style="fill:#87cf16"/>
+  <polygon class="LeftPaw-Pig0fil40" points="8568,21484 8686,21021 8391,21393 "/>
+ </g><g id="Ears-Pig10">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_93Corel-Layer"/>
+  <path class="Ears-Pig10fil152 Ears-Pig10str0" d="M18390 11582c0,0 828,-518 1834,-152 -23,-189 -135,-267 -208,-347 370,-209 496,-376 557,-877 -219,11 -342,13 -511,-100 0,0 349,-311 674,-235 4,-126 -364,-519 -864,-432 -5,1 1150,-730 1161,-1950 -141,201 -350,460 -620,674 -270,215 -541,240 -541,240 551,-724 848,-1612 461,-2697 -31,73 128,1028 -683,1775 262,-702 316,-1493 -108,-2363 0,0 -23,616 -667,1121 -214,167 -46,-483 -46,-483 -920,285 -1212,673 -1641,1520 -63,-104 -26,-572 104,-950 -1434,842 -1593,2800 -688,4249 745,1191 782,1084 1786,1007z" style="fill:#30cd0b"/>
+  <path class="Ears-Pig10fil38" d="M18190 10814c-42,1 -508,-534 -510,-579 -2,-46 30,-84 71,-86 555,-28 582,51 887,-244 -74,-43 -189,-289 -375,-384 18,-82 535,-205 675,-528 -95,5 -625,-91 -646,-167 -32,-114 414,-279 602,-841 197,-589 -12,-498 445,-1167 -87,284 -94,549 -101,768 -10,351 10,687 -304,1070 180,-54 385,-64 644,-60 14,0 28,3 40,11 36,22 15,78 -5,118 -109,213 -248,425 -426,606 -125,126 -253,235 -364,312 250,54 600,124 601,125 10,2 19,5 27,11 35,25 45,75 23,114 -176,304 -334,524 -529,675 -198,152 -431,229 -755,246z" style="fill:#5fbb17"/>
+  <path class="Ears-Pig10fil10" d="M20639 9787c0,0 -864,59 -996,297 -132,239 416,471 416,471 -454,350 -1430,653 -1633,314l330 551c0,0 476,-146 771,-120 295,26 697,130 697,130 0,0 -141,-386 -174,-367 -34,20 343,-140 422,-425 79,-286 97,-403 97,-403 0,0 -440,-87 -474,-108 -33,-21 284,-215 544,-340z" style="fill:#14bfae"/>
+  <path class="Ears-Pig10fil153" d="M16601 8388c0,0 -20,-501 330,-989 -42,343 18,627 18,627 0,0 271,-904 1091,-752 -650,281 -951,1958 198,1735 -189,581 -815,286 -815,286 0,0 -962,709 -822,-907z" style="fill:#170d5f"/>
+  <path class="Ears-Pig10fil10" d="M19339 6818c-332,619 -156,1723 -758,2007 -48,23 448,113 524,186 77,73 -448,561 -506,590 -57,29 373,143 309,317 -65,174 -461,775 -827,584 -366,-192 -176,-152 -276,-355 503,-21 538,43 833,-242 -74,-43 -189,-289 -375,-384 18,-82 535,-205 675,-528 -95,5 -625,-91 -646,-167 -32,-114 414,-279 602,-841 197,-589 -12,-498 445,-1167z" style="fill:#ad649c"/>
+  <path class="Ears-Pig10fil154 Ears-Pig10str0" d="M8974 11582c0,0 -828,-518 -1835,-152 24,-189 136,-267 209,-347 -370,-209 -496,-376 -557,-877 219,11 342,13 511,-100 0,0 -349,-311 -674,-235 -4,-126 364,-519 863,-432 6,1 -1149,-730 -1160,-1950 141,201 349,460 620,674 270,215 541,240 541,240 -551,-724 -848,-1612 -461,-2697 31,73 -128,1028 683,1775 -262,-702 -316,-1493 108,-2363 5,-9 23,616 667,1121 214,167 45,-483 45,-483 921,285 1213,673 1642,1520 63,-104 26,-572 -104,-950 1434,842 1593,2800 688,4249 -745,1191 -782,1084 -1786,1007z" style="fill:#1ce9ac"/>
+  <path class="Ears-Pig10fil38" d="M9174 10814c41,1 508,-534 510,-579 2,-46 -30,-84 -71,-86 -556,-28 -582,51 -887,-244 74,-43 189,-289 375,-384 -18,-82 -536,-205 -675,-528 95,5 625,-91 646,-167 32,-114 -414,-279 -602,-841 -197,-589 12,-498 -445,-1167 87,284 94,549 100,768 11,351 -9,687 305,1070 -180,-54 -385,-64 -644,-60 -14,0 -28,3 -41,11 -36,22 -14,78 6,118 108,213 248,425 426,606 125,126 253,235 364,312 -250,54 -600,124 -602,125 -9,2 -18,5 -26,11 -35,25 -45,75 -23,114 176,304 334,524 529,675 198,152 431,229 755,246z" style="fill:#518fb1"/>
+  <path class="Ears-Pig10fil10" d="M6725 9787c0,0 864,59 996,297 132,239 -416,471 -416,471 454,350 1429,653 1633,314l-330 551c0,0 -476,-146 -771,-120 -295,26 -698,130 -698,130 0,0 142,-386 175,-367 34,20 -343,-140 -422,-425 -79,-286 -97,-403 -97,-403 0,0 440,-87 473,-108 34,-21 -283,-215 -543,-340z" style="fill:#b1f6c1"/>
+  <path class="Ears-Pig10fil155" d="M10763 8388c0,0 20,-501 -330,-989 42,343 -18,627 -18,627 0,0 -271,-904 -1091,-752 650,281 951,1958 -198,1735 189,581 815,286 815,286 0,0 961,709 822,-907z" style="fill:#fa7981"/>
+  <path class="Ears-Pig10fil10" d="M8025 6818c332,619 156,1723 758,2007 48,23 -448,113 -524,186 -77,73 447,561 505,590 58,29 -373,143 -308,317 65,174 461,775 827,584 365,-192 176,-152 276,-355 -504,-21 -538,43 -833,-242 74,-43 189,-289 375,-384 -18,-82 -536,-205 -675,-528 95,5 625,-91 646,-167 32,-114 -414,-279 -602,-841 -197,-589 12,-498 -445,-1167z" style="fill:#262f5d"/>
+ </g><g id="Head-Pig1">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_96Corel-Layer"/>
+  <path class="Head-Pig1fil160" d="M10090 8967c-564,472 -965,1039 -1323,1636 -28,46 -55,102 -82,149 -105,179 -200,391 -302,573 -611,1185 -1006,1397 -934,2868 118,2421 2509,3357 4628,3643 571,77 1124,101 1605,101 481,0 1034,-24 1605,-101 2119,-286 4510,-1222 4628,-3643 72,-1471 -323,-1683 -934,-2868 -102,-182 -198,-394 -302,-573 -28,-47 -54,-103 -82,-149 -358,-597 -759,-1164 -1324,-1636 -1249,-1046 -2354,-1447 -3590,-1474l-1 0 -1 0c-1236,27 -2341,428 -3591,1474z" style="fill:#5e9a95"/>
+  <path class="Head-Pig1fil161" d="M11011 10284c-943,-245 -1264,313 -2147,1484 -218,289 -451,622 -550,930 -149,463 -194,939 9,1354 485,957 1684,924 2653,546 659,-257 1269,-724 1365,-1531 130,-1092 -406,-2543 -1330,-2783z" style="fill:#4481fd"/>
+  <path class="Head-Pig1fil10" d="M8595 11042c-473,768 -891,1422 -1070,2009 -158,520 -73,1353 39,1856 421,1891 2663,2792 5075,2988 -2326,-552 -4001,-1593 -4496,-3087 -323,-975 -154,-2267 452,-3766z" style="fill:#4f3271"/>
+  <path class="Head-Pig1fil84" d="M9861 9172c974,-1177 2398,-1757 3821,-1747 1423,-10 2847,570 3821,1747 -1223,-1081 -2522,-1612 -3821,-1603 -1299,-9 -2598,522 -3821,1603z" style="fill:#b4fa08"/>
+  <path class="Head-Pig1fil84" d="M8768 10601c-179,508 -382,903 -718,1463 -406,679 -582,1421 -536,2131 131,1999 1755,2951 3508,3372 210,51 827,205 1390,308 -522,-14 -1257,-122 -1418,-161 -1810,-434 -3533,-1443 -3636,-3515 -36,-724 131,-1489 564,-2211 314,-524 479,-741 846,-1387z" style="fill:#9d4c03"/>
+  <path class="Head-Pig1fil84" d="M18596 10601c179,508 382,903 717,1463 407,679 583,1421 537,2131 -131,1999 -1755,2951 -3508,3372 -210,51 -828,205 -1390,308 522,-14 1257,-122 1418,-161 1810,-434 3533,-1443 3636,-3515 36,-724 -131,-1489 -564,-2211 -314,-524 -479,-741 -846,-1387z" style="fill:#86834e"/>
+ </g><g id="Mouth-Pig6">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_109Corel-Layer"/>
+  <path class="Mouth-Pig6fil0 Mouth-Pig6str0" d="M15979 15671c-68,-224 -221,-389 -399,-418 -181,-29 -442,109 -593,149 -176,47 -367,63 -578,45 -132,-11 -523,-74 -727,-70" style="fill:#56c679"/>
+  <path class="Mouth-Pig6fil0 Mouth-Pig6str0" d="M11385 15671c68,-224 221,-389 398,-418 182,-29 442,109 594,149 176,47 367,63 578,45 131,-11 523,-74 727,-70" style="fill:#100c8e"/>
+  <path class="Mouth-Pig6fil169" d="M15861 15647c7,-35 14,-77 -28,-136 -21,-30 -50,-266 98,-92 65,76 186,251 89,321 -69,51 -183,20 -159,-93z" style="fill:#8e2080"/>
+  <path class="Mouth-Pig6fil169" d="M11503 15647c-7,-35 -15,-77 28,-136 21,-30 50,-266 -98,-92 -65,76 -186,251 -90,321 70,51 184,20 160,-93z" style="fill:#bc7d84"/>
+  <path class="Mouth-Pig6fil170" d="M12814 16269c213,-41 525,-137 868,-137 342,0 655,96 868,137 -223,-168 -530,-335 -868,-335 -338,0 -645,167 -868,335z" style="fill:#af15d1"/>
+ </g><g id="EyesClosed-Pig0">
+  <metadata id="CorelCorpID_116Corel-Layer"/>
+  <g id="_2991504376080">
+   <path class="EyesClosed-Pig0fil38" d="M9936 10608c98,33 423,-223 837,-336 380,-104 707,-22 812,-183 118,-179 -71,-512 -259,-585 -155,-60 -555,31 -906,314 -414,334 -603,751 -484,790z"/>
+   <path class="EyesClosed-Pig0fil10" d="M9936 10608c98,33 423,-223 837,-336 380,-104 707,-22 812,-183 118,-179 -71,-512 -259,-585 -155,-60 -555,31 -906,314 -414,334 -603,751 -484,790z"/>
+  </g>
+  <g id="_2991504372496">
+   <path class="EyesClosed-Pig0fil38" d="M17428 10608c-98,33 -423,-223 -837,-336 -380,-104 -707,-22 -812,-183 -118,-179 71,-512 259,-585 154,-60 555,31 906,314 414,334 602,751 484,790z"/>
+   <path class="EyesClosed-Pig0fil10" d="M17428 10608c-98,33 -423,-223 -837,-336 -380,-104 -707,-22 -812,-183 -118,-179 71,-512 259,-585 154,-60 555,31 906,314 414,334 602,751 484,790z"/>
+  </g>
+  <path class="EyesClosed-Pig0fil84" d="M15370 13572c-66,-26 -53,-97 11,-92 811,59 1538,148 2281,-105 308,-106 583,-256 757,-387 49,-37 84,-70 115,-57 95,42 -8,180 -38,228 -257,411 -800,681 -1486,686 -482,4 -1055,-144 -1640,-273z"/>
+  <path class="EyesClosed-Pig0fil84" d="M11994 13572c66,-26 53,-97 -11,-92 -811,59 -1538,148 -2281,-105 -308,-106 -583,-256 -757,-387 -49,-37 -84,-70 -115,-57 -95,42 8,180 38,228 257,411 799,681 1486,686 482,4 1055,-144 1640,-273z"/>
+ </g><g id="Eyes-Pig0">
+ <animate attributeName="opacity" dur="10" repeatCount="indefinite" values="0;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;0;0"/>
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_117Corel-Layer"/>
+  <g id="_2991504438160">
+   <path class="Eyes-Pig0fil174" d="M17282 14381c-563,1 -1296,-400 -1652,-607 -410,-238 -385,-734 -230,-1292 194,-698 672,-1448 1686,-1417 221,6 434,102 606,218 305,205 650,864 794,1463 202,835 15,1633 -1204,1635z"/>
+   <path class="Eyes-Pig0fil148" d="M15363 13387c-190,-829 360,-2137 1264,-2265 609,-86 914,-49 1307,418 322,381 572,1119 611,1539 -356,-962 -1323,-1597 -1979,-1534 -835,79 -1188,884 -1203,1842z"/>
+   <path class="Eyes-Pig0fil175" d="M17571 14383c-633,57 -1241,-207 -1701,-474 -155,-90 -377,-135 -451,-334 302,-140 397,-428 502,-707 440,8 880,16 1320,25 693,422 926,832 1030,1239 -124,136 -501,232 -700,251z"/>
+   <circle class="Eyes-Pig0fil173" r="235" transform="matrix(-1.05455 -0.156917 -0.122712 0.972902 17815.2 13835.5)"/>
+   <circle class="Eyes-Pig0fil173" r="235" transform="matrix(-0.528618 -0.0219485 0.0170794 0.468369 18011.9 13287.5)"/>
+   <path class="Eyes-Pig0fil176" d="M16916 11510c-549,-164 -1099,173 -1230,751 -130,579 209,1181 758,1345 549,163 1100,-173 1230,-751 130,-579 -209,-1181 -758,-1345z"/>
+   <path class="Eyes-Pig0fil173" d="M16338 11820c533,42 786,1263 12,1213 -797,-51 -589,-1258 -12,-1213z"/>
+   <path class="Eyes-Pig0fil0 Eyes-Pig0str0" d="M15337 13246c0,0 -1,386 293,528 116,57 322,154 541,254 366,168 697,356 1111,353 339,-2 849,-77 1083,-417 326,-473 185,-845 6,-1515 -359,-1339 -1627,-1973 -2582,-790 -344,426 -487,1020 -452,1587z"/>
+  </g>
+  <g id="_2991504436752">
+   <path class="Eyes-Pig0fil177" d="M10082 14381c563,1 1296,-400 1652,-607 410,-238 385,-734 230,-1292 -194,-698 -672,-1448 -1686,-1417 -221,6 -434,102 -606,218 -305,205 -650,864 -794,1463 -202,835 -15,1633 1204,1635z"/>
+   <path class="Eyes-Pig0fil148" d="M12001 13387c190,-829 -360,-2137 -1264,-2265 -609,-86 -914,-49 -1308,418 -321,381 -571,1119 -610,1539 355,-962 1323,-1597 1979,-1534 834,79 1188,884 1203,1842z"/>
+   <path class="Eyes-Pig0fil178" d="M9793 14383c633,57 1241,-207 1701,-474 155,-90 377,-135 451,-334 -302,-140 -397,-428 -502,-707 -440,8 -880,16 -1320,25 -693,422 -926,832 -1030,1239 124,136 501,232 700,251z"/>
+   <circle class="Eyes-Pig0fil173" r="235" transform="matrix(1.05455 -0.156917 0.122712 0.972902 9548.64 13835.5)"/>
+   <circle class="Eyes-Pig0fil173" r="235" transform="matrix(0.528618 -0.0219485 -0.0170794 0.468369 9352 13287.5)"/>
+   <path class="Eyes-Pig0fil179" d="M10448 11510c549,-164 1099,173 1230,751 130,579 -210,1181 -758,1345 -549,163 -1100,-173 -1230,-751 -130,-579 209,-1181 758,-1345z"/>
+   <path class="Eyes-Pig0fil173" d="M11026 11820c-533,42 -786,1263 -12,1213 797,-51 589,-1258 12,-1213z"/>
+   <path class="Eyes-Pig0fil0 Eyes-Pig0str0" d="M12027 13246c0,0 1,386 -293,528 -116,57 -322,154 -541,254 -367,168 -697,356 -1111,353 -339,-2 -849,-77 -1083,-417 -326,-473 -185,-845 -6,-1515 359,-1339 1626,-1973 2582,-790 344,426 487,1020 452,1587z"/>
+  </g>
+ </g><g id="Moustache-Pig0">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_136Corel-Layer"/>
+  <rect class="Moustache-Pig0fil0" height="1459" width="1352" x="13006" y="12662"/>
+ </g><g id="Nose-Pig6">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_147Corel-Layer"/>
+  <g id="_2991533224368">
+   <path class="Nose-Pig6fil244 Nose-Pig6str0" d="M15270 14963c0,-1041 -1142,-1152 -1588,-1883 -446,731 -1588,842 -1588,1883 0,708 795,391 1588,392 795,1 1588,318 1588,-392z" style="fill:#9e8b62"/>
+   <g>
+    <path class="Nose-Pig6fil26 Nose-Pig6str3" d="M14614 14852c-125,28 -305,-100 -404,-285 -98,-185 -77,-357 48,-384 124,-27 305,100 403,285 98,185 77,357 -47,384z" style="fill:#d04774"/>
+    <path class="Nose-Pig6fil237 Nose-Pig6str3" d="M14614 14852c-125,28 -305,-100 -404,-285 -98,-185 -77,-357 48,-384 124,-27 305,100 403,285 98,185 77,357 -47,384z" style="fill:#e663e5"/>
+   </g>
+   <g>
+    <path class="Nose-Pig6fil26 Nose-Pig6str3" d="M12750 14852c125,28 305,-100 403,-285 99,-185 78,-357 -47,-384 -124,-27 -305,100 -403,285 -98,185 -77,357 47,384z" style="fill:#4c3dcb"/>
+    <path class="Nose-Pig6fil237 Nose-Pig6str3" d="M12750 14852c125,28 305,-100 403,-285 99,-185 78,-357 -47,-384 -124,-27 -305,100 -403,285 -98,185 -77,357 47,384z" style="fill:#4536e8"/>
+   </g>
+  </g>
+ </g><g id="Hair-Pig4">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_152Corel-Layer"/>
+  <path class="Hair-Pig4fil250" d="M12591 6647c0,0 -275,-339 -423,-635 -333,-667 -240,-1168 82,-1514 128,-138 354,-95 542,-185 123,-59 193,-263 333,-302 284,-78 596,-116 906,-113 105,1 150,101 214,156 -10,-35 311,-113 415,-92 1723,362 1938,2148 1431,2960 -17,17 37,-940 -565,-1253 852,560 -65,2395 -45,2473 58,227 -580,441 -1052,-728 -473,-1169 -1838,-767 -1838,-767z" style="fill:#a4da89"/>
+  <path class="Hair-Pig4fil10" d="M14864 6655c0,0 595,-548 701,-19 106,529 0,1096 0,1096 0,0 -1566,238 -701,-1077z" style="fill:#50235a"/>
+  <path class="Hair-Pig4fil10" d="M14620 6573c426,-1655 1420,-704 1514,275 192,-480 330,-801 107,-1486 -409,-1254 -1812,-285 -1707,1191 15,210 86,20 86,20z" style="fill:#b8102f"/>
+  <path class="Hair-Pig4fil84" d="M14916 6708c-29,29 -77,29 -105,-1 -29,-29 -29,-77 0,-106 669,-588 783,40 761,123 -33,-34 -119,-481 -656,-16z" style="fill:#4488a2"/>
+  <path class="Hair-Pig4fil84" d="M14975 5824c131,-204 456,-357 663,-169 31,27 33,75 6,105 -28,31 -75,33 -106,6 -203,-184 -458,-14 -563,58z" style="fill:#507778"/>
+  <path class="Hair-Pig4fil10" d="M13013 6483c0,0 -1160,-972 -699,-1972 -417,361 -392,1048 -189,1412 204,363 406,643 406,643 0,0 315,-63 482,-83z" style="fill:#8ddcdd"/>
+  <path class="Hair-Pig4fil10" d="M13096 4019c-912,555 -124,1858 -92,1854 -235,-1039 43,-1661 1205,-1857 0,0 -142,-150 -1113,3z" style="fill:#ee8e0c"/>
+  <path class="Hair-Pig4fil246" d="M13597 6447c-833,-1160 200,-2620 1325,-2404 578,111 1063,860 1063,860 -871,-545 -1689,603 -1733,1153 -112,-1299 733,-1556 643,-1548 -1160,107 -1482,1182 -1128,1954 131,288 -170,-15 -170,-15z" style="fill:#924f42"/>
+  <path class="Hair-Pig4fil0 Hair-Pig4str0" d="M12591 6647c0,0 -275,-339 -423,-635 -372,-743 -308,-1116 106,-1464 380,-318 402,-181 518,-235 214,-151 109,-400 1170,-392 127,1 250,9 219,157 412,-173 816,-59 1156,136 1094,625 1185,2018 754,2708 -17,17 37,-940 -565,-1253 852,560 -65,2395 -45,2473 58,227 -580,441 -1052,-728 -473,-1169 -1838,-767 -1838,-767z" style="fill:#08dcba"/>
+  <path class="Hair-Pig4fil251" d="M16806 8621c409,-681 -1924,-1215 -2056,-1570 -448,-300 -1669,-358 -2340,-7 -111,399 -2420,665 -2137,1788 655,-525 2306,-496 3409,152 503,-208 1996,-778 3124,-363z" style="fill:#c5a216"/>
+  <path class="Hair-Pig4fil10" d="M13166 8745c182,66 356,146 516,239 790,-829 -431,-707 -336,-1709 17,-179 26,-185 38,-317 0,0 -95,44 -206,409 -111,365 -645,402 -476,878 81,229 270,387 464,500z" style="fill:#7d9c1b"/>
+  <path class="Hair-Pig4fil246" d="M13858 7028c-84,281 175,503 429,757 254,254 203,863 16,947 -190,86 1147,-244 667,-1055 378,84 813,335 665,793 750,-156 327,-775 -122,-975 -356,-159 -660,-329 -683,-349 -24,-20 -681,-218 -972,-118z" style="fill:#35faa0"/>
+  <path class="Hair-Pig4fil84" d="M16807 8628c15,-136 89,-314 -443,-639 -244,-147 -556,-283 -841,-408 -396,-173 -744,-326 -831,-478 -225,-142 -643,-224 -1083,-225 -408,-2 -831,66 -1140,219 -78,159 -383,280 -746,423 -440,174 -974,384 -1234,701 -257,314 -204,514 -216,611 -157,-205 -60,-515 88,-698 283,-349 843,-570 1307,-753 351,-139 642,-254 670,-357 6,-19 19,-37 38,-47 333,-173 793,-250 1233,-249 479,2 938,97 1183,261 12,9 22,21 28,36 38,102 376,249 762,419 290,126 607,265 859,416 666,449 418,714 366,768z" style="fill:#f3670d"/>
+  <path class="Hair-Pig4fil252 Hair-Pig4str1" d="M12511 7102c-120,65 -270,20 -335,-101 -65,-121 -21,-273 99,-339 249,-136 753,-205 1260,-204 500,0 1020,66 1314,197 124,55 181,203 126,329 -55,126 -201,183 -325,128 -232,-104 -676,-156 -1115,-156 -434,-1 -847,48 -1024,146z" style="fill:#735bf7"/>
+  <path class="Hair-Pig4fil10" d="M12834 7033c0,0 -695,479 -803,761 -109,282 149,679 446,751 -601,-117 -1623,-163 -2200,283l-5 2c-279,-1121 2028,-1387 2138,-1786 9,-5 17,-9 25,-13l1 0 1 -1 14 -7 1 0 1 -1c187,-7 378,15 381,11z" style="fill:#9ba2bb"/>
+ </g><g id="WeaponChristmas2020-Medium">
+   <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_14Corel-Layer"/>
+  <g id="_2118222457744">
+   <path class="WeaponChristmas2020-Mediumfil261 WeaponChristmas2020-Mediumstr4" d="M13327 23694c87,52 115,165 62,252 -52,87 -165,114 -252,62l-3531 -2135c-87,-52 -115,-165 -62,-252 52,-87 165,-115 252,-62l3531 2135z" style="fill:#04fd83"/>
+   <path class="WeaponChristmas2020-Mediumfil59" d="M12797 23732c-1002,-540 -2131,-1218 -3191,-1859 -87,-52 -115,-165 -62,-252 45,-74 186,-73 265,-48 -97,62 -93,112 -62,167 66,117 2038,1303 3050,1992z" style="fill:#34b273"/>
+   <g>
+    <g>
+     <path class="WeaponChristmas2020-Mediumfil210" d="M13298 21084c1548,0 2804,1255 2804,2804 0,1548 -1256,2804 -2804,2804 -1549,0 -2804,-1256 -2804,-2804 0,-1549 1255,-2804 2804,-2804z" style="fill:#1b2381"/>
+     <path class="WeaponChristmas2020-Mediumfil211" d="M13298 21184c1493,0 2704,1210 2704,2704 0,1493 -1211,2704 -2704,2704 -1494,0 -2704,-1211 -2704,-2704 0,-1494 1210,-2704 2704,-2704z" style="fill:#9de837"/>
+     <path class="WeaponChristmas2020-Mediumfil212" d="M13298 21284c1438,0 2604,1165 2604,2604 0,1438 -1166,2604 -2604,2604 -1438,0 -2604,-1166 -2604,-2604 0,-1439 1166,-2604 2604,-2604z" style="fill:#93e597"/>
+     <path class="WeaponChristmas2020-Mediumfil213" d="M13298 21384c1383,0 2504,1121 2504,2504 0,1383 -1121,2504 -2504,2504 -1383,0 -2504,-1121 -2504,-2504 0,-1383 1121,-2504 2504,-2504z" style="fill:#8e7ce8"/>
+     <path class="WeaponChristmas2020-Mediumfil214" d="M13298 21484c1328,0 2404,1076 2404,2404 0,1327 -1076,2404 -2404,2404 -1328,0 -2404,-1077 -2404,-2404 0,-1328 1076,-2404 2404,-2404z" style="fill:#0fce67"/>
+     <path class="WeaponChristmas2020-Mediumfil215" d="M13298 21584c1272,0 2304,1031 2304,2304 0,1272 -1032,2304 -2304,2304 -1273,0 -2304,-1032 -2304,-2304 0,-1273 1031,-2304 2304,-2304z" style="fill:#cd6721"/>
+     <path class="WeaponChristmas2020-Mediumfil216" d="M13298 21684c1217,0 2204,986 2204,2204 0,1217 -987,2204 -2204,2204 -1217,0 -2204,-987 -2204,-2204 0,-1218 987,-2204 2204,-2204z" style="fill:#4daa4e"/>
+     <path class="WeaponChristmas2020-Mediumfil217" d="M13298 21784c1162,0 2104,942 2104,2104 0,1162 -942,2104 -2104,2104 -1162,0 -2104,-942 -2104,-2104 0,-1162 942,-2104 2104,-2104z" style="fill:#db3667"/>
+     <path class="WeaponChristmas2020-Mediumfil218" d="M13298 21884c1107,0 2004,897 2004,2004 0,1106 -897,2004 -2004,2004 -1107,0 -2004,-898 -2004,-2004 0,-1107 897,-2004 2004,-2004z" style="fill:#5759ff"/>
+     <path class="WeaponChristmas2020-Mediumfil219" d="M13298 21984c1051,0 1904,852 1904,1904 0,1051 -853,1904 -1904,1904 -1052,0 -1904,-853 -1904,-1904 0,-1052 852,-1904 1904,-1904z" style="fill:#f7f2c4"/>
+     <path class="WeaponChristmas2020-Mediumfil220" d="M13298 22084c996,0 1804,807 1804,1804 0,996 -808,1804 -1804,1804 -996,0 -1804,-808 -1804,-1804 0,-997 808,-1804 1804,-1804z" style="fill:#1bb32c"/>
+     <path class="WeaponChristmas2020-Mediumfil221" d="M13298 22184c941,0 1704,763 1704,1704 0,941 -763,1704 -1704,1704 -941,0 -1704,-763 -1704,-1704 0,-941 763,-1704 1704,-1704z" style="fill:#f92b15"/>
+     <path class="WeaponChristmas2020-Mediumfil222" d="M13298 22284c886,0 1604,718 1604,1604 0,886 -718,1604 -1604,1604 -886,0 -1604,-718 -1604,-1604 0,-886 718,-1604 1604,-1604z" style="fill:#74f4d2"/>
+     <path class="WeaponChristmas2020-Mediumfil223" d="M13298 22384c831,0 1504,673 1504,1504 0,830 -673,1504 -1504,1504 -831,0 -1504,-674 -1504,-1504 0,-831 673,-1504 1504,-1504z" style="fill:#f5be76"/>
+     <path class="WeaponChristmas2020-Mediumfil224" d="M13298 22484c775,0 1404,628 1404,1404 0,775 -629,1404 -1404,1404 -776,0 -1404,-629 -1404,-1404 0,-776 628,-1404 1404,-1404z" style="fill:#9192f5"/>
+     <path class="WeaponChristmas2020-Mediumfil225" d="M13298 22584c720,0 1304,583 1304,1304 0,720 -584,1304 -1304,1304 -720,0 -1304,-584 -1304,-1304 0,-721 584,-1304 1304,-1304z" style="fill:#e1804d"/>
+     <path class="WeaponChristmas2020-Mediumfil226" d="M13298 22684c665,0 1204,539 1204,1204 0,665 -539,1204 -1204,1204 -665,0 -1204,-539 -1204,-1204 0,-665 539,-1204 1204,-1204z" style="fill:#a7765f"/>
+     <path class="WeaponChristmas2020-Mediumfil227" d="M13298 22784c610,0 1104,494 1104,1104 0,609 -494,1104 -1104,1104 -610,0 -1104,-495 -1104,-1104 0,-610 494,-1104 1104,-1104z" style="fill:#d37575"/>
+     <path class="WeaponChristmas2020-Mediumfil228" d="M13298 22884c554,0 1004,449 1004,1004 0,554 -450,1004 -1004,1004 -555,0 -1004,-450 -1004,-1004 0,-555 449,-1004 1004,-1004z" style="fill:#3b3f9e"/>
+     <path class="WeaponChristmas2020-Mediumfil229" d="M13298 22984c499,0 904,404 904,904 0,499 -405,904 -904,904 -499,0 -904,-405 -904,-904 0,-500 405,-904 904,-904z" style="fill:#10aa9b"/>
+    </g>
+    <g>
+     <g>	<animate attributeName="opacity" dur="1" repeatCount="indefinite" values=" 0.1;0.8;0.4;1;0.5;0.9;0.4;0.8;0.5;0.9;0.4;0.8;0.1;0.8;0.3;1;0.4;0.9;0.2;0.8;0.5;0.7;0.1;0.8;0.5;0.9;0.3;0.9;0.2;0.7;0.1;0.7;0.3;0.6;0.3;1;0.3;0.9;0.5;0.9;0.1;0.8;0.4;0.9;0.1;0.8;0.4;1;0.2;0.8;0.4;1 "/>
+<path class="WeaponChristmas2020-Mediumfil262" d="M13911 24566c-20,-31 -39,-62 -60,-93 -30,-44 -62,-90 -72,-137 94,10 370,338 447,425 29,33 52,61 79,91 215,247 429,493 644,740 25,28 53,66 82,92 38,36 101,10 93,-47 -4,-30 -55,-72 -80,-96 -29,-27 -59,-61 -86,-89 -15,-16 -30,-27 -46,-44 -99,-100 -198,-201 -297,-302 -167,-171 -464,-451 -593,-615 -50,-63 -210,-229 -213,-298 99,1 289,149 360,196 79,52 124,102 193,157 87,70 168,155 255,225 119,96 246,227 368,327 35,28 78,15 90,-18 19,-49 -22,-71 -46,-88 -81,-59 -161,-117 -242,-176 -237,-174 -491,-348 -705,-543 -51,-46 -196,-152 -211,-201 95,-2 184,31 272,56 99,27 129,54 213,109 64,41 131,86 198,129 34,22 64,42 99,65 27,18 71,58 112,29 40,-29 25,-81 -23,-102 -113,-48 -226,-97 -340,-145 -135,-58 -250,-127 -373,-198 -20,-11 -34,-14 -47,-33 89,-4 349,43 422,71 289,113 574,236 863,351 84,34 86,35 162,-21 -14,-32 -28,-42 -70,-55 -277,-84 -553,-169 -829,-254 -63,-19 -126,-42 -185,-58 -110,-40 -220,-81 -330,-121 -14,-8 -10,-1 -15,-14 61,-28 281,-15 328,-33 -37,-7 -386,-77 -424,-103 -2,-2 -4,-4 -7,-5 41,-42 251,-94 327,-115 115,-31 807,-84 1001,-101 61,-6 149,0 134,-76 -13,-66 -104,-35 -161,-24 -186,34 -372,69 -559,103 -172,33 -214,38 -390,48 -86,5 -338,34 -405,18 0,-23 14,-26 29,-42 49,-52 321,-236 384,-271 150,-83 1032,-493 1069,-524 34,-30 9,-89 -46,-69 -31,11 -622,349 -651,366 -64,37 -125,69 -188,105 -61,35 -119,70 -184,105 -65,36 -350,147 -423,156 29,-56 438,-444 483,-481 132,-108 265,-216 398,-324 63,-51 93,-51 102,-142 -66,1 -60,4 -94,36 -61,58 -122,116 -183,174 -23,19 -40,40 -63,61 -83,77 -165,155 -248,232 -108,99 -211,176 -330,263 -34,25 -105,77 -150,92 29,-122 253,-399 333,-508 323,-442 653,-880 975,-1323 43,-60 59,-56 56,-154 -52,6 -50,2 -74,41 -95,151 -209,309 -310,457 -237,347 -473,694 -709,1041 -49,71 -382,407 -453,419 -26,-158 262,-899 325,-1072 62,-173 124,-345 185,-515 31,-86 61,-169 93,-257 50,-137 62,-126 39,-277 -74,16 -64,33 -84,97 -101,316 -190,636 -288,954 -52,171 -102,381 -176,535 -44,94 -190,437 -249,465 -65,-228 -25,-493 4,-728 23,-175 45,-350 67,-524 8,-59 9,-102 -32,-150 -78,61 -60,23 -64,209 -4,166 -9,331 -13,497 -2,84 -67,518 -101,574 -75,-162 -130,-845 -147,-1055 -24,-277 -55,-552 -76,-828 -4,-46 -9,-92 -13,-139 -3,-43 -22,-64 -52,-92 -15,25 -52,69 -51,100 2,57 129,824 142,909 35,237 46,283 64,532 7,94 10,190 16,283 4,78 18,219 7,290 -43,-47 -172,-411 -208,-507 -33,-89 -48,-191 -68,-287 -11,-49 -21,-99 -31,-149 -15,-71 -6,-86 -59,-118 -6,5 -3,2 -9,9 -10,17 -19,34 -29,51 -15,30 -3,40 9,72 50,142 101,283 151,424 50,135 155,463 136,624 -27,-3 -81,-75 -100,-100 -32,-39 -57,-75 -86,-117 -78,-111 -183,-318 -256,-450 -14,-24 -27,-41 -38,-63 -45,-88 -95,-174 -144,-258 -48,-87 -96,-175 -144,-262 -49,-86 -96,-172 -143,-258 -73,-130 -146,-261 -219,-391 -79,-138 -36,-122 -147,-128 -1,83 13,108 46,161 209,332 418,663 627,994 36,56 127,200 153,254 64,130 319,598 316,685 -58,-7 -448,-323 -511,-372 -62,-49 -164,-162 -222,-224 -72,-75 -148,-146 -219,-221 -71,-75 -140,-148 -222,-224 -74,-69 -146,-150 -217,-224 -71,-72 -150,-151 -222,-224 -99,-98 -119,-158 -257,-188 -4,22 -8,43 -13,65 37,52 115,107 165,155 200,184 399,368 599,553 101,92 229,219 328,304 109,100 218,200 327,300 73,69 280,244 303,326 -54,-11 -195,-107 -236,-134 -38,-25 -74,-49 -112,-75 -178,-119 -198,-157 -352,-285 -17,-14 -31,-28 -48,-42 -24,-20 -82,-79 -120,-21 -39,57 30,87 64,105 78,44 157,87 236,130 113,64 363,259 465,355 15,14 35,25 41,50 -112,-15 -337,-124 -434,-183 -63,-39 -126,-81 -188,-122 -280,-181 -560,-362 -840,-543 -60,-39 -47,-17 -112,-1 8,25 17,37 29,61 14,27 16,22 42,37 35,19 69,39 104,59 345,194 690,388 1034,581 88,51 367,189 381,265 -190,46 -912,-216 -1120,-288 -305,-108 -620,-205 -926,-310 -33,-12 -34,-16 -69,-4 -21,7 -45,14 -59,25 29,70 27,60 100,80 45,13 92,26 137,38 278,78 556,155 834,232 236,65 610,157 829,239 44,17 87,32 131,50 36,16 97,37 108,67 -40,36 -210,37 -276,40 -184,9 -757,-144 -815,-116 -41,20 -37,85 5,100 34,12 390,21 444,24 50,2 520,25 561,70 -47,32 -133,33 -191,49 -58,16 -132,43 -190,45 -300,14 -599,28 -898,42 -75,3 -157,3 -230,10 -55,5 -176,-9 -149,79 17,57 135,28 192,21 70,-8 137,-17 204,-25 139,-16 277,-35 419,-50 249,-28 493,-72 744,-81 31,-1 82,-7 104,13 -39,18 -78,36 -117,54 -156,72 -216,70 -389,103 -138,26 -277,53 -415,80 -29,5 -49,8 -59,27 -11,22 -2,45 14,55 26,17 101,-14 131,-23 191,-55 816,-256 940,-201 -18,58 -326,221 -408,265 -71,38 -163,67 -240,98 -358,145 -715,291 -1072,436 -35,15 -97,26 -87,75 13,57 81,16 114,2 268,-123 536,-247 804,-370 152,-69 308,-148 460,-212 71,-30 461,-195 501,-169 4,50 -155,162 -202,259 61,-25 160,-99 216,-102 -19,55 -135,206 -158,258 77,-45 214,-202 239,-190 -1,43 -95,249 -163,348 -257,383 -514,767 -771,1150 -15,23 -63,75 -31,107 43,45 76,-24 90,-48 157,-267 323,-531 481,-795 99,-166 193,-338 310,-492 51,-68 159,-221 223,-254 1,98 -51,270 -74,363 -65,278 -175,533 -270,802 -11,31 -68,135 4,138 48,3 62,-99 75,-142 17,-59 31,-112 47,-169 32,-109 62,-223 94,-335 34,-117 58,-216 104,-324 34,-79 100,-234 148,-280 24,81 0,393 -18,483 -55,293 -110,586 -165,879 -12,59 -65,278 -49,331 9,28 16,73 35,96 42,-19 47,-22 54,-77 40,-332 80,-664 121,-997 8,-69 14,-154 28,-220 26,-123 53,-282 100,-392 18,34 23,236 25,291 2,50 7,104 5,153 -4,132 -42,409 -53,570 -4,44 -17,98 37,108 62,11 70,-41 67,-91 -10,-191 -33,-582 -15,-749 6,-52 15,-246 32,-278 29,35 97,341 107,417 20,154 40,309 60,462 6,47 92,769 110,796 21,30 75,27 93,-2 18,-32 -19,-173 -28,-214 -44,-216 -88,-432 -131,-648 -54,-265 -139,-578 -117,-852 1,-9 2,-24 4,-32 1,-5 2,-7 5,-12 1,-2 3,-5 4,-7 53,50 116,216 152,306 84,207 145,483 204,700 17,59 32,117 49,177 14,53 20,146 94,123 72,-21 19,-111 3,-153 -22,-59 -41,-107 -63,-163 -63,-167 -205,-506 -245,-659 -20,-77 -86,-296 -75,-375 45,13 123,129 154,173 51,72 81,109 118,203 153,385 316,766 469,1152 40,99 36,134 140,181 27,-39 17,-84 -2,-121 -119,-244 -239,-488 -358,-732 -64,-135 -382,-741 -384,-855 37,8 103,86 126,113 39,45 74,80 112,126 44,52 530,848 554,886 16,26 28,56 69,52 30,-4 54,-30 49,-64 -4,-32 -172,-238 -203,-276 -34,-44 -67,-90 -102,-135 -69,-88 -143,-184 -209,-271 -52,-69 -108,-135 -155,-206 -12,-17 -23,-38 -38,-55z" style="fill:#ec0b67"/>			
+</g><g>	<animate attributeName="opacity" dur="1" repeatCount="indefinite" values=" 0.1;0.7;0.3;0.7;0.3;0.8;0.2;0.7;0.3;0.7;0.4;0.7;0.3;0.7;0.5;1;0.1;1;0.4;0.7;0.4;0.9;0.3;0.7;0.1;0.7;0.2;1;0.2;0.8;0.5;1;0.3;0.8;0.1;0.6;0.4;0.6;0.4;0.8;0.5;1;0.3;1;0.4;1;0.3;0.7;0.2;0.6;0.2;0.6 "/>
+<path class="WeaponChristmas2020-Mediumfil263" d="M13910 24580c-32,-22 -177,-225 -210,-191 -23,41 47,149 58,194 -21,-15 -34,-41 -49,-62 -14,-18 -28,-38 -43,-58 -22,-27 -74,-109 -112,-85 -24,49 42,253 52,312 -18,-20 -27,-53 -38,-78 -14,-31 -88,-232 -133,-205 -31,42 -18,216 -15,278 -11,-37 -22,-74 -33,-111 -5,-20 -11,-38 -18,-56 -9,-23 -10,-32 -30,-38 -38,30 -36,227 -42,291 -1,-63 -10,-264 -42,-299 -21,6 -25,21 -33,42 -18,48 -27,108 -45,156 -10,-119 47,-532 -152,-99 -6,13 -11,22 -16,35 -7,11 -13,23 -20,34 11,-69 80,-248 49,-312 -61,-13 -165,159 -201,186 15,-44 80,-152 65,-202 -60,-2 -163,140 -216,172 25,-40 153,-184 145,-241 -51,-3 -167,75 -195,97 18,-40 132,-129 162,-193 5,-10 7,-12 7,-23 -3,-76 -266,64 -316,71 26,-15 347,-200 223,-218 -85,-12 -177,21 -260,22 36,-25 186,-58 186,-107 -39,-28 -237,-7 -296,-9 33,-5 282,-40 283,-76 1,-33 -170,-52 -197,-56 6,-3 12,-6 18,-8 41,-11 90,-7 130,-11 92,-9 189,-35 59,-95 -28,-13 -55,-25 -84,-36 -51,-19 -127,-39 -174,-64 66,5 303,72 352,33 40,-51 -226,-190 -247,-217 43,15 196,88 240,70 5,-33 -30,-60 -47,-75 -55,-50 -132,-124 -192,-165 49,29 257,182 305,164 7,-52 -114,-172 -136,-212 54,28 159,143 248,185 13,7 34,13 44,1 32,-53 -117,-291 -136,-349 25,22 139,194 181,242 23,27 44,58 85,55 42,-78 -28,-251 -28,-336 20,39 35,86 56,129 15,32 38,110 79,108 31,-52 6,-243 5,-313 32,61 28,296 91,317 46,-32 52,-186 71,-246 10,86 0,315 59,349 50,-5 89,-96 113,-142 19,-35 65,-147 85,-170 -19,129 -204,563 90,289 38,-35 87,-81 117,-116 -13,44 -127,182 -103,237 60,8 221,-129 270,-156 -29,55 -208,163 -196,236 60,21 195,-53 251,-65 -41,33 -93,64 -135,96 -304,230 154,117 280,120 -73,32 -314,66 -332,139 51,83 271,54 345,95 -63,4 -221,-1 -255,35 11,28 38,30 68,40 69,21 138,42 207,63 7,2 17,5 23,7 15,7 8,3 16,10 -70,-3 -250,-57 -313,-30 1,41 116,88 149,105 9,5 16,8 26,14 8,6 17,13 25,19 -70,-11 -235,-72 -297,-49 -10,45 88,115 121,142 44,35 113,77 150,118 -45,-19 -106,-60 -156,-84 -29,-14 -50,-25 -81,-39 -228,-101 61,207 86,249 -19,-12 -181,-155 -191,-106 -7,33 -1,-28 -2,9 0,17 38,83 74,137 16,24 47,71 68,100z" style="fill:#930161"/>			
+</g><g>	<animate attributeName="opacity" dur="1" repeatCount="indefinite" values=" 0.4;0.6;0.4;1;0.1;0.6;0.4;0.8;0.2;0.8;0.2;0.9;0.3;0.8;0.2;1;0.5;1;0.2;1;0.5;0.8;0.1;0.7;0.3;0.6;0.3;0.7;0.1;0.6;0.5;0.6;0.5;0.8;0.3;0.7;0.2;0.8;0.2;0.9;0.2;0.8;0.3;0.8;0.1;1;0.3;0.7;0.2;0.8;0.1;0.7 "/>
+<path class="WeaponChristmas2020-Mediumfil264" d="M14978 22356c16,-24 35,-46 55,-74 16,-22 38,-51 51,-73 -26,10 -111,78 -152,101 -30,-34 -38,-90 -68,-124l-9 121 -167 -80c32,56 131,113 150,160 -15,5 -75,44 -87,62l100 -6 -28 152 26 -33c7,-12 15,-23 22,-35 15,-23 26,-46 44,-64 16,12 125,143 130,160 -21,12 -46,31 -69,49 -23,16 -41,30 -65,47l-263 195c-34,25 -106,71 -129,97 26,-9 910,-590 1008,-653 102,-66 95,-53 108,-128 -94,10 -84,20 -167,80l-277 204c-26,19 -117,91 -141,99l-79 -189 151 -17c-33,-25 -113,-25 -144,-51z" style="fill:#c1ab42"/>			
+</g><g>	<animate attributeName="opacity" dur="1" repeatCount="indefinite" values=" 0.5;1;0.1;1;0.3;0.7;0.4;0.8;0.2;0.6;0.1;0.8;0.4;1;0.1;0.8;0.3;0.7;0.2;0.7;0.5;0.9;0.4;1;0.4;0.8;0.4;0.8;0.5;0.7;0.4;0.9;0.3;0.7;0.4;0.6;0.5;0.6;0.5;1;0.2;0.7;0.5;0.6;0.4;0.8;0.1;0.6;0.1;0.8;0.2;0.8 "/>
+<path class="WeaponChristmas2020-Mediumfil265" d="M15350 21074c-18,8 -52,35 -70,49 -23,18 -42,34 -66,48 -12,-13 -14,-29 -20,-48 -11,-36 -37,-131 -52,-151l-3 212c-46,3 -113,-21 -160,-23 30,33 68,57 102,91l-183 100 243 -38 -3 131c18,-24 47,-81 65,-98 44,36 77,95 126,125l-67 -175 241 -14c-34,-19 -183,-46 -238,-58l85 -151z" style="fill:#d1c8ab"/>			
+</g><g>	<animate attributeName="opacity" dur="1" repeatCount="indefinite" values=" 0.3;0.7;0.5;1;0.1;0.9;0.4;0.8;0.5;1;0.2;0.8;0.2;0.6;0.4;1;0.2;0.9;0.2;1;0.4;0.6;0.2;0.6;0.2;0.9;0.1;0.9;0.2;0.6;0.1;0.7;0.2;0.7;0.5;0.6;0.3;0.6;0.5;0.6;0.1;0.7;0.1;0.6;0.1;0.9;0.2;0.7;0.5;0.9;0.5;1 "/>
+<path class="WeaponChristmas2020-Mediumfil266" d="M13147 20747c21,-22 49,-51 67,-77 -41,15 -159,98 -214,124 -11,-15 -41,-104 -44,-117 -5,7 -3,3 -7,14 -2,4 -3,9 -4,13 -2,8 -3,19 -5,27 -3,22 -4,40 -14,58l-162 -76c12,23 43,48 64,71 12,13 20,23 32,36 20,22 20,17 29,37l-221 104 247 -36 -25 174 93 -145 136 160c-12,-54 -67,-154 -69,-202l153 -35 -125 -45 69 -85z" style="fill:#cb0941"/>			
+</g><g>	<animate attributeName="opacity" dur="1" repeatCount="indefinite" values=" 0.4;1;0.5;0.6;0.3;0.9;0.1;0.8;0.1;0.8;0.2;1;0.3;0.7;0.4;0.8;0.4;0.9;0.3;0.7;0.5;1;0.3;0.6;0.4;0.8;0.5;0.6;0.2;0.7;0.1;0.6;0.4;0.9;0.3;0.7;0.5;0.9;0.2;0.9;0.4;0.6;0.4;0.7;0.4;0.8;0.5;0.6;0.4;1;0.2;0.7 "/>
+<path class="WeaponChristmas2020-Mediumfil267" d="M12302 26981l41 189 -244 -18 227 86c-8,28 -35,54 -53,76 -12,15 -42,48 -50,68l151 -80 39 203c10,-16 32,-174 35,-209l157 51c-7,-14 -36,-44 -44,-52 -17,-18 -36,-29 -44,-57l198 -69 -248 3 20 -128c-31,25 -48,60 -79,87 -27,-36 -80,-126 -106,-150z" style="fill:#fe92e9"/>			
+</g><g>	<animate attributeName="opacity" dur="1" repeatCount="indefinite" values=" 0.4;0.6;0.5;1;0.3;1;0.3;0.7;0.3;0.8;0.1;0.7;0.3;0.8;0.4;0.8;0.3;0.7;0.3;0.9;0.1;1;0.3;1;0.4;0.9;0.1;1;0.1;0.7;0.2;0.9;0.3;1;0.1;0.9;0.3;0.6;0.1;0.9;0.3;1;0.1;1;0.2;0.9;0.4;0.6;0.2;0.7;0.4;0.8 "/>
+<path class="WeaponChristmas2020-Mediumfil268" d="M12323 20403c-8,-18 -45,-102 -60,-112l-5 115 -176 -54 143 124c-16,18 -166,106 -205,133l239 -65 -4 173 74 -152c25,9 111,103 156,141l-96 -190 149 -51c-24,-18 -101,-18 -129,-34 16,-39 94,-134 112,-175 -35,16 -165,137 -198,147z" style="fill:#4629a0"/>			
+</g><g>	<animate attributeName="opacity" dur="1" repeatCount="indefinite" values=" 0.5;1;0.1;0.8;0.2;0.9;0.2;0.8;0.3;0.9;0.5;0.9;0.3;0.7;0.1;0.6;0.1;1;0.2;0.8;0.4;0.6;0.4;0.7;0.3;0.9;0.1;0.9;0.4;0.6;0.1;0.7;0.1;0.9;0.1;0.7;0.4;0.6;0.1;0.9;0.4;1;0.1;0.6;0.4;0.8;0.3;0.7;0.1;1;0.4;0.9 "/>
+<path class="WeaponChristmas2020-Mediumfil269" d="M10996 21415c-34,-31 -70,-118 -104,-148l38 183c-51,9 -185,-23 -248,-23 53,30 189,69 228,99 -30,45 -98,110 -111,134 45,-15 116,-65 159,-75l28 207c11,-22 39,-173 43,-209l153 52c-20,-36 -65,-70 -84,-107l199 -64c-16,-9 -208,-5 -247,-6l24 -128c-29,25 -51,61 -78,85z" style="fill:#d83443"/>			
+</g><g>	<animate attributeName="opacity" dur="1" repeatCount="indefinite" values=" 0.1;0.6;0.1;0.7;0.4;0.9;0.5;0.6;0.3;0.8;0.5;0.9;0.5;0.7;0.5;1;0.4;1;0.4;0.9;0.3;0.7;0.5;1;0.3;0.9;0.4;0.6;0.1;0.6;0.4;1;0.3;0.9;0.5;0.9;0.4;0.9;0.3;0.9;0.3;1;0.5;0.9;0.1;0.8;0.2;0.8;0.3;0.7;0.3;0.9 "/>
+<path class="WeaponChristmas2020-Mediumfil270" d="M16253 23885c31,7 106,60 143,74l-67 -120 210 -34 -243 -41c-2,-25 35,-93 41,-124 -31,16 -60,56 -94,70l-76 -163 6 190c-41,-11 -75,-20 -116,-31 -38,-11 -80,-29 -120,-32l207 132 -128 115 165 -50 -2 211 74 -197z" style="fill:#c41623"/>			
+</g><g>	<animate attributeName="opacity" dur="1" repeatCount="indefinite" values=" 0.2;0.6;0.1;0.6;0.2;0.9;0.1;0.7;0.2;1;0.1;0.9;0.1;1;0.1;0.7;0.2;0.8;0.3;1;0.3;0.9;0.5;1;0.1;0.8;0.4;0.7;0.4;1;0.4;0.6;0.1;0.9;0.4;1;0.4;0.6;0.4;1;0.2;1;0.2;1;0.1;1;0.5;1;0.2;1;0.2;0.6 "/>
+<path class="WeaponChristmas2020-Mediumfil271" d="M13863 20564l-156 19c22,20 93,42 123,56 -19,36 -111,103 -147,152l220 -106c21,35 17,95 41,122l26 -112c25,6 57,31 83,44 30,15 51,34 81,47l-117 -152c6,-5 -2,0 10,-7l220 -81 -246 16 39 -171c-35,25 -74,109 -108,135 -12,-11 -109,-150 -121,-170 0,46 54,160 52,208z" style="fill:#a3d59e"/>			
+</g><g>	<animate attributeName="opacity" dur="1" repeatCount="indefinite" values=" 0.5;0.9;0.2;0.7;0.3;1;0.4;0.6;0.2;0.8;0.1;0.9;0.4;0.6;0.2;0.6;0.3;1;0.1;0.8;0.3;0.9;0.4;1;0.3;0.7;0.5;0.6;0.4;0.7;0.2;0.6;0.2;0.6;0.3;0.7;0.4;0.9;0.1;0.8;0.3;0.8;0.1;1;0.1;0.8;0.2;0.8;0.2;0.8;0.3;0.6 "/>
+<path class="WeaponChristmas2020-Mediumfil272" d="M10347 24592c-14,-9 -33,-10 -49,-13 -126,-21 -127,-11 -108,-46 19,-34 76,-131 84,-161 -37,28 -128,127 -159,141 -12,-25 -74,-117 -91,-132l10 139 -201 -63 193 143c-14,35 -49,42 -91,95l115 -23 -7 183c18,-35 64,-153 83,-172 63,46 123,122 181,162 -8,-24 -47,-81 -63,-106 -17,-29 -52,-79 -62,-108l165 -39z" style="fill:#e09f1d"/>			
+</g><g>	<animate attributeName="opacity" dur="1" repeatCount="indefinite" values=" 0.5;0.9;0.3;1;0.4;0.6;0.5;1;0.5;0.8;0.4;0.8;0.1;0.7;0.4;1;0.3;0.8;0.1;0.6;0.1;0.9;0.3;0.8;0.5;0.9;0.2;0.6;0.1;0.8;0.3;0.7;0.2;0.8;0.1;0.9;0.2;0.6;0.3;0.7;0.4;0.8;0.4;1;0.1;0.6;0.3;0.6;0.2;0.7;0.2;0.6 "/>
+<path class="WeaponChristmas2020-Mediumfil273" d="M11606 21097c-20,17 -138,41 -163,51l-17 11c-1,-1 -3,2 -5,4l194 10c3,39 -22,113 -28,158 11,-6 4,-1 12,-8 1,-2 5,-5 6,-6 4,-5 6,-8 10,-13 9,-12 10,-12 21,-23 17,-17 23,-29 43,-47 26,23 64,136 88,171 6,8 3,5 10,10l-31 -240 129 6c-25,-27 -69,-41 -94,-67 17,-22 46,-42 67,-62 17,-15 53,-41 67,-60 -45,9 -146,61 -182,59l-8 -238c0,2 -1,4 -2,5 0,1 -1,3 -2,4 -9,20 3,-10 -4,9 -1,4 -2,9 -3,13 -3,11 -5,17 -7,27l-47 176 -150 -90 96 140z" style="fill:#2c18f0"/>			
+</g><g>	<animate attributeName="opacity" dur="1" repeatCount="indefinite" values=" 0.1;0.7;0.2;0.7;0.5;0.6;0.1;0.7;0.4;1;0.1;0.9;0.3;0.6;0.5;0.8;0.3;1;0.5;0.7;0.5;1;0.1;0.6;0.2;0.6;0.3;0.6;0.4;0.9;0.2;0.9;0.3;0.8;0.4;0.7;0.3;0.8;0.4;0.7;0.1;0.8;0.1;0.9;0.1;0.7;0.1;0.7;0.3;1;0.1;1 "/>
+<path class="WeaponChristmas2020-Mediumfil274" d="M16180 25213c-16,14 -125,176 -135,199 -28,-13 -65,-66 -98,-86l29 113 -184 2c30,11 59,21 88,33 18,7 70,28 87,38 -16,42 -126,150 -153,191 21,-8 34,-21 53,-35l156 -98 51 161 19 -166c26,-1 153,71 191,83 -32,-51 -129,-111 -146,-155 26,-12 104,-72 126,-94l-138 16 54 -202z" style="fill:#2c9126"/>			
+</g><g>	<animate attributeName="opacity" dur="1" repeatCount="indefinite" values=" 0.3;0.6;0.2;0.9;0.4;0.7;0.3;0.7;0.1;0.8;0.1;1;0.1;0.7;0.1;0.6;0.4;0.8;0.5;0.9;0.1;0.6;0.4;0.8;0.1;0.8;0.3;0.8;0.3;1;0.5;0.9;0.2;0.6;0.4;0.9;0.1;0.6;0.5;0.9;0.2;0.9;0.3;1;0.1;1;0.2;0.8;0.2;0.6;0.5;0.7 "/>
+<path class="WeaponChristmas2020-Mediumfil275" d="M15595 22584c22,27 142,177 150,197l-112 61 118 6 -54 177c12,-20 41,-50 59,-71 21,-25 39,-51 62,-73 26,21 103,170 136,202l-67 -237 173 0 -153 -69c22,-44 119,-119 137,-158l-186 97c-15,-39 -35,-125 -56,-150 -8,37 -14,102 -30,131l-177 -113z" style="fill:#aa4edb"/>			
+</g><g>	<animate attributeName="opacity" dur="1" repeatCount="indefinite" values=" 0.4;0.7;0.2;0.6;0.1;0.9;0.2;0.6;0.5;0.7;0.3;0.9;0.2;1;0.5;0.9;0.4;0.8;0.2;0.6;0.2;1;0.1;0.6;0.3;0.6;0.2;0.8;0.5;0.9;0.3;0.9;0.2;0.7;0.5;0.6;0.1;0.6;0.4;0.6;0.3;0.7;0.3;0.6;0.4;0.6;0.5;1;0.3;0.8;0.2;0.6 "/>
+<path class="WeaponChristmas2020-Mediumfil276" d="M10519 22898c28,-57 84,-115 109,-170l-191 146c-23,-24 -40,-99 -65,-110l-5 112c-37,-2 -134,-43 -177,-55l145 122c-13,19 -175,119 -204,131 1,0 3,1 4,1 1,0 3,0 4,0 19,2 181,-52 228,-59l-1 174 70 -157c39,20 125,122 160,142l-97 -186c31,-27 111,-33 150,-57 -28,-16 -103,-14 -130,-34z" style="fill:#605799"/>			
+</g><g>	<animate attributeName="opacity" dur="1" repeatCount="indefinite" values=" 0.5;0.9;0.3;0.9;0.5;0.9;0.5;1;0.2;0.9;0.3;0.6;0.5;0.6;0.2;1;0.3;0.9;0.3;0.8;0.1;0.8;0.1;0.8;0.5;0.7;0.5;0.8;0.4;0.8;0.2;0.7;0.1;0.8;0.3;0.8;0.5;0.9;0.5;0.9;0.1;0.6;0.1;0.8;0.3;0.8;0.1;1;0.1;0.9;0.5;1 "/>
+<path class="WeaponChristmas2020-Mediumfil277" d="M14394 20805c-32,35 -105,150 -129,169l-115 -111c5,37 26,89 33,135l-210 -24 221 105c-9,28 -53,75 -74,109l110 -43 28 181 47 -185c32,10 160,100 208,124l-123 -140c-15,-15 -28,-28 -39,-46l152 -75 -170 5 61 -204z" style="fill:#c0b45e"/>			
+</g><g>	<animate attributeName="opacity" dur="1" repeatCount="indefinite" values=" 0.2;0.6;0.3;0.8;0.3;1;0.2;0.8;0.3;1;0.5;0.8;0.5;1;0.2;0.9;0.2;1;0.3;0.9;0.1;1;0.3;0.9;0.4;1;0.5;0.7;0.5;0.7;0.1;0.8;0.2;0.7;0.5;0.7;0.5;0.9;0.2;0.7;0.3;0.7;0.5;0.6;0.3;1;0.2;0.6;0.1;0.7;0.2;0.6 "/>
+<path class="WeaponChristmas2020-Mediumfil278" d="M14309 26768c-34,43 -113,183 -141,205 -24,-19 -64,-75 -93,-86l32 114 -182 2 22 13c7,3 15,5 21,7 31,12 113,41 130,53 -12,35 -120,150 -148,190 61,-46 140,-94 203,-139 9,27 21,58 29,84 6,25 11,60 27,81l15 -169c59,9 123,64 186,80 -25,-46 -122,-111 -140,-144 35,-36 91,-64 124,-101l-137 17 52 -207z" style="fill:#79e95a"/>			
+</g><g>	<animate attributeName="opacity" dur="1" repeatCount="indefinite" values=" 0.2;0.9;0.1;0.7;0.4;1;0.4;0.6;0.3;1;0.5;0.7;0.5;0.6;0.2;0.9;0.2;0.9;0.2;0.6;0.5;0.6;0.1;0.7;0.4;0.7;0.5;0.8;0.1;0.7;0.1;1;0.2;0.6;0.5;0.9;0.5;0.7;0.4;1;0.4;0.9;0.3;0.7;0.4;0.6;0.4;0.9;0.2;0.8;0.1;0.6 "/>
+<path class="WeaponChristmas2020-Mediumfil279" d="M10849 25668c-28,-23 -65,-121 -96,-155l28 191 -224 -30c1,1 10,6 11,6l188 89c-19,45 -91,94 -115,132 41,-9 121,-60 160,-64l19 205c11,-24 20,-70 28,-102l25 -93c0,0 2,-1 2,-3 0,-2 1,-3 2,-4l146 61c-16,-37 -59,-74 -78,-114l202 -55 -246 -19 30 -125c-23,14 -49,60 -82,80z" style="fill:#01fcc8"/>			
+</g><g>	<animate attributeName="opacity" dur="1" repeatCount="indefinite" values=" 0.3;0.9;0.3;0.8;0.1;0.8;0.5;0.9;0.1;0.9;0.5;0.6;0.3;0.9;0.4;0.9;0.3;1;0.4;1;0.1;0.6;0.1;0.7;0.1;0.6;0.2;1;0.4;0.8;0.4;0.7;0.1;0.6;0.4;1;0.4;0.6;0.3;0.6;0.2;1;0.3;0.9;0.4;1;0.4;1;0.5;0.7;0.3;0.6 "/>
+<path class="WeaponChristmas2020-Mediumfil280" d="M11193 22327c-19,9 -64,47 -81,61 -22,17 -60,51 -85,61 -10,-30 -28,-72 -49,-93l-5 97 -147 -46c32,36 84,66 119,102 -5,7 2,1 -11,11 -9,8 -2,2 -10,7 -38,23 -124,74 -147,96l198 -54 -4 139c9,-8 3,0 12,-14 2,-3 6,-13 8,-16 4,-10 8,-20 13,-31 10,-21 18,-44 31,-61 36,21 97,95 131,116l-82 -160c31,-8 105,-29 125,-45 -14,-6 -36,-9 -53,-12 -17,-3 -40,-5 -55,-16l92 -142z" style="fill:#605864"/>			
+</g><g>	<animate attributeName="opacity" dur="1" repeatCount="indefinite" values=" 0.1;0.9;0.5;1;0.3;0.9;0.3;0.7;0.4;0.9;0.2;0.8;0.5;1;0.1;1;0.5;1;0.3;0.9;0.1;0.6;0.4;0.7;0.5;1;0.2;0.6;0.4;0.9;0.1;0.7;0.5;0.7;0.1;0.6;0.1;0.8;0.5;0.7;0.5;0.9;0.3;0.9;0.5;0.7;0.3;0.8;0.3;1;0.3;0.8 "/>
+<path class="WeaponChristmas2020-Mediumfil281" d="M9819 22338c41,22 90,98 132,119l-92 -185 103 -33 -95 -25 73 -134 -127 97 -76 -191 17 208c-45,-5 -120,-32 -141,-25l113 78c-13,21 -126,96 -141,105 21,7 130,-37 168,-43 16,34 15,92 25,132l41 -103z" style="fill:#fa9969"/>			
+</g><g>	<animate attributeName="opacity" dur="1" repeatCount="indefinite" values=" 0.2;1;0.5;0.8;0.3;0.9;0.4;1;0.1;0.8;0.2;1;0.5;1;0.2;1;0.2;0.8;0.3;0.7;0.1;0.8;0.4;0.8;0.2;0.9;0.2;0.6;0.2;0.6;0.1;0.7;0.5;1;0.3;0.6;0.2;0.8;0.1;0.9;0.3;0.9;0.4;1;0.3;1;0.1;0.7;0.4;1;0.5;1 "/>
+<path class="WeaponChristmas2020-Mediumfil282" d="M11300 25162c-20,13 -108,52 -58,98 23,22 48,9 66,-6l667 -490c19,-13 33,-25 52,-38l48 -39 -775 475zm-364 528c118,16 98,9 218,-87 56,-46 111,-87 170,-135 57,-46 112,-89 170,-135 23,-18 158,-121 167,-135 -24,10 -69,44 -95,60l-461 302c-31,21 -60,40 -91,61 -43,28 -77,39 -78,69zm666 64c-4,7 -73,77 -87,93l-628 675 3 126c40,-11 41,-7 64,-38l219 -288c139,-189 290,-378 429,-568zm466 -546c-16,17 -92,79 -31,110 28,15 48,-4 62,-23l516 -648c15,-18 25,-32 40,-50l36 -50 -623 661zm257 635c-28,55 -57,113 -86,167 -58,107 -120,220 -174,334 -27,56 -58,111 -87,167 -27,51 -93,148 -60,180 58,58 102,-88 118,-122l473 -1050c16,-35 25,-57 41,-90 12,-26 27,-57 37,-85l-262 499zm88 1243c77,-70 71,-95 79,-168 9,-90 73,-617 71,-659 -34,142 -70,278 -104,423 -17,71 -35,142 -52,212 -17,66 -43,128 -22,159 10,14 19,26 28,33zm834 -860c-10,114 -21,228 -33,342 -5,51 -17,128 -16,175 0,36 44,96 55,132 19,-7 30,-18 42,-30 0,-63 -40,-599 -48,-619zm921 707c19,-27 46,-51 34,-87l-235 -678c2,47 28,149 39,203l79 407c15,81 11,106 83,155zm585 -1069l78 133c28,46 52,87 78,130 24,41 54,94 78,132 22,35 59,113 116,63 60,-53 -45,-132 -101,-191l-149 -161c-17,-18 -82,-95 -100,-106zm306 -1178c7,3 76,74 92,88l665 638 126 -2c-10,-40 -6,-40 -37,-64l-285 -223c-186,-142 -374,-296 -561,-437zm-620 -839c25,15 119,39 155,50 50,16 100,32 150,48 51,15 103,32 154,48 45,14 119,52 153,12 16,-19 18,-49 2,-70 -17,-22 -41,-23 -75,-26l-539 -62zm397 -157c38,12 886,129 974,142 56,9 109,15 163,24 68,11 56,13 77,-3 15,-12 35,-27 47,-46 -93,-74 -127,-48 -282,-62l-979 -55zm-1039 -678c18,-17 110,-189 134,-233l329 -592c16,-29 67,-91 33,-124 -51,-48 -78,38 -93,70 -95,205 -192,428 -289,626l-114 253zm3 -1679c1,-1 1,-3 2,-5l96 -451c13,-60 19,-100 -11,-154l-62 30 -29 588 4 -8zm-1460 -723c-54,72 -28,86 10,189 24,65 45,123 69,190l141 379c-2,-41 -117,-515 -136,-598 -14,-62 -16,-130 -84,-160zm-432 1314c-25,-40 -77,-142 -137,-85 -46,44 22,109 66,162l782 973 -711 -1050zm-1344 -146c-41,-4 -80,-6 -122,-11 2,35 1,29 27,43l124 74c149,95 341,199 496,294l-292 -233c-50,-40 -98,-78 -148,-117 -28,-21 -44,-46 -85,-50zm-667 509c4,18 20,45 28,61 14,29 16,28 46,39 92,35 793,318 820,323l-660 -353c-190,-100 -124,-91 -234,-70zm1091 1258c-101,-27 -315,-62 -436,-85 -46,-9 -106,-33 -135,6 -20,26 -22,89 59,89l512 -10zm-74 180c-40,-9 -894,-59 -983,-66 -56,-3 -110,-5 -164,-10 -69,-6 -57,-9 -77,9 -14,13 -33,30 -44,49 99,67 131,38 287,40l981 -22zm-693 811c28,15 83,19 119,23 45,5 498,-116 572,-135 56,-14 177,-38 218,-58l-880 114 -29 56z" style="fill:#9d08ae"/>			
+</g><g>	<animate attributeName="opacity" dur="1" repeatCount="indefinite" values=" 0.4;1;0.3;0.7;0.1;0.8;0.5;1;0.5;0.7;0.1;0.6;0.4;0.6;0.3;0.9;0.2;1;0.1;0.8;0.4;0.8;0.1;0.6;0.5;0.6;0.2;0.7;0.5;1;0.4;0.8;0.4;0.8;0.4;0.9;0.1;0.8;0.3;0.8;0.1;1;0.5;1;0.3;0.7;0.2;0.6;0.3;0.9;0.2;0.7 "/>
+<path class="WeaponChristmas2020-Mediumfil283" d="M12833 26313l-98 83 128 -24 -21 158c27,-29 55,-102 74,-141 33,13 69,51 104,68l-40 -96 159 -9 -179 -55 41 -86c-27,14 -49,34 -76,43l-43 -131 -12 146 -170 -68 133 112z" style="fill:#8e37ac"/>			
+</g><g>	<animate attributeName="opacity" dur="1" repeatCount="indefinite" values=" 0.1;1;0.1;0.9;0.5;0.9;0.3;0.8;0.5;0.7;0.3;0.9;0.3;0.8;0.1;1;0.2;0.6;0.1;0.8;0.5;0.6;0.4;0.6;0.4;0.8;0.3;0.9;0.4;0.6;0.3;0.7;0.3;0.9;0.4;0.6;0.2;0.6;0.1;0.9;0.2;0.6;0.3;0.7;0.2;0.9;0.1;0.9;0.4;0.6;0.5;0.7 "/>
+<path class="WeaponChristmas2020-Mediumfil284" d="M14571 26196c5,-25 42,-52 59,-70 20,-20 50,-46 63,-68l-164 87 -29 -128 -26 126c-27,-4 -109,-62 -140,-76 20,38 77,83 100,123 -11,16 -51,35 -73,50 -6,3 -8,5 -14,9 -7,6 -5,5 -10,10l102 -1 -54 151c30,-26 82,-106 118,-142 26,14 38,48 68,71l-15 -89 141 11c-36,-23 -83,-41 -126,-64z" style="fill:#202d0c"/>			
+</g><g>	<animate attributeName="opacity" dur="1" repeatCount="indefinite" values=" 0.4;0.9;0.1;1;0.3;0.7;0.1;1;0.3;0.6;0.2;0.6;0.4;0.6;0.2;1;0.2;0.7;0.1;0.9;0.3;0.8;0.5;0.8;0.5;1;0.4;0.9;0.1;1;0.5;0.6;0.4;0.9;0.2;0.9;0.4;1;0.4;0.8;0.4;0.8;0.5;1;0.3;0.9;0.3;0.8;0.3;1;0.5;0.6 "/>
+<path class="WeaponChristmas2020-Mediumfil285" d="M12837 21927c9,-22 39,-60 54,-81 19,-27 34,-49 51,-75 -42,22 -118,105 -151,112l-50 -120 -5 134 -150 -55c13,18 98,80 120,102 -6,16 -5,12 -21,24 -17,15 -55,47 -64,63l101 -18 -30 156c15,-9 83,-140 91,-160 34,11 54,44 83,60l-29 -86 140 -14 -140 -42z" style="fill:#f4d00e"/>			
+</g><g>	<animate attributeName="opacity" dur="1" repeatCount="indefinite" values=" 0.4;1;0.1;0.8;0.2;0.8;0.5;0.9;0.2;0.8;0.1;0.9;0.1;1;0.4;0.8;0.2;1;0.2;0.8;0.3;0.8;0.1;0.6;0.1;0.8;0.5;0.8;0.3;0.7;0.1;0.9;0.5;0.6;0.3;0.8;0.2;0.9;0.1;1;0.2;0.9;0.4;1;0.3;0.7;0.1;0.8;0.3;0.6;0.5;0.6 "/>
+<path class="WeaponChristmas2020-Mediumfil286" d="M15372 24264c15,28 80,93 97,125 -24,23 -84,44 -102,66l104 1 -59 149c19,-14 45,-50 62,-69 20,-22 39,-52 62,-69 22,17 39,58 66,73l-13 -89 139 13 -127 -70c17,-26 106,-95 133,-130 -53,19 -123,72 -169,82l-25 -130 -31 128c-50,-20 -90,-63 -137,-80z" style="fill:#457b30"/>			
+</g><g>	<animate attributeName="opacity" dur="1" repeatCount="indefinite" values=" 0.5;0.9;0.2;0.8;0.5;1;0.5;1;0.5;1;0.2;1;0.5;0.8;0.4;0.9;0.3;0.9;0.3;0.8;0.3;0.6;0.1;0.6;0.4;0.9;0.3;0.8;0.2;0.9;0.3;1;0.5;1;0.4;0.8;0.3;1;0.1;0.6;0.5;0.8;0.4;1;0.2;0.8;0.2;0.8;0.5;0.9;0.2;0.9 "/>
+<path class="WeaponChristmas2020-Mediumfil287" d="M13467 21667c-40,-21 -81,-87 -117,-110l67 144c-19,12 -63,20 -88,29l-25 13c27,4 76,10 96,27l-89 129c47,-24 102,-80 152,-107l34 68c7,14 2,7 12,17 3,-28 1,-63 12,-86l128 45c-29,-31 -69,-65 -104,-95 17,-26 125,-73 159,-100l-184 42 4 -129 -57 113z" style="fill:#a448e6"/>			
+</g><g>	<animate attributeName="opacity" dur="1" repeatCount="indefinite" values=" 0.4;0.8;0.3;0.7;0.4;0.9;0.2;0.9;0.2;0.7;0.4;0.7;0.4;0.9;0.3;0.6;0.5;0.7;0.3;0.6;0.3;0.8;0.3;0.7;0.4;0.8;0.2;1;0.1;0.8;0.5;0.8;0.4;0.7;0.5;0.6;0.1;1;0.2;0.6;0.3;0.9;0.2;0.7;0.1;0.6;0.2;0.7;0.3;0.6;0.3;0.9 "/>
+<path class="WeaponChristmas2020-Mediumfil288" d="M13311 26941c10,-38 75,-100 88,-139 -22,16 -132,106 -156,112 -7,-20 -32,-75 -44,-85l-5 89 -132 -44c16,25 81,70 104,95l-37 27c-14,8 -23,14 -36,21l-67 42 167 -35 -4 133 60 -116c42,24 64,77 114,104l-69 -143 116 -40 -99 -21z" style="fill:#c5e3ea"/>			
+</g><g>	<animate attributeName="opacity" dur="1" repeatCount="indefinite" values=" 0.1;0.8;0.5;0.9;0.1;0.9;0.4;1;0.2;0.8;0.4;0.8;0.1;1;0.2;0.9;0.1;0.9;0.3;1;0.3;0.8;0.2;0.8;0.2;0.9;0.4;0.6;0.4;1;0.5;0.6;0.4;0.6;0.2;0.7;0.4;0.8;0.4;0.9;0.1;0.6;0.4;1;0.4;0.6;0.1;0.8;0.5;0.6;0.3;0.7 "/>
+<path class="WeaponChristmas2020-Mediumfil289" d="M15516 22027c9,18 83,77 101,91 13,10 19,15 28,31 -19,7 -34,19 -54,31 -17,10 -40,21 -52,38l126 -18c-4,61 -17,97 -23,152 6,-5 4,-2 9,-10 22,-28 51,-106 71,-127l96 71c-4,-35 -27,-58 -35,-96l162 -3c-49,-25 -138,-34 -177,-62 11,-28 33,-51 44,-85 -28,10 -49,34 -79,40l-41 -129 -14 145 -162 -69z" style="fill:#6a3e14"/>			
+</g><g>	<animate attributeName="opacity" dur="1" repeatCount="indefinite" values=" 0.2;0.7;0.4;0.6;0.5;0.6;0.3;0.6;0.1;0.6;0.1;0.8;0.4;0.7;0.1;0.9;0.2;0.9;0.5;1;0.1;1;0.5;0.9;0.5;1;0.2;1;0.1;0.7;0.3;0.7;0.4;0.9;0.2;0.9;0.1;0.6;0.5;0.6;0.3;0.9;0.2;0.6;0.4;0.6;0.5;0.9;0.2;0.9;0.2;0.9 "/>
+<path class="WeaponChristmas2020-Mediumfil290" d="M10552 21544l-166 90c-10,-16 -12,-43 -17,-63l-11 -50c-5,-15 -1,-6 -6,-12 -4,34 -13,100 -29,125l-138 -77c20,24 93,102 104,126 -22,13 -83,45 -97,66l100 -3 -53 148c35,-23 81,-109 118,-138 25,17 44,48 67,72l-15 -90 131 10c-24,-27 -99,-45 -120,-70l132 -134z" style="fill:#4d7287"/>			
+</g><g>	<animate attributeName="opacity" dur="1" repeatCount="indefinite" values=" 0.3;0.6;0.2;0.7;0.4;0.9;0.2;0.7;0.5;0.6;0.5;0.6;0.1;0.6;0.2;0.9;0.4;0.9;0.2;1;0.3;0.9;0.1;0.9;0.3;0.7;0.1;0.6;0.3;0.6;0.3;1;0.4;0.6;0.1;0.7;0.4;0.7;0.1;0.7;0.3;1;0.1;0.9;0.5;0.8;0.4;1;0.3;0.7;0.4;0.6 "/>
+<path class="WeaponChristmas2020-Mediumfil291" d="M11092 26883c-15,-16 -179,-122 -202,-132 13,-29 65,-67 85,-100l-112 31 -5 -183c-11,29 -21,58 -32,87 -7,19 -28,71 -37,88 -42,-15 -152,-123 -194,-150 9,21 22,34 37,52l100 154 -160 55 166 16c2,26 -68,154 -80,192 51,-33 108,-131 152,-148 13,26 74,103 96,125l-17 -138 203 51z" style="fill:#3c5d49"/>			
+</g><g>	<animate attributeName="opacity" dur="1" repeatCount="indefinite" values=" 0.1;0.9;0.1;0.9;0.2;0.8;0.1;0.8;0.4;0.7;0.3;0.7;0.4;0.8;0.1;0.6;0.1;0.7;0.1;1;0.1;0.7;0.5;0.9;0.5;0.8;0.1;1;0.1;1;0.3;0.8;0.2;0.8;0.2;0.7;0.4;0.7;0.2;0.6;0.4;0.7;0.3;0.8;0.2;0.7;0.5;0.6;0.2;1;0.1;0.9 "/>
+<path class="WeaponChristmas2020-Mediumfil292" d="M9485 23641c-31,-3 -110,-50 -148,-62l76 115 -206 50 245 22c4,24 -27,95 -31,127 29,-18 56,-61 88,-78l88 157 -20 -189c42,8 76,14 118,22 38,7 82,23 122,22l-217 -115 119 -125 -160 63 -15 -210 -59 201z" style="fill:#9b0caa"/>			
+</g>			
+    </g>
+   </g>
+  </g>
+ </g></svg>
