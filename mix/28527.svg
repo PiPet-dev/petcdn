@@ -1,0 +1,665 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd" version="1.1" viewBox="0 0 29000 29000" xml:space="preserve"><defs><style type="text/css">.HairBack-Bear0fil22 {fill:none}
+.Tail-Bear0fil22 {fill:none}
+.RightFoot-Bear0fil35 {fill:#f0d5c9}
+.RightFoot-Bear0fil14 {fill:black;fill-opacity:0.200000}
+.RightFoot-Bear0fil32 {fill:black;fill-rule:nonzero}
+.RightLeg-Bear0fil437 {fill:url(#RightLeg-Bear0id151)}
+.RightLeg-Bear0fil14 {fill:black;fill-opacity:0.200000}
+.RightLeg-Bear0fil32 {fill:black;fill-rule:nonzero}
+.LeftFoot-Bear0fil35 {fill:#f0d5c9}
+.LeftFoot-Bear0fil14 {fill:black;fill-opacity:0.200000}
+.LeftFoot-Bear0fil32 {fill:black;fill-rule:nonzero}
+.LeftLeg-Bear0fil447 {fill:url(#LeftLeg-Bear0id520)}
+.LeftLeg-Bear0fil14 {fill:black;fill-opacity:0.200000}
+.LeftLeg-Bear0fil32 {fill:black;fill-rule:nonzero}
+.RightHand-Bear0fil452 {fill:url(#RightHand-Bear0id388)}
+.RightHand-Bear0fil14 {fill:black;fill-opacity:0.200000}
+.RightHand-Bear0fil22 {fill:none}
+.RightHand-Bear0str0 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.RightPaw-Bear0fil457 {fill:#d7aa95}
+.RightPaw-Bear0fil32 {fill:black;fill-rule:nonzero}
+.RightPaw-Bear0fil458 {fill:#A16A6A}
+.LeftHand-Bear0fil465 {fill:url(#LeftHand-Bear0id386)}
+.LeftHand-Bear0fil14 {fill:black;fill-opacity:0.200000}
+.LeftHand-Bear0fil22 {fill:none}
+.LeftHand-Bear0str0 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.LeftPaw-Bear0fil457 {fill:#d7aa95}
+.LeftPaw-Bear0fil32 {fill:black;fill-rule:nonzero}
+.LeftPaw-Bear0fil458 {fill:#A16A6A}
+.Body-Bear0fil476 {fill:url(#Body-Bear0id267)}
+.Body-Bear0fil14 {fill:black;fill-opacity:0.200000}
+.Body-Bear0fil32 {fill:black;fill-rule:nonzero}
+.Body-Bear0fil22 {fill:none}
+.Body-Bear0fil477 {fill:url(#Body-Bear0id310)}
+.Head-Bear0fil511 {fill:url(#Head-Bear0id529)}
+.Head-Bear0fil32 {fill:black;fill-rule:nonzero}
+.Head-Bear0fil14 {fill:black;fill-opacity:0.200000}
+.Head-Bear0fil512 {fill:url(#Head-Bear0id409)}
+.Mouth-Bear7fil100 {fill:black}
+.Mouth-Bear7fil151 {fill:#FF9999}
+.Mouth-Bear7fil32 {fill:black;fill-rule:nonzero}
+.Mouth-Bear7fil22 {fill:none}
+.Mouth-Bear7str0 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.Eyes-Bear5fil552 {fill:url(#Eyes-Bear5id813)}
+.Eyes-Bear5fil553 {fill:url(#Eyes-Bear5id674)}
+.Eyes-Bear5fil554 {fill:url(#Eyes-Bear5id1084)}
+.Eyes-Bear5fil152 {fill:white}
+.Eyes-Bear5fil157 {fill:black;fill-opacity:0.501961}
+.Eyes-Bear5fil155 {fill:#3b3527}
+.Eyes-Bear5fil14 {fill:black;fill-opacity:0.200000}
+.Eyes-Bear5fil555 {fill:url(#Eyes-Bear5id812)}
+.Eyes-Bear5fil556 {fill:url(#Eyes-Bear5id774)}
+.Eyes-Bear5fil557 {fill:url(#Eyes-Bear5id1098)}
+.Eyes-Bear5fil22 {fill:none}
+.Eyes-Bear5str4 {stroke:black;stroke-width:150}
+.Moustache-Bear0fil22 {fill:none}
+.Nose-Bear0fil598 {fill:url(#Nose-Bear0id451)}
+.Nose-Bear0str0 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.HatMerlinBack-Bigfil14new {fill:black;fill-opacity:0.200000}
+.HatMerlinBack-Bigfil15new {fill:url(#HatMerlinBack-Bigid297new)}
+.HatMerlinBack-Bigstr2new {stroke:#2B2A29;stroke-width:150}
+.HatMerlin-Bigfil62new {fill:black;fill-opacity:0.400000}
+.HatMerlin-Bigfil595new {fill:#7EA6F7}
+.HatMerlin-Bigfil596new {fill:#C4D8FF}
+.HatMerlin-Bigfil597new {fill:#789EEB}
+.HatMerlin-Bigfil598new {fill:#4F7CD6}
+.HatMerlin-Bigfil599new {fill:#76A2FA}
+.HatMerlin-Bigfil600new {fill:#5483E3}
+.HatMerlin-Bigfil14new {fill:black;fill-opacity:0.200000}
+.HatMerlin-Bigfil223new {fill:black;fill-rule:nonzero}
+.HatMerlin-Bigfil603new {fill:#8FB4FC}
+.HatMerlin-Bigfil604new {fill:#B0CAFF}
+.HatMerlin-Bigfil605new {fill:url(#HatMerlin-Bigid583new)}
+.HatMerlin-Bigstr0new {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.HatMerlin-Bigfil606new {fill:url(#HatMerlin-Bigid260new)}
+.HatMerlin-Bigfil607new {fill:url(#HatMerlin-Bigid675new);fill-rule:nonzero}
+.BraceletBoxer-Bigfil1 {fill:black;fill-opacity:0.200000}
+.BraceletBoxer-Bigfil3 {fill:black}
+.BraceletBoxer-Bigfil5 {fill:#FFCC99;fill-opacity:0.301961}
+.BraceletBoxer-Bigfil6 {fill:white;fill-rule:nonzero}
+.BraceletBoxer-Bigfil11 {fill:url(#BraceletBoxer-Bigid3)}
+.BraceletBoxer-Bigfil9 {fill:url(#BraceletBoxer-Bigid2)}
+.BraceletBoxer-Bigstr0 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.BraceletBoxer-Bigfil10 {fill:url(#BraceletBoxer-Bigid6)}
+.BraceletBoxer-Bigstr1 {stroke:black;stroke-width:100;stroke-linecap:round;stroke-linejoin:round}
+.BraceletBoxer-Bigfil4 {fill:none}
+.BraceletBoxer-Bigfil12 {fill:url(#BraceletBoxer-Bigid10)}
+.BraceletCutangaShield-Bigfil245 {fill:url(#BraceletCutangaShield-Bigid151)}
+.BraceletCutangaShield-Bigfil246 {fill:url(#BraceletCutangaShield-Bigid402);fill-rule:nonzero}
+.BraceletCutangaShield-Bigfil247 {fill:url(#BraceletCutangaShield-Bigid421);fill-rule:nonzero}
+.BraceletCutangaShield-Bigfil42 {fill:white;fill-rule:nonzero;fill-opacity:0.501961}
+.BraceletCutangaShield-Bigfil248 {fill:white;fill-opacity:0.501961}
+.BraceletCutangaShield-Bigfil250 {fill:url(#BraceletCutangaShield-Bigid127)}
+.BraceletCutangaShield-Bigfil251 {fill:url(#BraceletCutangaShield-Bigid427);fill-rule:nonzero}
+.BraceletCutangaShield-Bigfil252 {fill:url(#BraceletCutangaShield-Bigid392);fill-rule:nonzero}
+.BraceletCutangaShield-Bigfil255 {fill:url(#BraceletCutangaShield-Bigid412);fill-rule:nonzero}
+.BraceletCutangaShield-Bigfil256 {fill:url(#BraceletCutangaShield-Bigid400);fill-rule:nonzero}
+.BraceletCutangaShield-Bigfil258 {fill:white;fill-rule:nonzero;fill-opacity:0.400000}
+.BraceletCutangaShield-Bigfil259 {fill:url(#BraceletCutangaShield-Bigid354);fill-rule:nonzero}
+.BraceletCutangaShield-Bigfil260 {fill:url(#BraceletCutangaShield-Bigid348);fill-rule:nonzero}
+.BraceletCutangaShield-Bigfil261 {fill:url(#BraceletCutangaShield-Bigid337)}
+.BraceletCutangaShield-Bigfil12 {fill:black;fill-opacity:0.200000}
+.BraceletCutangaShield-Bigfil16 {fill:none}
+.BraceletCutangaShield-Bigstr23 {stroke:#727272;stroke-width:75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256}
+.BraceletCutangaShield-Bigfil249 {fill:none;fill-rule:nonzero}
+.BraceletCutangaShield-Bigstr24 {stroke:#4B4B4B;stroke-width:75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256}
+.BraceletCutangaShield-Bigfil253 {fill:url(#BraceletCutangaShield-Bigid328)}
+.BraceletCutangaShield-Bigstr25 {stroke:#727272;stroke-width:75;stroke-miterlimit:22.9256}
+.BraceletCutangaShield-Bigfil254 {fill:url(#BraceletCutangaShield-Bigid336)}
+.BraceletCutangaShield-Bigfil257 {fill:url(#BraceletCutangaShield-Bigid399);fill-rule:nonzero}
+.BraceletCutangaShield-Bigfil262 {fill:url(#BraceletCutangaShield-Bigid338)}
+.BraceletCutangaShield-Bigstr26 {stroke:#4F4F4E;stroke-width:75;stroke-miterlimit:22.9256}
+.BraceletCutangaShield-Bigstr3 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256}
+.NecklaceCapeRedBack-Bigfil3 {fill:black;fill-opacity:0.301961}
+.NecklaceCapeRedBack-Bigfil4 {fill:black;fill-opacity:0.200000}
+.NecklaceCapeRedBack-Bigfil20 {fill:url(#NecklaceCapeRedBack-Bigid5)}
+.NecklaceCapeRedBack-Bigfil14 {fill:black;fill-rule:nonzero}
+.NecklaceCapeRedBack-Bigfil0 {fill:#270306}
+.NecklaceCapeRedBack-Bigstr0 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.NecklaceCapeRedBack-Bigfil19 {fill:url(#NecklaceCapeRedBack-Bigid33)}
+.NecklaceCapeRedBack-Bigfil2 {fill:black;fill-opacity:0.501961}
+.NecklaceCapeRedBack-Bigstr2 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.501961}
+.NecklaceCapeRed-Bigfil22 {fill:url(#NecklaceCapeRed-Bigid16)}
+.NecklaceCapeRed-Bigfil14 {fill:black;fill-rule:nonzero}
+.NecklaceCapeRed-Bigfil10 {fill:black;fill-opacity:0.400000}
+.NecklaceCapeRed-Bigfil11 {fill:white;fill-opacity:0.800000}
+.NecklaceCapeRed-Bigfil21 {fill:url(#NecklaceCapeRed-Bigid25)}
+.NecklaceCapeRed-Bigstr0 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.NecklaceCapeRed-Bigfil23 {fill:url(#NecklaceCapeRed-Bigid38)}
+.NecklaceCapeRed-Bigstr1 {stroke:black;stroke-width:150}
+.NecklaceCapeRed-Bigfil24 {fill:url(#NecklaceCapeRed-Bigid36)}
+.AccessoryCutepoolKatanas-Mediumfil0 {fill:url(#AccessoryCutepoolKatanas-Mediumid183)}
+.AccessoryCutepoolKatanas-Mediumfil1 {fill:url(#AccessoryCutepoolKatanas-Mediumid202)}
+.AccessoryCutepoolKatanas-Mediumfil2 {fill:white;fill-opacity:0.501961}
+.AccessoryCutepoolKatanas-Mediumfil5 {fill:black;fill-opacity:0.501961}
+.AccessoryCutepoolKatanas-Mediumfil6 {fill:url(#AccessoryCutepoolKatanas-Mediumid142)}
+.AccessoryCutepoolKatanas-Mediumfil7 {fill:url(#AccessoryCutepoolKatanas-Mediumid203)}
+.AccessoryCutepoolKatanas-Mediumfil3 {fill:none}
+.AccessoryCutepoolKatanas-Mediumstr0 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256}
+.AccessoryCutepoolKatanas-Mediumfil4 {fill:url(#AccessoryCutepoolKatanas-Mediumid86)}
+.AccessoryCutepoolKatanas-Mediumstr1 {stroke:black;stroke-width:100;stroke-miterlimit:22.9256}
+.AccessoryCutepoolKatanas-Mediumstr2 {stroke:#333232;stroke-width:100;stroke-miterlimit:22.9256}
+.AccessoryCutepoolKatanas-Mediumfil8 {fill:url(#AccessoryCutepoolKatanas-Mediumid159)}
+</style><linearGradient gradientUnits="objectBoundingBox" id="RightLeg-Bear0id151" x1="50%" x2="50%" xlink:href="#RightLeg-Bear0id150" y1="100%" y2="0%">
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="LeftLeg-Bear0id520" x1="50%" x2="50%" xlink:href="#LeftLeg-Bear0id150" y1="100%" y2="0%">
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="RightHand-Bear0id388" x1="36.9963%" x2="63.0034%" xlink:href="#RightHand-Bear0id75" y1="2.66464%" y2="97.3354%">
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="LeftHand-Bear0id386" x1="63.0037%" x2="36.9966%" xlink:href="#LeftHand-Bear0id75" y1="2.66464%" y2="97.3354%">
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="Body-Bear0id267" x1="50%" x2="50%" xlink:href="#Body-Bear0id266" y1="0%" y2="100%">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Body-Bear0id310" x1="13653.8" x2="13653.8" y1="17946" y2="23169.7">
+   <stop offset="0" style="stop-opacity:1; stop-color:#f2f2dc"/>
+   <stop offset="0.478431" style="stop-opacity:1; stop-color:#fffff5"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#fffff5"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Head-Bear0id529" x1="13653.8" x2="13653.8" y1="7273.2" y2="17643.8">
+   <stop offset="0" style="stop-opacity:1; stop-color:#f0d5c9"/>
+   <stop offset="0.329412" style="stop-opacity:1; stop-color:#f0d5c9"/>
+   <stop offset="0.74902" style="stop-opacity:1; stop-color:#d7aa95"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#b08571"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Head-Bear0id409" x1="13653.8" x2="13653.8" xlink:href="#Head-Bear0id310" y1="17025.7" y2="12540.6">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Eyes-Bear5id813" x1="10417" x2="9722.34" xlink:href="#Eyes-Bear5id27" y1="14638.9" y2="11576.5">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Eyes-Bear5id674" x1="8577.26" x2="11725.2" xlink:href="#Eyes-Bear5id57" y1="13014.3" y2="13014.3">
+  </linearGradient><radialGradient cx="10299.3" cy="12950.1" fx="10299.3" fy="12950.1" gradientTransform="matrix(0.0585658 1.05063 -0.971888 0.090953 22282 952)" gradientUnits="userSpaceOnUse" id="Eyes-Bear5id1084" r="1461.35" xlink:href="#Eyes-Bear5id1055">
+  </radialGradient><linearGradient gradientUnits="userSpaceOnUse" id="Eyes-Bear5id812" x1="16890.7" x2="17585.3" xlink:href="#Eyes-Bear5id27" y1="14638.9" y2="11576.5">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Eyes-Bear5id774" x1="18730.4" x2="15582.5" xlink:href="#Eyes-Bear5id57" y1="13014.3" y2="13014.3">
+  </linearGradient><radialGradient cx="17008.4" cy="12950.1" fx="17008.4" fy="12950.1" gradientTransform="matrix(-0.0585658 1.05063 0.971888 0.090953 5418 -6097)" gradientUnits="userSpaceOnUse" id="Eyes-Bear5id1098" r="1461.35" xlink:href="#Eyes-Bear5id1055">
+  </radialGradient><linearGradient gradientUnits="userSpaceOnUse" id="Nose-Bear0id451" x1="13653.8" x2="13653.8" y1="14108.6" y2="14926.9">
+   <stop offset="0" style="stop-opacity:1; stop-color:#FFCCCC"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#453F2C"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="HatMerlinBack-Bigid297new" x1="13726.3" x2="13726.3" xlink:href="#HatMerlinBack-Bigid272new" y1="16615.6" y2="11190.4">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="HatMerlin-Bigid583new" x1="13242.6" x2="15604" y1="3115.32" y2="11471.4">
+   <stop offset="0" style="stop-opacity:1; stop-color:#9CA1FF"/>
+   <stop offset="0.431373" style="stop-opacity:1; stop-color:#6F6DDB"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#1A1A80"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="HatMerlin-Bigid260new" x1="11481.4" x2="15778" y1="7259.33" y2="13046.7">
+   <stop offset="0" style="stop-opacity:1; stop-color:#D9B6FC"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#8943CF"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="HatMerlin-Bigid675new" x1="14605.6" x2="12854.4" y1="16038.8" y2="8936.72">
+   <stop offset="0" style="stop-opacity:1; stop-color:#22209E"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#909AF5"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletBoxer-Bigid3" x1="10302.8" x2="6264.19" xlink:href="#BraceletBoxer-Bigid2" y1="20185.3" y2="22049.3">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletBoxer-Bigid6" x1="17098.5" x2="19315.7" xlink:href="#BraceletBoxer-Bigid4" y1="20928" y2="19403.7">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletBoxer-Bigid10" x1="7991.91" x2="10209.1" xlink:href="#BraceletBoxer-Bigid4" y1="19403.7" y2="20928">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletCutangaShield-Bigid151" x1="20339.38" x2="15835.6" xlink:href="#BraceletCutangaShield-Bigid4" y1="19746.23" y2="20788.84">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletCutangaShield-Bigid402" x1="19705.37" x2="19236.41" xlink:href="#BraceletCutangaShield-Bigid394" y1="22773.98" y2="22721.06">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletCutangaShield-Bigid421" x1="19016.63" x2="19148.59" xlink:href="#BraceletCutangaShield-Bigid394" y1="22169.77" y2="22106.53">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletCutangaShield-Bigid127" x1="18421.15" x2="18428.39" xlink:href="#BraceletCutangaShield-Bigid109" y1="20463.06" y2="20461.31">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletCutangaShield-Bigid427" x1="18221.55" x2="18444.06" xlink:href="#BraceletCutangaShield-Bigid354" y1="18704.07" y2="18652.9">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletCutangaShield-Bigid392" x1="18926.51" x2="19229.61" y1="19569.88" y2="19513.99">
+   <stop offset="0" style="stop-opacity:1; stop-color:#545454"/>
+   <stop offset="0.219608" style="stop-opacity:1; stop-color:#757575"/>
+   <stop offset="0.419608" style="stop-opacity:1; stop-color:#969696"/>
+   <stop offset="0.490196" style="stop-opacity:1; stop-color:#D9D9D9"/>
+   <stop offset="0.65098" style="stop-opacity:1; stop-color:#8B8B8B"/>
+   <stop offset="0.760784" style="stop-opacity:1; stop-color:#C4C4C4"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#7A7A7A"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletCutangaShield-Bigid412" x1="18134.08" x2="18538.66" xlink:href="#BraceletCutangaShield-Bigid397" y1="23004.17" y2="22612.31">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletCutangaShield-Bigid400" x1="18419.75" x2="18578.73" xlink:href="#BraceletCutangaShield-Bigid348" y1="22203.07" y2="22135.67">
+  </linearGradient><radialGradient cx="17748.78" cy="21280.7" fx="17748.78" fy="21280.7" gradientTransform="matrix(1.18555 -0.0634548 0.284471 1.17368 -9347 -2570)" gradientUnits="userSpaceOnUse" id="BraceletCutangaShield-Bigid337" r="114.06" xlink:href="#BraceletCutangaShield-Bigid328">
+  </radialGradient><radialGradient cx="18696.86" cy="18841.45" fx="18696.86" fy="18841.45" gradientTransform="matrix(0.888579 -0.0475599 0.281583 1.16176 -3222 -2159)" gradientUnits="userSpaceOnUse" id="BraceletCutangaShield-Bigid336" r="115.23" xlink:href="#BraceletCutangaShield-Bigid328">
+  </radialGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletCutangaShield-Bigid399" x1="18413.72" x2="18584.77" xlink:href="#BraceletCutangaShield-Bigid397" y1="22229.7" y2="22109.05">
+  </linearGradient><radialGradient cx="17228.8" cy="18917.75" fx="17228.8" fy="18917.75" gradientTransform="matrix(1.18551 -0.0634525 0.284482 1.17372 -8578 -2193)" gradientUnits="userSpaceOnUse" id="BraceletCutangaShield-Bigid338" r="114.06" xlink:href="#BraceletCutangaShield-Bigid328">
+  </radialGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceCapeRedBack-Bigid5" x1="928.05" x2="7023.91" y1="19047.7" y2="21436.7">
+   <stop offset="0" style="stop-opacity:1; stop-color:#CC3300"/>
+   <stop offset="0.270588" style="stop-opacity:1; stop-color:#E6420C"/>
+   <stop offset="0.529412" style="stop-opacity:1; stop-color:#A82E02"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#9D1F10"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceCapeRedBack-Bigid33" x1="5176.91" x2="15935.1" xlink:href="#NecklaceCapeRedBack-Bigid2" y1="24677.9" y2="16784.1">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceCapeRed-Bigid16" x1="7872.13" x2="12033.3" y1="18299.3" y2="18553.8">
+   <stop offset="0" style="stop-opacity:1; stop-color:#9D1F10"/>
+   <stop offset="0.529412" style="stop-opacity:1; stop-color:#E3410C"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#490033"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceCapeRed-Bigid25" x1="18331.1" x2="12499.1" xlink:href="#NecklaceCapeRed-Bigid8" y1="17546.1" y2="17782.8">
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="NecklaceCapeRed-Bigid38" x1="82.4142%" x2="17.5858%" xlink:href="#NecklaceCapeRed-Bigid30" y1="12.6218%" y2="87.3782%">
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="NecklaceCapeRed-Bigid36" x1="82.4142%" x2="17.5858%" xlink:href="#NecklaceCapeRed-Bigid30" y1="12.6218%" y2="87.3782%">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryCutepoolKatanas-Mediumid183" x1="15242.32" x2="14868.97" xlink:href="#AccessoryCutepoolKatanas-Mediumid75" y1="20290.65" y2="20978.33">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryCutepoolKatanas-Mediumid202" x1="8777.7" x2="8510.04" xlink:href="#AccessoryCutepoolKatanas-Mediumid69" y1="16906.97" y2="17399.98">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryCutepoolKatanas-Mediumid142" x1="12121.49" x2="12494.84" xlink:href="#AccessoryCutepoolKatanas-Mediumid75" y1="20290.64" y2="20978.32">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryCutepoolKatanas-Mediumid203" x1="18586.11" x2="18853.77" xlink:href="#AccessoryCutepoolKatanas-Mediumid69" y1="16906.96" y2="17399.97">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryCutepoolKatanas-Mediumid86" x1="11162.06" x2="10505.61" xlink:href="#AccessoryCutepoolKatanas-Mediumid69" y1="17737.86" y2="18947">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryCutepoolKatanas-Mediumid159" x1="16201.75" x2="16858.2" xlink:href="#AccessoryCutepoolKatanas-Mediumid69" y1="17737.85" y2="18946.99">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="RightLeg-Bear0id150" x1="15526.7" x2="15526.7" y1="24311.8" y2="20742.8">
+   <stop offset="0" style="stop-opacity:1; stop-color:#f0d5c9"/>
+   <stop offset="0.278431" style="stop-opacity:1; stop-color:#f0d5c9"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#d7aa95"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="LeftLeg-Bear0id150" x1="15526.7" x2="15526.7" y1="24311.8" y2="20742.8">
+   <stop offset="0" style="stop-opacity:1; stop-color:#f0d5c9"/>
+   <stop offset="0.278431" style="stop-opacity:1; stop-color:#f0d5c9"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#d7aa95"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="RightHand-Bear0id75" x1="17042.3" x2="17994.1" y1="17293.3" y2="21110.7">
+   <stop offset="0" style="stop-opacity:1; stop-color:#b08571"/>
+   <stop offset="0.0784314" style="stop-opacity:1; stop-color:#b08571"/>
+   <stop offset="0.768627" style="stop-opacity:1; stop-color:#d7aa95"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#d7aa95"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="LeftHand-Bear0id75" x1="17042.3" x2="17994.1" y1="17293.3" y2="21110.7">
+   <stop offset="0" style="stop-opacity:1; stop-color:#b08571"/>
+   <stop offset="0.0784314" style="stop-opacity:1; stop-color:#b08571"/>
+   <stop offset="0.768627" style="stop-opacity:1; stop-color:#d7aa95"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#d7aa95"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Body-Bear0id266" x1="13653.8" x2="13653.8" y1="17442" y2="23250.9">
+   <stop offset="0" style="stop-opacity:1; stop-color:#b08571"/>
+   <stop offset="0.0588235" style="stop-opacity:1; stop-color:#b08571"/>
+   <stop offset="0.529412" style="stop-opacity:1; stop-color:#d7aa95"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#f0d5c9"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Head-Bear0id310" x1="13653.8" x2="13653.8" y1="17946" y2="23169.7">
+   <stop offset="0" style="stop-opacity:1; stop-color:#f2f2dc"/>
+   <stop offset="0.478431" style="stop-opacity:1; stop-color:#fffff5"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#fffff5"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Eyes-Bear5id27" x1="16937.6" x2="16937.6" y1="14961.3" y2="11448.6">
+   <stop offset="0" style="stop-opacity:1; stop-color:#804d00"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:black"/>
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="Eyes-Bear5id57" x1="100%" x2="0%" y1="50.0003%" y2="50.0003%">
+   <stop offset="0" style="stop-opacity:1; stop-color:#804d00"/>
+   <stop offset="0.501961" style="stop-opacity:1; stop-color:#ffad31"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#804d00"/>
+  </linearGradient><radialGradient cx="16677.2" cy="12783.5" fx="16677.2" fy="12783.5" gradientTransform="matrix(-0.257879 1.16297 1.08696 0.253253 7083 -9849)" gradientUnits="userSpaceOnUse" id="Eyes-Bear5id1055" r="1194.51">
+   <stop offset="0" style="stop-opacity:1; stop-color:#663d00"/>
+   <stop offset="0.75" style="stop-opacity:1; stop-color:black"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:black"/>
+  </radialGradient><linearGradient gradientUnits="userSpaceOnUse" id="HatMerlinBack-Bigid272new" x1="13726.3" x2="13726.3" y1="16087.5" y2="11000.6">
+   <stop offset="0" style="stop-opacity:1; stop-color:#3E3D9D"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#1B196E"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletBoxer-Bigid2" x1="20053.3" x2="17995" y1="19164.5" y2="23070.1">
+   <stop offset="0" style="stop-opacity:1; stop-color:red"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#990000"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletBoxer-Bigid4" x1="16783.3" x2="18659.4" y1="20597.1" y2="19307.3">
+   <stop offset="0" style="stop-opacity:1; stop-color:#C4C4C4"/>
+   <stop offset="0.341176" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.819608" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#DBDBDB"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletCutangaShield-Bigid4" x1="20060.48" x2="16246.83" y1="19202.47" y2="21472.4">
+   <stop offset="0" style="stop-opacity:1; stop-color:#2D2D2D"/>
+   <stop offset="0.101961" style="stop-opacity:1; stop-color:#5C5C5C"/>
+   <stop offset="0.2" style="stop-opacity:1; stop-color:#474747"/>
+   <stop offset="0.321569" style="stop-opacity:1; stop-color:#A3A3A3"/>
+   <stop offset="0.439216" style="stop-opacity:1; stop-color:#41403E"/>
+   <stop offset="0.490196" style="stop-opacity:1; stop-color:#444342"/>
+   <stop offset="0.670588" style="stop-opacity:1; stop-color:#242322"/>
+   <stop offset="0.819608" style="stop-opacity:1; stop-color:#2E2E2E"/>
+   <stop offset="0.94902" style="stop-opacity:1; stop-color:#242322"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#303030"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletCutangaShield-Bigid394" x1="19059.03" x2="19164.96" y1="22706.19" y2="22630.88">
+   <stop offset="0" style="stop-opacity:1; stop-color:#545454"/>
+   <stop offset="0.290196" style="stop-opacity:1; stop-color:#757575"/>
+   <stop offset="0.419608" style="stop-opacity:1; stop-color:#969696"/>
+   <stop offset="0.490196" style="stop-opacity:1; stop-color:#D9D9D9"/>
+   <stop offset="0.568627" style="stop-opacity:1; stop-color:#8B8B8B"/>
+   <stop offset="0.709804" style="stop-opacity:1; stop-color:#C4C4C4"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#7A7A7A"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletCutangaShield-Bigid109" x1="18515.92" x2="18522.03" y1="20418.7" y2="20414.98">
+   <stop offset="0" style="stop-opacity:1; stop-color:#2D2D2D"/>
+   <stop offset="0.368627" style="stop-opacity:1; stop-color:#514F4C"/>
+   <stop offset="0.580392" style="stop-opacity:1; stop-color:#737373"/>
+   <stop offset="0.701961" style="stop-opacity:1; stop-color:#919191"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#4A4A4A"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletCutangaShield-Bigid354" x1="17400.36" x2="17691.96" y1="18760.75" y2="18680.43">
+   <stop offset="0" style="stop-opacity:1; stop-color:#545454"/>
+   <stop offset="0.219608" style="stop-opacity:1; stop-color:#757575"/>
+   <stop offset="0.360784" style="stop-opacity:1; stop-color:#D9D9D9"/>
+   <stop offset="0.54902" style="stop-opacity:1; stop-color:#969696"/>
+   <stop offset="0.65098" style="stop-opacity:1; stop-color:#8B8B8B"/>
+   <stop offset="0.760784" style="stop-opacity:1; stop-color:#C4C4C4"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#7A7A7A"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletCutangaShield-Bigid397" x1="18996.22" x2="19251.64" y1="22826.3" y2="22349.7">
+   <stop offset="0" style="stop-opacity:1; stop-color:#545454"/>
+   <stop offset="0.290196" style="stop-opacity:1; stop-color:#757575"/>
+   <stop offset="0.360784" style="stop-opacity:1; stop-color:#969696"/>
+   <stop offset="0.490196" style="stop-opacity:1; stop-color:#D9D9D9"/>
+   <stop offset="0.611765" style="stop-opacity:1; stop-color:#8B8B8B"/>
+   <stop offset="0.709804" style="stop-opacity:1; stop-color:#C4C4C4"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#7A7A7A"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletCutangaShield-Bigid348" x1="16871.82" x2="17255.29" y1="19713.48" y2="19586.03">
+   <stop offset="0" style="stop-opacity:1; stop-color:#545454"/>
+   <stop offset="0.219608" style="stop-opacity:1; stop-color:#757575"/>
+   <stop offset="0.419608" style="stop-opacity:1; stop-color:#969696"/>
+   <stop offset="0.541176" style="stop-opacity:1; stop-color:#D9D9D9"/>
+   <stop offset="0.65098" style="stop-opacity:1; stop-color:#8B8B8B"/>
+   <stop offset="0.709804" style="stop-opacity:1; stop-color:#C4C4C4"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#7A7A7A"/>
+  </linearGradient><radialGradient cx="19308.33" cy="21199.51" fx="19308.33" fy="21199.51" gradientTransform="matrix(0.88862 -0.0475621 0.281583 1.16176 -3819 -2511)" gradientUnits="userSpaceOnUse" id="BraceletCutangaShield-Bigid328" r="115.23">
+   <stop offset="0" style="stop-opacity:1; stop-color:#fffff5"/>
+   <stop offset="0.211765" style="stop-opacity:1; stop-color:#fffff5"/>
+   <stop offset="0.658824" style="stop-opacity:1; stop-color:#C4C4C4"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#C4C4C4"/>
+  </radialGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceCapeRedBack-Bigid2" x1="5802.55" x2="15394.4" y1="24344" y2="17117.2">
+   <stop offset="0" style="stop-opacity:1; stop-color:#B02C00"/>
+   <stop offset="0.368627" style="stop-opacity:1; stop-color:#B82E00"/>
+   <stop offset="0.709804" style="stop-opacity:1; stop-color:#630116"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#1D0029"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceCapeRed-Bigid8" x1="17530.6" x2="12330.9" y1="17814.8" y2="18031.5">
+   <stop offset="0" style="stop-opacity:1; stop-color:#B02C00"/>
+   <stop offset="0.270588" style="stop-opacity:1; stop-color:#B82E00"/>
+   <stop offset="0.768627" style="stop-opacity:1; stop-color:#630116"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#1D0029"/>
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="NecklaceCapeRed-Bigid30" x1="82.4142%" x2="17.5858%" y1="12.6218%" y2="87.3782%">
+   <stop offset="0" style="stop-opacity:1; stop-color:#B3C0CC"/>
+   <stop offset="0.270588" style="stop-opacity:1; stop-color:#D8DDE6"/>
+   <stop offset="0.541176" style="stop-opacity:1; stop-color:#909DA8"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#DBF5FF"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryCutepoolKatanas-Mediumid75" x1="15117.03" x2="14773.66" y1="21302.02" y2="21934.49">
+   <stop offset="0" style="stop-opacity:1; stop-color:#2D2D2D"/>
+   <stop offset="0.168627" style="stop-opacity:1; stop-color:#514F4C"/>
+   <stop offset="0.270588" style="stop-opacity:1; stop-color:#C4C4C4"/>
+   <stop offset="0.490196" style="stop-opacity:1; stop-color:#444342"/>
+   <stop offset="0.670588" style="stop-opacity:1; stop-color:#28241E"/>
+   <stop offset="0.819608" style="stop-opacity:1; stop-color:#4A4A4A"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#4A4A4A"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryCutepoolKatanas-Mediumid69" x1="18192.35" x2="18438.51" y1="18190.02" y2="18643.44">
+   <stop offset="0" style="stop-opacity:1; stop-color:#2D2D2D"/>
+   <stop offset="0.2" style="stop-opacity:1; stop-color:#514F4C"/>
+   <stop offset="0.34902" style="stop-opacity:1; stop-color:#C4C4C4"/>
+   <stop offset="0.670588" style="stop-opacity:1; stop-color:#28241E"/>
+   <stop offset="0.819608" style="stop-opacity:1; stop-color:#4A4A4A"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#4A4A4A"/>
+  </linearGradient></defs><g id="HatMerlinBack-Big">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_6Corel-Layer"/>
+  <g id="_2196583886032">
+   <path class="HatMerlinBack-Bigfil15new HatMerlinBack-Bigstr2new" d="M13747 16616c5614,0 10232,-986 10957,-2306 65,-118 84,-258 84,-382 0,-1498 -4921,-2738 -11041,-2738 -6121,0 -11082,1215 -11082,2713 0,1498 4961,2713 11082,2713z" style="fill:#5eb675"/>
+   <path class="HatMerlinBack-Bigfil14new" d="M24710 14299c61,-116 78,-251 78,-371 0,-1498 -4921,-2738 -11041,-2738 -6121,0 -11082,1215 -11082,2713 0,67 10,134 30,201 3144,-2784 5167,1229 5325,2112 4057,557 8175,550 11521,-21 263,-1676 3087,-4242 5169,-1896z" style="fill:#f4b0bc"/>
+  </g>
+ </g><g id="HairBack-Bear0">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_216Corel-Layer"/>
+  <rect class="HairBack-Bear0fil22" height="998" width="1061" x="13124" y="20899"/>
+ </g><g id="NecklaceCapeRedBack-Big">
+  <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_4Corel-Layer"/>
+  <g id="_1834097534960">
+   <polygon class="NecklaceCapeRedBack-Bigfil0 NecklaceCapeRedBack-Bigstr0" points="8029,23206 6829,24552 6300,23863 "/>
+   <path class="NecklaceCapeRedBack-Bigfil19 NecklaceCapeRedBack-Bigstr0" d="M2010 18868c2841,175 2554,2756 4778,1544 865,-472 2455,-2279 2722,-2871 93,-83 1127,-892 1443,-902 108,-3 1579,645 2217,616 2953,-134 3332,-512 3673,-398 287,97 -7,368 503,412 558,48 954,63 1053,208 398,577 1440,4596 -153,6972 -2119,-314 -1367,593 -2610,323 -598,-131 -730,-512 -1021,-541 -584,-60 -398,379 -1600,90 -992,-239 -2283,-470 -3783,178 -898,389 -1239,-469 -1885,-589 -247,-46 -939,-94 -520,576 156,251 -1141,21 -1556,-237 -884,-549 -126,-798 -618,-1302 -726,-742 -1314,257 -2048,-346 -250,-206 -290,-584 -188,-1097 230,-1154 85,-2273 -407,-2636z" style="fill:#3db158"/>
+   <path class="NecklaceCapeRedBack-Bigfil2 NecklaceCapeRedBack-Bigstr2" d="M2010 18868c2841,175 2554,2756 4778,1544 865,-472 2455,-2279 2722,-2871 93,-83 1127,-892 1443,-902 108,-3 1579,645 2217,616 2953,-134 3332,-512 3673,-398 287,97 -7,368 503,412 558,48 954,63 1053,208 398,577 1440,4596 -153,6972 -2119,-314 -1367,593 -2610,323 -598,-131 -730,-512 -1021,-541 -584,-60 -398,379 -1600,90 -992,-239 -2283,-470 -3783,178 -898,389 -1239,-469 -1885,-589 -247,-46 -939,-94 -520,576 156,251 -1141,21 -1556,-237 -884,-549 -126,-798 -618,-1302 -726,-742 -1314,257 -2048,-346 -250,-206 -290,-584 -188,-1097 230,-1154 85,-2273 -407,-2636z" style="fill:#06ea40"/>
+   <path class="NecklaceCapeRedBack-Bigfil3" d="M3214 22803c2364,-931 2756,-1464 3401,-1943 645,-479 1140,-1000 1598,-1667 -497,522 -1035,1006 -1425,1219 -2224,1212 -1937,-1369 -4778,-1544 492,363 637,1482 407,2636 -102,513 -62,891 188,1097 213,175 414,215 609,202z" style="fill:#e7ea28"/>
+   <path class="NecklaceCapeRedBack-Bigfil4" d="M16781 24499c2203,-2166 451,-4651 155,-7054 68,-14 138,-27 210,-40 513,-130 1154,-73 1253,72 398,577 1440,4596 -153,6972 -834,-124 -1223,-58 -1465,50zm-7804 -6292c530,-577 401,-374 533,-666 93,-83 125,-279 442,-288 34,-1 258,100 545,238 -154,2529 -3494,6197 -3721,6474 -214,96 146,549 -1,615 -355,160 -1346,-238 -1504,-331 -468,-274 -482,-480 -458,-685 3488,-1929 3387,-3141 4164,-5357zm2070 -447c195,97 387,192 546,273 -867,2143 -1936,4840 -2361,6466 -658,285 -1018,-100 -1418,-374 2078,-2243 2906,-4631 3233,-6365zm1363 472c790,-22 1398,-104 1977,-219 -340,2168 -822,4782 -1229,6340 -45,-9 -93,-20 -143,-32 -605,-146 -1322,-289 -2129,-231 1464,-2728 1649,-4588 1524,-5858zm2860 -415c267,-63 545,-131 847,-199 260,2010 767,4373 -1186,6780 -107,-86 -198,-155 -316,-167 -228,-24 -339,29 -461,85 1381,-3182 1443,-5220 1116,-6499z" style="fill:#f08338"/>
+  </g>
+  <g id="_1834097532368">
+   <path class="NecklaceCapeRedBack-Bigfil20" d="M7857 20207c-245,237 -517,466 -777,637 -731,481 -2414,1492 -3387,352 -1033,-1212 -2021,-1153 -3646,-403 525,-1347 2133,-2661 3809,-1693 571,330 1218,2268 2843,1007 439,-341 861,-713 1206,-1072l-48 1172z" style="fill:#fe0981"/>
+   <path class="NecklaceCapeRedBack-Bigfil14" d="M7837 20331c-231,218 -472,415 -716,575 -369,243 -980,621 -1624,794 -659,177 -1351,142 -1861,-456 -502,-589 -991,-869 -1549,-911 -565,-41 -1207,158 -2009,528 -38,18 -82,1 -99,-36 -9,-20 -9,-41 -2,-59l0 0c61,-156 136,-311 224,-463 315,-545 794,-1042 1368,-1335 578,-296 1252,-386 1950,-114 124,49 249,109 375,182 157,91 312,284 487,503 478,599 1119,1404 2272,509 465,-361 890,-735 1246,-1116 82,-82 151,64 -46,264 -328,331 -703,656 -1108,971 -1270,984 -1964,114 -2482,-535 -165,-207 -311,-390 -444,-467 -119,-69 -237,-125 -355,-171 -654,-255 -1285,-171 -1827,107 -547,279 -1005,754 -1307,1277 -51,88 -97,178 -139,268 744,-329 1355,-503 1906,-462 601,45 1122,341 1653,963 463,543 1099,572 1708,408 624,-167 1220,-536 1581,-774 268,-176 534,-399 786,-647 85,-84 135,77 12,197zm227 -1581c12,-13 24,-27 36,-41 -12,14 -24,28 -36,41zm3085 -870l0 1c0,0 0,-1 0,-1z" style="fill:#02e274"/>
+  </g>
+ </g><g id="Tail-Bear0">
+  <metadata id="CorelCorpID_219Corel-Layer"/>
+  <rect class="Tail-Bear0fil22" height="1129" width="1129" x="13089" y="21055"/>
+ </g><g id="AccessoryCutepoolKatanas-Medium">
+  <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2386306507984">
+   <g>
+    <polygon class="AccessoryCutepoolKatanas-Mediumfil0" points="18932.67,23184.55 10805.28,18772.12 11178.63,18084.43 19306.02,22496.86 "/>
+    <polygon class="AccessoryCutepoolKatanas-Mediumfil1" points="10541.89,18503.09 6478.19,16296.87 6745.85,15803.87 10809.54,18010.08 "/>
+    <polygon class="AccessoryCutepoolKatanas-Mediumfil2" points="19189.63,22711.24 11066.04,18292.24 11182.43,18077.85 19306.02,22496.86 "/>
+    <polygon class="AccessoryCutepoolKatanas-Mediumfil3 AccessoryCutepoolKatanas-Mediumstr0" points="18932.67,23184.55 10805.28,18772.12 11178.63,18084.43 19306.02,22496.86 "/>
+    <polygon class="AccessoryCutepoolKatanas-Mediumfil4 AccessoryCutepoolKatanas-Mediumstr0" points="10347.49,18861.15 11003.94,17652.02 11320.18,17823.71 10663.73,19032.84 "/>
+    <line class="AccessoryCutepoolKatanas-Mediumfil3 AccessoryCutepoolKatanas-Mediumstr1" x1="10541.89" x2="10809.54" y1="18503.09" y2="18010.08"/>
+    <polygon class="AccessoryCutepoolKatanas-Mediumfil5" points="18937.58,23175.51 10810.18,18763.08 10663.73,19032.84 10343.78,18855.1 10545.88,18493.89 6492.1,16271.25 6557.12,16151.49 10620.82,18357.7 10581.25,18434.07 10896.03,18604.96 10931.75,18509.52 11198.91,18655 19071.39,22929.03 "/>
+    <polygon class="AccessoryCutepoolKatanas-Mediumfil2" points="11060.83,18142.79 10878.31,18043.69 11035.16,17754.78 11217.68,17853.88 "/>
+    <polygon class="AccessoryCutepoolKatanas-Mediumfil2" points="10639.08,18168.19 6706.47,16033.15 6775.9,15905.26 10708.51,18040.31 "/>
+    <path class="AccessoryCutepoolKatanas-Mediumfil3 AccessoryCutepoolKatanas-Mediumstr2" d="M10269.81 18355.38l267.66 -493.01m-539.74 345.29l267.66 -493.01m-539.74 345.3l267.66 -493.01m-539.74 345.29l267.66 -493m-539.74 345.29l267.66 -493.01m-539.74 345.3l267.66 -493.01m-539.73 345.29l267.65 -493.01m-539.73 345.3l267.66 -493.01m-1083.9 49.87l267.66 -493.01m-539.74 345.3l267.66 -493.01m-539.73 345.29l267.65 -493.01m-539.73 345.3l267.66 -493.01m1092.73 1231.58l267.66 -493.01m-539.74 345.29l267.66 -493.01" style="fill:#e0728e"/>
+    <polygon class="AccessoryCutepoolKatanas-Mediumfil3 AccessoryCutepoolKatanas-Mediumstr0" points="10541.89,18503.09 6478.19,16296.87 6745.85,15803.87 10809.54,18010.08 "/>
+   </g>
+   <g>
+    <polygon class="AccessoryCutepoolKatanas-Mediumfil6" points="8431.14,23184.54 16558.53,18772.11 16185.18,18084.42 8057.79,22496.85 "/>
+    <polygon class="AccessoryCutepoolKatanas-Mediumfil7" points="16821.92,18503.08 20885.62,16296.86 20617.96,15803.86 16554.27,18010.07 "/>
+    <polygon class="AccessoryCutepoolKatanas-Mediumfil2" points="8174.18,22711.23 16046.7,18437.18 15930.31,18222.79 8057.79,22496.85 "/>
+    <polygon class="AccessoryCutepoolKatanas-Mediumfil3 AccessoryCutepoolKatanas-Mediumstr0" points="8431.14,23184.54 16558.53,18772.11 16185.18,18084.42 8057.79,22496.85 "/>
+    <polygon class="AccessoryCutepoolKatanas-Mediumfil8 AccessoryCutepoolKatanas-Mediumstr0" points="17016.32,18861.14 16359.87,17652.01 16043.63,17823.7 16700.08,19032.83 "/>
+    <line class="AccessoryCutepoolKatanas-Mediumfil3 AccessoryCutepoolKatanas-Mediumstr1" x1="16821.92" x2="16554.27" y1="18503.08" y2="18010.07"/>
+    <polygon class="AccessoryCutepoolKatanas-Mediumfil5" points="8426.23,23175.5 16553.63,18763.07 16700.08,19032.83 17020.03,18855.09 16817.93,18493.88 20871.71,16271.24 20806.69,16151.48 16742.99,18357.69 16782.56,18434.06 16467.78,18604.95 16162.28,18042.24 15907.37,18180.64 16164.9,18654.99 8292.42,22929.02 "/>
+    <polygon class="AccessoryCutepoolKatanas-Mediumfil2" points="16302.98,18142.78 16485.5,18043.68 16328.65,17754.77 16146.13,17853.87 "/>
+    <polygon class="AccessoryCutepoolKatanas-Mediumfil2" points="16724.73,18168.18 20657.34,16033.14 20587.91,15905.25 16655.3,18040.3 "/>
+    <path class="AccessoryCutepoolKatanas-Mediumfil3 AccessoryCutepoolKatanas-Mediumstr2" d="M17094 18355.37l-267.66 -493.01m539.74 345.29l-267.66 -493.01m539.74 345.3l-267.66 -493.01m539.74 345.29l-267.66 -493m539.74 345.29l-267.66 -493.01m539.74 345.3l-267.66 -493.01m539.73 345.29l-267.65 -493.01m539.73 345.3l-267.66 -493.01m1083.9 49.87l-267.66 -493.01m539.74 345.3l-267.66 -493.01m539.73 345.29l-267.65 -493.01m539.73 345.3l-267.66 -493.01m-1092.73 1231.58l-267.66 -493.01m539.74 345.29l-267.66 -493.01" style="fill:#f8fdbd"/>
+    <polygon class="AccessoryCutepoolKatanas-Mediumfil3 AccessoryCutepoolKatanas-Mediumstr0" points="16821.92,18503.08 20885.62,16296.86 20617.96,15803.86 16554.27,18010.07 "/>
+   </g>
+  </g>
+ </g><g id="RightFoot-Bear0">
+  <metadata id="CorelCorpID_220Corel-Layer"/>
+  <path class="RightFoot-Bear0fil35" d="M17045 25080c-66,213 -260,328 -578,232 -82,82 -466,170 -720,2 -241,-159 -607,-457 -720,-564 -96,-91 -335,-220 -291,-565 777,87 1299,173 1927,-306 18,146 320,205 479,267 233,89 426,392 211,604 42,135 -122,330 -308,330z" style="fill:#0b18bc"/>
+  <path class="RightFoot-Bear0fil14" d="M16490 25327c320,133 480,-45 565,-254 204,-15 307,-138 301,-308 28,-45 52,-79 86,-174 31,-139 -54,-325 -125,-351 31,144 -137,125 -191,129 232,292 -30,451 -178,321 -4,299 -321,400 -555,107 -111,282 -514,451 -1612,-364 1095,1261 1346,941 1709,894z" style="fill:#de1cd2"/>
+  <path class="RightFoot-Bear0fil32" d="M16963 25089c-68,167 -221,202 -384,173 53,-171 15,-486 -309,-550 160,131 191,345 122,563 -153,91 -454,76 -604,-23 -105,-69 -235,-166 -357,-262 -142,-112 -270,-229 -408,-342 -98,-80 -205,-212 -213,-454 5,-41 -24,-78 -65,-83 -41,-5 -84,23 -83,65 7,344 143,486 266,587 138,114 267,232 411,345 124,97 257,197 366,269 205,135 567,145 776,17 252,66 509,18 618,-243 169,-27 352,-197 334,-378 149,-177 94,-405 -60,-562 -136,-138 -294,-154 -454,-250 -66,-40 -120,-83 -125,-121l-137 73c20,64 119,137 185,176 138,83 316,117 424,227 53,54 98,127 105,203 -87,-137 -253,-261 -447,-225 213,57 340,284 356,532 -17,67 -81,130 -143,158 -9,-180 -141,-449 -459,-414 197,78 290,282 285,519z" style="fill:#abc7ca"/>
+ </g><g id="LeftFoot-Bear0">
+  <metadata id="CorelCorpID_229Corel-Layer"/>
+  <path class="LeftFoot-Bear0fil35" d="M10263 25080c66,213 260,328 578,232 82,82 466,170 720,2 241,-159 607,-457 719,-564 96,-91 336,-220 292,-565 -777,87 -1299,173 -1927,-306 -19,146 -321,205 -479,267 -233,89 -427,392 -211,604 -42,135 121,330 308,330z" style="fill:#a09b30"/>
+  <path class="LeftFoot-Bear0fil14" d="M10817 25327c-320,133 -479,-45 -565,-254 -203,-15 -307,-138 -301,-308 -27,-45 -52,-79 -85,-174 -32,-139 54,-325 124,-351 -30,144 137,125 192,129 -233,292 29,451 178,321 4,299 321,400 554,107 112,282 515,451 1613,-364 -1095,1261 -1346,941 -1710,894z" style="fill:#3463b6"/>
+  <path class="LeftFoot-Bear0fil32" d="M10345 25089c68,167 220,202 384,173 -54,-171 -16,-486 309,-550 -160,131 -191,345 -122,563 153,91 454,76 604,-23 104,-69 234,-166 356,-262 143,-112 271,-229 409,-342 97,-80 205,-212 213,-454 -5,-41 24,-78 65,-83 41,-5 84,23 83,65 -7,344 -143,486 -266,587 -139,114 -268,232 -411,345 -124,97 -258,197 -367,269 -205,135 -567,145 -776,17 -251,66 -509,18 -617,-243 -169,-27 -352,-197 -335,-378 -149,-177 -93,-405 61,-562 136,-138 294,-154 454,-250 66,-40 120,-83 125,-121l137 73c-20,64 -120,137 -185,176 -139,83 -316,117 -425,227 -53,54 -97,127 -104,203 86,-137 252,-261 447,-225 -213,57 -341,284 -357,532 18,67 82,130 144,158 8,-180 141,-449 459,-414 -197,78 -291,282 -285,519z" style="fill:#4b4b0b"/>
+ </g><g id="RightLeg-Bear0">
+  <metadata id="CorelCorpID_224Corel-Layer"/>
+  <path class="RightLeg-Bear0fil437" d="M13654 20747c651,0 2263,-52 2620,230 303,239 971,977 969,1838 -2,444 -257,819 -524,1020 -578,425 -1151,626 -1983,350 7,-583 -643,-742 -1082,-749l0 -2689z" style="fill:#5a50d5"/>
+  <path class="RightLeg-Bear0fil14" d="M16988 23561c110,-131 245,-442 245,-600 2,-776 -323,-1481 -652,-1782 -248,370 -56,940 55,979 367,105 445,994 352,1403z" style="fill:#066a9e"/>
+  <path class="RightLeg-Bear0fil32" d="M16690 23782c-238,187 -417,303 -711,449 260,-35 573,-178 785,-337 332,-249 552,-662 553,-1079 1,-360 -110,-698 -263,-990 -227,-429 -547,-760 -734,-907 -32,-26 -79,-20 -105,12 -25,33 -20,80 13,105 175,139 478,451 693,860 144,273 248,587 247,920 -1,358 -198,746 -478,967zm-1745 794c71,68 -33,176 -104,108 -135,-130 -182,-317 -180,-500 3,-218 -99,-369 -246,-471 -213,-147 -519,-198 -761,-203l0 -149 1 0c265,5 604,62 845,229 186,129 314,320 310,596 -1,139 31,290 135,390z" style="fill:#81ef8b"/>
+ </g><g id="LeftLeg-Bear0">
+  <metadata id="CorelCorpID_233Corel-Layer"/>
+  <path class="LeftLeg-Bear0fil447" d="M13654 20747c-651,0 -2264,-52 -2620,230 -303,239 -971,977 -969,1838 1,444 256,819 524,1020 578,425 1150,626 1983,350 -7,-583 642,-742 1082,-749l0 -2689z" style="fill:#9af54b"/>
+  <path class="LeftLeg-Bear0fil14" d="M10320 23561c-110,-131 -245,-442 -245,-600 -3,-776 323,-1481 652,-1782 248,370 56,940 -56,979 -366,105 -444,994 -351,1403z" style="fill:#2fabcd"/>
+  <path class="LeftLeg-Bear0fil32" d="M10618 23782c238,187 417,303 711,449 -260,-35 -573,-178 -785,-337 -332,-249 -552,-662 -554,-1079 -1,-360 110,-698 264,-990 226,-429 547,-760 734,-907 32,-26 79,-20 104,12 26,33 20,80 -12,105 -175,139 -478,451 -694,860 -143,273 -247,587 -246,920 1,358 198,746 478,967zm1745 794c-71,68 32,176 103,108 135,-130 183,-317 181,-500 -3,-218 98,-369 246,-471 212,-147 519,-198 761,-203l0 -149 -1 0c-265,5 -604,62 -845,229 -186,129 -314,320 -311,596 2,139 -31,290 -134,390z" style="fill:#6ca023"/>
+ </g><g id="RightHand-Bear0">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_238Corel-Layer"/>
+  <path class="RightHand-Bear0fil452" d="M16111 17210c1487,-179 2823,1880 3151,3021 160,558 -1806,1220 -1964,882 -68,-147 -295,-477 -571,-705 -149,-820 -321,-1468 -1092,-3106 169,-47 290,-69 476,-92z" style="fill:#1fd2fe"/>
+  <path class="RightHand-Bear0fil22 RightHand-Bear0str0" d="M16111 17205c1487,-179 2823,1880 3151,3021 160,558 -1806,1220 -1964,882 -68,-147 -295,-477 -571,-705 -149,-820 -321,-1468 -1092,-3106 169,-47 290,-69 476,-92z" style="fill:#aad776"/>
+  <path class="RightHand-Bear0fil14" d="M17217 20971c-131,-206 -302,-406 -490,-563 -50,-606 -203,-1164 -276,-1762 236,212 930,1618 766,2325z" style="fill:#1ef1dd"/>
+ </g><g id="LeftHand-Bear0">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_247Corel-Layer"/>
+  <path class="LeftHand-Bear0fil465" d="M11197 17210c-1488,-179 -2824,1880 -3151,3021 -160,558 1806,1220 1963,882 69,-147 296,-477 571,-705 149,-820 322,-1468 1092,-3106 -168,-47 -290,-69 -475,-92z" style="fill:#882a90"/>
+  <path class="LeftHand-Bear0fil22 LeftHand-Bear0str0" d="M11197 17205c-1488,-179 -2824,1880 -3151,3021 -160,558 1806,1220 1963,882 69,-147 296,-477 571,-705 149,-820 322,-1468 1092,-3106 -168,-47 -290,-69 -475,-92z" style="fill:#e5ebe4"/>
+  <path class="LeftHand-Bear0fil14" d="M10090 20971c132,-206 303,-406 490,-563 51,-606 203,-1164 276,-1762 -235,212 -929,1618 -766,2325z" style="fill:#9b9a26"/>
+ </g><g id="Body-Bear0">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_256Corel-Layer"/>
+  <path class="Body-Bear0fil476" d="M13654 23351c1692,-3 2768,-307 3233,-1926 302,-1052 -330,-2764 -1019,-3983 -551,110 -1409,139 -2214,150 -806,-11 -1663,-40 -2215,-150 -688,1219 -1321,2931 -1018,3983 465,1619 1541,1923 3233,1926z" style="fill:#862b65"/>
+  <path class="Body-Bear0fil14" d="M11416 22901c-455,-288 -787,-750 -995,-1476 -211,-735 34,-1792 435,-2779 -591,2230 70,3628 560,4255z" style="fill:#372d08"/>
+  <path class="Body-Bear0fil32" d="M11416 22901c-539,-241 -960,-968 -1067,-1455 -108,-487 -59,-1102 131,-1659 -71,577 -87,1191 13,1618 104,444 495,1184 923,1496z" style="fill:#356e68"/>
+  <path class="Body-Bear0fil22" d="M12621 22856c-1016,-156 -1749,-629 -1932,-1889 -2,-17 -5,-34 -7,-51l0 -4c-2,-16 -4,-32 -5,-48l-1 -7c-1,-15 -3,-31 -4,-46l0 -8c-2,-15 -3,-30 -3,-46l-1 -8c-1,-16 -1,-31 -2,-47l0 -6c-1,-17 -1,-34 -1,-51l0 -5c0,-17 0,-34 0,-50l0 -8c0,-15 0,-31 1,-47l0 -9c1,-15 1,-30 2,-46l0 -11c1,-14 2,-29 3,-44l1 -12c1,-15 2,-29 3,-44l1 -13c1,-15 3,-31 4,-46l2 -14c1,-15 3,-30 5,-44l1 -15c2,-14 4,-27 5,-41l3 -18c2,-13 3,-26 5,-39l3 -18c2,-12 4,-25 6,-38 1,-7 2,-14 4,-22 2,-12 4,-25 6,-37l4 -23c2,-11 4,-23 6,-34 2,-9 4,-18 6,-28 2,-10 4,-21 6,-32 2,-9 4,-18 6,-27 2,-11 4,-21 7,-32l6 -27c2,-11 4,-21 7,-31 3,-13 6,-25 9,-37l5 -21c3,-14 6,-27 9,-40l5 -18c4,-14 7,-28 11,-42l4 -15c4,-15 8,-30 12,-46l3 -8c4,-16 9,-33 14,-49l1 -7m15 -50l9 -28c5,-17 10,-34 15,-52l2 -5c6,-17 11,-34 17,-51l1 -6c6,-18 12,-36 18,-54l0 -1c-142,1971 409,3124 1703,3596" style="fill:#6de512"/>
+  <path class="Body-Bear0fil22" d="M12621 22856c-1016,-156 -1749,-629 -1932,-1889 -2,-17 -5,-34 -7,-51l0 -4c-2,-16 -4,-32 -5,-48l-1 -7c-1,-15 -3,-31 -4,-46l0 -8c-2,-15 -3,-30 -3,-46l-1 -8c-1,-16 -1,-31 -2,-47l0 -6c-1,-17 -1,-34 -1,-51l0 -5c0,-17 0,-34 0,-50l0 -8c0,-15 0,-31 1,-47l0 -9c1,-15 1,-30 2,-46l0 -11c1,-14 2,-29 3,-44l1 -12c1,-15 2,-29 3,-44l1 -13c1,-15 3,-31 4,-46l2 -14c1,-15 3,-30 5,-44l1 -15c2,-14 4,-27 5,-41l3 -18c2,-13 3,-26 5,-39l3 -18c2,-12 4,-25 6,-38 1,-7 2,-14 4,-22 2,-12 4,-25 6,-37l4 -23c2,-11 4,-23 6,-34 2,-9 4,-18 6,-28 2,-10 4,-21 6,-32 2,-9 4,-18 6,-27 2,-11 4,-21 7,-32l6 -27c2,-11 4,-21 7,-31 3,-13 6,-25 9,-37l5 -21c3,-14 6,-27 9,-40l5 -18c4,-14 7,-28 11,-42l4 -15c4,-15 8,-30 12,-46l3 -8c4,-16 9,-33 14,-49l1 -7m15 -50l9 -28c5,-17 10,-34 15,-52l2 -5c6,-17 11,-34 17,-51l1 -6c6,-18 12,-36 18,-54l0 -1c-142,1971 409,3124 1703,3596" style="fill:#29906e"/>
+  <path class="Body-Bear0fil14" d="M15892 22901c455,-288 786,-750 995,-1476 211,-735 -34,-1792 -436,-2779 592,2230 -69,3628 -559,4255z" style="fill:#1c8b67"/>
+  <path class="Body-Bear0fil32" d="M15892 22901c539,-241 960,-968 1067,-1455 107,-487 59,-1102 -132,-1659 72,577 87,1191 -12,1618 -104,444 -496,1184 -923,1496z" style="fill:#e9d5e9"/>
+  <path class="Body-Bear0fil477" d="M13654 17946c1091,13 2253,769 2652,2305 383,1476 -497,2906 -2652,2919 -2155,-13 -3035,-1443 -2652,-2919 398,-1536 1561,-2292 2652,-2305z" style="fill:#e633c2"/>
+ </g><g id="NecklaceCapeRed-Big">
+  <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_5Corel-Layer"/>
+  <g id="_1834097527376">
+   <path class="NecklaceCapeRed-Bigfil21 NecklaceCapeRed-Bigstr0" d="M12414 18144c1093,126 3093,-1288 4547,-1403 336,-27 511,280 756,343 260,69 733,242 700,507 -491,-107 -616,-106 -1247,245 -1442,803 -3091,932 -4745,541 -1,-33 -19,-128 -11,-233z" style="fill:#5da026"/>
+   <path class="NecklaceCapeRed-Bigfil22" d="M11871 18227c-679,-205 -910,-340 -1272,-599 -140,-99 -772,-420 -963,83 -211,559 -933,1679 -1795,2512l46 -1170c506,-526 887,-1064 1072,-1592 136,-390 877,-381 1164,-605 221,-172 656,-256 830,-217 1019,229 1042,702 1111,1530l0 0c-53,18 -121,38 -193,58z" style="fill:#e35472"/>
+   <path class="NecklaceCapeRed-Bigfil14" d="M11849 18299c-342,-104 -573,-190 -766,-284 0,0 0,0 0,0 -192,-94 -343,-194 -527,-326 -41,-29 -128,-78 -234,-118 -98,-38 -212,-66 -317,-60 -96,6 -185,41 -248,129 -19,27 -36,59 -51,97 -155,411 -579,1117 -1131,1794 -228,279 -477,553 -738,799 -56,52 -119,-103 8,-215 216,-214 423,-444 614,-678 542,-665 957,-1354 1107,-1753 19,-50 43,-94 69,-131 94,-131 224,-183 362,-191 129,-8 263,25 378,69 120,45 220,102 267,136 178,127 323,224 507,313 0,0 0,1 0,1 0,0 0,0 0,0 179,87 398,169 723,268 27,-7 55,-15 86,-25 9,-2 18,-5 27,-8 -63,-757 -107,-1193 -1048,-1404 -83,-18 -238,-4 -398,38 -138,36 -277,92 -370,165 -123,95 -309,149 -503,205 -275,79 -566,163 -637,366 -151,431 -428,867 -796,1298 -109,128 -226,255 -350,381 -6,7 -12,10 -18,11 -47,12 -77,-128 27,-236 79,-84 155,-169 227,-253 356,-417 624,-838 769,-1251 97,-275 426,-370 737,-460 179,-51 352,-101 452,-179 111,-86 269,-152 424,-192 181,-47 364,-62 468,-39 1057,237 1097,718 1167,1557 1,12 2,24 3,36 1,8 1,17 -1,25 -4,19 -15,35 -30,46 0,0 0,0 0,0 -1,0 -2,1 -3,2 -5,3 -10,6 -16,8 0,0 0,0 0,0 -27,9 -57,19 -88,28 -29,9 -67,19 -111,31 -13,4 -28,3 -40,0 -1,0 -1,0 -1,0z" style="fill:#cba275"/>
+   <ellipse class="NecklaceCapeRed-Bigfil23 NecklaceCapeRed-Bigstr1" cx="11998" cy="18238" rx="490" ry="463"/>
+   <ellipse class="NecklaceCapeRed-Bigfil24 NecklaceCapeRed-Bigstr1" cx="12850" cy="18324" rx="326" ry="308"/>
+   <path class="NecklaceCapeRed-Bigfil10" d="M11998 18701c200,0 371,-113 448,-275 -81,67 -187,108 -303,108 -254,0 -460,-195 -460,-435 0,-108 42,-207 111,-283 -169,74 -286,235 -286,422 0,255 220,463 490,463z" style="fill:#79bbf6"/>
+   <path class="NecklaceCapeRed-Bigfil10" d="M12882 18606c135,0 251,-76 302,-186 -54,46 -126,73 -204,73 -172,0 -311,-131 -311,-293 0,-73 29,-140 75,-191 -114,49 -193,158 -193,284 0,173 148,313 331,313z" style="fill:#ffce43"/>
+   <path class="NecklaceCapeRed-Bigfil11" d="M12292 18451c48,-59 77,-133 77,-213 0,-194 -166,-351 -371,-351 -91,0 -174,31 -238,82 38,-11 79,-17 122,-17 234,0 423,179 423,400 0,34 -5,68 -13,99z" style="fill:#14955c"/>
+   <path class="NecklaceCapeRed-Bigfil11" d="M13017 18431c26,-32 41,-72 41,-116 0,-104 -90,-189 -200,-189 -49,0 -94,16 -129,44 21,-6 43,-9 66,-9 126,0 229,97 229,216 0,19 -3,37 -7,54z" style="fill:#f60da5"/>
+  </g>
+ </g><g id="RightPaw-Bear0">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_243Corel-Layer"/>
+  <path class="RightPaw-Bear0fil457" d="M19212 20074c101,319 446,1074 -76,1413 -8,341 -321,891 -722,638 -151,80 -387,68 -509,-83 -446,-4 -409,-537 -607,-929 295,-982 1641,-506 1914,-1039z" style="fill:#81c818"/>
+  <path class="RightPaw-Bear0fil32" d="M19190 20003c89,-30 112,105 135,170 130,372 354,1015 -116,1354 -11,143 -66,311 -153,448 -99,155 -252,294 -446,289 -65,-1 -132,-19 -200,-55 -176,73 -404,47 -540,-94 -338,-20 -419,-297 -509,-605 -35,-123 -73,-250 -129,-363 -19,-37 -94,-221 -57,-240 16,-8 67,4 101,36 47,44 78,115 89,136 63,125 102,260 140,389 60,206 115,395 261,468 -29,-101 -22,-219 84,-284 -76,237 182,489 434,440 -65,-93 -101,-219 -10,-319 -6,164 172,338 339,342 137,3 248,-112 316,-220 55,-87 95,-188 116,-282 -169,50 -397,13 -448,-183 104,74 378,78 488,1 414,-287 232,-827 98,-1209 -22,-63 -77,-193 7,-219z" style="fill:#b02a4d"/>
+  <path class="RightPaw-Bear0fil458" d="M18721 21392c-70,15 -168,-109 -207,-290 -38,-180 -13,-339 57,-354 70,-15 188,120 226,300 39,181 -7,329 -76,344z" style="fill:#620a8a"/>
+  <path class="RightPaw-Bear0fil458" d="M18493 21944c-70,15 -168,-109 -207,-289 -38,-181 -13,-340 57,-355 70,-14 188,120 226,301 39,180 -7,328 -76,343z" style="fill:#7e18fb"/>
+  <path class="RightPaw-Bear0fil458" d="M18061 21880c-58,7 -128,-100 -147,-248 -19,-148 13,-275 70,-282 57,-7 143,110 162,258 19,148 -28,265 -85,272z" style="fill:#92ac85"/>
+  <path class="RightPaw-Bear0fil458" d="M17668 21710c-41,0 -83,-82 -84,-190 -2,-107 31,-195 72,-195 42,-1 94,90 95,197 2,108 -41,187 -83,188z" style="fill:#b02ff3"/>
+  <path class="RightPaw-Bear0fil458" d="M18328 20905c28,402 -757,372 -764,113 -13,-411 729,-626 764,-113z" style="fill:#43dde9"/>
+ </g><g id="LeftPaw-Bear0">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_252Corel-Layer"/>
+  <path class="LeftPaw-Bear0fil457" d="M8095 20074c-101,319 -445,1074 76,1413 8,341 322,891 722,638 152,80 388,68 510,-83 446,-4 408,-537 606,-929 -294,-982 -1641,-506 -1914,-1039z" style="fill:#cb1773"/>
+  <path class="LeftPaw-Bear0fil32" d="M8118 20003c-89,-30 -112,105 -135,170 -130,372 -355,1015 116,1354 11,143 66,311 153,448 98,155 252,294 446,289 65,-1 131,-19 199,-55 176,73 405,47 540,-94 339,-20 419,-297 509,-605 36,-123 73,-250 130,-363 19,-37 93,-221 56,-240 -15,-8 -66,4 -100,36 -47,44 -79,115 -89,136 -63,125 -103,260 -140,389 -60,206 -116,395 -261,468 29,-101 22,-219 -84,-284 76,237 -182,489 -434,440 64,-93 101,-219 9,-319 6,164 -171,338 -338,342 -138,3 -248,-112 -316,-220 -56,-87 -96,-188 -117,-282 170,50 397,13 449,-183 -104,74 -378,78 -489,1 -414,-287 -231,-827 -98,-1209 22,-63 78,-193 -6,-219z" style="fill:#b0be3d"/>
+  <path class="LeftPaw-Bear0fil458" d="M8587 21392c70,15 168,-109 206,-290 39,-180 14,-339 -56,-354 -70,-15 -188,120 -227,300 -38,181 7,329 77,344z" style="fill:#38d6d6"/>
+  <path class="LeftPaw-Bear0fil458" d="M8815 21944c70,15 168,-109 206,-289 39,-181 14,-340 -56,-355 -70,-14 -188,120 -227,301 -38,180 7,328 77,343z" style="fill:#7a000a"/>
+  <path class="LeftPaw-Bear0fil458" d="M9247 21880c57,7 128,-100 147,-248 18,-148 -13,-275 -70,-282 -58,-7 -144,110 -163,258 -18,148 29,265 86,272z" style="fill:#d4f5c2"/>
+  <path class="LeftPaw-Bear0fil458" d="M9640 21710c41,0 83,-82 84,-190 1,-107 -31,-195 -73,-195 -41,-1 -94,90 -95,197 -1,108 42,187 84,188z" style="fill:#6d3862"/>
+  <path class="LeftPaw-Bear0fil458" d="M8979 20905c-27,402 757,372 765,113 12,-411 -729,-626 -765,-113z" style="fill:#f9e469"/>
+ </g><g id="BraceletBoxer-Big">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_1Corel-Layer"/>
+  <g id="_1891327706832">
+   <path class="BraceletBoxer-Bigfil9 BraceletBoxer-Bigstr0" d="M18742 18931c-683,-229 -2274,1190 -1849,2022 99,194 250,367 438,477 149,543 138,1932 1289,1266 111,318 324,621 682,632 900,27 2098,-997 1904,-1978 -123,-619 -896,-1623 -1684,-1722 -114,-286 -422,-577 -780,-697z" style="fill:#b30506"/>
+   <path class="BraceletBoxer-Bigfil1" d="M18513 22040c141,1217 743,1287 789,1288 900,27 2148,-1069 1789,-2042 -133,894 -1766,1636 -2578,754z" style="fill:#ee770f"/>
+   <path class="BraceletBoxer-Bigfil10 BraceletBoxer-Bigstr1" d="M18748 18907c-683,-229 -2280,1214 -1855,2046 99,194 287,386 476,496 13,-769 1431,-1953 2223,-1778 -113,-286 -486,-644 -844,-764z" style="fill:#76d394"/>
+   <path class="BraceletBoxer-Bigfil3" d="M18732 22721c-38,-146 -164,-571 -248,-790 5,226 84,733 -211,829 99,6 359,-45 459,-39z" style="fill:#34211f"/>
+   <path class="BraceletBoxer-Bigfil4 BraceletBoxer-Bigstr0" d="M18742 18931c-683,-229 -2274,1190 -1849,2022 99,194 250,367 438,477 149,543 138,1932 1289,1266 111,318 324,621 682,632 900,27 2098,-997 1904,-1978 -123,-619 -896,-1623 -1684,-1722 -114,-286 -422,-577 -780,-697z" style="fill:#8b971b"/>
+   <path class="BraceletBoxer-Bigfil1" d="M18490 21963c-560,743 -1108,-569 -834,-1139 -101,97 -307,452 -267,693 61,361 13,1771 1188,1189 -27,-248 -59,-495 -87,-743z" style="fill:#1c5b2e"/>
+   <path class="BraceletBoxer-Bigfil4 BraceletBoxer-Bigstr1" d="M18745 19834c95,-206 102,-318 32,-422 -135,-201 -354,-378 -539,-393" style="fill:#ec890a"/>
+   <path class="BraceletBoxer-Bigfil5" d="M17771 21006c522,-1043 2002,-1515 2176,-949 128,414 -1248,-32 -2176,949z" style="fill:#4a1644"/>
+   <path class="BraceletBoxer-Bigfil1" d="M17063 19977c-63,356 166,751 525,854 -94,191 -187,382 -281,574 -454,-252 -665,-734 -244,-1428z" style="fill:#0159bc"/>
+   <path class="BraceletBoxer-Bigfil6" d="M20148 20271c-30,-23 -61,-46 -91,-69 -31,-24 -61,-46 -91,-68 -15,4 -30,8 -44,12 30,22 61,44 91,66 30,22 60,45 90,69 -66,15 -132,34 -197,53 -86,-62 -172,-123 -257,-184 -86,-60 -171,-122 -255,-183 62,-24 126,-46 190,-68 29,22 58,44 88,66 30,22 60,43 89,65 15,-5 29,-9 43,-13 -30,-22 -60,-44 -89,-65 -30,-22 -60,-43 -89,-66 68,-20 138,-39 207,-58 87,66 176,132 264,198 90,69 180,139 270,210 -74,10 -147,21 -219,35zm-398 119c-104,43 -206,90 -305,142 -84,-58 -167,-115 -251,-174 -85,-58 -169,-117 -253,-178 57,-31 114,-61 172,-90 50,37 100,73 150,108 51,36 102,72 153,106 -24,-28 -47,-57 -70,-86 -24,-29 -47,-58 -70,-87 -33,-24 -66,-48 -99,-72 59,-26 118,-52 178,-76 25,18 50,37 75,55 26,18 51,36 76,53 41,50 82,100 123,150 40,49 81,99 121,149zm-726 412c-38,-26 -76,-52 -113,-78 -38,-27 -76,-53 -114,-79 -1,-18 -2,-36 -3,-55 -25,0 -50,0 -76,0 -32,-23 -65,-45 -97,-68 -32,-23 -64,-45 -96,-68 54,-41 110,-81 166,-119 29,21 59,42 88,63 30,21 60,42 90,63 16,-11 32,-21 48,-32 -30,-21 -59,-42 -89,-63 -29,-21 -59,-42 -89,-64 55,-34 110,-68 166,-101 84,60 168,120 252,178 84,58 168,116 250,173 -130,78 -258,161 -383,250zm28 -279c-20,13 -40,26 -60,39 13,9 26,18 39,27 20,-13 40,-26 60,-39 -13,-9 -26,-18 -39,-27zm-603 221c6,4 12,8 18,11 31,10 62,20 93,30 31,10 62,20 94,30 -40,-28 -81,-56 -121,-84 49,-40 99,-78 149,-117 51,36 103,72 154,107 51,36 103,71 154,106 -85,65 -168,131 -251,199 -60,-19 -119,-37 -178,-55 -59,-18 -118,-36 -177,-53 -37,-25 -75,-50 -112,-75 -37,-25 -74,-49 -111,-74 106,-100 214,-196 325,-286 25,19 51,37 76,55 26,18 52,36 77,53 -64,50 -127,101 -190,153z" style="fill:#efa3b8"/>
+  </g>
+  <g id="_1891266184496">
+   <path class="BraceletBoxer-Bigfil11" d="M8566 18931c683,-229 2273,1190 1849,2022 -99,194 -250,367 -439,477 -148,543 -138,1932 -1289,1266 -110,318 -323,621 -682,632 -899,27 -2097,-997 -1903,-1978 123,-619 896,-1623 1684,-1722 113,-286 422,-577 780,-697z" style="fill:#05f69d"/>
+   <path class="BraceletBoxer-Bigfil5" d="M8005 19957c1159,128 2115,1353 1645,1712 -345,264 -403,-1182 -1645,-1712z" style="fill:#24494b"/>
+   <path class="BraceletBoxer-Bigfil12 BraceletBoxer-Bigstr1" d="M8560 18907c683,-229 2279,1214 1855,2046 -99,194 -288,386 -476,496 -13,-769 -1431,-1953 -2224,-1778 114,-286 487,-644 845,-764z" style="fill:#638639"/>
+   <path class="BraceletBoxer-Bigfil6" d="M8738 20997c-113,-75 -226,-147 -341,-216 22,-18 44,-35 67,-52 22,-18 46,-34 69,-51 61,36 122,73 183,111 8,-6 17,-13 25,-19 -60,-38 -121,-75 -182,-111 23,-17 46,-33 69,-50 23,-16 46,-33 69,-49 60,36 119,72 179,110 26,-21 53,-42 80,-63 26,-21 51,-42 76,-64 50,32 99,66 149,99 -70,62 -143,122 -219,180 -75,58 -151,116 -224,175zm-468 -288c-106,-57 -214,-111 -324,-163 77,-58 158,-114 241,-170 83,-55 167,-109 248,-165 59,29 118,58 176,88 -46,35 -94,69 -143,102 -48,33 -97,66 -146,99 44,-16 88,-33 132,-49 44,-17 87,-33 131,-50 30,-23 61,-45 91,-68 57,32 114,64 171,97 -22,17 -45,35 -67,52 -23,18 -46,35 -69,52 -74,29 -148,58 -223,87 -74,29 -147,58 -218,88zm-230 -527c-17,11 -34,21 -51,32 76,32 152,65 226,99 -53,35 -107,70 -159,105 -52,35 -103,71 -151,108 -142,-61 -288,-118 -437,-172 23,-17 47,-34 71,-51 24,-17 49,-33 74,-50 78,29 154,58 230,88 13,-9 26,-17 40,-26 -76,-30 -152,-59 -229,-87 56,-35 113,-69 170,-104 58,-34 115,-68 172,-103 136,54 270,111 401,171 -22,15 -44,31 -66,45 -22,15 -44,30 -67,44 -74,-34 -149,-67 -224,-99zm-459 49c-28,17 -55,35 -82,53 -26,18 -51,37 -76,55 -98,-31 -198,-62 -301,-88 -104,-27 -212,-50 -321,-73 60,-11 122,-22 184,-33 62,-12 124,-22 186,-32 31,7 60,14 90,22 64,-39 130,-77 197,-114 67,-37 135,-74 201,-111 73,21 144,44 214,67 -64,37 -129,74 -193,111 -64,37 -127,75 -189,113 30,10 59,20 90,30z" style="fill:#e21613"/>
+   <path class="BraceletBoxer-Bigfil3" d="M8575 22721c38,-146 165,-571 248,-790 -5,226 -83,733 212,829 -100,6 -360,-45 -460,-39z" style="fill:#36bd70"/>
+   <path class="BraceletBoxer-Bigfil4 BraceletBoxer-Bigstr0" d="M8566 18931c683,-229 2273,1190 1849,2022 -99,194 -250,367 -439,477 -148,543 -138,1932 -1289,1266 -110,318 -323,621 -682,632 -899,27 -2097,-997 -1903,-1978 123,-619 896,-1623 1684,-1722 113,-286 422,-577 780,-697z" style="fill:#dfa852"/>
+   <path class="BraceletBoxer-Bigfil1" d="M8817 21963c-48,514 536,799 770,594 2,352 -559,398 -856,149 27,-248 59,-495 86,-743z" style="fill:#7d2ad7"/>
+   <path class="BraceletBoxer-Bigfil4 BraceletBoxer-Bigstr1" d="M8563 19834c-95,-206 -102,-318 -32,-422 134,-201 354,-378 539,-393" style="fill:#119926"/>
+   <path class="BraceletBoxer-Bigfil1" d="M9008 19003c-434,-164 -898,135 -1257,631 244,-7 574,78 784,163 -107,-287 65,-523 473,-794z" style="fill:#036985"/>
+   <path class="BraceletBoxer-Bigfil1" d="M8694 22699c-191,579 -642,628 -689,629 -899,27 -2097,-997 -1903,-1978 77,-386 430,-1078 918,-1295 -822,1140 466,3218 1674,2644z" style="fill:#05d4ab"/>
+  </g>
+ </g><g id="Head-Bear0">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_268Corel-Layer"/>
+  <path class="Head-Bear0fil511" d="M13654 7273c-2754,0 -5109,1855 -6284,4367 -716,1530 -311,3996 1490,5129 1372,864 3321,875 4794,875 1472,0 3421,-11 4794,-875 1801,-1133 2206,-3599 1490,-5129 -1175,-2512 -3530,-4367 -6284,-4367z" style="fill:#ee5a0f"/>
+  <path class="Head-Bear0fil32" d="M7915 10650c-334,518 -658,1401 -765,2018 -105,753 -5,1590 322,2344 291,671 762,1275 1427,1694 471,296 1012,491 1579,619 204,46 1085,209 1813,296 -741,29 -1654,-107 -1846,-150 -582,-132 -1139,-332 -1625,-638 -693,-436 -1183,-1065 -1485,-1762 -338,-779 -442,-1645 -333,-2423 110,-713 534,-1597 913,-1998z" style="fill:#e186c0"/>
+  <path class="Head-Bear0fil14" d="M7587 11195c-326,495 -495,1551 -516,1727 -157,1332 499,3030 1805,3868 674,432 2229,772 3200,833 -2983,-342 -5480,-2661 -4489,-6428z" style="fill:#989321"/>
+  <path class="Head-Bear0fil32" d="M12848 7326c-615,115 -1491,466 -1775,598 -285,132 -1125,569 -1666,994 495,-570 1417,-1044 1603,-1130 181,-84 992,-436 1838,-462z" style="fill:#ce906d"/>
+  <path class="Head-Bear0fil32" d="M19392 10650c335,518 658,1401 765,2018 106,753 5,1590 -321,2344 -291,671 -762,1275 -1428,1694 -471,296 -1012,491 -1578,619 -204,46 -1085,209 -1813,296 740,29 1653,-107 1846,-150 581,-132 1138,-332 1625,-638 692,-436 1182,-1065 1485,-1762 338,-779 442,-1645 333,-2423 -111,-713 -535,-1597 -914,-1998z" style="fill:#48bd71"/>
+  <path class="Head-Bear0fil32" d="M14460 7326c615,115 1491,466 1774,598 286,132 1126,569 1667,994 -495,-570 -1417,-1044 -1604,-1130 -181,-84 -992,-436 -1837,-462z" style="fill:#4fa5f0"/>
+  <path class="Head-Bear0fil512" d="M13654 12541c-615,0 -1239,262 -1672,1793 -345,1226 -708,2692 1672,2692 2379,0 2017,-1466 1671,-2692 -432,-1531 -1056,-1793 -1671,-1793z" style="fill:#aa2456"/>
+ </g><g id="Mouth-Bear7">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_282Corel-Layer"/>
+  <path class="Mouth-Bear7fil22 Mouth-Bear7str0" d="M12123 15173c55,487 1351,918 1531,-247" style="fill:#55b64d"/>
+  <path class="Mouth-Bear7fil100" d="M13654 14927c-53,445 -306,729 -748,819 245,0 503,-88 748,-88 244,0 503,88 748,88 -442,-90 -696,-374 -748,-819z" style="fill:#0f974c"/>
+  <path class="Mouth-Bear7fil22 Mouth-Bear7str0" d="M15185 15173c-56,487 -1351,918 -1531,-247" style="fill:#5f1d57"/>
+  <path class="Mouth-Bear7fil151" d="M13594 15658c-867,41 -567,1003 -1121,998 -555,-5 -384,-993 99,-976 208,65 371,70 564,40 135,-22 291,-81 458,-62z" style="fill:#051f20"/>
+  <path class="Mouth-Bear7fil32" d="M13557 15585c27,-2 86,44 87,71 -120,31 -439,-15 -693,614 -93,233 -234,466 -516,463 -275,-3 -401,-289 -387,-528 20,-342 271,-633 657,-614 28,1 63,44 62,72 -1,27 -24,49 -51,48 -303,-11 -497,216 -514,502 -10,179 59,364 240,366 214,2 291,-155 379,-363 119,-278 224,-607 736,-631z" style="fill:#08997a"/>
+ </g><g id="Eyes-Bear5">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_290Corel-Layer"/>
+  <path class="Eyes-Bear5fil552" d="M8820 14576c732,428 2019,189 2520,-324 751,-769 287,-2594 -479,-2784 -678,-169 -1448,103 -1899,664 -660,819 -734,2098 -142,2444z"/>
+  <path class="Eyes-Bear5fil553" d="M10425 11408c-490,21 -908,179 -1270,526 -943,905 -568,2203 -30,2504 708,397 1993,84 2312,-357 456,-630 536,-2611 -1012,-2673z"/>
+  <path class="Eyes-Bear5fil554" d="M10410 11431c734,-52 1263,562 1287,1373 34,1196 -515,1589 -1361,1662 -847,73 -1509,-507 -1493,-1368 17,-860 832,-1615 1567,-1667z"/>
+  <path class="Eyes-Bear5fil152" d="M10212 14082c196,-20 220,-87 232,-328 13,241 37,308 233,328 -196,20 -220,87 -233,329 -12,-242 -36,-309 -232,-329z"/>
+  <path class="Eyes-Bear5fil152" d="M9991 14172c86,-8 96,-38 102,-144 5,106 16,136 101,144 -85,9 -96,38 -101,144 -6,-106 -16,-135 -102,-144z"/>
+  <path class="Eyes-Bear5fil152" d="M10549 13673c86,-9 97,-38 102,-144 6,106 16,135 102,144 -86,8 -96,38 -102,144 -5,-106 -16,-136 -102,-144z"/>
+  <path class="Eyes-Bear5fil152" d="M9022 12859c121,-12 136,-54 144,-203 7,149 22,191 143,203 -121,12 -136,54 -143,203 -8,-149 -23,-191 -144,-203z"/>
+  <path class="Eyes-Bear5fil152" d="M11038 13903c86,-8 97,-38 102,-144 6,106 16,136 102,144 -86,9 -96,39 -102,144 -5,-105 -16,-135 -102,-144z"/>
+  <path class="Eyes-Bear5fil152" d="M8592 13479c-8,951 712,1231 1377,1141 -604,-76 -1182,-380 -1377,-1141z"/>
+  <path class="Eyes-Bear5fil157" d="M11483 14053c524,-990 98,-2427 -692,-2629 -599,-153 -1404,166 -1849,709 -299,364 -463,675 -500,1012l-1 17c449,-867 1405,-1379 2063,-1272 936,153 1111,1290 979,2163z"/>
+  <circle class="Eyes-Bear5fil152" r="235" transform="matrix(1.55653 -1.44003 0.848674 0.620922 9560.72 12041.3)"/>
+  <circle class="Eyes-Bear5fil152" r="235" transform="matrix(0.231366 -0.483919 0.323456 0.106841 8974.24 12527.5)"/>
+  <circle class="Eyes-Bear5fil152" r="235" transform="matrix(0.535512 -0.0305649 0.0623147 0.334896 10370.4 11668.2)"/>
+  <path class="Eyes-Bear5fil152" d="M10883 13064c173,-17 195,-76 206,-290 11,214 32,273 206,290 -174,18 -195,77 -206,291 -11,-214 -33,-273 -206,-291z"/>
+  <path class="Eyes-Bear5fil155" d="M12359 8700c-113,-24 -414,256 -840,404 -392,135 -763,85 -845,252 -91,185 269,613 488,667 180,45 597,-80 920,-388 382,-364 415,-907 277,-935z"/>
+  <path class="Eyes-Bear5fil14" d="M12359 8700c-113,-24 -414,256 -840,404 -392,135 -763,85 -845,252 -91,185 269,613 488,667 180,45 597,-80 920,-388 382,-364 415,-907 277,-935z"/>
+  <path class="Eyes-Bear5fil22 Eyes-Bear5str4" d="M8820 14576c732,428 2019,189 2520,-324 751,-769 287,-2594 -479,-2784 -678,-169 -1448,103 -1899,664 -660,819 -734,2098 -142,2444z"/>
+  <circle class="Eyes-Bear5fil152" r="235" transform="matrix(0.524035 0.0816328 -0.149565 0.73298 11340.1 13620.9)"/>
+  <path class="Eyes-Bear5fil555" d="M18488 14576c-732,428 -2019,189 -2520,-324 -751,-769 -288,-2594 479,-2784 677,-169 1448,103 1899,664 660,819 733,2098 142,2444z"/>
+  <path class="Eyes-Bear5fil556" d="M16883 11408c490,21 908,179 1270,526 943,905 567,2203 30,2504 -709,397 -1994,84 -2313,-357 -455,-630 -535,-2611 1013,-2673z"/>
+  <path class="Eyes-Bear5fil557" d="M16898 11431c-734,-52 -1264,562 -1287,1373 -34,1196 514,1589 1361,1662 847,73 1508,-507 1492,-1368 -16,-860 -831,-1615 -1566,-1667z"/>
+  <path class="Eyes-Bear5fil152" d="M17096 14082c-196,-20 -220,-87 -233,-328 -12,241 -36,308 -232,328 196,20 220,87 232,329 13,-242 37,-309 233,-329z"/>
+  <path class="Eyes-Bear5fil152" d="M17317 14172c-86,-8 -97,-38 -102,-144 -5,106 -16,136 -102,144 86,9 97,38 102,144 5,-106 16,-135 102,-144z"/>
+  <path class="Eyes-Bear5fil152" d="M16758 13673c-86,-9 -96,-38 -102,-144 -5,106 -16,135 -102,144 86,8 97,38 102,144 6,-106 16,-136 102,-144z"/>
+  <path class="Eyes-Bear5fil152" d="M18286 12859c-121,-12 -136,-54 -144,-203 -8,149 -22,191 -144,203 122,12 136,54 144,203 8,-149 23,-191 144,-203z"/>
+  <path class="Eyes-Bear5fil152" d="M16269 13903c-86,-8 -96,-38 -102,-144 -5,106 -16,136 -102,144 86,9 97,39 102,144 6,-105 16,-135 102,-144z"/>
+  <path class="Eyes-Bear5fil152" d="M18716 13479c8,951 -713,1231 -1377,1141 604,-76 1181,-380 1377,-1141z"/>
+  <path class="Eyes-Bear5fil157" d="M15825 14053c-525,-990 -98,-2427 692,-2629 599,-153 1404,166 1849,709 298,364 463,675 499,1012l2 17c-450,-867 -1405,-1379 -2063,-1272 -937,153 -1111,1290 -979,2163z"/>
+  <circle class="Eyes-Bear5fil152" r="235" transform="matrix(-1.55653 -1.44003 -0.848674 0.620922 17746.9 12041.3)"/>
+  <circle class="Eyes-Bear5fil152" r="235" transform="matrix(-0.231366 -0.483919 -0.323456 0.106841 18333.4 12527.5)"/>
+  <circle class="Eyes-Bear5fil152" r="235" transform="matrix(-0.535512 -0.0305649 -0.0623147 0.334896 16937.3 11668.2)"/>
+  <path class="Eyes-Bear5fil152" d="M16425 13064c-174,-17 -195,-76 -206,-290 -11,214 -32,273 -206,290 174,18 195,77 206,291 11,-214 32,-273 206,-291z"/>
+  <path class="Eyes-Bear5fil155" d="M14948 8700c113,-24 414,256 841,404 391,135 763,85 845,252 91,185 -269,613 -489,667 -180,45 -597,-80 -920,-388 -382,-364 -414,-907 -277,-935z"/>
+  <path class="Eyes-Bear5fil14" d="M14948 8700c113,-24 414,256 841,404 391,135 763,85 845,252 91,185 -269,613 -489,667 -180,45 -597,-80 -920,-388 -382,-364 -414,-907 -277,-935z"/>
+  <path class="Eyes-Bear5fil22 Eyes-Bear5str4" d="M18488 14576c-732,428 -2019,189 -2520,-324 -751,-769 -288,-2594 479,-2784 677,-169 1448,103 1899,664 660,819 733,2098 142,2444z"/>
+  <circle class="Eyes-Bear5fil152" r="235" transform="matrix(-0.524035 0.0816328 0.149565 0.73298 15967.6 13620.9)"/>
+ </g><g id="Moustache-Bear0">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_296Corel-Layer"/>
+  <rect class="Moustache-Bear0fil22" height="832" width="832" x="13238" y="12735"/>
+ </g><g id="BraceletCutangaShield-Big">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_6Corel-Layer"/>
+  <g id="_2913189797152">
+   <path class="BraceletCutangaShield-Bigfil245" d="M17630.53 17201.12l0.41 1.67c-369.02,445.7 -782.68,865.82 -1193.63,1265.47 390.1,2714.3 1391.34,4219.99 2727.57,5063.29l0.37 1.54 0.59 -0.92 1.27 0.81 -0.49 -2.02c626.88,-948.43 729.25,-2513.13 -125.22,-5202.08 -469.75,-352.35 -950.12,-724.44 -1408.48,-1125.66l-0.52 -2.19 -0.83 1 -1.04 -0.91z" style="fill:#179c13"/>
+   <path class="BraceletCutangaShield-Bigfil246" d="M19356.69 22493.13l74.7 41.22 41.28 -185.92 117.32 83.69c-33.17,258.59 -106.99,497.69 -216.67,719.61l-16.63 -658.6z" style="fill:#529f7e"/>
+   <path class="BraceletCutangaShield-Bigfil16 BraceletCutangaShield-Bigstr23" d="M19356.69 22493.13l74.7 41.22 41.28 -185.92 117.32 83.69c-33.17,258.59 -107,497.69 -216.67,719.61l-16.63 -658.6z" style="fill:#7a2d43"/>
+   <polygon class="BraceletCutangaShield-Bigfil247" points="18985.97,21938.88 19131.77,22073.85 19067.61,22343.39 "/>
+   <g>
+    <polygon class="BraceletCutangaShield-Bigfil42" points="19184.89,22124.05 19238.39,22165.78 19133.35,22466.18 18864.74,22293.22 18836.55,22179.92 19102.7,22359.42 "/>
+    <polygon class="BraceletCutangaShield-Bigfil42" points="18821.04,20157.48 18824.14,20073.47 18936.96,20214.78 18665.52,18544.87 18994.06,18270.54 19018.9,18307.72 18723.36,18579.41 19008.37,20313.68 18963.29,20333.45 "/>
+    <polygon class="BraceletCutangaShield-Bigfil42" points="19288.24,22175.52 19231.15,22158.24 19217.44,21245.93 19047.65,21142.54 18945.77,20549.96 18681.77,20243.42 18281.04,18299.11 18336.13,18299.26 18729.51,20217.28 18987.28,20514.61 18998.97,20539.25 19095.49,21094.9 19271.64,21213.54 "/>
+    <path class="BraceletCutangaShield-Bigfil248" d="M17630.53 17201.12c-53.29,92.03 5.14,22.51 -50.93,112.3 213.64,188.95 437.83,376.3 664.55,558.46l20.05 44.07 324.67 246.97 25.7 -29.37 345.03 270.53c312.9,840.78 756.09,2923.97 534.69,3859.01l-189.71 -142.11 1.53 100.99 298.41 210.57c173.9,-940.08 17.67,-2275.97 -563.11,-4103.66 -470.59,-352.96 -951.8,-725.74 -1410.88,-1127.76z" style="fill:#e9523d"/>
+    <polygon class="BraceletCutangaShield-Bigfil42" points="18406.85,19465.1 18096.87,18097.69 18293.66,17753.2 18220.49,17694.26 18013.88,18068.7 18391.31,19514.36 "/>
+    <polygon class="BraceletCutangaShield-Bigfil248" points="19229.55,23126.45 19203.63,23019.53 19077.78,23172.21 19103.7,23279.14 19186.54,23176.47 19235.67,23383.48 19287.19,23364.27 "/>
+    <polygon class="BraceletCutangaShield-Bigfil248" points="18899.51,22436.7 19095.2,22572.17 19165.04,22860.33 19039.2,23013.02 18987.2,22977.02 19096.47,22826.38 19042.79,22604.91 18866.07,22477.27 "/>
+    <polygon class="BraceletCutangaShield-Bigfil42" points="18634.71,21376.24 18657.91,21217.42 18324.74,19827.02 18199.01,19585.02 18362.02,19826.85 18698.68,21215 "/>
+   </g>
+   <polygon class="BraceletCutangaShield-Bigfil249 BraceletCutangaShield-Bigstr23" points="18985.97,21938.88 19131.77,22073.85 19067.61,22343.39 "/>
+   <g>
+    <polyline class="BraceletCutangaShield-Bigfil16 BraceletCutangaShield-Bigstr24" points="18196.82,19537.51 18372.55,19816.18 18710.91,21228.22 18645.15,21387.26 "/>
+    <path class="BraceletCutangaShield-Bigfil16 BraceletCutangaShield-Bigstr24" d="M18694.91 21592.54c231.02,327.12 521.67,578.85 895.08,839.58 -373.41,-260.73 -664.06,-512.46 -895.08,-839.58zm592.28 1771.73l-83.56 -344.74 -125.85 152.68m-38.58 -159.19l125.84 -152.69 -69.84 -288.16 -195.69 -135.47m-34.77 -143.48l274.86 195.65 109.3 -313.01 -109.3 313.01" style="fill:#3631d0"/>
+    <polyline class="BraceletCutangaShield-Bigfil16 BraceletCutangaShield-Bigstr24" points="18463.28,19705.23 18214.23,19364.79 17870.2,17945.38 18027.27,17537.61 "/>
+    <line class="BraceletCutangaShield-Bigfil16 BraceletCutangaShield-Bigstr24" x1="18986.26" x2="18401.8" y1="21938.31" y2="19442.72"/>
+    <polyline class="BraceletCutangaShield-Bigfil16 BraceletCutangaShield-Bigstr24" points="19306.11,22221.97 19291.14,21226.31 19116.95,21112.31 19016.7,20535.2 18750.2,20227.79 18332.48,18207.45 "/>
+    <polyline class="BraceletCutangaShield-Bigfil16 BraceletCutangaShield-Bigstr24" points="19335.56,22255.24 19218.65,22588.92 19356.3,23139.63 "/>
+    <polygon class="BraceletCutangaShield-Bigfil16 BraceletCutangaShield-Bigstr24" points="19041.41,18328.88 18655.57,18053.32 18470.85,18356.85 18825.6,20150.72 19033.68,20404.32 18735.33,18610.26 "/>
+   </g>
+   <polygon class="BraceletCutangaShield-Bigfil250" points="18196.82,19537.51 18372.55,19816.18 18710.91,21228.22 18645.15,21387.26 "/>
+   <polygon class="BraceletCutangaShield-Bigfil251" points="18332.48,18207.45 18248.45,17848.67 18106.87,18097.18 18417.16,19508.3 18448.91,19206 18263.9,18337.7 "/>
+   <path class="BraceletCutangaShield-Bigfil16 BraceletCutangaShield-Bigstr23" d="M18332.48 18207.45l-84.04 -358.78 -141.58 248.49 310.3 1411.14 31.75 -302.31 -185.01 -868.29 68.58 -130.25zm-84.04 -358.78l33.85 -67.43" style="fill:#0c8cf6"/>
+   <polygon class="BraceletCutangaShield-Bigfil252" points="19149.07,19301.97 18999.78,18609.58 18866.69,18716.12 19156.33,20474.29 19267.71,20386.73 19096.11,19402.55 "/>
+   <polygon class="BraceletCutangaShield-Bigfil16 BraceletCutangaShield-Bigstr23" points="19149.08,19301.97 18999.78,18609.58 18866.7,18716.12 19156.34,20474.28 19267.71,20386.73 19096.11,19402.55 "/>
+   <path class="BraceletCutangaShield-Bigfil253 BraceletCutangaShield-Bigstr25" d="M19258.7 21092.44c-56.55,3.03 -87.87,65.41 -69.95,139.35 17.92,73.94 78.29,131.42 134.84,128.39 56.55,-3.03 87.87,-65.42 69.95,-139.35 -17.92,-73.94 -78.29,-131.42 -134.84,-128.39z" style="fill:#8505bd"/>
+   <path class="BraceletCutangaShield-Bigfil254 BraceletCutangaShield-Bigstr25" d="M18647.22 18734.38c-56.55,3.03 -87.86,65.41 -69.94,139.35 17.92,73.93 78.29,131.42 134.84,128.39 56.55,-3.03 87.86,-65.42 69.94,-139.35 -17.92,-73.94 -78.29,-131.42 -134.84,-128.39z" style="fill:#81011c"/>
+   <circle class="BraceletCutangaShield-Bigfil16 BraceletCutangaShield-Bigstr25" r="111.12" transform="matrix(-0.921445 0.049319 0.291998 1.20473 19291.1 21226.3)"/>
+   <polygon class="BraceletCutangaShield-Bigfil42" points="18866.6,22293.12 18590.8,22498.49 18838.19,22179.83 "/>
+   <g>
+    <path class="BraceletCutangaShield-Bigfil255" d="M18342.54 22547.41l-73.53 49.15 -156.52 -175.32 -104.99 95.58c186.41,246.84 414.47,469.78 679.27,671.66l-344.23 -641.07z" style="fill:#de045a"/>
+    <path class="BraceletCutangaShield-Bigfil16 BraceletCutangaShield-Bigstr23" d="M18342.54 22547.41l-73.53 49.15 -156.52 -175.32 -104.99 95.58c186.41,246.84 414.48,469.78 679.27,671.66l-344.23 -641.07z" style="fill:#ec8733"/>
+    <polygon class="BraceletCutangaShield-Bigfil256" points="18513.36,21964.18 18400.08,22113.01 18632.57,22366.67 "/>
+    <polygon class="BraceletCutangaShield-Bigfil257 BraceletCutangaShield-Bigstr23" points="18513.36,21964.18 18400.08,22113.01 18632.57,22366.67 "/>
+   </g>
+   <path class="BraceletCutangaShield-Bigfil258" d="M18233.04 22266.62l162.22 -340.08 -618.44 -2420.27 -127 -250.24 218.79 239.31c210.24,821.2 416.26,1632.27 625.76,2453.53l-261.33 317.75z" style="fill:#a6768e"/>
+   <polygon class="BraceletCutangaShield-Bigfil248" points="19079.65,23172.11 18832.42,23039.4 18848.27,23104.79 19105.56,23279.04 "/>
+   <polygon class="BraceletCutangaShield-Bigfil258" points="18004.36,19355.63 17645.24,17990.86 17226.91,17623.98 17288.65,17557.82 17736.27,17952.55 18060.79,19356.43 17937.39,19653.66 "/>
+   <g>
+    <polyline class="BraceletCutangaShield-Bigfil16 BraceletCutangaShield-Bigstr24" points="18198.68,19537.41 18126.56,19829.35 18473.83,21240.91 18647.02,21387.16 "/>
+    <path class="BraceletCutangaShield-Bigfil16 BraceletCutangaShield-Bigstr24" d="M18696.77 21592.44c-116.59,345.72 -352,625.61 -689.27,924.38 337.27,-298.77 572.68,-578.66 689.27,-924.38zm219.2 1791.7l-83.55 -344.74 247.23 132.71m-38.59 -159.19l-247.23 -132.72 -69.84 -288.16 177.39 -155.44m-34.78 -143.48l-246.18 223.54 -314.9 -290.31 314.9 290.31" style="fill:#dd8344"/>
+    <polyline class="BraceletCutangaShield-Bigfil16 BraceletCutangaShield-Bigstr24" points="17947.84,19732.82 18080.3,19371.95 17736.27,17952.55 17307.09,17576.15 "/>
+    <line class="BraceletCutangaShield-Bigfil16 BraceletCutangaShield-Bigstr24" x1="18512.67" x2="17881.44" y1="21963.66" y2="19470.57"/>
+    <polyline class="BraceletCutangaShield-Bigfil16 BraceletCutangaShield-Bigstr24" points="18257.28,22278.11 17723.74,21310.2 17885.32,21178.23 17694.27,20605.98 17867.61,20275.03 17285.03,18263.52 "/>
+    <polyline class="BraceletCutangaShield-Bigfil16 BraceletCutangaShield-Bigstr24" points="18237.74,22314 18573.92,22623.43 18702.02,23174.64 "/>
+    <polygon class="BraceletCutangaShield-Bigfil16 BraceletCutangaShield-Bigstr24" points="16437.31,18468.26 16782.37,18153.58 17189.36,18425.44 17727.48,20209.5 17599.69,20481.07 16988.66,18703.75 "/>
+   </g>
+   <polygon class="BraceletCutangaShield-Bigfil259" points="17285.03,18263.52 17194.29,17905.09 17515.04,18128.86 17898.02,19536.09 17689.19,19246.66 17445.88,18381.48 "/>
+   <polygon class="BraceletCutangaShield-Bigfil260" points="16838.64,19425.64 16646.9,18735.51 16877.86,18822.57 17480.21,20564 17287.81,20492.7 16962.85,19516.73 "/>
+   <polygon class="BraceletCutangaShield-Bigfil16 BraceletCutangaShield-Bigstr23" points="16838.63,19425.64 16646.9,18735.51 16877.85,18822.57 17480.19,20563.99 17287.81,20492.7 16962.85,19516.73 "/>
+   <path class="BraceletCutangaShield-Bigfil16 BraceletCutangaShield-Bigstr23" d="M17285.02 18263.52l-90.73 -358.43 320.74 223.75 382.98 1407.25 -208.84 -289.44 -243.3 -865.17 -160.85 -117.96zm-90.73 -358.43l-81.14 -61.27" style="fill:#f1bdac"/>
+   <path class="BraceletCutangaShield-Bigfil261" d="M17691.3 21176.33c74.68,-3.99 149.74,52.7 167.66,126.63 17.92,73.94 -28.09,137.11 -102.77,141.11 -74.68,4 -149.74,-52.7 -167.66,-126.63 -17.92,-73.93 28.09,-137.11 102.77,-141.11z" style="fill:#7e9ae9"/>
+   <path class="BraceletCutangaShield-Bigfil262 BraceletCutangaShield-Bigstr25" d="M17171.31 18813.38c74.68,-4 149.75,52.69 167.67,126.63 17.92,73.93 -28.09,137.11 -102.77,141.1 -74.68,4 -149.75,-52.69 -167.67,-126.63 -17.92,-73.93 28.09,-137.11 102.77,-141.1z" style="fill:#9e9247"/>
+   <circle class="BraceletCutangaShield-Bigfil16 BraceletCutangaShield-Bigstr26" r="111.12" transform="matrix(1.21687 -0.0651313 0.291998 1.20473 17723.7 21310.2)"/>
+   <path class="BraceletCutangaShield-Bigfil12" d="M17119.47 17779.32c-222.74,236.61 -452.88,465.96 -682.16,688.94 390.32,2715.82 1392.46,4221.7 2729.8,5064.72 -1373.45,-1579.9 -1999.37,-4308.33 -2047.64,-5753.66z" style="fill:#b5558b"/>
+   <path class="BraceletCutangaShield-Bigfil16 BraceletCutangaShield-Bigstr3" d="M17630.53 17201.12l0.41 1.67c-369.02,445.7 -782.68,865.82 -1193.63,1265.47 390.1,2714.3 1391.34,4219.99 2727.57,5063.29l0.37 1.54 0.59 -0.92 1.27 0.81 -0.49 -2.02c626.88,-948.43 729.25,-2513.13 -125.22,-5202.08 -469.75,-352.35 -950.12,-724.44 -1408.48,-1125.66l-0.52 -2.19 -0.83 1 -1.04 -0.91z" style="fill:#0df64e"/>
+  </g>
+ </g><g id="Nose-Bear0">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_304Corel-Layer"/>
+  <path class="Nose-Bear0fil598 Nose-Bear0str0" d="M13654 14109c-356,0 -852,135 -813,337 34,185 361,481 813,481 452,0 778,-296 813,-481 38,-202 -457,-337 -813,-337z" style="fill:#5203de"/>
+ </g><g id="HatMerlin-Big">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_63Corel-Layer"/>
+  <g>
+   <path class="HatMerlin-Bigfil62new" d="M6484 12102c3346,-748 4964,682 7276,654 2619,-31 4183,-1355 7749,-578 -3638,-1432 -12296,-1289 -15025,-76z" style="fill:#1d1747"/>
+   <path class="HatMerlin-Bigfil605new HatMerlin-Bigstr0new" d="M7616 11815c155,-1709 689,-4145 1466,-5893 963,-2163 6004,-3861 7970,-2851 1777,912 3982,3922 4166,5535 82,718 -186,1160 -2241,699 280,629 764,1765 843,2365 -1356,-283 -2618,-587 -6398,-477 -3131,92 -4526,391 -5806,622z" style="fill:#afb604"/>
+   <path class="HatMerlin-Bigfil595new" d="M17842 3689c379,300 760,666 1122,1067l114 200 -691 -199 -472 424 -97 -659 -639 -348 630 -208 33 -277z" style="fill:#d7b400"/>
+   <path class="HatMerlin-Bigfil596new" d="M13789 3063c341,-79 680,-137 1006,-174l28 96 655 120 -660 135 -96 299 -493 -213 -715 64 355 -267 -80 -60z" style="fill:#445633"/>
+   <polygon class="HatMerlin-Bigfil597new" points="12748,7539 13213,8141 13932,8062 13547,8699 13859,9399 13156,9191 12630,9702 12581,8937 11944,8553 12617,8288 "/>
+   <polygon class="HatMerlin-Bigfil598new" points="18421,9741 17664,9759 17312,10386 17019,9695 16271,9531 16846,9086 16736,8357 17385,8774 18065,8487 17890,9189 "/>
+   <polygon class="HatMerlin-Bigfil599new" points="15558,5043 15524,5798 16106,6291 15419,6423 15210,7127 14820,6454 14108,6395 14554,5848 14324,5108 14989,5442 "/>
+   <polygon class="HatMerlin-Bigfil600new" points="19975,6690 20060,7373 20715,7650 20055,7961 19959,8649 19466,8158 18751,8306 19107,7692 18761,7096 19474,7207 "/>
+   <path class="HatMerlin-Bigfil606new HatMerlin-Bigstr0new" d="M7573 10814c16,-287 -94,-619 279,-1000 497,-510 3385,-1101 5170,-1165 1785,-64 5188,176 6341,1280 333,318 207,570 243,869 34,279 256,284 382,869 -895,-351 -2593,-754 -6374,-674 -2976,63 -5166,349 -6283,572 -215,43 220,-373 242,-751z" style="fill:#943981"/>
+   <path class="HatMerlin-Bigfil14new" d="M20258 6340c524,829 890,1650 960,2266 82,718 -186,1160 -2241,699 61,92 205,291 198,446 -1378,-794 -3112,-1023 -3524,-988 1565,-916 1398,-1834 503,-2894 -213,-251 -397,-338 -680,-505 -503,-297 -175,-1365 515,-597 244,271 333,542 371,844 254,-549 -104,-941 298,-1132 299,-142 493,269 453,597 -41,338 -321,720 -493,808 1957,2076 4189,2565 3640,456z" style="fill:#befeeb"/>
+   <path class="HatMerlin-Bigfil223new" d="M19068 9322c19,39 2,85 -36,104 -39,19 -85,2 -104,-36 -331,-682 -740,-1306 -1213,-1879 -161,-195 -1006,-1191 -1602,-1683 492,280 1569,1400 1722,1585 480,582 897,1216 1233,1909z" style="fill:#bad4d6"/>
+   <path class="HatMerlin-Bigfil14new" d="M15108 8765c1618,-50 3607,526 4275,1169 362,349 -19,812 492,1275 -1528,-301 -5878,-983 -10752,-246 2123,-915 6416,-528 7022,-1081 381,-347 320,-1013 -1037,-1117z" style="fill:#ab3e8e"/>
+   <path class="HatMerlin-Bigfil607new HatMerlin-Bigstr0new" d="M2701 14121c-378,-1359 2323,-2374 4163,-2750 4807,-982 9135,-1034 14042,58 1537,343 4477,1576 3785,2924 201,-1024 -1965,-1748 -3345,-2073 -4691,-1105 -9995,-1077 -14706,-107 -1601,329 -3883,1016 -3939,1948z" style="fill:#b16086"/>
+   <polygon class="HatMerlin-Bigfil603new" points="9559,6709 9829,7386 10461,7348 9997,8008 10116,8782 9559,8513 9001,9029 9121,8202 8657,7748 9288,7506 "/>
+   <path class="HatMerlin-Bigfil604new" d="M11504 4161c32,73 65,147 97,220 32,73 65,147 97,220 116,12 233,25 350,41 117,15 235,34 354,53 -104,45 -208,91 -311,140 -102,50 -203,104 -304,158 3,80 5,159 8,239 3,80 6,160 8,240 -93,-37 -187,-73 -280,-109 -93,-35 -185,-69 -277,-103 -110,50 -220,100 -328,155 -109,54 -216,112 -322,171 38,-90 76,-180 115,-269 38,-89 77,-178 116,-266 -70,-49 -140,-97 -210,-144 -70,-47 -139,-93 -209,-138 113,-32 227,-61 341,-87 115,-25 232,-45 349,-65 66,-79 133,-158 201,-234 67,-75 136,-149 205,-222z" style="fill:#774c5d"/>
+  </g>
+ </g></svg>

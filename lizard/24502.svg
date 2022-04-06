@@ -1,0 +1,878 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd" version="1.1" viewBox="0 0 29000 29000" xml:space="preserve"><defs><style type="text/css">.HairBack-Lizard0fil22 {fill:none}
+.Tail-Lizard6fil14 {fill:black;fill-opacity:0.200000}
+.Tail-Lizard6fil628 {fill:white;fill-opacity:0.301961}
+.Tail-Lizard6fil627 {fill:url(#Tail-Lizard6id241)}
+.Tail-Lizard6str0 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.RightFoot-Lizard1fil637 {fill:url(#RightFoot-Lizard1id221)}
+.RightFoot-Lizard1fil32 {fill:black;fill-rule:nonzero}
+.RightLeg-Lizard0fil639 {fill:url(#RightLeg-Lizard0id33)}
+.RightLeg-Lizard0fil14 {fill:black;fill-opacity:0.200000}
+.RightLeg-Lizard0fil32 {fill:black;fill-rule:nonzero}
+.LeftFoot-Lizard1fil646 {fill:url(#LeftFoot-Lizard1id445)}
+.LeftFoot-Lizard1fil32 {fill:black;fill-rule:nonzero}
+.LeftLeg-Lizard0fil648 {fill:url(#LeftLeg-Lizard0id17)}
+.LeftLeg-Lizard0fil14 {fill:black;fill-opacity:0.200000}
+.LeftLeg-Lizard0fil32 {fill:black;fill-rule:nonzero}
+.RightHand-Lizard5fil655 {fill:url(#RightHand-Lizard5id333)}
+.RightHand-Lizard5fil660 {fill:url(#RightHand-Lizard5id537)}
+.RightHand-Lizard5fil14 {fill:black;fill-opacity:0.200000}
+.RightHand-Lizard5fil32 {fill:black;fill-rule:nonzero}
+.RightPaw-Lizard0fil661 {fill:url(#RightPaw-Lizard0id332)}
+.RightPaw-Lizard0fil32 {fill:black;fill-rule:nonzero}
+.LeftHand-Lizard5fil667 {fill:url(#LeftHand-Lizard5id837)}
+.LeftHand-Lizard5fil670 {fill:url(#LeftHand-Lizard5id531)}
+.LeftHand-Lizard5fil14 {fill:black;fill-opacity:0.200000}
+.LeftHand-Lizard5fil32 {fill:black;fill-rule:nonzero}
+.LeftPaw-Lizard0fil671 {fill:url(#LeftPaw-Lizard0id580)}
+.LeftPaw-Lizard0fil32 {fill:black;fill-rule:nonzero}
+.Body-Lizard2fil674 {fill:url(#Body-Lizard2id282)}
+.Body-Lizard2fil679 {fill:url(#Body-Lizard2id212)}
+.Body-Lizard2fil680 {fill:url(#Body-Lizard2id440)}
+.Body-Lizard2fil14 {fill:black;fill-opacity:0.200000}
+.Body-Lizard2fil32 {fill:black;fill-rule:nonzero}
+.Body-Lizard2fil678 {fill:url(#Body-Lizard2id754)}
+.Head-Lizard4fil693 {fill:url(#Head-Lizard4id412)}
+.Head-Lizard4fil686 {fill:url(#Head-Lizard4id1041)}
+.Head-Lizard4fil694 {fill:url(#Head-Lizard4id284)}
+.Head-Lizard4fil32 {fill:black;fill-rule:nonzero}
+.Head-Lizard4fil14 {fill:black;fill-opacity:0.200000}
+.Mouth-Lizard7fil728 {fill:url(#Mouth-Lizard7id904)}
+.Mouth-Lizard7fil100 {fill:black}
+.Mouth-Lizard7fil151 {fill:#FF9999}
+.Mouth-Lizard7fil729 {fill:url(#Mouth-Lizard7id493)}
+.Mouth-Lizard7fil730 {fill:url(#Mouth-Lizard7id544)}
+.Mouth-Lizard7fil731 {fill:url(#Mouth-Lizard7id190)}
+.Mouth-Lizard7fil732 {fill:url(#Mouth-Lizard7id319)}
+.Mouth-Lizard7fil22 {fill:none}
+.Mouth-Lizard7str0 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.Eyes-Lizard6fil14 {fill:black;fill-opacity:0.200000}
+.Eyes-Lizard6fil764 {fill:url(#Eyes-Lizard6id65)}
+.Eyes-Lizard6fil765 {fill:url(#Eyes-Lizard6id14)}
+.Eyes-Lizard6fil766 {fill:url(#Eyes-Lizard6id689)}
+.Eyes-Lizard6fil152 {fill:white}
+.Eyes-Lizard6fil740 {fill:black;fill-opacity:0.400000}
+.Eyes-Lizard6fil767 {fill:url(#Eyes-Lizard6id117)}
+.Eyes-Lizard6fil768 {fill:url(#Eyes-Lizard6id4)}
+.Eyes-Lizard6fil769 {fill:url(#Eyes-Lizard6id702)}
+.Eyes-Lizard6fil22 {fill:none}
+.Eyes-Lizard6str0 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.Moustache-Lizard1fil792 {fill:#4c69c2;fill-rule:nonzero}
+.Moustache-Lizard1fil32 {fill:black;fill-rule:nonzero}
+.Nose-Lizard0fil100 {fill:black}
+.BraceletSamurai-Mediumfil131new {fill:url(#BraceletSamurai-Mediumid400new)}
+.BraceletSamurai-Mediumfil132new {fill:#FFCC99;fill-opacity:0.501961}
+.BraceletSamurai-Mediumfil14new {fill:black;fill-opacity:0.200000}
+.BraceletSamurai-Mediumfil133new {fill:url(#BraceletSamurai-Mediumid276new)}
+.BraceletSamurai-Mediumfil134new {fill:#000066;fill-opacity:0.200000}
+.BraceletSamurai-Mediumfil43new {fill:white;fill-opacity:0.200000}
+.BraceletSamurai-Mediumfil135new {fill:url(#BraceletSamurai-Mediumid257new)}
+.BraceletSamurai-Mediumfil136new {fill:url(#BraceletSamurai-Mediumid499new)}
+.BraceletSamurai-Mediumfil137new {fill:url(#BraceletSamurai-Mediumid510new)}
+.BraceletSamurai-Mediumfil138new {fill:url(#BraceletSamurai-Mediumid340new)}
+.BraceletSamurai-Mediumfil139new {fill:url(#BraceletSamurai-Mediumid463new)}
+.BraceletSamurai-Mediumfil140new {fill:url(#BraceletSamurai-Mediumid294new)}
+.BraceletSamurai-Mediumfil141new {fill:#000040;fill-opacity:0.200000}
+.BraceletSamurai-Mediumfil142new {fill:url(#BraceletSamurai-Mediumid316new)}
+.BraceletSamurai-Mediumfil143new {fill:url(#BraceletSamurai-Mediumid319new)}
+.BraceletSamurai-Mediumfil144new {fill:url(#BraceletSamurai-Mediumid433new)}
+.BraceletSamurai-Mediumfil145new {fill:url(#BraceletSamurai-Mediumid448new)}
+.BraceletSamurai-Mediumfil146new {fill:url(#BraceletSamurai-Mediumid421new)}
+.BraceletSamurai-Mediumfil147new {fill:url(#BraceletSamurai-Mediumid519new)}
+.BraceletSamurai-Mediumfil148new {fill:url(#BraceletSamurai-Mediumid489new)}
+.BraceletSamurai-Mediumfil149new {fill:url(#BraceletSamurai-Mediumid457new)}
+.BraceletSamurai-Mediumfil150new {fill:url(#BraceletSamurai-Mediumid488new)}
+.BraceletSamurai-Mediumfil151new {fill:url(#BraceletSamurai-Mediumid271new)}
+.BraceletSamurai-Mediumfil152new {fill:#000003;fill-opacity:0.200000}
+.BraceletSamurai-Mediumfil153new {fill:url(#BraceletSamurai-Mediumid478new)}
+.BraceletSamurai-Mediumfil154new {fill:url(#BraceletSamurai-Mediumid398new)}
+.BraceletSamurai-Mediumfil155new {fill:url(#BraceletSamurai-Mediumid355new)}
+.BraceletSamurai-Mediumfil156new {fill:url(#BraceletSamurai-Mediumid313new)}
+.BraceletSamurai-Mediumfil157new {fill:url(#BraceletSamurai-Mediumid363new)}
+.BraceletSamurai-Mediumfil158new {fill:url(#BraceletSamurai-Mediumid537new)}
+.BraceletSamurai-Mediumfil159new {fill:url(#BraceletSamurai-Mediumid458new)}
+.BraceletSamurai-Mediumfil160new {fill:url(#BraceletSamurai-Mediumid516new)}
+.BraceletSamurai-Mediumfil161new {fill:url(#BraceletSamurai-Mediumid393new)}
+.BraceletSamurai-Mediumfil162new {fill:url(#BraceletSamurai-Mediumid536new)}
+.BraceletSamurai-Mediumfil163new {fill:url(#BraceletSamurai-Mediumid386new)}
+.BraceletSamurai-Mediumfil164new {fill:url(#BraceletSamurai-Mediumid282new)}
+.BraceletSamurai-Mediumfil165new {fill:url(#BraceletSamurai-Mediumid455new)}
+.BraceletSamurai-Mediumfil166new {fill:url(#BraceletSamurai-Mediumid314new)}
+.BraceletSamurai-Mediumfil167new {fill:url(#BraceletSamurai-Mediumid464new)}
+.BraceletSamurai-Mediumfil168new {fill:url(#BraceletSamurai-Mediumid320new)}
+.BraceletSamurai-Mediumfil169new {fill:url(#BraceletSamurai-Mediumid301new)}
+.BraceletSamurai-Mediumfil170new {fill:url(#BraceletSamurai-Mediumid487new)}
+.BraceletSamurai-Mediumfil171new {fill:#050512;fill-opacity:0.200000}
+.BraceletSamurai-Mediumfil172new {fill:url(#BraceletSamurai-Mediumid477new)}
+.BraceletSamurai-Mediumfil173new {fill:url(#BraceletSamurai-Mediumid442new)}
+.BraceletSamurai-Mediumfil174new {fill:url(#BraceletSamurai-Mediumid308new)}
+.BraceletSamurai-Mediumfil175new {fill:url(#BraceletSamurai-Mediumid473new)}
+.BraceletSamurai-Mediumfil33new {fill:none}
+.BraceletSamurai-Mediumstr3new {stroke:black;stroke-width:100;stroke-linecap:round;stroke-linejoin:round}
+.NecklacePofil231new {fill:url(#NecklacePoid614new)}
+.NecklacePofil232new {fill:#FF6633;fill-opacity:0.200000}
+.NecklacePofil83new {fill:white}
+.NecklacePofil233new {fill:url(#NecklacePoid644new)}
+.NecklacePofil234new {fill:url(#NecklacePoid646new)}
+.NecklacePofil235new {fill:url(#NecklacePoid639new)}
+.NecklacePofil236new {fill:url(#NecklacePoid643new)}
+.NecklacePofil237new {fill:url(#NecklacePoid647new)}
+.NecklacePofil238new {fill:url(#NecklacePoid656new)}
+.NecklacePofil239new {fill:url(#NecklacePoid642new)}
+.NecklacePofil240new {fill:url(#NecklacePoid645new)}
+.NecklacePofil241new {fill:url(#NecklacePoid660new)}
+.NecklacePofil242new {fill:url(#NecklacePoid641new)}
+.NecklacePofil243new {fill:url(#NecklacePoid649new)}
+.NecklacePofil244new {fill:url(#NecklacePoid655new)}
+.NecklacePofil246new {fill:#643200;fill-opacity:0.200000}
+.NecklacePofil247new {fill:#966432;fill-opacity:0.501961}
+.NecklacePofil31new {fill:white;fill-opacity:0.501961}
+.NecklacePofil248new {fill:#dfedf2;fill-opacity:0.501961}
+.NecklacePofil84new {fill:black}
+.NecklacePofil33new {fill:none}
+.NecklacePostr4new {stroke:black;stroke-width:100}
+.NecklacePofil245new {fill:url(#NecklacePoid654new)}
+.NecklacePostr3new {stroke:black;stroke-width:100;stroke-linecap:round;stroke-linejoin:round}
+.HatUshanka-Mediumfil31new {fill:white;fill-opacity:0.501961}
+.HatUshanka-Mediumfil14new {fill:black;fill-opacity:0.200000}
+.HatUshanka-Mediumfil683new {fill:url(#HatUshanka-Mediumid572new)}
+.HatUshanka-Mediumfil685new {fill:url(#HatUshanka-Mediumid440new)}
+.HatUshanka-Mediumfil679new {fill:#643200}
+.HatUshanka-Mediumstr0new {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.HatUshanka-Mediumfil680new {fill:url(#HatUshanka-Mediumid136new)}
+.HatUshanka-Mediumstr6new {stroke:black;stroke-width:150}
+.HatUshanka-Mediumfil33new {fill:none}
+.HatUshanka-Mediumfil681new {fill:url(#HatUshanka-Mediumid553new)}
+.HatUshanka-Mediumfil682new {fill:url(#HatUshanka-Mediumid574new)}
+.HatUshanka-Mediumfil684new {fill:url(#HatUshanka-Mediumid702new);fill-rule:nonzero}
+.BraceletBoxer-Mediumfil1 {fill:black;fill-opacity:0.200000}
+.BraceletBoxer-Mediumfil3 {fill:black}
+.BraceletBoxer-Mediumfil5 {fill:#FFCC99;fill-opacity:0.301961}
+.BraceletBoxer-Mediumfil6 {fill:white;fill-rule:nonzero}
+.BraceletBoxer-Mediumfil7 {fill:url(#BraceletBoxer-Mediumid13)}
+.BraceletBoxer-Mediumfil0 {fill:url(#BraceletBoxer-Mediumid11)}
+.BraceletBoxer-Mediumstr0 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.BraceletBoxer-Mediumfil2 {fill:url(#BraceletBoxer-Mediumid4)}
+.BraceletBoxer-Mediumstr1 {stroke:black;stroke-width:100;stroke-linecap:round;stroke-linejoin:round}
+.BraceletBoxer-Mediumfil4 {fill:none}
+.BraceletBoxer-Mediumfil8 {fill:url(#BraceletBoxer-Mediumid12)}
+.AccessoryFlaskWithWaterfil79 {fill:url(#AccessoryFlaskWithWaterid23)}
+.AccessoryFlaskWithWaterfil1 {fill:black;fill-opacity:0.200000}
+.AccessoryFlaskWithWaterfil80 {fill:url(#AccessoryFlaskWithWaterid4)}
+.AccessoryFlaskWithWaterfil48 {fill:white;fill-opacity:0.501961}
+.AccessoryFlaskWithWaterfil82 {fill:url(#AccessoryFlaskWithWaterid30)}
+.AccessoryFlaskWithWaterfil15 {fill:black}
+.AccessoryFlaskWithWaterfil78 {fill:url(#AccessoryFlaskWithWaterid25)}
+.AccessoryFlaskWithWaterstr1 {stroke:black;stroke-width:150}
+.AccessoryFlaskWithWaterfil2 {fill:none}
+.AccessoryFlaskWithWaterstr4 {stroke:black;stroke-width:150}
+.AccessoryFlaskWithWaterstr3 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.AccessoryFlaskWithWaterfil81 {fill:url(#AccessoryFlaskWithWaterid81)}
+.AccessoryFlaskWithWaterstr0 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.AccessoryFlaskWithWaterfil83 {fill:url(#AccessoryFlaskWithWaterid79)}
+.AccessoryFlaskWithWaterfil84 {fill:url(#AccessoryFlaskWithWaterid16)}
+.AccessoryFlaskWithWaterfil85 {fill:url(#AccessoryFlaskWithWaterid13)}
+</style><linearGradient gradientUnits="userSpaceOnUse" id="Tail-Lizard6id241" x1="20562.4" x2="15001.6" y1="15850.2" y2="24554.1">
+   <stop offset="0" style="stop-opacity:1; stop-color:#6ec7ff"/>
+   <stop offset="0.501961" style="stop-opacity:1; stop-color:#6687e9"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#4c69c2"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="RightFoot-Lizard1id221" x1="16306.2" x2="16825.8" y1="23871.7" y2="25810.9">
+   <stop offset="0" style="stop-opacity:1; stop-color:#96b1ff"/>
+   <stop offset="0.180392" style="stop-opacity:1; stop-color:#96b1ff"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#6ec7ff"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="RightLeg-Lizard0id33" x1="15490.3" x2="15490.3" xlink:href="#RightLeg-Lizard0id17" y1="24310" y2="21166.6">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="LeftFoot-Lizard1id445" x1="11057.6" x2="10538" xlink:href="#LeftFoot-Lizard1id221" y1="23871.7" y2="25810.9">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="LeftLeg-Lizard0id17" x1="11873.5" x2="11873.5" y1="24310" y2="21166.6">
+   <stop offset="0" style="stop-opacity:1; stop-color:#96b1ff"/>
+   <stop offset="0.431373" style="stop-opacity:1; stop-color:#96b1ff"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#6687e9"/>
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="RightHand-Lizard5id333" x1="39.0063%" x2="60.9934%" y1="1.86633%" y2="98.1334%">
+   <stop offset="0" style="stop-opacity:1; stop-color:#4c69c2"/>
+   <stop offset="0.788235" style="stop-opacity:1; stop-color:#6687e9"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#6687e9"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="RightHand-Lizard5id537" x1="16517.5" x2="17510.2" xlink:href="#RightHand-Lizard5id531" y1="17673.8" y2="20681.9">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="RightPaw-Lizard0id332" x1="17833.9" x2="18955.5" y1="19888.5" y2="21831.2">
+   <stop offset="0" style="stop-opacity:1; stop-color:#6687e9"/>
+   <stop offset="0.2" style="stop-opacity:1; stop-color:#6687e9"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#96b1ff"/>
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="LeftHand-Lizard5id837" x1="66.4859%" x2="33.5144%" xlink:href="#LeftHand-Lizard5id333" y1="1.74592%" y2="98.2538%">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="LeftHand-Lizard5id531" x1="10822.2" x2="9829.54" y1="17673.8" y2="20681.9">
+   <stop offset="0" style="stop-opacity:1; stop-color:#4c69c2"/>
+   <stop offset="0.34902" style="stop-opacity:1; stop-color:#4c69c2"/>
+   <stop offset="0.858824" style="stop-opacity:1; stop-color:#6687e9"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#6687e9"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="LeftPaw-Lizard0id580" x1="9529.97" x2="8408.35" xlink:href="#LeftPaw-Lizard0id332" y1="19888.5" y2="21831.2">
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="Body-Lizard2id282" x1="50%" x2="50%" y1="0%" y2="100%">
+   <stop offset="0" style="stop-opacity:1; stop-color:#4c69c2"/>
+   <stop offset="0.501961" style="stop-opacity:1; stop-color:#6687e9"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#96b1ff"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Body-Lizard2id212" x1="11282.6" x2="11282.6" xlink:href="#Body-Lizard2id197" y1="17616.6" y2="21611.8">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Body-Lizard2id440" x1="16081.2" x2="16081.2" xlink:href="#Body-Lizard2id197" y1="17616.6" y2="21611.8">
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="Body-Lizard2id754" x1="50%" x2="50%" xlink:href="#Body-Lizard2id641" y1="100%" y2="0%">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Head-Lizard4id412" x1="13681.9" x2="13681.9" xlink:href="#Head-Lizard4id122" y1="17825.9" y2="7794.34">
+  </linearGradient><radialGradient cx="13653.8" cy="14622.1" fx="13653.8" fy="14622.1" gradientTransform="matrix(1 -0 -0 0.789835 0 3073)" gradientUnits="userSpaceOnUse" id="Head-Lizard4id1041" r="2412.15">
+   <stop offset="0" style="stop-opacity:1; stop-color:#4c69c2"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#6687e9"/>
+  </radialGradient><linearGradient gradientUnits="objectBoundingBox" id="Head-Lizard4id284" x1="50%" x2="50%" y1="100%" y2="0%">
+   <stop offset="0" style="stop-opacity:1; stop-color:#4c69c2"/>
+   <stop offset="0.231373" style="stop-opacity:1; stop-color:#4c69c2"/>
+   <stop offset="0.729412" style="stop-opacity:1; stop-color:#6687e9"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#96b1ff"/>
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="Mouth-Lizard7id904" x1="50%" x2="50%" xlink:href="#Mouth-Lizard7id133" y1="100%" y2="0.000433747%">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Mouth-Lizard7id493" x1="11670.5" x2="11846.9" xlink:href="#Mouth-Lizard7id190" y1="15835.8" y2="16494">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Mouth-Lizard7id544" x1="12480" x2="12610.3" xlink:href="#Mouth-Lizard7id190" y1="15713.5" y2="16199.6">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Mouth-Lizard7id319" x1="14753.6" x2="14883.9" xlink:href="#Mouth-Lizard7id190" y1="15713.5" y2="16199.6">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Eyes-Lizard6id65" x1="10105.7" x2="9931.95" xlink:href="#Eyes-Lizard6id0" y1="14962.5" y2="11648">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Eyes-Lizard6id14" x1="10018.8" x2="10018.8" xlink:href="#Eyes-Lizard6id4" y1="14939.8" y2="11666.7">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Eyes-Lizard6id689" x1="10468.6" x2="10468.6" xlink:href="#Eyes-Lizard6id384" y1="11666.5" y2="14456.7">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Eyes-Lizard6id117" x1="17258.2" x2="17431.9" xlink:href="#Eyes-Lizard6id0" y1="14962.5" y2="11648">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Eyes-Lizard6id702" x1="16976.8" x2="16976.8" xlink:href="#Eyes-Lizard6id384" y1="11666.5" y2="14456.7">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletSamurai-Mediumid400new" x1="9912.95" x2="11176" xlink:href="#BraceletSamurai-Mediumid290new" y1="17428.5" y2="18565.8">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletSamurai-Mediumid276new" x1="10037.2" x2="9807.01" y1="17720.5" y2="17858.1">
+   <stop offset="0" style="stop-opacity:1; stop-color:#5050C7"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#1A194F"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletSamurai-Mediumid257new" x1="10120" x2="9889.37" y1="17803.3" y2="17920.9">
+   <stop offset="0" style="stop-opacity:1; stop-color:#5A5AD6"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#363580"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletSamurai-Mediumid499new" x1="10667.2" x2="10391.3" xlink:href="#BraceletSamurai-Mediumid92new" y1="18207.1" y2="18330.7">
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="BraceletSamurai-Mediumid510new" x1="83.4838%" x2="16.5162%" xlink:href="#BraceletSamurai-Mediumid89new" y1="34.5784%" y2="65.4191%">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletSamurai-Mediumid340new" x1="9288.27" x2="10606.6" xlink:href="#BraceletSamurai-Mediumid290new" y1="18012.4" y2="19199.4">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletSamurai-Mediumid463new" x1="10116.4" x2="9840.5" xlink:href="#BraceletSamurai-Mediumid92new" y1="18871.5" y2="18995.1">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletSamurai-Mediumid294new" x1="9454.57" x2="9219.47" xlink:href="#BraceletSamurai-Mediumid276new" y1="18260.2" y2="18406.7">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletSamurai-Mediumid316new" x1="9521.86" x2="9292.9" xlink:href="#BraceletSamurai-Mediumid257new" y1="18345.2" y2="18466.4">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletSamurai-Mediumid319new" x1="8796.77" x2="10044.8" xlink:href="#BraceletSamurai-Mediumid290new" y1="18638" y2="19761.8">
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="BraceletSamurai-Mediumid433new" x1="90.7051%" x2="9.2949%" xlink:href="#BraceletSamurai-Mediumid92new" y1="79.5127%" y2="20.4873%">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletSamurai-Mediumid448new" x1="10894.6" x2="10683.1" xlink:href="#BraceletSamurai-Mediumid92new" y1="17969.2" y2="17815.8">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletSamurai-Mediumid421new" x1="9514.44" x2="9238.58" xlink:href="#BraceletSamurai-Mediumid92new" y1="19473.4" y2="19597">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletSamurai-Mediumid519new" x1="9373.66" x2="9097.78" xlink:href="#BraceletSamurai-Mediumid89new" y1="19310.5" y2="19434.1">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletSamurai-Mediumid489new" x1="9180.54" x2="8965.14" xlink:href="#BraceletSamurai-Mediumid344new" y1="18649.2" y2="18711.9">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletSamurai-Mediumid457new" x1="9760.22" x2="9544.82" xlink:href="#BraceletSamurai-Mediumid417new" y1="18006.1" y2="18068.8">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletSamurai-Mediumid488new" x1="10329" x2="10113.6" xlink:href="#BraceletSamurai-Mediumid276new" y1="17492" y2="17554.7">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletSamurai-Mediumid271new" x1="8942.66" x2="8710.22" xlink:href="#BraceletSamurai-Mediumid257new" y1="18915.6" y2="19065.6">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletSamurai-Mediumid478new" x1="9019.94" x2="8751.44" xlink:href="#BraceletSamurai-Mediumid423new" y1="18938.4" y2="19160.8">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletSamurai-Mediumid398new" x1="16187.9" x2="17450.9" xlink:href="#BraceletSamurai-Mediumid282new" y1="18565.8" y2="17428.5">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletSamurai-Mediumid355new" x1="17326.7" x2="17556.8" xlink:href="#BraceletSamurai-Mediumid276new" y1="17720.5" y2="17858.1">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletSamurai-Mediumid313new" x1="17243.8" x2="17474.5" xlink:href="#BraceletSamurai-Mediumid257new" y1="17803.3" y2="17920.9">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletSamurai-Mediumid363new" x1="16933.6" x2="17058.3" xlink:href="#BraceletSamurai-Mediumid92new" y1="17951.4" y2="18227">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletSamurai-Mediumid537new" x1="16771.5" x2="16896.1" xlink:href="#BraceletSamurai-Mediumid89new" y1="18093" y2="18368.6">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletSamurai-Mediumid458new" x1="16757.3" x2="18075.6" xlink:href="#BraceletSamurai-Mediumid282new" y1="19199.4" y2="18012.4">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletSamurai-Mediumid516new" x1="17502.3" x2="17614" xlink:href="#BraceletSamurai-Mediumid92new" y1="18623.2" y2="18901.8">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletSamurai-Mediumid393new" x1="17331.9" x2="17443.7" xlink:href="#BraceletSamurai-Mediumid89new" y1="18754.8" y2="19033.4">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletSamurai-Mediumid536new" x1="17909.3" x2="18144.4" xlink:href="#BraceletSamurai-Mediumid276new" y1="18260.2" y2="18406.7">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletSamurai-Mediumid386new" x1="17842" x2="18070.9" xlink:href="#BraceletSamurai-Mediumid257new" y1="18345.2" y2="18466.4">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletSamurai-Mediumid455new" x1="17881.3" x2="17707.9" xlink:href="#BraceletSamurai-Mediumid92new" y1="19057.6" y2="19247.2">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletSamurai-Mediumid314new" x1="17256.9" x2="17144.8" xlink:href="#BraceletSamurai-Mediumid92new" y1="18389" y2="18626.8">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletSamurai-Mediumid464new" x1="16691.5" x2="16549.9" xlink:href="#BraceletSamurai-Mediumid92new" y1="17736.1" y2="17952.9">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletSamurai-Mediumid320new" x1="18100.3" x2="18217.2" xlink:href="#BraceletSamurai-Mediumid92new" y1="19222.7" y2="19500.3">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletSamurai-Mediumid301new" x1="17933" x2="18049.9" xlink:href="#BraceletSamurai-Mediumid89new" y1="19358.3" y2="19635.8">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletSamurai-Mediumid487new" x1="18369.2" x2="18212.8" xlink:href="#BraceletSamurai-Mediumid344new" y1="18599.7" y2="18761.4">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletSamurai-Mediumid477new" x1="17789.5" x2="17633.1" xlink:href="#BraceletSamurai-Mediumid325new" y1="17956.6" y2="18118.3">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletSamurai-Mediumid442new" x1="17213.3" x2="17071.8" xlink:href="#BraceletSamurai-Mediumid325new" y1="17432.8" y2="17613.9">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletSamurai-Mediumid308new" x1="18421.2" x2="18653.6" xlink:href="#BraceletSamurai-Mediumid257new" y1="18915.6" y2="19065.6">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletSamurai-Mediumid473new" x1="18343.9" x2="18612.4" xlink:href="#BraceletSamurai-Mediumid423new" y1="18938.4" y2="19160.8">
+  </linearGradient><radialGradient cx="13664.7" cy="19961.1" fx="13664.7" fy="19961.1" gradientTransform="matrix(0.990098 -0 -0 1.30002 135 -5989)" gradientUnits="userSpaceOnUse" id="NecklacePoid614new" r="309.54">
+   <stop offset="0" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#B8B79A"/>
+  </radialGradient><radialGradient cx="13089" cy="19904.3" fx="13089" fy="19904.3" gradientTransform="matrix(1.24762 0.3343 -0.376429 1.40485 4251 -12434)" gradientUnits="userSpaceOnUse" id="NecklacePoid644new" r="296.81" xlink:href="#NecklacePoid614new">
+  </radialGradient><radialGradient cx="12546.8" cy="19659.5" fx="12546.8" fy="19659.5" gradientTransform="matrix(1.35144 0.780254 -0.878584 1.52175 12863 -20047)" gradientUnits="userSpaceOnUse" id="NecklacePoid646new" r="245.67" xlink:href="#NecklacePoid614new">
+  </radialGradient><radialGradient cx="12096.5" cy="19268.6" fx="12096.5" fy="19268.6" gradientTransform="matrix(1.07878 1.28564 -1.44766 1.21473 26941 -19689)" gradientUnits="userSpaceOnUse" id="NecklacePoid639new" r="228.43" xlink:href="#NecklacePoid614new">
+  </radialGradient><radialGradient cx="11774.8" cy="18733.4" fx="11774.8" fy="18733.4" gradientTransform="matrix(0.780254 1.35144 -1.52175 0.878584 31095 -13638)" gradientUnits="userSpaceOnUse" id="NecklacePoid643new" r="245.67" xlink:href="#NecklacePoid614new">
+  </radialGradient><radialGradient cx="11655.6" cy="18154.9" fx="11655.6" fy="18154.9" gradientTransform="matrix(0.201086 1.14041 -1.28413 0.226427 32625 752)" gradientUnits="userSpaceOnUse" id="NecklacePoid647new" r="331.06" xlink:href="#NecklacePoid614new">
+  </radialGradient><radialGradient cx="11721.5" cy="17578.6" fx="11721.5" fy="17578.6" gradientTransform="matrix(-0.201086 1.14041 -1.28413 -0.226427 36652 8192)" gradientUnits="userSpaceOnUse" id="NecklacePoid656new" r="331.06" xlink:href="#NecklacePoid614new">
+  </radialGradient><radialGradient cx="14240.5" cy="19904.3" fx="14240.5" fy="19904.3" gradientTransform="matrix(-1.24762 0.3343 0.376429 1.40485 24515 -12819)" gradientUnits="userSpaceOnUse" id="NecklacePoid642new" r="296.81" xlink:href="#NecklacePoid614new">
+  </radialGradient><radialGradient cx="14782.6" cy="19659.5" fx="14782.6" fy="19659.5" gradientTransform="matrix(-1.35144 0.780254 0.878584 1.52175 17488 -21792)" gradientUnits="userSpaceOnUse" id="NecklacePoid645new" r="245.67" xlink:href="#NecklacePoid614new">
+  </radialGradient><radialGradient cx="15233" cy="19268.6" fx="15233" fy="19268.6" gradientTransform="matrix(-1.07878 1.28564 1.44766 1.21473 3772 -23722)" gradientUnits="userSpaceOnUse" id="NecklacePoid660new" r="228.43" xlink:href="#NecklacePoid614new">
+  </radialGradient><radialGradient cx="15554.7" cy="18733.4" fx="15554.7" fy="18733.4" gradientTransform="matrix(-0.780254 1.35144 1.52175 0.878584 -816 -18747)" gradientUnits="userSpaceOnUse" id="NecklacePoid641new" r="245.67" xlink:href="#NecklacePoid614new">
+  </radialGradient><radialGradient cx="15673.8" cy="18154.9" fx="15673.8" fy="18154.9" gradientTransform="matrix(-0.201086 1.14041 1.28413 0.226427 -4488 -3831)" gradientUnits="userSpaceOnUse" id="NecklacePoid649new" r="331.06" xlink:href="#NecklacePoid614new">
+  </radialGradient><radialGradient cx="15608" cy="17578.6" fx="15608" fy="17578.6" gradientTransform="matrix(0.201086 1.14041 1.28413 -0.226427 -10104 3759)" gradientUnits="userSpaceOnUse" id="NecklacePoid655new" r="331.06" xlink:href="#NecklacePoid614new">
+  </radialGradient><radialGradient cx="13854.7" cy="20982.5" fx="13854.7" fy="20982.5" gradientTransform="matrix(1.2 -0 -0 1.06122 -2771 -1285)" gradientUnits="userSpaceOnUse" id="NecklacePoid654new" r="949.94" xlink:href="#NecklacePoid614new">
+  </radialGradient><linearGradient gradientUnits="userSpaceOnUse" id="HatUshanka-Mediumid572new" x1="13613" x2="13289.9" y1="12530.1" y2="6043.75">
+   <stop offset="0" style="stop-opacity:1; stop-color:#C9AD91"/>
+   <stop offset="0.509804" style="stop-opacity:1; stop-color:#EBD1B7"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#F2DFCB"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="HatUshanka-Mediumid440new" x1="13217.6" x2="13567.9" y1="8259.32" y2="10477.9">
+   <stop offset="0" style="stop-opacity:1; stop-color:red"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#870000"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="HatUshanka-Mediumid136new" x1="18968.1" x2="23659.1" y1="11787.9" y2="12257">
+   <stop offset="0" style="stop-opacity:1; stop-color:#C9AD91"/>
+   <stop offset="0.560784" style="stop-opacity:1; stop-color:#EBD1B7"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#F2DFCB"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="HatUshanka-Mediumid553new" x1="7438.35" x2="3427.57" xlink:href="#HatUshanka-Mediumid136new" y1="12658.2" y2="11303.2">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="HatUshanka-Mediumid574new" x1="13447.3" x2="13294.7" y1="12378.6" y2="5601.47">
+   <stop offset="0" style="stop-opacity:1; stop-color:#5C3005"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#DBA777"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="HatUshanka-Mediumid702new" x1="12852.6" x2="13935.1" y1="10469.1" y2="8266.76">
+   <stop offset="0" style="stop-opacity:1; stop-color:#AB8900"/>
+   <stop offset="0.321569" style="stop-opacity:1; stop-color:#FBE773"/>
+   <stop offset="0.631373" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.8" style="stop-opacity:1; stop-color:#FDE976"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#DEA700"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletBoxer-Mediumid13" x1="10659.8" x2="7242.5" xlink:href="#BraceletBoxer-Mediumid2" y1="19968.7" y2="21545.9">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletBoxer-Mediumid11" x1="19283.5" x2="17541.8" xlink:href="#BraceletBoxer-Mediumid2" y1="19104.9" y2="22409.6">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletBoxer-Mediumid4" x1="16783.3" x2="18659.4" y1="20597.1" y2="19307.3">
+   <stop offset="0" style="stop-opacity:1; stop-color:#C4C4C4"/>
+   <stop offset="0.341176" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="0.819608" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#DBDBDB"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletBoxer-Mediumid12" x1="8704.42" x2="10580.5" xlink:href="#BraceletBoxer-Mediumid4" y1="19307.3" y2="20597.1">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryFlaskWithWaterid23" x1="3205.91" x2="6561.17" y1="23126.1" y2="23126.1">
+   <stop offset="0" style="stop-opacity:1; stop-color:#865126"/>
+   <stop offset="0.14902" style="stop-opacity:1; stop-color:#734F25"/>
+   <stop offset="0.411765" style="stop-opacity:1; stop-color:#4F341B"/>
+   <stop offset="0.760784" style="stop-opacity:1; stop-color:#BA833C"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#855819"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryFlaskWithWaterid4" x1="4230.39" x2="5536.69" y1="20350.8" y2="20350.8">
+   <stop offset="0" style="stop-opacity:1; stop-color:#424D4A"/>
+   <stop offset="0.258824" style="stop-opacity:1; stop-color:#707A78"/>
+   <stop offset="0.45098" style="stop-opacity:1; stop-color:#4C5654"/>
+   <stop offset="0.690196" style="stop-opacity:1; stop-color:#DFE9EB"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#A4ADAB"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryFlaskWithWaterid30" x1="4716.11" x2="5050.97" y1="23904.1" y2="23034.9">
+   <stop offset="0" style="stop-opacity:1; stop-color:#4D4B42"/>
+   <stop offset="0.168627" style="stop-opacity:1; stop-color:#707A78"/>
+   <stop offset="0.341176" style="stop-opacity:1; stop-color:#4C5654"/>
+   <stop offset="0.568627" style="stop-opacity:1; stop-color:#DFE9EB"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#838577"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryFlaskWithWaterid25" x1="5672.23" x2="4247.15" y1="27034.1" y2="21734.6">
+   <stop offset="0" style="stop-opacity:1; stop-color:#8A7A6E"/>
+   <stop offset="0.258824" style="stop-opacity:1; stop-color:#413836"/>
+   <stop offset="0.65098" style="stop-opacity:1; stop-color:#3B3332"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#AB9780"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryFlaskWithWaterid81" x1="4549.26" x2="4088.46" y1="23238.9" y2="21722.7">
+   <stop offset="0" style="stop-opacity:1; stop-color:#12131C"/>
+   <stop offset="0.368627" style="stop-opacity:1; stop-color:#3B3332"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#AB9780"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryFlaskWithWaterid79" x1="4867.21" x2="5918.47" xlink:href="#AccessoryFlaskWithWaterid16" y1="23175.3" y2="21958.8">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryFlaskWithWaterid13" x1="4125.86" x2="5646.78" xlink:href="#AccessoryFlaskWithWaterid4" y1="21404.4" y2="21404.4">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="RightLeg-Lizard0id17" x1="11873.5" x2="11873.5" y1="24310" y2="21166.6">
+   <stop offset="0" style="stop-opacity:1; stop-color:#96b1ff"/>
+   <stop offset="0.431373" style="stop-opacity:1; stop-color:#96b1ff"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#6687e9"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="LeftFoot-Lizard1id221" x1="16306.2" x2="16825.8" y1="23871.7" y2="25810.9">
+   <stop offset="0" style="stop-opacity:1; stop-color:#96b1ff"/>
+   <stop offset="0.180392" style="stop-opacity:1; stop-color:#96b1ff"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#6ec7ff"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="RightHand-Lizard5id531" x1="10822.2" x2="9829.54" y1="17673.8" y2="20681.9">
+   <stop offset="0" style="stop-opacity:1; stop-color:#4c69c2"/>
+   <stop offset="0.34902" style="stop-opacity:1; stop-color:#4c69c2"/>
+   <stop offset="0.858824" style="stop-opacity:1; stop-color:#6687e9"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#6687e9"/>
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="LeftHand-Lizard5id333" x1="39.0063%" x2="60.9934%" y1="1.86633%" y2="98.1334%">
+   <stop offset="0" style="stop-opacity:1; stop-color:#4c69c2"/>
+   <stop offset="0.788235" style="stop-opacity:1; stop-color:#6687e9"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#6687e9"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="LeftPaw-Lizard0id332" x1="17833.9" x2="18955.5" y1="19888.5" y2="21831.2">
+   <stop offset="0" style="stop-opacity:1; stop-color:#6687e9"/>
+   <stop offset="0.2" style="stop-opacity:1; stop-color:#6687e9"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#96b1ff"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Body-Lizard2id197" x1="10977.1" x2="11533.4" y1="22223.4" y2="24299.5">
+   <stop offset="0" style="stop-opacity:1; stop-color:#4cabe6"/>
+   <stop offset="0.85098" style="stop-opacity:1; stop-color:#6ec7ff"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#6ec7ff"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Body-Lizard2id641" x1="13681.9" x2="13681.9" y1="22882.1" y2="17688.3">
+   <stop offset="0" style="stop-opacity:1; stop-color:#f7fdff"/>
+   <stop offset="0.65098" style="stop-opacity:1; stop-color:#dfedf2"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#dfedf2"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Head-Lizard4id122" x1="13681.9" x2="13681.9" y1="17788.8" y2="7794.35">
+   <stop offset="0" style="stop-opacity:1; stop-color:#4c69c2"/>
+   <stop offset="0.219608" style="stop-opacity:1; stop-color:#6687e9"/>
+   <stop offset="0.639216" style="stop-opacity:1; stop-color:#6687e9"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#96b1ff"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Mouth-Lizard7id133" x1="13681.9" x2="13681.9" y1="17844" y2="15520.7">
+   <stop offset="0" style="stop-opacity:1; stop-color:#dfedf2"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#f7fdff"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Mouth-Lizard7id190" x1="15516.9" x2="15693.3" y1="15835.8" y2="16494">
+   <stop offset="0" style="stop-opacity:1; stop-color:#DBDBDB"/>
+   <stop offset="0.529412" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#f7fdff"/>
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="Eyes-Lizard6id0" x1="50.0001%" x2="50.0001%" y1="100%" y2="0.000230848%">
+   <stop offset="0" style="stop-opacity:1; stop-color:#2a4f80"/>
+   <stop offset="0.388235" style="stop-opacity:1; stop-color:#2a4f80"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:black"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Eyes-Lizard6id4" x1="17345" x2="17345" y1="14939.8" y2="11666.7">
+   <stop offset="0" style="stop-opacity:1; stop-color:#2a4f80"/>
+   <stop offset="0.168627" style="stop-opacity:1; stop-color:#94c3ff"/>
+   <stop offset="0.541176" style="stop-opacity:1; stop-color:#2a4f80"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:black"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Eyes-Lizard6id384" x1="16417.8" x2="16417.8" y1="11784.3" y2="14068.5">
+   <stop offset="0" style="stop-opacity:1; stop-color:black"/>
+   <stop offset="0.45" style="stop-opacity:1; stop-color:black"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#1d3c66"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletSamurai-Mediumid290new" x1="8011.85" x2="9460.47" y1="18640.3" y2="19944.7">
+   <stop offset="0" style="stop-opacity:1; stop-color:#6B2200"/>
+   <stop offset="0.368627" style="stop-opacity:1; stop-color:#CC3300"/>
+   <stop offset="0.74902" style="stop-opacity:1; stop-color:#FF7445"/>
+   <stop offset="0.909804" style="stop-opacity:1; stop-color:#CC3300"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#990000"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletSamurai-Mediumid92new" x1="12656.4" x2="12337.9" y1="22515.7" y2="22916.1">
+   <stop offset="0" style="stop-opacity:1; stop-color:#9999FF"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#5655BD"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletSamurai-Mediumid89new" x1="10400.7" x2="10237.1" y1="22528.4" y2="22734.1">
+   <stop offset="0" style="stop-opacity:1; stop-color:#7575EB"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#3B3996"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletSamurai-Mediumid344new" x1="8457.31" x2="8207.29" y1="18653.3" y2="18726">
+   <stop offset="0" style="stop-opacity:1; stop-color:#6F6FE3"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#38369C"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletSamurai-Mediumid417new" x1="9130.16" x2="8880.14" y1="17906.8" y2="17979.6">
+   <stop offset="0" style="stop-opacity:1; stop-color:#5050C7"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#292869"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletSamurai-Mediumid423new" x1="8270.91" x2="7959.23" y1="18989" y2="19247.2">
+   <stop offset="0" style="stop-opacity:1; stop-color:#5F5FED"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#252480"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletSamurai-Mediumid282new" x1="17319" x2="18567.1" y1="19761.8" y2="18638">
+   <stop offset="0" style="stop-opacity:1; stop-color:#6B2200"/>
+   <stop offset="0.258824" style="stop-opacity:1; stop-color:#CC3300"/>
+   <stop offset="0.670588" style="stop-opacity:1; stop-color:#FF7445"/>
+   <stop offset="0.909804" style="stop-opacity:1; stop-color:#CC3300"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#990000"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletSamurai-Mediumid325new" x1="18450" x2="18268.4" y1="17849.4" y2="18037">
+   <stop offset="0" style="stop-opacity:1; stop-color:#6262E0"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#414094"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletBoxer-Mediumid2" x1="20053.3" x2="17995" y1="19164.5" y2="23070.1">
+   <stop offset="0" style="stop-opacity:1; stop-color:red"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#990000"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryFlaskWithWaterid16" x1="4702.91" x2="5106.95" y1="25411.2" y2="23727">
+   <stop offset="0" style="stop-opacity:1; stop-color:#5B5C63"/>
+   <stop offset="0.509804" style="stop-opacity:1; stop-color:#665E59"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#AB9B89"/>
+  </linearGradient></defs><g id="HairBack-Lizard0">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_312Corel-Layer"/>
+  <rect class="HairBack-Lizard0fil22" height="1007" width="644" x="13360" y="18535"/>
+ </g><g id="Tail-Lizard6">
+  <metadata id="CorelCorpID_322Corel-Layer"/>
+  <path class="Tail-Lizard6fil627 Tail-Lizard6str0" d="M11570 22345c342,1192 2113,2514 4454,2392 2079,-109 4147,-1381 3936,-4385 -67,-958 -92,-2057 813,-2493 754,-364 1630,13 1840,1044 154,761 -253,1347 -807,1426 -353,50 -794,-112 -887,-620 -61,-330 222,-923 717,-967 -743,-200 -1187,455 -1244,970 -100,890 549,1592 1453,1591 1144,-3 2417,-1040 2100,-2981 -367,-2247 -2754,-3319 -4904,-2239 -1434,720 -2057,2067 -2032,3721 22,1497 -647,2000 -2896,-200l-2543 2741z" style="fill:#ffc619"/>
+  <path class="Tail-Lizard6fil14" d="M20384 19804c-47,846 588,1500 1461,1499 513,-1 1051,-211 1461,-616 -1327,626 -2586,423 -2922,-883z" style="fill:#2a3f3b"/>
+  <path class="Tail-Lizard6fil14" d="M20085 18625c123,-325 334,-596 688,-766 754,-364 1630,13 1840,1044 4,22 8,43 11,64 16,16 32,32 48,49 -58,-2097 -2472,-2005 -2679,-355 31,-12 62,-24 92,-36z" style="fill:#5858f5"/>
+  <path class="Tail-Lizard6fil14" d="M11751 22773c590,1058 2210,2072 4273,1964 1141,-60 2279,-470 3039,-1325 -2314,1134 -5237,948 -7312,-639z" style="fill:#cf7328"/>
+  <path class="Tail-Lizard6fil628" d="M17726 22954c227,-219 564,-450 1000,-400 57,274 -2,705 -154,987 45,-494 -260,-707 -846,-587zm3903 -2490c-194,-37 -368,-89 -526,-4 15,162 163,378 328,456 -204,-302 -77,-439 198,-452zm1161 -290c-81,162 -124,318 -136,523 208,44 344,-16 584,-100 -277,7 -498,-98 -448,-423zm82 -749c-73,172 -107,424 -30,644 288,-16 489,-104 652,-288 -320,84 -627,-15 -622,-356zm738 -1594c19,203 26,493 -126,689 -325,-139 -431,-286 -587,-498 268,210 582,88 713,-191zm-2012 -1083c272,76 594,252 708,620 -232,209 -606,203 -895,184 450,-199 506,-479 187,-804zm-605 -916c352,165 767,383 877,630 -174,198 -581,308 -1007,332 323,-192 502,-645 130,-962zm-2128 1978c166,-178 518,-388 898,-326 116,310 75,651 -75,928 14,-523 -412,-726 -823,-602zm-1342 285c202,-339 567,-639 1030,-738 157,356 183,915 105,1217 -91,-525 -695,-767 -1135,-479zm910 1152c153,-313 573,-565 927,-632 169,231 202,806 120,1108 -158,-590 -714,-721 -1047,-476zm307 2657c212,-252 603,-644 888,-697 164,224 76,667 -13,1010 -77,-464 -346,-555 -875,-313zm-764 746c281,-427 266,-841 264,-1029 -207,3 -558,19 -935,268 523,-117 757,223 671,761z" style="fill:#600b01"/>
+ </g><g id="RightFoot-Lizard1">
+  <metadata id="CorelCorpID_328Corel-Layer"/>
+  <path class="RightFoot-Lizard1fil637" d="M16896 24005c177,194 630,99 971,213 299,100 377,345 252,488 -126,145 -306,76 -460,51 -150,-23 -303,-85 -424,-49 177,63 791,364 618,803 -89,226 -408,214 -663,10 -311,-249 -694,-450 -946,-419 -343,42 -190,563 -583,572 -600,14 -308,-788 -664,-1201 -43,-70 -57,-204 -18,-292 582,-77 1506,161 1917,-176z" style="fill:#ec6073"/>
+  <path class="RightFoot-Lizard1fil32" d="M16951 23955c84,92 268,105 469,119 229,16 506,34 687,193 110,95 176,241 128,385 -96,287 -393,216 -620,174 44,31 88,65 128,103 260,243 321,768 -102,820 -176,21 -363,-61 -498,-170 -204,-163 -618,-436 -891,-403 -276,34 -138,562 -589,572 -420,10 -453,-299 -522,-643 -42,-206 -130,-417 -197,-588 -20,-52 -8,-108 45,-121 50,-7 100,40 130,121 53,141 128,373 169,566 59,275 83,523 372,516 323,-7 175,-523 575,-571 322,-40 760,241 1002,435 102,82 251,153 386,137 285,-35 179,-411 17,-562 -187,-176 -460,-252 -477,-309 -12,-39 11,-81 51,-92 130,-39 386,31 538,62 117,23 292,53 342,-95 28,-85 -22,-170 -85,-224 -149,-130 -411,-143 -600,-157 -211,-15 -408,-29 -535,-135 31,-62 55,-97 77,-133z" style="fill:#256eeb"/>
+ </g><g id="LeftFoot-Lizard1">
+  <metadata id="CorelCorpID_337Corel-Layer"/>
+  <path class="LeftFoot-Lizard1fil646" d="M10468 24005c-177,194 -630,99 -971,213 -299,100 -377,345 -253,488 127,145 307,76 460,51 151,-23 304,-85 425,-49 -177,63 -791,364 -619,803 89,226 409,214 664,10 311,-249 694,-450 946,-419 343,42 190,563 583,572 600,14 308,-788 663,-1201 44,-70 58,-204 19,-292 -583,-77 -1506,161 -1917,-176z" style="fill:#a32798"/>
+  <path class="LeftFoot-Lizard1fil32" d="M10412 23955c-83,92 -268,105 -468,119 -229,16 -506,34 -688,193 -109,95 -176,241 -128,385 96,287 394,216 620,174 -44,31 -87,65 -127,103 -260,243 -321,768 102,820 176,21 363,-61 498,-170 203,-163 618,-436 891,-403 276,34 138,562 589,572 419,10 452,-299 522,-643 42,-206 130,-417 196,-588 21,-52 9,-108 -45,-121 -50,-7 -99,40 -130,121 -52,141 -127,373 -168,566 -59,275 -83,523 -372,516 -323,-7 -175,-523 -575,-571 -322,-40 -761,241 -1002,435 -103,82 -251,153 -386,137 -285,-35 -179,-411 -17,-562 187,-176 460,-252 477,-309 12,-39 -11,-81 -51,-92 -130,-39 -386,31 -538,62 -118,23 -292,53 -342,-95 -28,-85 22,-170 85,-224 149,-130 411,-143 600,-157 211,-15 408,-29 535,-135 -31,-62 -55,-97 -78,-133z" style="fill:#676c32"/>
+ </g><g id="RightLeg-Lizard0">
+  <metadata id="CorelCorpID_330Corel-Layer"/>
+  <path class="RightLeg-Lizard0fil639" d="M13682 23167c428,0 1386,122 1321,776 -5,52 -27,166 -34,307 456,84 1272,76 1625,0 415,-193 703,-872 705,-1316 2,-661 -392,-1250 -712,-1596 -352,-381 -2030,-8 -2905,-8l0 1837z" style="fill:#e991ba"/>
+  <path class="RightLeg-Lizard0fil14" d="M17192 23398c67,-149 106,-306 107,-464 2,-776 -541,-1452 -869,-1753 -19,257 -41,545 -78,871 387,-414 947,878 840,1346z" style="fill:#95a2a6"/>
+  <path class="RightLeg-Lizard0fil32" d="M15042 24729c32,73 153,5 117,-101 -61,-182 -128,-334 -105,-448 91,-447 -112,-807 -541,-972 -208,-80 -478,-118 -831,-118l0 150c335,0 588,35 777,108 361,138 514,417 435,791 -35,237 15,295 148,590zm1242 -3575c175,139 478,451 693,860 144,273 248,587 247,920 -1,533 -241,1011 -637,1322 634,-260 785,-833 786,-1322 2,-360 -110,-698 -263,-990 -227,-429 -547,-760 -734,-907 -34,-25 -144,-95 -178,-56 -36,41 10,108 86,173z" style="fill:#2d785b"/>
+ </g><g id="LeftLeg-Lizard0">
+  <metadata id="CorelCorpID_339Corel-Layer"/>
+  <path class="LeftLeg-Lizard0fil648" d="M13682 23167c-428,0 -1386,122 -1321,776 5,52 26,166 34,307 -456,84 -1272,76 -1625,0 -415,-193 -704,-872 -705,-1316 -2,-661 392,-1250 712,-1596 352,-381 2030,-8 2905,-8l0 1837z" style="fill:#46ac12"/>
+  <path class="LeftLeg-Lizard0fil14" d="M10172 23398c-67,-149 -106,-306 -107,-464 -2,-776 540,-1452 869,-1753 19,257 41,545 78,871 -388,-414 -947,878 -840,1346z" style="fill:#88168c"/>
+  <path class="LeftLeg-Lizard0fil32" d="M12322 24729c-33,73 -153,5 -118,-101 61,-182 129,-334 106,-448 -91,-447 111,-807 541,-972 208,-80 478,-118 831,-118l0 150c-335,0 -588,35 -777,108 -361,138 -514,417 -435,791 35,237 -15,295 -148,590zm-1242 -3575c-175,139 -478,451 -694,860 -143,273 -247,587 -246,920 1,533 241,1011 637,1322 -634,-260 -785,-833 -787,-1322 -1,-360 110,-698 264,-990 226,-429 547,-760 734,-907 34,-25 144,-95 178,-56 36,41 -10,108 -86,173z" style="fill:#5dffde"/>
+ </g><g id="RightHand-Lizard5">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_350Corel-Layer"/>
+  <path class="RightHand-Lizard5fil655" d="M15421 17507c1371,-107 2467,1307 3017,2266 289,504 -937,1282 -1053,928 -133,-408 -583,-502 -1005,-495 -145,-773 -770,-2364 -959,-2699z" style="fill:#d76d14"/>
+  <path class="RightHand-Lizard5fil660" d="M16153 17566c57,11 78,16 111,43 35,123 27,382 4,573 -9,74 -77,85 -104,62 -159,-132 -560,-584 -582,-631 52,6 63,13 118,0 88,97 363,434 470,498 26,-120 26,-429 -17,-545zm910 547l-396 -174 175 486c310,136 620,272 930,407 47,59 93,117 138,176l-411 -179 176 486 564 247 3 1 0 0 1 1 63 27c33,54 64,106 93,157l-67 -29 114 315c-12,50 -33,101 -61,151l-190 -527 -474 -207 158 437c1,2 1,4 2,5l0 1 0 0c15,47 -13,66 -50,55l-1 0c-3,-1 -7,-2 -10,-4l-427 -186 175 486 558 244c-31,26 -62,51 -94,75l-414 -182 126 350c-84,36 -162,57 -226,58l-145 -64c-5,-7 -9,-16 -12,-25 -14,-43 -31,-82 -52,-118l319 139 -158 -437c-1,-1 -1,-2 -1,-3l-210 -582 -599 -249c-14,-6 -192,-565 -209,-609 -26,-34 -57,-61 -83,-95 167,42 346,96 530,154 -133,-370 -267,-738 -402,-1108 76,31 226,56 567,320zm509 1237c0,2 1,3 1,4l158 437 -427 -187 0 0 -1 0 0 -1 -568 -248 -154 -448 406 149c3,1 8,3 11,3 37,11 65,-8 50,-55l0 0c-43,-143 -108,-301 -160,-443l474 208 210 581z" style="fill:#c4eae5"/>
+  <path class="RightHand-Lizard5fil14" d="M17408 20600c-414,-340 -751,-361 -1105,-375l143 -846c440,204 921,896 962,1221z" style="fill:#40fb45"/>
+  <path class="RightHand-Lizard5fil32" d="M16155 17514c-40,-12 -81,11 -93,50 -12,40 11,82 50,94 431,128 825,397 1169,724 463,440 838,982 1093,1427 50,87 177,12 129,-73 -261,-455 -643,-1010 -1119,-1462 -360,-342 -773,-624 -1229,-760zm1159 3210c13,39 55,61 95,48 39,-13 52,-64 39,-103 -48,-207 -228,-359 -429,-441 -192,-78 -421,-101 -641,-97 -41,1 -74,35 -73,76 1,41 35,74 76,74 202,-4 410,17 582,86 162,66 292,177 351,357z" style="fill:#e0da0b"/>
+ </g><g id="LeftHand-Lizard5">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_359Corel-Layer"/>
+  <path class="LeftHand-Lizard5fil667" d="M11943 17507c-1371,-107 -2467,1307 -3017,2266 -289,504 937,1282 1052,928 134,-408 584,-502 1006,-495 145,-773 770,-2364 959,-2699z" style="fill:#2c6ba8"/>
+  <path class="LeftHand-Lizard5fil670" d="M11186 17566c-56,11 -78,16 -110,43 -36,123 -27,382 -4,573 9,74 76,85 104,62 159,-132 560,-584 582,-631 -53,6 -63,13 -119,0 -87,97 -362,434 -469,498 -27,-120 -26,-429 16,-545zm-910 547l397 -174 -175 486c-310,136 -620,272 -930,407 -48,59 -94,117 -138,176l410 -179 -175 486 -564 247 -3 1 0 0 -2 1 -62 27c-33,54 -64,106 -94,157l68 -29 -114 315c12,50 33,101 61,151l190 -527 474 -207 -158 437c-1,2 -1,4 -2,5l0 1 0 0c-15,47 13,66 50,55l0 0c4,-1 7,-2 11,-4l427 -186 -175 486 -558 244c30,26 62,51 93,75l415 -182 -126 350c83,36 161,57 225,58l146 -64c4,-7 8,-16 11,-25 14,-43 32,-82 52,-118l-318 139 158 -437c0,-1 1,-2 1,-3l210 -582 599 -249c14,-6 192,-565 208,-609 27,-34 57,-61 84,-95 -167,42 -347,96 -531,154 134,-370 268,-738 403,-1108 -76,31 -226,56 -568,320zm-508 1237c-1,2 -1,3 -2,4l-157 437 427 -187 0 0 1 0 0 -1 567 -248 155 -448 -406 149c-3,1 -8,3 -11,3 -37,11 -65,-8 -50,-55l0 0c43,-143 108,-301 159,-443l-474 208 -209 581z" style="fill:#b3837f"/>
+  <path class="LeftHand-Lizard5fil14" d="M9956 20600c414,-340 751,-361 1105,-375l-143 -846c-440,204 -921,896 -962,1221z" style="fill:#82f6e3"/>
+  <path class="LeftHand-Lizard5fil32" d="M11209 17514c39,-12 81,11 93,50 12,40 -11,82 -50,94 -431,128 -825,397 -1169,724 -463,440 -838,982 -1093,1427 -50,87 -178,12 -129,-73 261,-455 643,-1010 1119,-1462 360,-342 773,-624 1229,-760zm-1159 3210c-13,39 -55,61 -95,48 -39,-13 -52,-64 -39,-103 48,-207 228,-359 429,-441 192,-78 420,-101 640,-97 42,1 75,35 74,76 -1,41 -35,74 -76,74 -202,-4 -410,17 -582,86 -162,66 -293,177 -351,357z" style="fill:#4c3f22"/>
+ </g><g id="Body-Lizard2">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_365Corel-Layer"/>
+  <path class="Body-Lizard2fil674" d="M13682 23042c-1548,0 -2752,-290 -2993,-1956 -146,-1007 384,-2270 980,-3398 748,64 1420,73 2013,73 593,0 1265,-9 2013,-73 596,1128 1126,2391 980,3398 -242,1666 -1445,1956 -2993,1956z" style="fill:#b13243"/>
+  <path class="Body-Lizard2fil679" d="M11546 17641c-56,85 -108,168 -157,249 3,40 10,73 18,88 22,39 79,33 234,54 155,20 274,-211 257,-246 -35,-74 -104,-127 -151,-158 -31,-21 -122,-11 -201,13zm296 714c28,-99 46,-131 28,-155 -18,-23 -122,-76 -170,-61 -47,15 -135,135 -127,175 6,37 20,92 55,132 17,19 187,7 214,-91zm-419 230c22,79 37,105 22,124 -14,19 -98,61 -136,49 -38,-13 -108,-108 -103,-141 6,-29 17,-74 45,-106 14,-15 150,-5 172,74zm250 230c13,-47 22,-63 13,-74 -8,-12 -59,-38 -82,-30 -23,7 -66,65 -62,85 3,17 10,44 27,64 8,9 91,3 104,-45zm-397 1559c22,-79 37,-105 22,-124 -14,-19 -98,-61 -136,-49 -38,12 -108,108 -102,140 5,30 16,74 44,106 14,15 150,6 172,-73zm-117 511c-57,-139 -194,-362 -326,-283 -132,79 -201,92 -152,254 50,161 10,201 201,237 191,36 300,-152 277,-208zm390 177c22,79 37,105 23,124 -15,19 -98,62 -136,49 -38,-12 -109,-108 -103,-140 5,-29 17,-74 45,-106 13,-15 149,-6 171,73zm-252 502c13,-48 22,-64 13,-75 -9,-12 -59,-37 -82,-30 -23,8 -66,66 -62,85 3,18 10,45 27,64 8,9 90,4 104,-44z" style="fill:#4b1539"/>
+  <path class="Body-Lizard2fil680" d="M15818 17641c56,85 108,168 157,249 -3,40 -10,73 -18,88 -23,39 -79,33 -234,54 -155,20 -274,-211 -258,-246 35,-74 105,-127 152,-158 31,-21 122,-11 201,13zm-297 714c-27,-99 -45,-131 -27,-155 18,-23 122,-76 169,-61 48,15 136,135 128,175 -6,37 -20,92 -56,132 -16,19 -186,7 -214,-91zm420 230c-22,79 -37,105 -22,124 14,19 98,61 136,49 38,-13 108,-108 102,-141 -5,-29 -16,-74 -44,-106 -14,-15 -150,-5 -172,74zm-250 230c-13,-47 -22,-63 -14,-74 9,-12 60,-38 83,-30 23,7 65,65 62,85 -3,17 -10,44 -27,64 -8,9 -91,3 -104,-45zm397 1559c-22,-79 -37,-105 -22,-124 14,-19 98,-61 136,-49 38,12 108,108 102,140 -5,30 -16,74 -44,106 -14,15 -150,6 -172,-73zm117 511c57,-139 194,-362 326,-283 132,79 201,92 152,254 -50,161 -10,201 -201,237 -192,36 -300,-152 -277,-208zm-391 177c-22,79 -36,105 -22,124 15,19 98,62 136,49 38,-12 109,-108 103,-140 -5,-29 -17,-74 -45,-106 -13,-15 -149,-6 -172,73zm253 502c-13,-48 -22,-64 -13,-75 9,-12 59,-37 82,-30 23,8 66,66 62,85 -3,18 -10,45 -27,64 -8,9 -90,4 -104,-44z" style="fill:#6d8fa4"/>
+  <path class="Body-Lizard2fil14" d="M11837 22758c-601,-267 -1017,-766 -1148,-1672 -75,-519 29,-1106 229,-1707 -223,2177 509,3077 919,3379z" style="fill:#2f7459"/>
+  <path class="Body-Lizard2fil32" d="M11012 22052c-250,-321 -348,-641 -397,-955 -59,-377 -24,-998 184,-1319 -78,420 -93,905 -36,1298 50,341 104,571 249,976z" style="fill:#996fbf"/>
+  <path class="Body-Lizard2fil678" d="M13682 17761c-799,0 -1124,-25 -1767,-73 210,210 -121,1257 -197,1859 -215,1711 94,3335 1964,3335 1869,0 2179,-1624 1964,-3335 -76,-602 -407,-1649 -198,-1859 -642,48 -967,73 -1766,73z" style="fill:#1af5f6"/>
+  <path class="Body-Lizard2fil14" d="M15527 22758c601,-267 1016,-766 1148,-1672 75,-519 -29,-1106 -229,-1707 223,2177 -509,3077 -919,3379z" style="fill:#ace7cb"/>
+  <path class="Body-Lizard2fil32" d="M16352 22052c250,-321 347,-641 397,-955 59,-377 24,-998 -184,-1319 78,420 93,905 36,1298 -50,341 -104,571 -249,976z" style="fill:#12202a"/>
+ </g><g id="RightPaw-Lizard0">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_351Corel-Layer"/>
+  <path class="RightPaw-Lizard0fil661" d="M18407 19719c160,284 636,568 871,846 165,195 249,575 80,649 -149,66 -234,-108 -348,-218 -112,-108 -200,-191 -255,-121 94,89 123,234 200,476 89,279 3,682 -262,648 -142,-19 -126,-223 -244,-454 -92,-182 -171,-298 -384,-304 -138,-4 -217,58 -274,139 -100,142 -35,313 -193,347 -194,42 -272,-288 -250,-544 21,-247 62,-507 -9,-582 605,-42 1153,-458 1068,-882z" style="fill:#3fe585"/>
+  <path class="RightPaw-Lizard0fil32" d="M18467 19678c-21,-36 -66,-49 -102,-28 -36,20 -47,64 -27,100 13,23 28,49 44,71 107,145 280,276 455,408 150,114 301,228 399,344 84,99 164,261 169,392 2,54 -10,100 -40,126 -68,57 -155,5 -221,-85 -68,-94 -155,-212 -277,-234 -166,-31 -205,68 -150,146 72,103 161,338 196,566 16,103 19,202 2,282 -15,68 -43,121 -91,144 -30,16 -70,21 -122,14 -42,-5 -62,-72 -91,-165 -23,-73 -49,-158 -95,-248 -50,-98 -96,-179 -163,-239 -71,-65 -159,-102 -286,-106 -84,-3 -151,16 -206,47 -56,32 -97,75 -131,124 -50,70 -65,141 -78,204 -12,56 -22,104 -68,113 -16,3 -30,4 -42,3 -27,-2 -48,-16 -64,-38 -21,-29 -36,-71 -46,-120 -19,-94 -18,-208 -9,-310 5,-64 12,-117 19,-167 23,-169 45,-290 -27,-448 -17,-38 -66,-65 -103,-48 -38,17 -55,61 -38,99 54,119 39,232 20,377 -8,55 -16,114 -21,175 -9,113 -10,242 12,351 14,69 37,132 73,180 41,56 98,92 172,98 26,2 54,1 83,-5 143,-29 162,-120 185,-229 11,-49 22,-104 54,-149 23,-32 49,-61 82,-80 33,-18 75,-29 129,-28 86,3 144,27 189,67 49,45 88,113 130,197 41,80 65,157 86,224 45,147 78,252 215,270 83,10 152,-1 208,-29 93,-47 147,-136 170,-247 21,-99 19,-216 0,-336 -28,-188 -97,-388 -171,-523 42,11 114,93 156,151 101,141 269,235 415,116 71,-58 97,-147 93,-245 -6,-166 -98,-358 -204,-484 -109,-129 -266,-248 -423,-366 -189,-144 -378,-287 -460,-432z" style="fill:#4b73b4"/>
+ </g><g id="LeftPaw-Lizard0">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_360Corel-Layer"/>
+  <path class="LeftPaw-Lizard0fil671" d="M8957 19719c-161,284 -636,568 -871,846 -165,195 -249,575 -80,649 148,66 234,-108 348,-218 112,-108 200,-191 255,-121 -94,89 -123,234 -200,476 -89,279 -3,682 262,648 142,-19 126,-223 244,-454 92,-182 171,-298 384,-304 138,-4 217,58 274,139 100,142 35,313 192,347 195,42 272,-288 251,-544 -21,-247 -62,-507 9,-582 -605,-42 -1153,-458 -1068,-882z" style="fill:#7cf685"/>
+  <path class="LeftPaw-Lizard0fil32" d="M8897 19678c21,-36 66,-49 102,-28 36,20 47,64 27,100 -13,23 -28,49 -44,71 -107,145 -280,276 -455,408 -150,114 -301,228 -399,344 -84,99 -164,261 -169,392 -2,54 10,100 40,126 68,57 155,5 221,-85 68,-94 155,-212 277,-234 166,-31 205,68 150,146 -72,103 -162,338 -196,566 -16,103 -19,202 -2,282 15,68 43,121 91,144 30,16 70,21 122,14 42,-5 62,-72 91,-165 23,-73 49,-158 95,-248 50,-98 96,-179 163,-239 71,-65 159,-102 286,-106 84,-3 151,16 206,47 56,32 97,75 131,124 50,70 65,141 78,204 12,56 22,104 68,113 16,3 29,4 41,3 28,-2 49,-16 65,-38 21,-29 36,-71 46,-120 19,-94 18,-208 9,-310 -5,-64 -12,-117 -19,-167 -23,-169 -45,-290 26,-448 17,-38 66,-65 104,-48 38,17 55,61 38,99 -54,119 -39,232 -20,377 8,55 16,114 21,175 9,113 10,242 -12,351 -14,69 -37,132 -73,180 -42,56 -98,92 -172,98 -26,2 -54,1 -83,-5 -143,-29 -162,-120 -185,-229 -11,-49 -22,-104 -54,-149 -23,-32 -49,-61 -83,-80 -32,-18 -74,-29 -128,-28 -86,3 -144,27 -189,67 -49,45 -88,113 -131,197 -40,80 -64,157 -85,224 -45,147 -78,252 -215,270 -83,10 -152,-1 -208,-29 -93,-47 -147,-136 -170,-247 -21,-99 -19,-216 -1,-336 29,-188 98,-388 172,-523 -43,11 -114,93 -156,151 -101,141 -269,235 -416,116 -70,-58 -96,-147 -92,-245 6,-166 98,-358 204,-484 109,-129 266,-248 423,-366 189,-144 378,-287 460,-432z" style="fill:#df9f18"/>
+ </g><g id="NecklacePo">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_41Corel-Layer"/>
+  <g>
+   <ellipse class="NecklacePofil231new" cx="13665" cy="20127" rx="295" ry="332"/>
+   <path class="NecklacePofil232new" d="M13952 20051c5,25 8,50 8,76 0,184 -132,332 -295,332 -163,0 -295,-148 -295,-332 0,-26 3,-51 8,-76 30,147 147,256 287,256 139,0 256,-109 287,-256z" style="fill:#e078e5"/>
+   <ellipse class="NecklacePofil33new NecklacePostr4new" cx="13665" cy="20127" rx="295" ry="332"/>
+   <ellipse class="NecklacePofil83new" rx="99" ry="35" transform="matrix(0.927129 0.374742 -0.374742 0.927129 13726.9 19916.8)"/>
+  </g>
+  <g>
+   <path class="NecklacePofil233new" d="M13133 19742c158,42 247,220 199,397 -47,177 -213,287 -371,244 -157,-42 -246,-220 -199,-397 48,-177 214,-286 371,-244z" style="fill:#149ae3"/>
+   <path class="NecklacePofil232new" d="M13344 20063c-1,25 -5,51 -12,76 -47,177 -213,287 -371,244 -157,-42 -246,-220 -199,-397 7,-25 16,-49 28,-71 -9,149 76,285 211,321 135,37 276,-39 343,-173z" style="fill:#4da3c7"/>
+   <ellipse class="NecklacePofil33new NecklacePostr4new" rx="236" ry="310" transform="matrix(1.20828 0.323757 -0.277653 1.03621 13047.3 20062.6)"/>
+   <ellipse class="NecklacePofil83new" rx="99" ry="35" transform="matrix(0.798548 0.601932 -0.601932 0.798548 13161.8 19875.5)"/>
+  </g>
+  <g>
+   <path class="NecklacePofil234new" d="M12628 19514c141,82 181,276 89,435 -92,159 -280,222 -421,140 -142,-81 -182,-276 -90,-435 92,-159 281,-221 422,-140z" style="fill:#010523"/>
+   <path class="NecklacePofil232new" d="M12748 19879c-8,24 -18,48 -31,70 -92,159 -280,222 -421,140 -142,-81 -182,-276 -90,-435 13,-22 28,-43 45,-62 -47,143 0,296 121,366 120,69 276,33 376,-79z" style="fill:#402d70"/>
+   <ellipse class="NecklacePofil33new NecklacePostr4new" rx="236" ry="310" transform="matrix(1.08331 0.625451 -0.536383 0.929043 12461.5 19801.8)"/>
+   <ellipse class="NecklacePofil83new" rx="99" ry="35" transform="matrix(0.615546 0.788101 -0.788101 0.615546 12620.5 19650.7)"/>
+  </g>
+  <g>
+   <path class="NecklacePofil235new" d="M12224 19161c105,125 76,321 -65,439 -140,118 -339,112 -444,-12 -105,-125 -75,-322 65,-440 140,-118 339,-112 444,13z" style="fill:#9ebc3f"/>
+   <path class="NecklacePofil232new" d="M12212 19545c-15,20 -33,38 -53,55 -140,118 -339,112 -444,-12 -104,-125 -75,-322 65,-440 20,-16 41,-31 63,-43 -93,118 -101,278 -11,385 89,107 248,126 380,55z" style="fill:#0a66b3"/>
+   <ellipse class="NecklacePofil33new NecklacePostr4new" rx="236" ry="310" transform="matrix(0.804064 0.958246 -0.821787 0.689561 11969.6 19374.3)"/>
+   <ellipse class="NecklacePofil83new" rx="99" ry="35" transform="matrix(0.308878 0.951102 -0.951102 0.308878 12170.6 19286.7)"/>
+  </g>
+  <g>
+   <path class="NecklacePofil236new" d="M11920 18653c82,141 19,329 -140,421 -159,92 -354,52 -435,-89 -81,-141 -19,-330 140,-422 159,-91 354,-51 435,90z" style="fill:#155236"/>
+   <path class="NecklacePofil232new" d="M11842 19029c-19,17 -39,32 -62,45 -159,92 -354,52 -435,-89 -81,-141 -19,-330 140,-422 23,-13 46,-23 70,-31 -112,100 -148,256 -78,377 70,121 223,167 365,120z" style="fill:#a1c6ce"/>
+   <ellipse class="NecklacePofil33new NecklacePostr4new" rx="236" ry="310" transform="matrix(0.625451 1.08331 -0.929043 0.536383 11632.6 18818.7)"/>
+   <ellipse class="NecklacePofil83new" rx="99" ry="35" transform="matrix(0.139029 0.990288 -0.990288 0.139029 11845.8 18767.3)"/>
+  </g>
+  <g>
+   <path class="NecklacePofil237new" d="M11817 18127c28,160 -95,316 -276,348 -180,32 -350,-72 -378,-233 -28,-160 95,-316 276,-348 181,-32 350,72 378,233z" style="fill:#4ee99b"/>
+   <path class="NecklacePofil232new" d="M11615 18454c-23,9 -48,16 -74,21 -180,32 -350,-72 -378,-233 -28,-160 95,-316 276,-348 26,-4 51,-6 76,-5 -139,55 -226,189 -202,327 24,137 152,233 302,238z" style="fill:#c18893"/>
+   <ellipse class="NecklacePofil33new NecklacePostr4new" rx="236" ry="310" transform="matrix(0.217217 1.2319 -1.05647 0.186284 11490.1 18184.5)"/>
+   <ellipse class="NecklacePofil83new" rx="99" ry="35" transform="matrix(-0.208054 0.978117 -0.978117 -0.208054 11708.1 18209.2)"/>
+  </g>
+  <g>
+   <path class="NecklacePofil238new" d="M11883 17607c-28,160 -198,264 -378,232 -181,-31 -304,-187 -276,-348 28,-160 198,-264 378,-232 181,31 304,187 276,348z" style="fill:#f86287"/>
+   <path class="NecklacePofil232new" d="M11581 17845c-25,1 -50,-1 -76,-6 -181,-31 -304,-187 -276,-348 28,-160 198,-264 378,-232 26,4 51,11 74,20 -150,5 -278,101 -302,239 -24,137 63,271 202,327z" style="fill:#12c8ae"/>
+   <ellipse class="NecklacePofil33new NecklacePostr4new" rx="236" ry="310" transform="matrix(-0.217217 1.2319 -1.05647 -0.186284 11556 17549)"/>
+   <ellipse class="NecklacePofil83new" rx="99" ry="35" transform="matrix(-0.530043 0.847971 -0.847971 -0.530043 11752.3 17646.7)"/>
+  </g>
+  <path class="NecklacePofil239new" d="M14196 19742c-157,42 -246,220 -199,397 48,177 214,287 371,244 157,-42 247,-220 199,-397 -47,-177 -213,-286 -371,-244z" style="fill:#a7ee68"/>
+  <path class="NecklacePofil232new" d="M13991 19991c-5,24 -8,50 -8,76 -1,183 130,333 293,334 163,1 296,-147 297,-331 0,-26 -3,-51 -8,-76 -31,147 -149,255 -288,255 -140,-1 -256,-111 -286,-258z" style="fill:#ee8ec2"/>
+  <ellipse class="NecklacePofil33new NecklacePostr4new" rx="236" ry="310" transform="matrix(-1.20828 0.323757 0.277653 1.03621 14282.2 20062.6)"/>
+  <ellipse class="NecklacePofil83new" rx="99" ry="35" transform="matrix(0.90822 0.418492 -0.418492 0.90822 14328.7 19856.1)"/>
+  <path class="NecklacePofil240new" d="M14702 19514c-141,82 -181,276 -89,435 91,159 280,222 421,140 141,-81 181,-276 89,-435 -91,-159 -280,-221 -421,-140z" style="fill:#47dd33"/>
+  <path class="NecklacePofil232new" d="M14624 19662c-11,23 -19,47 -26,72 -44,178 48,354 206,394 158,40 322,-73 366,-250 7,-26 10,-51 11,-76 -65,135 -205,212 -340,178 -136,-34 -223,-168 -217,-318z" style="fill:#4c7e99"/>
+  <ellipse class="NecklacePofil33new NecklacePostr4new" rx="236" ry="310" transform="matrix(-1.08331 0.625451 0.536383 0.929043 14867.9 19801.8)"/>
+  <ellipse class="NecklacePofil83new" rx="99" ry="35" transform="matrix(0.942645 0.333796 -0.333796 0.942645 14906 19595.2)"/>
+  <path class="NecklacePofil241new" d="M15106 19161c-105,125 -76,321 64,439 141,118 340,112 444,-12 105,-125 76,-322 -65,-440 -140,-118 -339,-112 -443,13z" style="fill:#d1ee62"/>
+  <path class="NecklacePofil232new" d="M15175 19130c-17,18 -33,38 -46,61 -95,157 -60,352 79,437 140,84 330,26 425,-131 13,-22 24,-46 33,-69 -103,109 -259,142 -379,70 -119,-73 -162,-227 -112,-368z" style="fill:#01762d"/>
+  <ellipse class="NecklacePofil33new NecklacePostr4new" rx="236" ry="310" transform="matrix(-0.804064 0.958246 0.821787 0.689561 15359.9 19374.3)"/>
+  <ellipse class="NecklacePofil83new" rx="99" ry="35" transform="matrix(0.976554 0.215272 0.215272 -0.976554 15372.5 19170.1)"/>
+  <path class="NecklacePofil242new" d="M15409 18653c-81,141 -18,329 140,421 159,92 354,52 435,-89 82,-141 19,-330 -140,-422 -158,-91 -353,-51 -435,90z" style="fill:#270b4c"/>
+  <path class="NecklacePofil232new" d="M15564 18537c-21,13 -42,28 -61,46 -134,125 -152,323 -41,442 111,119 310,114 444,-11 19,-18 36,-37 50,-57 -128,77 -288,67 -383,-35 -95,-102 -95,-263 -9,-385z" style="fill:#5c86e2"/>
+  <ellipse class="NecklacePofil33new NecklacePostr4new" rx="236" ry="310" transform="matrix(-0.625451 1.08331 0.929043 0.536383 15696.9 18818.7)"/>
+  <ellipse class="NecklacePofil83new" rx="99" ry="35" transform="matrix(0.959499 0.28171 0.28171 -0.959499 15741.8 18623)"/>
+  <path class="NecklacePofil243new" d="M15512 18127c-28,160 96,316 276,348 181,32 350,-72 378,-233 29,-160 -95,-316 -275,-348 -181,-32 -350,72 -379,233z" style="fill:#641b64"/>
+  <path class="NecklacePofil232new" d="M15772 17880c-24,8 -47,19 -70,33 -157,94 -216,284 -132,424 84,139 279,176 436,81 23,-13 43,-29 62,-46 -142,50 -296,6 -368,-114 -72,-119 -38,-276 72,-378z" style="fill:#fad62f"/>
+  <ellipse class="NecklacePofil33new NecklacePostr4new" rx="236" ry="310" transform="matrix(-0.217217 1.2319 1.05647 0.186284 15839.4 18184.5)"/>
+  <ellipse class="NecklacePofil83new" rx="99" ry="35" transform="matrix(0.864464 0.502695 0.502695 -0.864464 15954.5 18020.5)"/>
+  <path class="NecklacePofil244new" d="M15447 17607c28,160 197,264 378,232 180,-31 304,-187 276,-348 -29,-160 -198,-264 -379,-232 -180,31 -304,187 -275,348z" style="fill:#29737e"/>
+  <path class="NecklacePofil232new" d="M15810 17262c-25,-1 -50,1 -76,5 -180,32 -304,188 -276,348 29,161 198,265 379,233 25,-5 50,-12 73,-21 -150,-4 -278,-101 -302,-238 -24,-138 63,-272 202,-327z" style="fill:#80f22b"/>
+  <ellipse class="NecklacePofil33new NecklacePostr4new" rx="236" ry="310" transform="matrix(0.217217 1.2319 1.05647 -0.186284 15773.5 17549)"/>
+  <ellipse class="NecklacePofil83new" rx="99" ry="35" transform="matrix(0.530043 0.847971 0.847971 -0.530043 15968.5 17452.5)"/>
+  <path class="NecklacePofil245new NecklacePostr3new" d="M13665 22242c101,0 191,4 286,-17 103,-23 190,-66 265,-125 20,-16 43,-38 62,-55l31 -28c30,-26 64,-58 93,-83l61 -55c14,-13 28,-25 42,-37 48,-47 92,-115 106,-207 14,-97 -13,-181 -53,-252 -18,-34 -37,-67 -55,-100 -19,-36 -38,-68 -55,-101 -18,-35 -37,-69 -55,-101 -10,-18 -18,-34 -27,-50l-28 -52c53,-23 110,-72 128,-131 10,-37 4,-78 -10,-109 -21,-47 -49,-78 -84,-110 -11,-10 -24,-20 -37,-29 -81,-53 -165,-52 -234,17 -7,7 -25,26 -29,36 -11,-1 -45,-16 -88,-21 -34,-3 -70,-2 -105,-2l-214 0 -214 0c-35,0 -72,-1 -106,2 -42,5 -77,20 -87,21 -5,-10 -22,-29 -29,-36 -69,-69 -153,-70 -235,-17 -13,9 -26,19 -36,29 -35,32 -64,63 -84,110 -14,31 -21,72 -10,109 17,59 74,108 127,131l-27 52c-9,16 -18,32 -27,50 -19,32 -38,66 -56,101 -17,33 -36,65 -55,101 -18,33 -36,66 -55,100 -39,71 -67,155 -52,252 13,92 58,160 106,207 13,12 27,24 41,37l62 55c29,25 63,57 92,83l31 28c20,17 42,39 63,55 74,59 162,102 264,125 96,21 186,17 287,17z" style="fill:#ed7e7d"/>
+  <path class="NecklacePofil246new" d="M13665 22242c101,0 191,4 286,-17 103,-23 190,-66 265,-125 20,-16 43,-38 62,-55l31 -28c30,-26 64,-58 93,-83l61 -55c14,-13 28,-25 42,-37 12,-12 24,-25 35,-40l-30 27c-29,25 -62,57 -92,83l-31 28c-20,17 -42,39 -62,55 -75,59 -163,102 -265,124 -96,22 -185,18 -286,18 -101,0 -191,4 -287,-18 -102,-22 -190,-65 -265,-124 -20,-16 -42,-38 -62,-55l-31 -28c-30,-26 -63,-58 -92,-83l-62 -56c-14,-12 -28,-24 -41,-37 -48,-46 -93,-114 -106,-206 -15,-97 13,-181 52,-252 19,-34 37,-67 55,-101 19,-35 38,-68 55,-101 18,-34 37,-68 55,-100 10,-18 18,-34 28,-50l27 -52c-53,-23 -110,-72 -127,-131 -11,-37 -4,-78 9,-109 7,-15 14,-28 22,-39 -3,1 -7,3 -10,5 -13,9 -26,19 -36,29 -35,32 -64,63 -84,110 -14,31 -21,72 -10,109 17,59 74,108 127,131l-27 52c-9,16 -18,32 -27,50 -19,32 -38,66 -56,101 -17,33 -36,65 -55,101 -18,33 -36,66 -55,100 -39,71 -67,155 -52,252 13,92 58,160 106,207 13,12 27,24 41,37l62 55c29,25 63,57 92,83l31 28c20,17 42,39 63,55 74,59 162,102 264,125 96,21 186,17 287,17zm786 -1360c2,-4 5,-9 7,-13 -4,2 -8,4 -11,5l4 8z" style="fill:#2c17d2"/>
+  <g>
+   <path class="NecklacePofil247new" d="M14032 21221c80,-10 148,55 156,125 10,80 -54,148 -125,157 -82,11 -147,-55 -157,-125 -11,-81 56,-149 126,-157z" style="fill:#4adfc7"/>
+   <path class="NecklacePofil247new" d="M13298 21221c-81,-10 -148,55 -157,125 -10,80 55,148 125,157 83,11 148,-55 158,-125 11,-81 -56,-149 -126,-157z" style="fill:#271443"/>
+  </g>
+  <path class="NecklacePofil247new" d="M13665 21539c34,0 128,-2 156,3 64,10 111,48 141,98l90 149c23,37 13,94 -9,125 -11,16 -23,26 -41,38 -44,30 -99,75 -145,95 -29,14 -92,31 -130,29 -2,-10 0,-124 0,-144 0,-28 2,-18 17,-36l44 -48c10,-12 25,-21 29,-42 5,-24 -5,-43 -17,-54 -16,-14 -36,-11 -61,-11l-74 0 -74 0c-25,0 -45,-3 -61,11 -13,11 -23,30 -18,54 5,21 19,30 29,42l44 48c16,18 18,8 18,36 0,20 1,134 -1,144 -38,2 -100,-15 -130,-29 -45,-20 -101,-65 -144,-95 -18,-12 -30,-22 -42,-38 -21,-31 -32,-88 -9,-125l91 -149c30,-50 77,-88 141,-98 28,-5 121,-3 156,-3z" style="fill:#0015d6"/>
+  <g>
+   <path class="NecklacePofil31new" d="M14158 21448c-20,48 -66,82 -115,89 -82,10 -148,-56 -157,-125 -6,-39 7,-75 29,-102 -9,21 -13,44 -9,68 10,70 75,136 157,125 37,-5 71,-25 95,-55z" style="fill:#2ddff7"/>
+   <path class="NecklacePofil31new" d="M13152 21309c-17,21 -28,45 -31,71 -10,80 55,148 125,157 67,8 123,-34 147,-88 -29,37 -74,61 -127,54 -70,-9 -135,-77 -125,-157 2,-13 5,-25 11,-37z" style="fill:#77ca73"/>
+  </g>
+  <ellipse class="NecklacePofil83new" cx="13665" cy="20754" rx="435" ry="33"/>
+  <path class="NecklacePofil248new" d="M14022 21937c-2,2 -3,4 -4,6 -12,17 -24,26 -42,38 -43,30 -99,75 -144,96 -30,13 -92,31 -130,28 -2,-10 -1,-123 -1,-144 0,-27 2,-17 18,-36l9 -9c-1,3 -1,8 -1,16 0,20 -2,134 0,144 38,2 101,-15 130,-29 46,-20 101,-65 145,-95 7,-5 14,-10 20,-15zm-236 -87c3,-4 5,-9 6,-15 5,-23 -5,-43 -18,-53 -16,-15 -36,-12 -61,-12l-74 0 -74 0c-20,0 -37,-2 -51,5 4,-9 9,-17 16,-23 16,-14 36,-11 61,-11l74 0 74 0c25,0 45,-3 61,11 12,11 22,30 17,54 -4,21 -19,30 -29,42l-2 2zm-208 225c0,16 -1,27 -1,30 -38,3 -101,-15 -130,-28 -46,-21 -101,-66 -145,-96 -18,-12 -30,-21 -41,-38 -22,-31 -32,-88 -9,-125l91 -149c10,-17 22,-32 36,-46 -4,5 -8,11 -11,17l-91 149c-23,37 -12,94 9,125 12,16 24,26 42,38 43,30 99,75 144,95 24,11 69,24 106,28z" style="fill:#a5eb77"/>
+  <ellipse class="NecklacePofil84new" cx="13665" cy="20544" rx="140" ry="128"/>
+ </g><g id="BraceletSamurai-Medium">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_35Corel-Layer"/>
+  <g>
+   <path class="BraceletSamurai-Mediumfil131new" d="M9685 18001c247,152 665,480 961,811 201,226 871,-482 742,-685 -169,-268 -761,-799 -1114,-989 -210,218 -468,591 -589,863z" style="fill:#297fa6"/>
+   <path class="BraceletSamurai-Mediumfil132new" d="M10931 18763c245,-94 592,-469 444,-635l-499 -559 -95 29c210,197 374,407 454,533 93,148 -70,451 -304,632z" style="fill:#aeffd5"/>
+   <path class="BraceletSamurai-Mediumfil33new BraceletSamurai-Mediumstr3new" d="M9685 18001c247,152 665,480 961,811 201,226 871,-482 742,-685 -169,-268 -761,-799 -1114,-989 -210,218 -468,591 -589,863z" style="fill:#de242a"/>
+   <path class="BraceletSamurai-Mediumfil14new" d="M9989 17594l0 0c40,31 51,88 26,127l-52 81 67 54 -76 118c-25,39 -59,78 -98,46l-93 -74c-39,-32 -51,-89 -26,-128l136 -211c25,-38 77,-44 116,-13z" style="fill:#42a5b3"/>
+   <path class="BraceletSamurai-Mediumfil133new" d="M10035 17613l0 0c40,32 51,89 26,128l-136 211c-25,38 -77,44 -116,13l0 0c-39,-31 -51,-88 -26,-127l136 -211c25,-39 77,-45 116,-14z" style="fill:#eab557"/>
+   <path class="BraceletSamurai-Mediumfil134new" d="M9894 17979c-26,11 -59,7 -85,-14 -39,-31 -51,-88 -26,-127l136 -211 -99 205c-20,42 -13,96 26,127 14,12 31,18 48,20z" style="fill:#acb66e"/>
+   <path class="BraceletSamurai-Mediumfil43new" d="M10035 17613c40,32 51,89 26,128l-136 211 100 -198c21,-42 20,-97 -19,-128 -19,-15 -48,-21 -68,-19 28,-20 67,-18 97,6z" style="fill:#70a677"/>
+   <path class="BraceletSamurai-Mediumfil135new" d="M10140 17702l0 0c34,36 38,94 9,130l-162 191c-30,36 -82,35 -117,-1l0 0c-35,-36 -39,-94 -9,-129l161 -192c30,-35 83,-35 118,1z" style="fill:#5f4ab7"/>
+   <path class="BraceletSamurai-Mediumfil134new" d="M9952 18046c-27,9 -59,0 -82,-24 -35,-36 -39,-94 -9,-129l161 -192 -124 190c-25,39 -25,94 9,130 13,13 29,22 45,25z" style="fill:#1745fc"/>
+   <path class="BraceletSamurai-Mediumfil43new" d="M10140 17702c34,36 38,94 9,130l-162 191 124 -183c26,-38 32,-93 -3,-129 -16,-18 -44,-27 -64,-28 30,-16 69,-9 96,19z" style="fill:#ccc12a"/>
+   <g>
+    <path class="BraceletSamurai-Mediumfil14new" d="M10512 17910l0 0c40,43 42,108 3,144l-80 76 146 155 -118 110c-38,36 -87,70 -127,27l-173 -184c-41,-43 -43,-108 -4,-144l209 -197c38,-36 103,-30 144,13z" style="fill:#1e7253"/>
+    <path class="BraceletSamurai-Mediumfil136new" d="M10704 18105l0 0c40,43 42,108 3,144l-209 197c-38,36 -103,30 -143,-13l0 0c-41,-43 -42,-108 -4,-144l209 -197c39,-36 103,-30 144,13z" style="fill:#aaa5ba"/>
+    <path class="BraceletSamurai-Mediumfil134new" d="M10461 18461c-34,7 -72,-5 -100,-34 -40,-43 -42,-108 -3,-144l209 -197 -163 199c-34,41 -37,101 3,144 15,16 34,27 54,32z" style="fill:#989ae1"/>
+    <path class="BraceletSamurai-Mediumfil43new" d="M10704 18105c40,43 42,108 3,144l-209 197 163 -191c34,-40 45,-100 4,-143 -20,-21 -53,-34 -78,-37 39,-15 85,-3 117,30z" style="fill:#e9a6eb"/>
+    <path class="BraceletSamurai-Mediumfil137new" d="M10563 17942l0 0c40,43 42,108 4,144l-209 197c-39,36 -104,30 -144,-13l0 0c-41,-43 -42,-108 -4,-144l209 -197c39,-36 103,-30 144,13z" style="fill:#28448d"/>
+    <path class="BraceletSamurai-Mediumfil134new" d="M10314 18305c-34,6 -73,-6 -100,-35 -41,-43 -42,-108 -4,-144l209 -197 -163 199c-33,41 -36,101 4,144 15,16 34,27 54,33z" style="fill:#742766"/>
+    <path class="BraceletSamurai-Mediumfil43new" d="M10563 17942c40,43 42,108 4,144l-209 197 162 -191c35,-40 45,-100 4,-143 -19,-21 -52,-34 -78,-37 39,-15 86,-3 117,30z" style="fill:#e0142b"/>
+   </g>
+   <path class="BraceletSamurai-Mediumfil138new" d="M9067 18553c247,152 706,593 1003,925 201,225 870,-483 742,-686 -169,-268 -793,-911 -1146,-1102 -210,219 -478,591 -599,863z" style="fill:#0de5f9"/>
+   <path class="BraceletSamurai-Mediumfil132new" d="M10313 19459c245,-93 633,-471 515,-660 -170,-268 -806,-891 -1158,-1082 -28,30 -40,42 -68,78 361,241 900,757 1052,999 94,148 -107,485 -341,665z" style="fill:#259b23"/>
+   <path class="BraceletSamurai-Mediumfil33new BraceletSamurai-Mediumstr3new" d="M9067 18553c247,152 706,593 1003,925 201,225 870,-483 742,-686 -169,-268 -793,-911 -1146,-1102 -210,219 -478,591 -599,863z" style="fill:#5720b4"/>
+   <g>
+    <path class="BraceletSamurai-Mediumfil14new" d="M9961 18574l0 0c40,43 42,108 3,144l-80 76 146 155 -118 111c-38,36 -86,70 -127,27l-173 -185c-41,-43 -42,-108 -4,-144l209 -196c39,-36 103,-31 144,12z" style="fill:#0f24bd"/>
+    <path class="BraceletSamurai-Mediumfil139new" d="M10153 18769l0 0c40,43 42,108 4,144l-210 197c-38,36 -103,30 -143,-13l0 0c-41,-43 -42,-108 -4,-144l209 -196c39,-36 103,-31 144,12z" style="fill:#b8994f"/>
+    <path class="BraceletSamurai-Mediumfil134new" d="M9910 19126c-34,6 -72,-6 -100,-35 -40,-43 -42,-108 -3,-144l209 -196 -163 198c-34,41 -37,101 4,144 14,16 33,27 53,33z" style="fill:#0ce7dc"/>
+    <path class="BraceletSamurai-Mediumfil43new" d="M10153 18769c40,43 42,108 4,144l-210 197 163 -191c34,-40 45,-100 4,-143 -19,-21 -52,-34 -78,-37 39,-15 86,-3 117,30z" style="fill:#e68c4c"/>
+    <path class="BraceletSamurai-Mediumfil137new" d="M10012 18606l0 0c41,44 42,108 4,145l-209 196c-39,36 -103,30 -144,-13l0 0c-40,-43 -42,-108 -4,-144l210 -196c38,-36 103,-31 143,12z" style="fill:#e98bcf"/>
+    <path class="BraceletSamurai-Mediumfil134new" d="M9763 18969c-34,7 -72,-5 -100,-35 -40,-43 -42,-108 -4,-144l210 -196 -163 198c-34,41 -37,101 3,144 15,16 34,28 54,33z" style="fill:#ffe423"/>
+    <path class="BraceletSamurai-Mediumfil43new" d="M10012 18606c41,44 42,108 4,145l-209 196 162 -191c35,-40 45,-100 4,-143 -19,-21 -52,-34 -77,-36 38,-16 85,-4 116,29z" style="fill:#28a58f"/>
+   </g>
+   <path class="BraceletSamurai-Mediumfil14new" d="M9404 18138l0 0c39,31 51,89 26,127l-52 81 67 54 -77 118c-24,39 -58,78 -97,47l-93 -75c-39,-31 -51,-89 -26,-128l136 -210c25,-39 77,-45 116,-14z" style="fill:#f2a4bb"/>
+   <path class="BraceletSamurai-Mediumfil140new" d="M9444 18154l0 0c40,29 54,86 30,126l-128 216c-23,39 -76,47 -116,17l0 0c-40,-29 -54,-86 -30,-126l128 -216c23,-39 76,-47 116,-17z" style="fill:#db382f"/>
+   <path class="BraceletSamurai-Mediumfil141new" d="M9316 18524c-26,12 -59,10 -86,-11 -40,-29 -54,-86 -30,-126l128 -216 -91 209c-19,43 -10,96 30,126 15,11 32,17 49,18z" style="fill:#b936b0"/>
+   <path class="BraceletSamurai-Mediumfil43new" d="M9444 18154c40,29 54,86 30,126l-128 216 93 -202c19,-42 16,-97 -25,-127 -19,-14 -47,-19 -68,-16 27,-21 67,-20 98,3z" style="fill:#ca15c3"/>
+   <path class="BraceletSamurai-Mediumfil142new" d="M9538 18242l0 0c36,35 41,93 13,129l-157 197c-28,36 -81,36 -117,1l0 0c-36,-34 -42,-93 -13,-129l157 -196c28,-36 81,-37 117,-2z" style="fill:#fd00df"/>
+   <path class="BraceletSamurai-Mediumfil141new" d="M9360 18591c-27,9 -59,2 -83,-22 -36,-35 -42,-93 -13,-129l157 -196 -119 194c-25,40 -23,94 13,129 13,13 28,21 45,24z" style="fill:#a1fae4"/>
+   <path class="BraceletSamurai-Mediumfil43new" d="M9538 18242c36,35 41,93 13,129l-157 197 119 -187c25,-39 30,-94 -6,-129 -17,-17 -45,-26 -66,-26 30,-17 69,-11 97,16z" style="fill:#8db162"/>
+   <path class="BraceletSamurai-Mediumfil143new" d="M8619 19162c98,173 510,607 844,904 227,201 871,-483 743,-686 -169,-268 -805,-892 -1158,-1082 -210,218 -357,602 -429,864z" style="fill:#ea4315"/>
+   <path class="BraceletSamurai-Mediumfil132new" d="M9517 20101c245,85 808,-533 689,-721 -169,-268 -805,-892 -1158,-1082 -28,29 -56,62 -85,98 362,241 896,774 1049,1016 93,147 -232,559 -495,689z" style="fill:#4d2558"/>
+   <path class="BraceletSamurai-Mediumfil33new BraceletSamurai-Mediumstr3new" d="M8630 19162c60,113 534,645 833,904 230,197 871,-483 743,-686 -169,-268 -805,-892 -1158,-1082 -210,218 -345,602 -418,864z" style="fill:#41d83a"/>
+   <g>
+    <path class="BraceletSamurai-Mediumfil14new" d="M9752 19137c3,85 -62,156 -147,160 -85,4 -157,-62 -160,-146 -4,-85 62,-157 146,-161 85,-4 157,62 161,147z" style="fill:#17c018"/>
+    <path class="BraceletSamurai-Mediumfil144new" d="M9753 19161c3,71 -53,132 -124,135 -72,3 -133,-52 -136,-124 -3,-71 52,-132 124,-135 72,-4 133,52 136,124z" style="fill:#e7e554"/>
+    <path class="BraceletSamurai-Mediumfil43new" d="M9753 19161c3,71 -53,132 -124,135 -27,1 -52,-6 -74,-19 13,3 26,5 40,4 76,-3 134,-67 131,-143 -1,-30 -12,-57 -30,-79 33,22 55,59 57,102z" style="fill:#3503e9"/>
+   </g>
+   <g>
+    <path class="BraceletSamurai-Mediumfil14new" d="M10334 18529c3,85 -62,157 -147,160 -85,4 -156,-61 -160,-146 -4,-85 62,-157 146,-161 85,-3 157,62 161,147z" style="fill:#786c49"/>
+    <path class="BraceletSamurai-Mediumfil144new" d="M10335 18553c3,71 -53,132 -124,135 -72,4 -133,-52 -136,-124 -3,-71 53,-132 124,-135 72,-3 133,52 136,124z" style="fill:#c5bfc2"/>
+    <path class="BraceletSamurai-Mediumfil43new" d="M10335 18553c3,71 -53,132 -124,135 -27,2 -52,-5 -74,-19 13,4 26,5 40,5 76,-4 134,-68 131,-143 -1,-31 -12,-58 -30,-80 33,23 55,59 57,102z" style="fill:#a98dc7"/>
+   </g>
+   <g>
+    <path class="BraceletSamurai-Mediumfil14new" d="M10918 17863c3,85 -62,157 -147,160 -85,4 -157,-62 -160,-146 -4,-85 61,-157 146,-161 85,-3 157,62 161,147z" style="fill:#078a93"/>
+    <path class="BraceletSamurai-Mediumfil145new" d="M10919 17887c3,71 -53,132 -124,135 -72,3 -133,-52 -136,-124 -3,-71 52,-132 124,-135 72,-3 132,52 136,124z" style="fill:#a00de4"/>
+    <path class="BraceletSamurai-Mediumfil43new" d="M10919 17887c3,71 -53,132 -124,135 -27,1 -53,-6 -74,-19 13,4 26,5 40,4 76,-3 134,-67 131,-143 -2,-30 -13,-57 -30,-79 33,22 55,59 57,102z" style="fill:#14699b"/>
+   </g>
+   <g>
+    <path class="BraceletSamurai-Mediumfil14new" d="M9359 19176l0 0c40,43 42,108 4,144l-81 76 146 155 -117 111c-39,36 -87,70 -128,27l-173 -185c-41,-43 -42,-108 -4,-144l209 -196c39,-37 103,-31 144,12z" style="fill:#4e47df"/>
+    <path class="BraceletSamurai-Mediumfil146new" d="M9551 19371l0 0c40,43 42,108 4,144l-209 197c-39,36 -104,30 -144,-13l0 0c-40,-43 -42,-108 -4,-144l209 -196c39,-37 103,-31 144,12z" style="fill:#0f5a2f"/>
+    <path class="BraceletSamurai-Mediumfil134new" d="M9308 19728c-34,6 -72,-6 -99,-35 -41,-43 -43,-108 -4,-144l209 -197 -163 199c-33,41 -37,101 4,144 15,16 33,27 53,33z" style="fill:#4f9941"/>
+    <path class="BraceletSamurai-Mediumfil43new" d="M9551 19371c40,43 42,108 4,144l-209 197 162 -191c35,-40 45,-100 4,-143 -19,-21 -52,-34 -77,-37 38,-15 85,-3 116,30z" style="fill:#8bb427"/>
+    <path class="BraceletSamurai-Mediumfil147new" d="M9410 19208l0 0c41,44 42,108 4,144l-209 197c-39,36 -103,30 -144,-13l0 0c-40,-43 -42,-108 -3,-144l209 -196c38,-36 103,-31 143,12z" style="fill:#f4f4d4"/>
+    <path class="BraceletSamurai-Mediumfil134new" d="M9161 19571c-34,6 -72,-6 -100,-35 -40,-43 -42,-108 -3,-144l209 -196 -163 198c-34,41 -37,101 3,144 15,16 34,27 54,33z" style="fill:#72053d"/>
+    <path class="BraceletSamurai-Mediumfil43new" d="M9410 19208c41,44 42,108 4,144l-209 197 162 -191c35,-40 45,-100 5,-143 -20,-21 -53,-34 -78,-37 38,-15 85,-3 116,30z" style="fill:#482535"/>
+   </g>
+   <g>
+    <path class="BraceletSamurai-Mediumfil14new" d="M9150 18574c44,43 34,127 -25,189 -58,61 -142,77 -187,34 -44,-42 -34,-126 25,-188 58,-62 142,-77 187,-35z" style="fill:#56d252"/>
+    <path class="BraceletSamurai-Mediumfil148new" d="M9162 18586c38,36 29,107 -20,160 -50,52 -121,65 -158,29 -38,-36 -29,-107 20,-159 49,-53 120,-66 158,-30z" style="fill:#ccd7bd"/>
+    <path class="BraceletSamurai-Mediumfil43new" d="M9162 18586c38,36 29,107 -20,160 -49,51 -119,64 -157,30 110,14 223,-124 157,-203 7,3 14,8 20,13z" style="fill:#148cb2"/>
+   </g>
+   <g>
+    <path class="BraceletSamurai-Mediumfil14new" d="M9729 17931c45,43 34,127 -24,189 -58,61 -142,77 -187,34 -45,-42 -34,-127 24,-188 59,-62 142,-77 187,-35z" style="fill:#129801"/>
+    <path class="BraceletSamurai-Mediumfil149new" d="M9742 17943c38,36 29,107 -21,159 -49,53 -120,66 -158,30 -38,-36 -28,-108 21,-160 49,-52 120,-65 158,-29z" style="fill:#e93fe1"/>
+    <path class="BraceletSamurai-Mediumfil43new" d="M9742 17943c38,36 29,107 -21,159 -48,52 -118,65 -156,31 109,13 223,-124 157,-203 7,3 14,7 20,13z" style="fill:#ff8beb"/>
+   </g>
+   <g>
+    <path class="BraceletSamurai-Mediumfil14new" d="M10298 17417c45,43 34,127 -24,189 -59,61 -142,77 -187,34 -45,-42 -34,-127 24,-188 58,-62 142,-77 187,-35z" style="fill:#4145f7"/>
+    <path class="BraceletSamurai-Mediumfil150new" d="M10311 17429c38,36 28,107 -21,159 -49,52 -120,66 -158,30 -38,-36 -29,-108 21,-160 49,-52 120,-65 158,-29z" style="fill:#f6a813"/>
+    <path class="BraceletSamurai-Mediumfil43new" d="M10311 17429c38,36 28,107 -21,159 -49,52 -118,65 -157,31 110,13 224,-124 157,-203 8,3 15,7 21,13z" style="fill:#828203"/>
+   </g>
+   <path class="BraceletSamurai-Mediumfil14new" d="M8881 18787l0 0c39,31 51,88 26,127l-52 81 67 54 -77 118c-25,39 -58,78 -97,46l-93 -74c-40,-32 -51,-89 -26,-128l136 -211c25,-38 77,-45 116,-13z" style="fill:#6e7013"/>
+   <path class="BraceletSamurai-Mediumfil151new" d="M8927 18807l0 0c42,29 57,85 35,126l-121 219c-23,41 -74,50 -116,22l0 0c-41,-29 -56,-85 -34,-125l121 -220c22,-40 74,-50 115,-22z" style="fill:#5acb14"/>
+   <path class="BraceletSamurai-Mediumfil152new" d="M8811 19182c-25,13 -58,11 -86,-8 -41,-29 -56,-85 -34,-125l121 -220 -84 211c-18,43 -7,97 34,125 15,11 32,16 49,17z" style="fill:#b305c1"/>
+   <path class="BraceletSamurai-Mediumfil43new" d="M8927 18807c42,29 57,85 35,126l-121 219 86 -204c18,-43 13,-98 -28,-126 -20,-14 -49,-18 -69,-14 26,-22 66,-23 97,-1z" style="fill:#58c342"/>
+   <path class="BraceletSamurai-Mediumfil153new" d="M8999 18874l0 0c39,31 51,88 26,127l-136 211c-25,39 -78,45 -117,14l0 0c-39,-32 -50,-89 -25,-128l136 -211c25,-38 77,-45 116,-13z" style="fill:#6a45f2"/>
+   <path class="BraceletSamurai-Mediumfil152new" d="M8857 19239c-26,12 -58,8 -85,-13 -39,-32 -50,-89 -25,-128l136 -211 -99 205c-20,42 -14,96 26,127 14,12 30,19 47,20z" style="fill:#f00d0c"/>
+   <path class="BraceletSamurai-Mediumfil43new" d="M8999 18874c39,31 51,88 26,127l-136 211 100 -198c21,-41 19,-96 -20,-128 -19,-15 -47,-20 -68,-19 29,-20 68,-17 98,7z" style="fill:#4b1ffe"/>
+  </g>
+  <path class="BraceletSamurai-Mediumfil154new" d="M17679 18001c-247,152 -665,480 -961,811 -202,226 -871,-482 -742,-685 169,-268 761,-799 1113,-989 211,218 469,591 590,863z" style="fill:#7a0efd"/>
+  <path class="BraceletSamurai-Mediumfil132new" d="M16433 18763c-245,-94 -592,-469 -444,-635l499 -559 95 29c-210,197 -374,407 -454,533 -93,148 70,451 304,632z" style="fill:#a4c647"/>
+  <path class="BraceletSamurai-Mediumfil33new BraceletSamurai-Mediumstr3new" d="M17679 18001c-247,152 -665,480 -961,811 -202,226 -871,-482 -742,-685 169,-268 761,-799 1113,-989 211,218 469,591 590,863z" style="fill:#456816"/>
+  <path class="BraceletSamurai-Mediumfil155new" d="M17328 17613l0 0c-39,32 -50,89 -25,128l136 211c25,38 77,44 116,13l0 0c39,-31 51,-88 26,-127l-136 -211c-25,-39 -78,-45 -117,-14z" style="fill:#91c9d7"/>
+  <path class="BraceletSamurai-Mediumfil156new" d="M17224 17702l0 0c-34,36 -39,94 -9,130l162 191c29,36 82,35 117,-1l0 0c35,-36 39,-94 9,-129l-161 -192c-30,-35 -83,-35 -118,1z" style="fill:#30738e"/>
+  <g>
+   <path class="BraceletSamurai-Mediumfil14new" d="M16637 18109l0 0c43,-41 108,-43 144,-5l76 80 155 -146 111 116c36,39 70,87 27,128l-183 174c-43,41 -108,43 -144,5l-198 -209c-36,-38 -31,-102 12,-143z" style="fill:#8b4d52"/>
+   <path class="BraceletSamurai-Mediumfil157new" d="M16831 17916l0 0c43,-41 108,-43 144,-5l198 208c36,38 31,103 -12,144l0 0c-43,41 -108,43 -144,4l-198 -208c-36,-38 -31,-103 12,-143z" style="fill:#6d02b0"/>
+   <path class="BraceletSamurai-Mediumfil134new" d="M17189 18156c7,34 -5,73 -34,100 -43,41 -108,43 -144,5l-198 -208 200 162c41,33 101,36 144,-5 15,-15 26,-33 32,-54z" style="fill:#ba613f"/>
+   <path class="BraceletSamurai-Mediumfil43new" d="M16831 17916c43,-41 108,-43 144,-5l198 208 -192 -161c-40,-35 -100,-44 -143,-4 -21,20 -33,53 -36,78 -16,-38 -4,-85 29,-116z" style="fill:#418ef6"/>
+   <path class="BraceletSamurai-Mediumfil158new" d="M16669 18057l0 0c43,-40 108,-42 144,-4l198 208c36,38 31,103 -12,143l0 0c-43,41 -108,43 -144,5l-198 -208c-36,-38 -31,-103 12,-144z" style="fill:#27e9e3"/>
+   <path class="BraceletSamurai-Mediumfil134new" d="M17033 18305c7,33 -5,72 -34,99 -43,41 -108,43 -144,5l-198 -208 200 162c41,33 101,36 144,-5 15,-15 26,-33 32,-53z" style="fill:#a67d21"/>
+   <path class="BraceletSamurai-Mediumfil43new" d="M16669 18057c43,-40 108,-42 144,-4l198 208 -192 -162c-40,-34 -100,-44 -143,-3 -21,20 -34,53 -36,78 -16,-38 -4,-85 29,-117z" style="fill:#4433b4"/>
+  </g>
+  <path class="BraceletSamurai-Mediumfil159new" d="M18297 18553c-247,152 -707,593 -1003,925 -201,225 -871,-483 -742,-686 169,-268 793,-911 1145,-1102 211,219 479,591 600,863z" style="fill:#5d33f4"/>
+  <path class="BraceletSamurai-Mediumfil132new" d="M17051 19459c-245,-93 -634,-471 -515,-660 170,-268 805,-891 1158,-1082 28,30 40,42 68,78 -361,241 -900,757 -1053,999 -93,148 108,485 342,665z" style="fill:#cba094"/>
+  <path class="BraceletSamurai-Mediumfil33new BraceletSamurai-Mediumstr3new" d="M18297 18553c-247,152 -707,593 -1003,925 -201,225 -871,-483 -742,-686 169,-268 793,-911 1145,-1102 211,219 479,591 600,863z" style="fill:#4db9dc"/>
+  <g>
+   <path class="BraceletSamurai-Mediumfil14new" d="M17199 18760l0 0c45,-38 110,-36 144,5l71 84 163 -137 104 123c34,41 65,91 20,129l-194 163c-45,38 -110,36 -144,-4l-185 -220c-34,-40 -24,-105 21,-143z" style="fill:#7df4c3"/>
+   <path class="BraceletSamurai-Mediumfil160new" d="M17404 18579l0 0c45,-38 110,-36 144,4l185 220c34,40 24,105 -21,143l0 0c-45,38 -110,36 -144,-4l-184 -220c-34,-40 -25,-105 20,-143z" style="fill:#69901f"/>
+   <path class="BraceletSamurai-Mediumfil134new" d="M17747 18841c4,34 -10,72 -41,98 -45,38 -110,36 -144,-4l-184 -220 189 174c39,35 99,42 144,4 17,-14 29,-32 36,-52z" style="fill:#7937ed"/>
+   <path class="BraceletSamurai-Mediumfil43new" d="M17404 18579c45,-38 110,-36 144,4l185 220 -182 -173c-38,-36 -97,-50 -142,-12 -22,19 -37,51 -41,76 -13,-39 1,-85 36,-115z" style="fill:#d1df6e"/>
+   <path class="BraceletSamurai-Mediumfil161new" d="M17234 18711l0 0c45,-38 110,-36 144,4l184 220c34,40 25,104 -20,142l0 0c-45,38 -110,37 -144,-4l-185 -220c-34,-40 -25,-104 21,-142z" style="fill:#6941c3"/>
+   <path class="BraceletSamurai-Mediumfil134new" d="M17582 18980c5,34 -10,72 -40,97 -45,38 -110,37 -144,-4l-185 -220 190 174c38,36 98,42 144,4 16,-14 28,-32 35,-51z" style="fill:#4df4ee"/>
+   <path class="BraceletSamurai-Mediumfil43new" d="M17234 18711c45,-38 110,-36 144,4l184 220 -181 -173c-38,-37 -98,-50 -143,-12 -22,18 -36,51 -41,75 -13,-39 2,-85 37,-114z" style="fill:#c4a24b"/>
+  </g>
+  <path class="BraceletSamurai-Mediumfil162new" d="M17920 18154l0 0c-40,29 -54,86 -30,126l128 216c23,39 75,47 116,17l0 0c40,-29 53,-86 30,-126l-128 -216c-24,-39 -76,-47 -116,-17z" style="fill:#018524"/>
+  <path class="BraceletSamurai-Mediumfil163new" d="M17826 18242l0 0c-36,35 -41,93 -13,129l157 197c28,36 81,36 117,1l0 0c36,-34 41,-93 13,-129l-157 -196c-28,-36 -81,-37 -117,-2z" style="fill:#c04d5d"/>
+  <path class="BraceletSamurai-Mediumfil164new" d="M18745 19162c-98,173 -510,607 -845,904 -226,201 -871,-483 -742,-686 169,-268 805,-892 1157,-1082 211,218 357,602 430,864z" style="fill:#dd2bc6"/>
+  <path class="BraceletSamurai-Mediumfil132new" d="M17847 20101c-246,85 -808,-533 -689,-721 169,-268 805,-892 1157,-1082 29,29 57,62 86,98 -362,241 -896,774 -1049,1016 -93,147 232,559 495,689z" style="fill:#48324f"/>
+  <path class="BraceletSamurai-Mediumfil33new BraceletSamurai-Mediumstr3new" d="M18734 19162c-60,113 -534,645 -834,904 -229,197 -871,-483 -742,-686 169,-268 805,-892 1157,-1082 211,218 346,602 419,864z" style="fill:#a26843"/>
+  <g>
+   <path class="BraceletSamurai-Mediumfil14new" d="M17780 19021c84,6 148,79 143,164 -6,85 -80,149 -164,143 -85,-6 -149,-79 -143,-164 6,-85 79,-149 164,-143z" style="fill:#8ab50e"/>
+   <path class="BraceletSamurai-Mediumfil165new" d="M17803 19023c72,5 126,67 121,138 -5,72 -67,126 -138,121 -72,-5 -126,-67 -121,-138 5,-72 67,-126 138,-121z" style="fill:#9adc99"/>
+   <path class="BraceletSamurai-Mediumfil43new" d="M17803 19023c72,5 126,67 121,138 -2,27 -12,51 -27,71 5,-12 8,-25 9,-39 5,-75 -52,-141 -128,-146 -30,-2 -58,6 -82,21 26,-30 65,-48 107,-45z" style="fill:#041c91"/>
+  </g>
+  <g>
+   <path class="BraceletSamurai-Mediumfil14new" d="M17148 18387c83,-20 165,32 185,114 19,83 -32,166 -115,185 -82,19 -165,-32 -184,-114 -20,-83 31,-166 114,-185z" style="fill:#ad5753"/>
+   <path class="BraceletSamurai-Mediumfil166new" d="M17171 18381c70,-16 140,27 156,97 17,70 -27,140 -96,156 -70,17 -140,-26 -157,-96 -16,-70 27,-140 97,-157z" style="fill:#433535"/>
+   <path class="BraceletSamurai-Mediumfil43new" d="M17171 18381c70,-16 140,27 156,97 6,26 4,52 -5,76 1,-13 0,-27 -3,-40 -17,-74 -91,-119 -165,-102 -29,7 -54,23 -72,44 16,-36 48,-65 89,-75z" style="fill:#17da7d"/>
+  </g>
+  <g>
+   <path class="BraceletSamurai-Mediumfil14new" d="M16585 17717c84,-7 159,55 167,139 8,85 -54,159 -138,167 -85,8 -160,-54 -168,-138 -8,-85 54,-160 139,-168z" style="fill:#f8003b"/>
+   <path class="BraceletSamurai-Mediumfil167new" d="M16609 17715c71,-6 134,46 141,117 7,72 -46,135 -117,142 -72,7 -135,-46 -142,-117 -6,-72 46,-135 118,-142z" style="fill:#5b8b13"/>
+   <path class="BraceletSamurai-Mediumfil43new" d="M16609 17715c71,-6 134,46 141,117 3,27 -3,53 -15,75 2,-13 3,-27 2,-40 -7,-76 -74,-131 -149,-124 -30,3 -57,15 -78,34 21,-34 56,-58 99,-62z" style="fill:#5318dd"/>
+  </g>
+  <g>
+   <path class="BraceletSamurai-Mediumfil14new" d="M17799 19368l0 0c45,-39 110,-39 145,1l73 82 159 -140 107 120c35,40 67,90 23,129l-190 167c-44,39 -109,39 -144,-1l-190 -215c-35,-40 -27,-104 17,-143z" style="fill:#0e5a9e"/>
+   <path class="BraceletSamurai-Mediumfil168new" d="M18000 19182l0 0c45,-39 110,-39 145,1l189 215c35,40 27,104 -17,143l0 0c-44,39 -109,39 -144,-1l-190 -215c-35,-40 -27,-104 17,-143z" style="fill:#9b34e5"/>
+   <path class="BraceletSamurai-Mediumfil134new" d="M18349 19436c5,34 -8,72 -38,98 -44,40 -109,39 -144,0l-190 -216 194 169c39,35 99,40 144,1 16,-14 28,-32 34,-52z" style="fill:#3cc839"/>
+   <path class="BraceletSamurai-Mediumfil43new" d="M18000 19182c45,-39 110,-39 145,1l189 215 -185 -169c-39,-35 -99,-47 -143,-8 -22,19 -35,51 -39,76 -14,-38 -1,-85 33,-115z" style="fill:#419265"/>
+   <path class="BraceletSamurai-Mediumfil169new" d="M17833 19317l0 0c45,-39 109,-38 144,1l190 216c35,39 27,104 -17,143l0 0c-45,39 -109,38 -144,-1l-190 -215c-35,-40 -27,-104 17,-144z" style="fill:#1aaf70"/>
+   <path class="BraceletSamurai-Mediumfil134new" d="M18188 19578c5,34 -8,72 -38,99 -45,39 -109,38 -144,-1l-190 -215 193 169c40,34 100,40 144,1 17,-15 28,-33 35,-53z" style="fill:#e989a6"/>
+   <path class="BraceletSamurai-Mediumfil43new" d="M17833 19317c45,-39 109,-38 144,1l190 216 -185 -169c-39,-36 -99,-48 -143,-9 -22,19 -36,52 -39,77 -14,-39 -1,-85 33,-116z" style="fill:#c7e054"/>
+  </g>
+  <path class="BraceletSamurai-Mediumfil14new" d="M18174 18597c-45,43 -34,127 24,189 59,61 142,77 187,35 45,-43 34,-127 -24,-189 -59,-62 -142,-77 -187,-35z" style="fill:#0a00bf"/>
+  <path class="BraceletSamurai-Mediumfil170new" d="M18202 18586c-38,36 -29,107 20,160 50,52 120,65 158,29 38,-36 29,-107 -20,-159 -50,-53 -120,-66 -158,-30z" style="fill:#ce0826"/>
+  <path class="BraceletSamurai-Mediumfil171new" d="M18202 18586c-38,36 -29,107 20,160 49,51 119,64 157,30 -110,14 -223,-124 -157,-203 -8,3 -14,8 -20,13z" style="fill:#646a8b"/>
+  <path class="BraceletSamurai-Mediumfil14new" d="M17597 17954c-45,43 -34,127 24,189 59,61 142,77 187,34 45,-42 34,-126 -24,-188 -58,-62 -142,-77 -187,-35z" style="fill:#ace9eb"/>
+  <path class="BraceletSamurai-Mediumfil172new" d="M17622 17943c-38,36 -29,107 21,159 49,53 120,66 158,30 38,-36 28,-108 -21,-160 -49,-52 -120,-65 -158,-29z" style="fill:#9e71f7"/>
+  <path class="BraceletSamurai-Mediumfil171new" d="M17622 17943c-38,36 -29,107 21,159 48,52 118,65 156,31 -109,13 -223,-124 -157,-203 -7,3 -14,7 -20,13z" style="fill:#76d8b4"/>
+  <path class="BraceletSamurai-Mediumfil14new" d="M17025 17429c-44,42 -34,127 25,188 58,62 142,77 187,35 45,-43 34,-127 -25,-189 -58,-61 -142,-77 -187,-34z" style="fill:#9019bb"/>
+  <path class="BraceletSamurai-Mediumfil173new" d="M17053 17429c-38,36 -28,107 21,159 49,52 120,66 158,30 38,-36 29,-108 -21,-160 -49,-52 -120,-65 -158,-29z" style="fill:#f24579"/>
+  <path class="BraceletSamurai-Mediumfil171new" d="M17053 17429c-38,36 -28,107 21,159 49,52 118,65 156,31 -109,13 -223,-124 -157,-203 -7,3 -14,7 -20,13z" style="fill:#fde4d7"/>
+  <path class="BraceletSamurai-Mediumfil174new" d="M18436 18807l0 0c-41,29 -56,85 -34,126l121 219c22,41 74,50 115,22l0 0c42,-29 57,-85 35,-125l-121 -220c-23,-40 -74,-50 -116,-22z" style="fill:#85caa7"/>
+  <path class="BraceletSamurai-Mediumfil175new" d="M18365 18874l0 0c-39,31 -51,88 -26,127l136 211c25,39 77,45 117,14l0 0c39,-32 50,-89 25,-128l-136 -211c-25,-38 -77,-45 -116,-13z" style="fill:#f84226"/>
+ </g><g id="BraceletBoxer-Medium">
+  <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_1890968492880">
+   <path class="BraceletBoxer-Mediumfil0 BraceletBoxer-Mediumstr0" d="M18174 18907c-578,-193 -1924,1008 -1565,1711 84,165 212,311 371,404 126,459 117,1635 1091,1071 93,269 274,526 577,535 761,22 1775,-844 1611,-1674 -104,-523 -758,-1373 -1425,-1457 -96,-242 -357,-488 -660,-590z" style="fill:#e6889f"/>
+   <path class="BraceletBoxer-Mediumfil1" d="M17980 21538c120,1030 629,1089 668,1090 761,22 1817,-905 1514,-1728 -113,757 -1495,1384 -2182,638z" style="fill:#c3a821"/>
+   <path class="BraceletBoxer-Mediumfil2 BraceletBoxer-Mediumstr1" d="M18179 18887c-578,-194 -1929,1028 -1570,1731 84,165 244,327 403,420 11,-651 1211,-1653 1881,-1505 -96,-242 -411,-545 -714,-646z" style="fill:#f924e6"/>
+   <path class="BraceletBoxer-Mediumfil3" d="M18166 22114c-33,-123 -140,-483 -210,-668 4,191 71,620 -179,702 84,4 304,-39 389,-34z" style="fill:#373d70"/>
+   <path class="BraceletBoxer-Mediumfil4 BraceletBoxer-Mediumstr0" d="M18174 18907c-578,-193 -1924,1008 -1565,1711 84,165 212,311 371,404 126,459 117,1635 1091,1071 93,269 274,526 577,535 761,22 1775,-844 1611,-1674 -104,-523 -758,-1373 -1425,-1457 -96,-242 -357,-488 -660,-590z" style="fill:#abc48b"/>
+   <path class="BraceletBoxer-Mediumfil1" d="M17961 21473c-474,629 -938,-482 -706,-964 -85,82 -260,383 -225,587 50,305 10,1498 1004,1006 -23,-210 -50,-420 -73,-629z" style="fill:#efb61b"/>
+   <path class="BraceletBoxer-Mediumfil4 BraceletBoxer-Mediumstr1" d="M18177 19672c80,-175 86,-270 27,-358 -114,-170 -300,-319 -457,-332" style="fill:#9273b5"/>
+   <path class="BraceletBoxer-Mediumfil5" d="M17352 20663c442,-882 1694,-1281 1842,-803 108,351 -1056,-27 -1842,803z" style="fill:#4a0aeb"/>
+   <path class="BraceletBoxer-Mediumfil1" d="M16754 19792c-54,301 140,636 443,723 -79,162 -158,324 -237,486 -385,-213 -563,-621 -206,-1209z" style="fill:#a15ddc"/>
+   <path class="BraceletBoxer-Mediumfil6" d="M19364 20042c-26,-20 -52,-40 -78,-60 -25,-19 -51,-38 -77,-57 -12,4 -24,7 -37,10 26,19 52,38 77,56 25,19 51,39 77,58 -57,14 -112,29 -167,45 -72,-52 -145,-104 -218,-155 -72,-51 -144,-103 -216,-155 53,-20 107,-39 161,-57 25,18 50,37 75,55 25,18 50,37 75,55 12,-4 24,-7 37,-11 -26,-18 -51,-37 -76,-55 -25,-18 -50,-37 -75,-55 58,-18 116,-34 175,-49 74,55 149,111 223,167 77,58 153,117 229,178 -62,8 -124,17 -185,30zm-338 100c-87,36 -174,76 -258,120 -70,-49 -141,-97 -212,-147 -71,-49 -143,-100 -214,-151 48,-26 97,-51 146,-76 42,31 85,62 127,92 43,30 86,60 129,89 -20,-24 -40,-48 -59,-73 -20,-24 -40,-49 -59,-74 -28,-20 -56,-40 -84,-60 50,-22 100,-44 150,-65 22,16 43,31 64,47 22,15 43,30 65,45 34,42 69,85 103,127 34,42 69,83 102,126zm-613 348c-32,-22 -64,-44 -96,-66 -33,-22 -65,-44 -97,-67 0,-15 -1,-30 -2,-46 -21,0 -43,0 -64,0 -28,-19 -55,-38 -82,-57 -27,-20 -55,-39 -82,-58 46,-35 93,-68 140,-101 25,18 50,36 76,54 25,18 50,35 75,53 14,-9 27,-18 41,-27 -25,-18 -50,-35 -75,-53 -25,-18 -50,-36 -75,-54 46,-30 92,-58 140,-86 71,50 142,101 213,151 71,49 142,98 212,146 -110,66 -219,136 -324,211zm23 -236c-17,11 -34,22 -51,33 11,8 23,16 34,23 16,-11 33,-22 50,-33 -11,-8 -22,-15 -33,-23zm-510 187c5,4 10,7 15,10 26,9 53,17 79,25 26,9 53,17 79,26 -34,-24 -68,-48 -102,-71 42,-34 84,-67 126,-100 43,31 87,61 131,91 43,30 86,60 129,90 -71,54 -142,110 -212,168 -50,-16 -100,-31 -150,-47 -50,-15 -100,-30 -150,-44 -32,-22 -63,-43 -95,-64 -31,-21 -63,-42 -94,-63 90,-84 182,-165 275,-241 22,15 43,31 65,46 22,15 43,30 65,45 -54,42 -107,85 -161,129z" style="fill:#2dc841"/>
+  </g>
+  <g id="_1890968489072">
+   <path class="BraceletBoxer-Mediumfil7" d="M9190 18907c578,-193 1924,1008 1565,1711 -84,165 -212,311 -372,404 -125,459 -116,1635 -1090,1071 -93,269 -274,526 -577,535 -761,22 -1775,-844 -1611,-1674 104,-523 758,-1373 1425,-1457 96,-242 357,-488 660,-590z" style="fill:#ac0a06"/>
+   <path class="BraceletBoxer-Mediumfil5" d="M8716 19775c980,109 1789,1145 1391,1449 -291,223 -341,-1000 -1391,-1449z" style="fill:#8dc7ce"/>
+   <path class="BraceletBoxer-Mediumfil8 BraceletBoxer-Mediumstr1" d="M9185 18887c578,-194 1929,1028 1570,1731 -84,165 -244,327 -403,420 -11,-651 -1211,-1653 -1882,-1505 97,-242 412,-545 715,-646z" style="fill:#24352b"/>
+   <path class="BraceletBoxer-Mediumfil6" d="M9336 20656c-95,-64 -191,-125 -289,-183 19,-15 38,-30 57,-45 19,-14 39,-28 58,-43 52,31 103,62 155,94 7,-5 14,-11 22,-16 -52,-32 -103,-63 -154,-94 19,-14 38,-28 58,-41 19,-14 39,-28 58,-42 51,30 101,61 151,93 23,-18 46,-35 68,-53 22,-18 43,-36 65,-55 42,28 83,56 125,84 -59,52 -121,103 -185,152 -64,50 -128,98 -189,149zm-396 -244c-90,-48 -181,-94 -274,-138 65,-49 133,-97 203,-144 71,-46 142,-92 211,-140 50,25 99,50 148,75 -39,29 -79,58 -120,86 -41,28 -83,56 -124,84 37,-14 74,-28 111,-42 37,-14 74,-28 111,-42 26,-19 52,-38 77,-57 49,27 97,54 145,81 -19,15 -38,30 -57,45 -19,15 -39,29 -58,43 -63,25 -126,50 -189,74 -62,24 -124,49 -184,75zm-195 -446c-14,9 -29,18 -43,27 64,27 128,55 191,84 -45,29 -91,59 -135,89 -43,29 -86,60 -127,91 -120,-52 -243,-100 -370,-145 20,-15 40,-30 60,-44 20,-14 42,-28 63,-42 65,24 130,49 195,74 11,-7 21,-14 33,-21 -64,-26 -128,-51 -194,-74 48,-30 96,-59 145,-88 48,-29 97,-58 145,-87 115,46 228,94 339,145 -18,12 -37,25 -55,38 -19,12 -38,24 -57,37 -63,-29 -126,-57 -190,-84zm-389 41c-23,15 -46,30 -68,45 -22,16 -44,31 -65,47 -83,-26 -167,-52 -254,-75 -89,-23 -180,-42 -272,-61 51,-10 103,-19 156,-29 52,-9 104,-18 157,-27 26,6 51,13 76,19 54,-32 110,-65 167,-96 56,-32 113,-63 170,-94 62,17 121,37 181,56 -54,32 -109,63 -164,95 -54,31 -107,63 -160,95 26,9 51,17 76,25z" style="fill:#afe1c9"/>
+   <path class="BraceletBoxer-Mediumfil3" d="M9198 22114c32,-123 139,-483 210,-668 -4,191 -71,620 179,702 -84,4 -304,-39 -389,-34z" style="fill:#84aecd"/>
+   <path class="BraceletBoxer-Mediumfil4 BraceletBoxer-Mediumstr0" d="M9190 18907c578,-193 1924,1008 1565,1711 -84,165 -212,311 -372,404 -125,459 -116,1635 -1090,1071 -93,269 -274,526 -577,535 -761,22 -1775,-844 -1611,-1674 104,-523 758,-1373 1425,-1457 96,-242 357,-488 660,-590z" style="fill:#16a1c2"/>
+   <path class="BraceletBoxer-Mediumfil1" d="M9403 21473c-41,435 453,676 651,502 2,298 -473,337 -724,127 23,-210 50,-420 73,-629z" style="fill:#6143ca"/>
+   <path class="BraceletBoxer-Mediumfil4 BraceletBoxer-Mediumstr1" d="M9187 19672c-80,-175 -86,-270 -27,-358 114,-170 300,-319 457,-332" style="fill:#d41866"/>
+   <path class="BraceletBoxer-Mediumfil1" d="M9564 18968c-367,-138 -760,114 -1064,534 207,-6 486,66 664,138 -90,-243 55,-443 400,-672z" style="fill:#f94537"/>
+   <path class="BraceletBoxer-Mediumfil1" d="M9299 22096c-162,490 -544,531 -583,532 -761,22 -1775,-844 -1611,-1674 65,-326 364,-912 777,-1095 -695,964 395,2723 1417,2237z" style="fill:#471d89"/>
+  </g>
+ </g><g id="Head-Lizard4">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_374Corel-Layer"/>
+  <path class="Head-Lizard4fil693" d="M13677 17826c-881,0 -1733,-38 -2517,-162 -1703,-270 -4006,-1866 -4284,-3648 -49,-315 626,350 628,-156 2,-371 -381,-706 -227,-1549 58,-316 492,459 615,-165 100,-509 492,-1138 617,-1294 -240,-291 -508,-437 -580,-604 -63,-144 53,-272 371,-302 336,-50 442,-52 771,-62 28,-169 -288,-721 -172,-762 302,-107 570,-37 848,42 141,-71 273,-146 390,-224 1009,-673 2198,-1146 3545,-1146 1347,0 2536,473 3545,1146 117,78 249,153 390,224 278,-79 546,-149 847,-42 117,41 -200,593 -171,762 329,10 435,12 771,62 318,30 434,158 371,302 -72,167 -340,313 -580,604 125,156 517,785 617,1294 123,624 557,-151 615,165 154,843 -229,1178 -227,1549 2,506 677,-159 628,156 -278,1782 -2581,3378 -4284,3648 -784,124 -1646,162 -2527,162z" style="fill:#adcc7b"/>
+  <path class="Head-Lizard4fil686" d="M13654 12622c1381,0 2500,896 2500,2000 0,1105 -1119,2000 -2500,2000 -1381,0 -2500,-895 -2500,-2000 0,-1104 1119,-2000 2500,-2000z" style="fill:#f1454f"/>
+  <path class="Head-Lizard4fil694" d="M8167 12667c-55,-96 -9,-176 30,-209l341 -332 -91 -217c-67,-126 -6,-208 27,-278l312 -472 -126 -385c-14,-41 -58,-104 80,-207 765,-695 613,-557 905,-832 21,-16 88,-58 92,-7 5,6 64,309 71,345l398 -406 -30 -389c0,-123 43,-132 122,-211l457 -418c85,-88 471,-337 83,17l-544 503 36 381c125,-129 250,-259 377,-387 21,-18 68,-45 79,-1 0,107 37,249 52,359l382 -428c-2,-41 -16,-472 -15,-473 33,-404 120,-410 117,-50l14 397c38,-43 345,-395 358,-402 30,-31 65,-40 70,-2 4,6 39,331 44,372 641,-812 452,-567 766,-971 14,-20 75,-66 71,-11 -61,0 155,870 173,937l252 -404c16,-35 57,-54 78,-7 -15,11 119,360 133,403 426,-788 364,-684 440,-859 76,175 13,71 439,859 14,-43 148,-392 133,-403 22,-47 63,-28 78,7l252 404c18,-67 235,-937 173,-937 -4,-55 58,-9 71,11 315,404 125,159 767,971 4,-41 39,-366 44,-372 4,-38 39,-29 69,2 13,7 320,359 359,402l14 -397c-4,-360 84,-354 116,50 1,1 -13,432 -14,473l381 428c16,-110 52,-252 52,-359 11,-44 58,-17 80,1 126,128 251,258 377,387l35 -381 -544 -503c-388,-354 -2,-105 84,-17l456 418c79,79 122,88 122,211l-30 389 398 406c7,-36 67,-339 71,-345 4,-51 71,-9 92,7 293,275 141,137 906,832 137,103 93,166 80,207l-127 385 312 472c33,70 94,152 28,278l-92 217 341 332c39,33 85,113 31,209 -200,334 -360,479 -306,332l216 -423c-244,-243 -479,-478 -719,-724 -69,147 -136,296 -208,442 -167,-190 -684,-717 -840,-888l-126 294c-18,-1 -35,-1 -53,-1 -57,0 -113,4 -168,12 -232,-273 -451,-536 -678,-813 -136,312 -271,609 -416,919l300 392c-26,36 -51,74 -74,113 -216,-283 -430,-564 -644,-848 -162,324 -319,621 -492,940l309 431c23,-43 219,-409 227,-412 118,-224 267,-53 68,161 -180,321 -358,634 -543,952l307 427c24,-40 241,-417 244,-417 26,-44 74,-43 105,-15 30,68 527,696 680,899 61,59 110,56 -41,322l-230 385 287 394c33,-56 240,-418 260,-433 23,-37 69,-53 104,-23 30,23 222,290 262,342l285 -465c-291,-374 -161,-309 -194,-479l277 347c114,-195 163,-241 306,-283 -197,332 -395,659 -596,988 -86,211 -269,-116 -390,-278l-259 431c0,1 0,2 -1,3l-306 487c-16,-207 68,-341 171,-504 -204,-280 -408,-559 -612,-838 -199,326 -398,651 -600,976l250 366 -173 0c-161,-236 -323,-467 -488,-700 -145,236 -292,466 -440,700l-164 0 205 -323c-218,-317 -435,-637 -656,-951 -222,314 -439,634 -656,951l204 323 -164 0c-148,-234 -294,-464 -440,-700 -165,233 -326,464 -488,700l-173 0 250 -366c-201,-325 -400,-650 -599,-976 -205,279 -408,558 -613,838 103,163 187,297 171,504l-305 -487c-2,-1 -2,-2 -2,-3l-259 -431c-121,162 -303,489 -390,278 -201,-329 -398,-656 -595,-988 143,42 192,88 305,283l278 -347c-34,170 97,105 -195,479l285 465c40,-52 233,-319 262,-342 36,-30 81,-14 104,23 20,15 227,377 261,433l286 -394 -230 -385c-150,-266 -102,-263 -41,-322 153,-203 650,-831 680,-899 32,-28 80,-29 105,15 3,0 220,377 244,417l308 -427c-186,-318 -364,-631 -543,-952 -200,-214 -51,-385 68,-161 7,3 203,369 227,412l308 -431c-173,-319 -330,-616 -491,-940 -214,284 -429,565 -644,848 -23,-39 -48,-77 -75,-113l301 -392c-145,-310 -280,-607 -417,-919 -227,277 -446,540 -678,813 -55,-8 -111,-12 -168,-12 -17,0 -35,0 -52,1l-126 -294c-157,171 -674,698 -841,888 -71,-146 -139,-295 -208,-442 -240,246 -474,481 -719,724l216 423c54,147 -106,2 -305,-332zm5554 -4415c-125,258 -233,462 -390,752l193 446 197 -365 197 365 192 -446c-157,-290 -264,-494 -389,-752zm0 1072c-153,280 -306,544 -467,822l229 447c78,-135 156,-274 238,-407 81,133 159,272 238,407l228 -447c-161,-278 -314,-542 -466,-822zm0 1105c-173,295 -341,565 -523,858l251 449c34,-55 246,-406 272,-423 26,17 237,368 272,423l251 -449c-183,-293 -350,-563 -523,-858zm0 1118c-188,297 -376,586 -569,882l268 451c62,-95 207,-336 268,-409 9,-10 20,-17 33,-21 12,4 23,11 32,21 62,73 206,314 268,409l268 -451c-193,-296 -380,-585 -568,-882zm0 1122c-201,304 -401,600 -605,902l279 452c26,-39 270,-404 276,-407 14,-14 32,-23 50,-23 18,0 35,9 49,23 7,3 250,368 277,407l279 -452c-205,-302 -405,-598 -605,-902zm0 1120c-211,309 -423,616 -635,924l285 453c77,-113 197,-311 280,-407 18,-19 44,-27 70,-19 25,-8 51,0 69,19 83,96 203,294 281,407l285 -453c-213,-308 -424,-615 -635,-924zm4094 -3915c284,268 568,533 854,800l-118 383c-101,-97 -257,-267 -361,-345 -32,-26 -78,-29 -92,6 5,4 -108,326 -120,362l-379 -389c92,-306 150,-511 216,-817zm382 987c435,429 335,327 726,881l-119 286c-79,-81 -244,-270 -322,-329 -34,-25 -79,-25 -98,13 -68,104 -122,262 -175,379l-345 -375c119,-293 226,-559 333,-855zm-1434 -1543c282,286 564,574 843,862l-112 398c-114,-123 -240,-249 -350,-374 -34,-28 -76,-33 -88,4 -1,1 -109,337 -121,373l-360 -416c95,-347 137,-502 188,-847zm391 1043c260,286 508,551 775,832l-170 413c-32,-35 -326,-353 -328,-361 -33,-26 -78,-29 -97,12 -3,0 -149,349 -164,386l-346 -406c117,-297 223,-577 330,-876zm-1374 -1638c266,304 531,607 799,909l-109 410 -319 -385c-22,-26 -79,-57 -92,-7 -32,48 -100,308 -123,383l-333 -433c88,-353 129,-527 177,-877zm364 1087c246,298 494,591 744,885l-163 423c-58,-70 -271,-346 -322,-385 -27,-25 -74,-36 -91,7 0,1 -149,355 -165,394l-330 -427c124,-316 221,-577 327,-897zm-1256 -1691c243,315 484,622 730,934l-112 422c-90,-122 -204,-298 -300,-407 -27,-31 -63,-37 -78,2 0,13 -110,346 -125,393l-292 -444c93,-372 131,-532 177,-900zm315 1117c229,308 460,613 691,920l-168 431 -289 -392c-9,-28 -76,-56 -97,-5 0,0 -155,362 -171,401l-302 -441c136,-336 229,-573 336,-914zm212 1119c227,313 440,593 676,902l-208 440 -289 -384c-16,-38 -79,-47 -105,-1 -1,0 -182,366 -201,405l-308 -437c151,-311 293,-611 435,-925zm328 3360c215,286 429,570 643,856l-278 462c-41,-56 -246,-348 -277,-371 -33,-33 -81,-22 -105,15 -88,133 -173,286 -257,424l-300 -421c194,-322 383,-641 574,-965zm-1387 -5069c198,317 397,625 603,937l-178 440 -255 -400c-24,-36 -68,-54 -91,-5 -2,1 -166,364 -184,404l-261 -444c144,-337 247,-590 366,-932zm136 1137c204,316 406,616 616,929l-215 444 -267 -397c-31,-36 -72,-52 -102,-2 1,0 -188,367 -208,406l-281 -443c168,-326 308,-604 457,-937zm96 1138c24,36 266,398 266,398l367 522 -245 448 -270 -391c-27,-41 -80,-46 -108,-2 -86,130 -156,274 -233,410l-289 -443c175,-316 344,-622 512,-942zm69 1139c215,307 426,605 645,910l-262 453 -276 -389c-17,-37 -83,-42 -111,3 -17,13 -214,357 -245,409l-300 -439c190,-319 368,-624 549,-947zm57 1140c214,300 428,600 643,899l-277 458c-29,-39 -281,-388 -281,-392 -36,-35 -108,-19 -108,12 -7,5 -229,371 -255,413l-303 -440c196,-318 390,-630 581,-950zm40 1138c211,297 423,593 635,890l-288 463c-80,-114 -188,-290 -275,-388 -35,-34 -81,-24 -108,14 -8,6 -233,371 -259,414l-302 -439c200,-318 400,-634 597,-954zm-5127 -4464c-285,268 -568,533 -855,800l118 383c101,-97 257,-267 361,-345 33,-26 78,-29 92,6 -5,4 109,326 121,362l378 -389c-92,-306 -149,-511 -215,-817zm-383 987c-434,429 -334,327 -726,881l120 286c79,-81 244,-270 321,-329 34,-25 80,-25 98,13 69,104 122,262 176,379l344 -375c-119,-293 -226,-559 -333,-855zm1434 -1543c-282,286 -563,574 -843,862l112 398c114,-123 240,-249 350,-374 34,-28 77,-33 88,4 1,1 110,337 122,373l360 -416c-96,-347 -138,-502 -189,-847zm-391 1043c-260,286 -508,551 -775,832l170 413c32,-35 326,-353 329,-361 32,-26 78,-29 96,12 3,0 149,349 165,386l345 -406c-116,-297 -223,-577 -330,-876zm1375 -1638c-266,304 -532,607 -800,909l110 410 318 -385c23,-26 80,-57 92,-7 32,48 100,308 124,383l333 -433c-88,-353 -130,-527 -177,-877zm-365 1087c-246,298 -493,591 -743,885l162 423c59,-70 272,-346 322,-385 27,-25 74,-36 91,7 0,1 149,355 166,394l330 -427c-125,-316 -222,-577 -328,-897zm1256 -1691c-242,315 -483,622 -730,934l112 422c90,-122 205,-298 301,-407 27,-31 62,-37 78,2 0,13 110,346 124,393l292 -444c-93,-372 -130,-532 -177,-900zm-315 1117c-229,308 -460,613 -691,920l169 431 289 -392c9,-28 75,-56 96,-5 0,0 155,362 171,401l302 -441c-136,-336 -228,-573 -336,-914zm-212 1119c-227,313 -439,593 -676,902l208 440 289 -384c17,-38 79,-47 105,-1 1,0 182,366 201,405l308 -437c-151,-311 -292,-611 -435,-925zm-327 3360c-215,286 -430,570 -644,856l278 462c41,-56 247,-348 278,-371 33,-33 80,-22 105,15 88,133 173,286 256,424l300 -421c-194,-322 -383,-641 -573,-965zm1387 -5069c-198,317 -397,625 -604,937l179 440 255 -400c24,-36 67,-54 90,-5 2,1 166,364 185,404l260 -444c-143,-337 -247,-590 -365,-932zm-136 1137c-205,316 -406,616 -617,929l216 444 266 -397c32,-36 72,-52 102,-2 -1,0 188,367 208,406l281 -443c-167,-326 -307,-604 -456,-937zm-97 1138c-23,36 -266,398 -266,398l-367 522 245 448 271 -391c27,-41 79,-46 107,-2 87,130 156,274 233,410l289 -443c-175,-316 -344,-622 -512,-942zm-69 1139c-215,307 -426,605 -645,910l262 453 277 -389c16,-37 82,-42 110,3 18,13 214,357 245,409l301 -439c-190,-319 -369,-624 -550,-947zm-57 1140c-214,300 -427,600 -643,899l278 458c28,-39 280,-388 280,-392 37,-35 108,-19 108,12 8,5 229,371 255,413l303 -440c-195,-318 -390,-630 -581,-950zm-39 1138c-212,297 -423,593 -635,890l287 463c80,-114 188,-290 275,-388 35,-34 81,-24 108,14 8,6 233,371 259,414l302 -439c-200,-318 -399,-634 -596,-954z" style="fill:#413dca"/>
+  <path class="Head-Lizard4fil32" d="M8564 10788c27,31 23,78 -8,105 -31,27 -79,24 -106,-7 -73,-86 -172,-172 -267,-255 -99,-85 -193,-168 -258,-249 -111,-138 -141,-266 6,-384 102,-82 253,-137 431,-163 176,-27 382,-26 593,2 85,11 5,-151 -36,-237 -105,-220 -221,-463 -5,-560 189,-86 532,-72 853,51 245,94 479,251 629,476 33,62 62,-38 70,-68 58,-207 134,-479 363,-503 207,-21 460,88 687,269 93,75 392,408 367,697 -71,-180 -248,-411 -460,-580 -198,-158 -412,-254 -579,-237 -128,13 -188,230 -234,394 -32,117 -59,213 -118,248 -65,38 -128,16 -195,-98 -129,-217 -350,-369 -583,-458 -286,-109 -582,-125 -738,-55 -76,34 5,205 78,359 59,124 115,240 103,327 -12,93 -75,143 -222,124 -197,-27 -388,-27 -551,-3 -153,23 -279,67 -359,131 -58,47 -38,106 16,174 56,70 146,148 241,230 97,86 199,175 282,270z" style="fill:#b34b49"/>
+  <path class="Head-Lizard4fil32" d="M12211 17798c-190,23 -543,-4 -614,-12 -151,-18 -298,-28 -449,-52 -921,-146 -2012,-669 -2873,-1402 -759,-646 -1340,-1453 -1473,-2305 -17,-111 23,-161 101,-173 63,-10 143,23 231,60 79,33 166,68 226,69 40,0 69,-29 69,-123 1,-117 -38,-241 -97,-378 -122,-289 -232,-799 -128,-1185 22,-122 83,-153 167,-138 52,10 106,44 164,81 53,34 110,71 157,80 49,10 95,-28 126,-188 42,-209 130,-437 229,-644 129,-271 278,-510 366,-633l151 -54c25,27 27,68 4,98 -74,91 -242,350 -386,653 -95,198 -178,413 -217,608 -54,276 -170,333 -301,307 -74,-14 -145,-60 -210,-101 -60,-36 -95,-66 -111,2 -90,394 35,810 130,1062 57,153 107,286 106,431 -1,207 -93,272 -220,271 -89,0 -190,-42 -281,-80 -105,-45 -123,-14 -108,63 158,773 701,1507 1401,2103 841,716 1898,1247 2793,1389 144,22 293,67 446,84 88,10 245,45 601,107zm-2472 -8714c59,-30 118,-62 175,-95 65,-37 126,-74 182,-111 228,-152 459,-305 706,-434 235,-123 464,-238 729,-327 40,-13 418,-149 739,-147 -279,78 -658,245 -696,261 -239,102 -476,227 -704,346 -241,126 -467,275 -691,425 -62,41 -126,80 -191,118 -65,37 -133,73 -206,110l-43 -146z" style="fill:#fdd172"/>
+  <path class="Head-Lizard4fil32" d="M18800 10788c-27,31 -23,78 8,105 31,27 78,24 105,-7 74,-86 173,-172 268,-255 98,-85 193,-168 258,-249 111,-138 141,-266 -6,-384 -102,-82 -253,-137 -431,-163 -177,-27 -382,-26 -593,2 -86,11 -5,-151 36,-237 105,-220 220,-463 5,-560 -189,-86 -532,-72 -854,51 -244,94 -479,251 -628,476 -34,62 -62,-38 -70,-68 -58,-207 -134,-479 -363,-503 -207,-21 -461,88 -687,269 -94,75 -392,408 -368,697 71,-180 249,-411 461,-580 198,-158 412,-254 579,-237 127,13 188,230 234,394 32,117 59,213 118,248 65,38 128,16 195,-98 129,-217 350,-369 583,-458 286,-109 582,-125 738,-55 76,34 -5,205 -79,359 -59,124 -114,240 -102,327 12,93 75,143 222,124 196,-27 388,-27 551,-3 153,23 279,67 359,131 57,47 38,106 -17,174 -56,70 -146,148 -240,230 -97,86 -200,175 -282,270z" style="fill:#dc8f29"/>
+  <path class="Head-Lizard4fil14" d="M11299 17685c-47,-7 -93,-14 -139,-21 -1703,-270 -4006,-1866 -4284,-3648 -49,-315 626,350 628,-156 187,2105 2275,3486 3795,3825z" style="fill:#64e922"/>
+  <path class="Head-Lizard4fil32" d="M15153 17798c189,23 543,-4 614,-12 151,-18 298,-28 449,-52 920,-146 2012,-669 2873,-1402 758,-646 1340,-1453 1473,-2305 17,-111 -23,-161 -101,-173 -63,-10 -143,23 -232,60 -78,33 -165,68 -225,69 -40,0 -69,-29 -70,-123 0,-117 39,-241 97,-378 123,-289 232,-799 129,-1185 -22,-122 -83,-153 -168,-138 -52,10 -105,44 -163,81 -53,34 -111,71 -157,80 -49,10 -95,-28 -126,-188 -42,-209 -130,-437 -229,-644 -129,-271 -278,-510 -367,-633l-151 -54c-24,27 -26,68 -3,98 74,91 241,350 386,653 94,198 178,413 216,608 55,276 171,333 302,307 74,-14 145,-60 210,-101 60,-36 95,-66 111,2 90,394 -35,810 -130,1062 -57,153 -107,286 -106,431 1,207 93,272 219,271 90,0 191,-42 282,-80 105,-45 122,-14 108,63 -158,773 -702,1507 -1401,2103 -841,716 -1898,1247 -2793,1389 -145,22 -293,67 -447,84 -87,10 -244,45 -600,107zm2472 -8714c-59,-30 -118,-62 -175,-95 -65,-37 -126,-74 -182,-111 -228,-152 -459,-305 -707,-434 -234,-123 -463,-238 -729,-327 -39,-13 -417,-149 -738,-147 279,78 658,245 696,261 239,102 476,227 704,346 241,126 467,275 691,425 62,41 125,80 191,118 64,37 133,73 205,110l44 -146z" style="fill:#4392ee"/>
+ </g><g id="Mouth-Lizard7">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_385Corel-Layer"/>
+  <path class="Mouth-Lizard7fil728" d="M13682 17844c-963,0 -1475,-57 -2157,-142 -532,-124 -1101,-487 -1501,-975 -278,-340 -428,-717 -778,-1021 689,716 3005,-170 4436,-167 1431,-3 3747,883 4436,167 -350,304 -500,681 -778,1021 -400,488 -969,851 -1502,975 -681,85 -1193,142 -2156,142z" style="fill:#0d12fc"/>
+  <path class="Mouth-Lizard7fil22 Mouth-Lizard7str0" d="M9210 15673c1030,853 2838,-134 4472,-134" style="fill:#87b373"/>
+  <path class="Mouth-Lizard7fil100" d="M9598 15966c1231,517 2767,825 4084,825 1317,0 2853,-308 4084,-825 -1201,174 -2773,-427 -4084,-427 -1311,0 -2883,601 -4084,427z" style="fill:#a13e80"/>
+  <path class="Mouth-Lizard7fil22 Mouth-Lizard7str0" d="M18154 15673c-1030,853 -2838,-134 -4472,-134" style="fill:#84c0e3"/>
+  <path class="Mouth-Lizard7fil151" d="M12405 16574c491,-73 718,-441 1279,-173 411,-246 813,75 1318,133 -966,170 -1593,203 -2597,40z" style="fill:#20c622"/>
+  <path class="Mouth-Lizard7fil729" d="M11393 15992c73,156 320,495 494,505 170,-79 245,-491 236,-664 -190,54 -539,112 -730,159z" style="fill:#febfcf"/>
+  <path class="Mouth-Lizard7fil730" d="M12296 15804c12,146 170,368 324,404 108,-41 171,-296 174,-502 -125,22 -373,62 -498,98z" style="fill:#204949"/>
+  <path class="Mouth-Lizard7fil731" d="M15970 15992c-72,156 -319,495 -493,505 -170,-79 -245,-491 -237,-664 191,54 540,112 730,159z" style="fill:#0f5615"/>
+  <path class="Mouth-Lizard7fil732" d="M15068 15804c-12,146 -170,368 -324,404 -108,-41 -171,-296 -174,-502 124,22 373,62 498,98z" style="fill:#620c03"/>
+ </g><g id="Eyes-Lizard6">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_393Corel-Layer"/>
+  <path class="Eyes-Lizard6fil14" d="M7970 13978c-139,-654 55,-1614 677,-2434 111,-147 269,-358 464,-468 -1331,-963 2210,-479 2742,232 533,710 828,2205 15,3344 -989,1386 -3530,1048 -3898,-674z"/>
+  <g>
+        <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0 13300;0"/> 
+        <g>
+            <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="scale" values="1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1 0.01;1"/> 
+            <path class="Eyes-Lizard6fil764" d="M8524 14352c557,809 2184,744 2842,77 467,-472 521,-1738 252,-2569 -666,-234 -1813,-252 -2891,-73 -426,685 -700,1844 -203,2565z"/>
+            <path class="Eyes-Lizard6fil765" d="M8660 14513c17,17 35,33 54,49 402,-276 874,-554 1413,-789 -424,337 -770,681 -1052,1011 24,10 48,20 73,29 308,-292 657,-576 1053,-829 -232,292 -440,611 -612,938 32,5 64,8 97,11 186,-271 391,-547 620,-795 -109,262 -197,534 -246,802 35,-2 71,-5 106,-8 76,-255 174,-515 295,-756l-3 710c29,-6 57,-13 86,-20l84 -628 177 544c19,-7 37,-15 56,-23l3 -1 1 0 1 -1 1 0 1 -1c4,-2 8,-3 12,-5l-110 -588 304 489c22,-13 44,-26 65,-40l-257 -554 457 397 1 0 0 0 0 0c9,-9 18,-17 26,-26 10,-10 20,-21 30,-32l-446 -500 588 290c14,-27 28,-55 41,-84l-574 -373 650 169c12,-39 23,-79 33,-120l-670 -290 713 89c5,-30 10,-59 14,-89l-721 -174 741 0c3,-29 5,-59 7,-89l-754 -84 761 -64c1,-35 1,-71 1,-107l-768 -33 766 -107c-2,-40 -4,-81 -6,-121l-698 -1 687 -137c-4,-37 -8,-73 -13,-109l-705 48 681 -212c-7,-42 -15,-83 -23,-124l-696 101 658 -263c-9,-35 -19,-70 -30,-105l-671 164 504 -259c-72,-20 -148,-38 -228,-54l-344 121 217 -144c-211,-34 -443,-56 -690,-65 10,28 19,57 28,85 -19,-29 -38,-57 -57,-86 -60,-2 -120,-3 -182,-3 44,64 87,128 127,194 -78,-67 -157,-132 -239,-194 -77,0 -154,2 -233,5 137,121 268,248 392,381 -222,-139 -442,-261 -661,-367 -64,4 -128,9 -192,15 280,155 545,329 797,519 -453,-213 -952,-352 -1467,-435l-7 2c-12,18 -23,37 -34,57 502,147 986,328 1421,562 -510,-161 -1030,-245 -1583,-244 -11,26 -23,52 -33,79 555,69 1090,205 1604,394 -581,-76 -1152,-96 -1724,-51 -6,21 -12,43 -18,65 605,7 1199,70 1744,207 -591,-28 -1213,1 -1812,115 -5,32 -10,63 -14,95 591,-50 1185,-67 1774,-41 -598,58 -1196,179 -1794,368 0,18 0,36 0,54 591,-134 1191,-219 1801,-243 -615,126 -1206,302 -1770,554 3,16 6,32 9,48 571,-195 1150,-310 1724,-395 -553,178 -1095,409 -1624,713 6,15 13,30 21,45 517,-244 1061,-447 1640,-594 -532,280 -1013,611 -1399,938z"/>
+            <path class="Eyes-Lizard6fil766" d="M11303 11751c-414,-77 -923,-101 -1457,-74 -200,422 -333,965 -316,1475 31,955 426,1454 1095,1265 669,-189 859,-1402 758,-2230 -19,-155 -46,-301 -80,-436z"/>
+            <circle class="Eyes-Lizard6fil152" r="235" transform="matrix(0.386601 -0.693281 1.39025 0.889533 9274.35 14376.1)"/>
+            <circle class="Eyes-Lizard6fil152" r="235" transform="matrix(0.437299 -0.127093 0.239024 0.657032 8790.54 13824.5)"/>
+            <path class="Eyes-Lizard6fil152" d="M11142 12356c444,10 642,1002 9,1002 -578,0 -435,-1012 -9,-1002z"/>
+            <path class="Eyes-Lizard6fil22 Eyes-Lizard6str0" d="M8524 14352c557,809 2184,744 2842,77 467,-472 521,-1738 252,-2569 -130,-270 -2715,-300 -2891,-73 -426,685 -700,1844 -203,2565z"/>
+            <path class="Eyes-Lizard6fil740" d="M11773 12726c-19,-306 -71,-607 -155,-866 -666,-234 -1813,-252 -2891,-73 -168,270 -312,614 -395,975 791,-984 2882,-820 3441,-36z"/>
+        </g>
+    </g>
+    <path class="Eyes-Lizard6fil14" d="M19394 13978c139,-654 -55,-1614 -677,-2434 -111,-147 -269,-358 -464,-468 1331,-963 -2210,-479 -2743,232 -532,710 -827,2205 -14,3344 989,1386 3530,1048 3898,-674z"/>
+  <g>
+        <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0 13300;0"/> 
+        <g>
+            <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="scale" values="1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1;1 0.01;1"/> 
+            <path class="Eyes-Lizard6fil767" d="M18840 14352c-557,809 -2184,744 -2842,77 -467,-472 -521,-1738 -253,-2569 667,-234 1813,-252 2892,-73 426,685 700,1844 203,2565z"/>
+            <path class="Eyes-Lizard6fil768" d="M18704 14513c-18,17 -35,33 -54,49 -402,-276 -874,-554 -1413,-789 424,337 770,681 1052,1011 -24,10 -48,20 -73,29 -308,-292 -657,-576 -1053,-829 231,292 440,611 612,938 -32,5 -65,8 -97,11 -186,-271 -391,-547 -620,-795 109,262 197,534 246,802 -35,-2 -71,-5 -106,-8 -76,-255 -174,-515 -295,-756l3 710c-29,-6 -57,-13 -86,-20l-84 -628 -177 544c-19,-7 -38,-15 -56,-23l-3 -1 -1 0 -1 -1 -1 0 -1 -1c-4,-2 -8,-3 -12,-5l110 -588 -304 489c-22,-13 -44,-26 -65,-40l257 -554 -457 397 -1 0 0 0 0 0c-9,-9 -18,-17 -26,-26 -10,-10 -20,-21 -30,-32l446 -500 -588 290c-14,-27 -28,-55 -41,-84l573 -373 -649 169c-12,-39 -23,-79 -34,-120l671 -290 -713 89c-5,-30 -10,-59 -14,-89l721 -174 -741 0c-3,-29 -5,-59 -7,-89l754 -84 -761 -64c-1,-35 -1,-71 -1,-107l768 -33 -766 -107c2,-40 4,-81 6,-121l698 -1 -687 -137c4,-37 8,-73 12,-109l706 48 -681 -212c7,-42 15,-83 23,-124l695 101 -657 -263c9,-35 19,-70 30,-105l671 164 -504 -259c72,-20 148,-38 228,-54l344 121 -217 -144c210,-34 443,-56 690,-65 -10,28 -19,57 -28,85 19,-29 38,-57 57,-86 60,-2 120,-3 181,-3 -43,64 -86,128 -126,194 78,-67 157,-132 239,-194 76,0 154,2 233,5 -137,121 -268,248 -392,381 222,-139 442,-261 661,-367 63,4 127,9 192,15 -280,155 -545,329 -797,519 453,-213 952,-352 1466,-435l8 2c11,18 23,37 34,57 -502,147 -987,328 -1421,562 510,-161 1030,-245 1583,-244 11,26 22,52 33,79 -555,69 -1090,205 -1604,394 580,-76 1152,-96 1724,-51 6,21 12,43 18,65 -605,7 -1199,70 -1745,207 592,-28 1214,1 1813,115 5,32 10,63 14,95 -591,-50 -1185,-67 -1775,-41 599,58 1197,179 1795,368 0,18 0,36 0,54 -592,-134 -1191,-219 -1801,-243 614,126 1205,302 1770,554 -3,16 -6,32 -9,48 -571,-195 -1151,-310 -1724,-395 553,178 1095,409 1624,713 -7,15 -13,30 -21,45 -517,-244 -1061,-447 -1640,-594 532,280 1013,611 1399,938z"/>
+            <path class="Eyes-Lizard6fil769" d="M16143 11751c414,-77 922,-101 1456,-74 200,422 333,965 317,1475 -31,955 -426,1454 -1096,1265 -669,-189 -859,-1402 -758,-2230 19,-155 46,-301 81,-436z"/>
+            <circle class="Eyes-Lizard6fil152" r="235" transform="matrix(0.386601 -0.693281 1.39025 0.889533 16701 14412.4)"/>
+            <circle class="Eyes-Lizard6fil152" r="235" transform="matrix(0.437299 -0.127093 0.239024 0.657032 16208.1 13833.6)"/>
+            <path class="Eyes-Lizard6fil152" d="M18061 12286c444,10 642,1002 9,1002 -578,0 -434,-1012 -9,-1002z"/>
+            <path class="Eyes-Lizard6fil22 Eyes-Lizard6str0" d="M18840 14352c-557,809 -2184,744 -2842,77 -467,-472 -521,-1738 -253,-2569 130,-270 2716,-300 2892,-73 426,685 700,1844 203,2565z"/>
+            <path class="Eyes-Lizard6fil740" d="M15591 12726c18,-306 71,-607 154,-866 667,-234 1813,-252 2892,-73 168,270 312,614 395,975 -791,-984 -2882,-820 -3441,-36z"/>
+        </g>
+    </g>
+ </g><g id="Moustache-Lizard1">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_399Corel-Layer"/>
+  <path class="Moustache-Lizard1fil792" d="M10515 15256c68,-8 130,42 138,110 8,69 -41,130 -110,138 -759,90 -907,492 -846,1007 83,703 653,1782 326,2550 51,-926 -473,-1660 -574,-2522 -78,-657 108,-1170 1066,-1283z" style="fill:#0f1aa0"/>
+  <path class="Moustache-Lizard1fil32" d="M10582 15493c-263,110 -499,58 -729,384 -116,164 -136,382 -107,628 26,221 102,482 182,758 174,603 370,1279 141,1817 -11,26 -40,38 -66,27 -20,-9 -32,-29 -30,-50 29,-526 -133,-993 -293,-1457 -119,-344 -238,-688 -281,-1055 -40,-340 -11,-644 154,-880 178,-256 599,-481 1011,-405 -208,-3 -649,60 -929,462 -149,213 -174,494 -137,811 43,358 159,696 276,1035 126,363 252,728 290,1124 47,-439 -99,-942 -232,-1401 -81,-281 -158,-546 -185,-775 -31,-268 -8,-509 125,-697 76,-108 252,-214 436,-268 161,-46 291,-38 374,-58z" style="fill:#a7881d"/>
+  <path class="Moustache-Lizard1fil792" d="M16849 15256c-69,-8 -130,42 -138,110 -8,69 41,130 110,138 759,90 907,492 846,1007 -83,703 -653,1782 -326,2550 -51,-926 473,-1660 574,-2522 77,-657 -108,-1170 -1066,-1283z" style="fill:#280ae6"/>
+  <path class="Moustache-Lizard1fil32" d="M16782 15493c263,110 499,58 728,384 116,164 136,382 107,628 -26,221 -101,482 -181,758 -175,603 -370,1279 -141,1817 11,26 40,38 66,27 20,-9 31,-29 30,-50 -29,-526 132,-993 293,-1457 119,-344 237,-688 281,-1055 40,-340 11,-644 -154,-880 -178,-256 -599,-481 -1011,-405 208,-3 649,60 929,462 149,213 174,494 136,811 -42,358 -158,696 -275,1035 -126,363 -252,728 -290,1124 -47,-439 99,-942 232,-1401 81,-281 158,-546 185,-775 31,-268 8,-509 -125,-697 -76,-108 -253,-214 -436,-268 -161,-46 -291,-38 -374,-58z" style="fill:#097f33"/>
+ </g><g id="AccessoryFlaskWithWater">
+  <metadata id="CorelCorpID_4Corel-Layer"/>
+  <g id="_3081300005968">
+   <path class="AccessoryFlaskWithWaterfil78 AccessoryFlaskWithWaterstr1" d="M3672 22908c-76,-75 -537,-519 -628,-419 -1100,1197 -535,2014 -228,2459 118,171 208,301 208,435 0,213 -140,319 -524,319 -299,0 -1003,213 -1376,432 -37,21 -69,42 -94,60 213,65 667,95 1476,61 1632,-67 2345,-221 2822,-324 579,-125 831,-180 1821,51 309,72 1091,-57 1555,-249 94,-39 171,-79 221,-118 -24,-12 -59,-27 -107,-46 -91,-36 -329,-37 -601,-39 -512,-4 -1128,-8 -1438,-269 -772,-649 -903,-1805 -958,-2287 -10,-83 -16,-144 -20,-158 -38,-138 -79,165 -240,202 -600,138 -1543,354 -1889,-110zm-922 -690c382,-416 1212,415 1214,418l0 0c8,8 16,17 23,28 182,264 980,81 1485,-35 377,-86 650,-149 713,82 13,49 22,121 33,219 49,436 168,1480 818,2027 199,168 736,171 1183,174 311,3 585,4 743,66 206,80 322,181 369,292 62,152 12,288 -120,407 -83,75 -207,144 -355,205 -522,216 -1426,357 -1797,270 -903,-210 -1129,-161 -1647,-49 -488,105 -1218,263 -2891,332 -966,40 -1487,-16 -1716,-119 -238,-107 -289,-262 -206,-443 49,-107 167,-210 324,-302 421,-248 1228,-488 1577,-488 91,0 124,135 124,81 0,-12 -59,-97 -136,-209 -371,-537 -1053,-1523 262,-2956zm6212 3422c3,9 4,12 0,1l0 -1z" style="fill:#72d13d"/>
+   <path class="AccessoryFlaskWithWaterfil79" d="M4884 25502l921 0c594,0 756,-1525 756,-1964 0,-665 -223,-1186 -542,-1505 -407,-407 -751,-724 -751,-1269 -166,-13 -283,-15 -384,-13 -101,-2 -219,0 -384,13 0,545 -345,862 -752,1269 -319,319 -542,840 -542,1505 0,439 162,1964 756,1964l922 0z" style="fill:#033da6"/>
+   <path class="AccessoryFlaskWithWaterfil1" d="M4590 20758c-29,1 -59,3 -90,6 0,545 -345,862 -752,1269 -319,319 -542,840 -542,1505 0,439 162,1964 756,1964l452 0c-515,-276 -808,-1460 -808,-1883 0,-730 -15,-1290 335,-1640 347,-347 568,-769 649,-1221z" style="fill:#433086"/>
+   <path class="AccessoryFlaskWithWaterfil2 AccessoryFlaskWithWaterstr4" d="M4884 25502l921 0c594,0 756,-1525 756,-1964 0,-665 -223,-1186 -542,-1505 -407,-407 -751,-724 -751,-1269 -166,-13 -283,-15 -384,-13 -101,-2 -219,0 -384,13 0,545 -345,862 -752,1269 -319,319 -542,840 -542,1505 0,439 162,1964 756,1964l922 0z" style="fill:#a6af65"/>
+   <path class="AccessoryFlaskWithWaterfil80" d="M4884 20994c198,0 481,-17 653,-52 0,-82 -125,-251 -125,-338 0,-334 0,-425 0,-739 0,-150 -319,-158 -528,-158 -210,0 -529,8 -529,158 0,314 0,405 0,739 0,87 -125,256 -125,338 172,35 455,52 654,52z" style="fill:#d950d8"/>
+   <path class="AccessoryFlaskWithWaterfil48" d="M4884 20994c198,0 481,-17 653,-52 0,-58 -62,-158 -99,-243 -169,23 -390,35 -554,35 -165,0 -386,-12 -555,-35 -37,85 -99,185 -99,243 172,35 455,52 654,52z" style="fill:#04f919"/>
+   <path class="AccessoryFlaskWithWaterfil2 AccessoryFlaskWithWaterstr3" d="M4884 20994c198,0 481,-17 653,-52 0,-82 -125,-251 -125,-338 0,-334 0,-425 0,-739 0,-150 -319,-158 -528,-158 -210,0 -529,8 -529,158 0,314 0,405 0,739 0,87 -125,256 -125,338 172,35 455,52 654,52z" style="fill:#cb56e0"/>
+   <path class="AccessoryFlaskWithWaterfil81 AccessoryFlaskWithWaterstr0" d="M3723 21999c-32,-117 1,-131 147,-276 187,-186 231,-47 275,25 220,411 561,680 781,1091 -117,164 -234,328 -352,493 -243,-492 -607,-841 -851,-1333z" style="fill:#8a3c2d"/>
+   <g>
+    <path class="AccessoryFlaskWithWaterfil82" d="M4486 23679l795 0 0 -419 -795 0 0 419zm895 200l-995 0c-55,0 -100,-45 -100,-100l0 -619c0,-55 45,-100 100,-100l995 0c56,0 100,45 100,100l0 619c0,55 -44,100 -100,100z" style="fill:#54a57b"/>
+    <path class="AccessoryFlaskWithWaterfil15" d="M4636 23529l495 0 0 -119 -495 0 0 119zm-150 150l795 0 0 -419 -795 0 0 419zm895 200l-995 0c-55,0 -100,-45 -100,-100l0 -619c0,-55 45,-100 100,-100l995 0c56,0 100,45 100,100l0 619c0,55 -44,100 -100,100zm0 150l-995 0c-69,0 -132,-28 -177,-73 -45,-45 -73,-108 -73,-177l0 -619c0,-69 28,-132 73,-177l1 0c45,-45 107,-73 176,-73l995 0c69,0 131,28 177,73l0 1c45,45 73,107 73,176l0 619c0,69 -28,131 -73,176l0 1c-45,45 -108,73 -177,73z" id="1" style="fill:#9ba118"/>
+   </g>
+   <path class="AccessoryFlaskWithWaterfil83 AccessoryFlaskWithWaterstr0" d="M5814 21779c-394,521 -845,1032 -1240,1553 183,49 373,65 578,16 329,-417 714,-824 1043,-1241 51,-65 -29,-162 -93,-217 -140,-121 -210,-164 -288,-111z" style="fill:#0acfbc"/>
+   <path class="AccessoryFlaskWithWaterfil84 AccessoryFlaskWithWaterstr0" d="M4634 25589c41,-664 87,-1327 0,-2006 162,-45 328,-46 500,0 67,669 45,1338 0,2006 -167,0 -334,0 -500,0z" style="fill:#0b2ec3"/>
+   <path class="AccessoryFlaskWithWaterfil85 AccessoryFlaskWithWaterstr1" d="M4238 21501c215,19 377,59 646,59 268,0 433,-40 650,-59 62,-6 113,-8 113,-113 0,-105 -165,-145 -226,-138 -179,19 -268,59 -537,59 -270,0 -367,-40 -550,-59 -62,-7 -208,76 -208,138 0,62 51,107 112,113z" style="fill:#a7d9d2"/>
+  </g>
+ </g><g id="Nose-Lizard0">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_400Corel-Layer"/>
+  <g>
+   <path class="Nose-Lizard0fil100" d="M13012 15166c-94,181 -789,71 -592,-308 197,-378 686,127 592,308z" style="fill:#b387a5"/>
+   <path class="Nose-Lizard0fil100" d="M14352 15166c94,181 789,71 592,-308 -197,-378 -687,127 -592,308z" style="fill:#92249b"/>
+  </g>
+ </g><g id="HatUshanka-Medium">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_72Corel-Layer"/>
+  <path class="HatUshanka-Mediumfil679new HatUshanka-Mediumstr0new" d="M22896 14084c732,273 1517,312 2404,81 -41,-245 -146,-449 -299,-689 -717,363 -1269,431 -2009,221 -31,148 -65,240 -96,387z" style="fill:#ebb0f2"/>
+  <path class="HatUshanka-Mediumfil680new HatUshanka-Mediumstr6new" d="M19254 9461c24,1213 2131,2656 3492,3078 1483,459 933,2099 -387,2044 -1146,-48 -2563,-886 -3235,-3157 -276,-934 -51,-1607 130,-1965z" style="fill:#283133"/>
+  <path class="HatUshanka-Mediumfil31new" d="M20588 11368c684,533 1506,969 2158,1171 675,209 928,662 881,1088 -155,-378 -608,-707 -843,-823 106,227 87,422 19,524 -196,-352 -557,-622 -984,-949 100,196 -5,493 -71,600 -206,-515 -559,-962 -1160,-1611z" style="fill:#9983c1"/>
+  <path class="HatUshanka-Mediumfil33new HatUshanka-Mediumstr6new" d="M19254 9461c24,1213 2131,2656 3492,3078 1483,459 933,2099 -387,2044 -1146,-48 -2563,-886 -3235,-3157 -276,-934 -51,-1607 130,-1965z" style="fill:#95e9d7"/>
+  <path class="HatUshanka-Mediumfil14new" d="M23631 13576c-29,530 -528,1038 -1272,1007 -1146,-48 -2563,-886 -3235,-3157 -96,-326 -132,-620 -129,-880 626,1986 3054,4373 4636,3030z" style="fill:#b6eba4"/>
+  <path class="HatUshanka-Mediumfil679new HatUshanka-Mediumstr0new" d="M3594 11128c-510,-593 -818,-1316 -907,-2228 243,-46 471,-18 749,43 -92,798 35,1339 487,1961 -127,80 -202,144 -329,224z" style="fill:#35b3d0"/>
+  <path class="HatUshanka-Mediumfil681new HatUshanka-Mediumstr6new" d="M7315 11182c-309,1281 -1846,743 -2559,-528 -584,-1041 -2209,-163 -1610,1287 491,1186 2066,1941 3155,1806 983,-121 1325,-584 1516,-1555 191,-970 -502,-1010 -502,-1010z" style="fill:#aedf97"/>
+  <path class="HatUshanka-Mediumfil31new" d="M6241 11888c-526,-115 -1116,-576 -1485,-1234 -443,-789 -1485,-475 -1701,356 209,-423 757,-616 1191,-403 -441,-10 -766,342 -846,593 380,-131 979,-355 1518,107 -364,-87 -668,39 -789,166 682,-16 1337,570 2112,415z" style="fill:#62254f"/>
+  <path class="HatUshanka-Mediumfil33new HatUshanka-Mediumstr6new" d="M7315 11182c-309,1281 -1846,743 -2559,-528 -584,-1041 -2209,-163 -1610,1287 491,1186 2066,1941 3155,1806 983,-121 1325,-584 1516,-1555 191,-970 -502,-1010 -502,-1010z" style="fill:#35dd2e"/>
+  <path class="HatUshanka-Mediumfil14new" d="M3028 11508c18,137 56,282 118,433 491,1186 2066,1941 3155,1806 983,-121 1325,-584 1516,-1555 81,-410 4,-654 -112,-799 -52,867 -597,1858 -1632,1858 -1196,1 -2647,-754 -3045,-1743z" style="fill:#23841d"/>
+  <path class="HatUshanka-Mediumfil682new HatUshanka-Mediumstr6new" d="M7788 12774c3696,-1000 7493,-1367 11404,-1004 220,21 426,-187 418,-408 -53,-1387 -44,-2184 -334,-3672 -215,-1104 -693,-2073 -1752,-2294 -2278,-478 -6338,-77 -8296,657 -1152,433 -1771,1186 -1951,2583 -200,1545 -192,2300 19,3893 29,219 278,303 492,245z" style="fill:#e7d6d7"/>
+  <path class="HatUshanka-Mediumfil683new" d="M7733 12832c2874,-832 8062,-1209 11263,-994 109,7 216,15 321,24 406,34 540,-667 308,-955 -935,-1160 -1145,-1220 -1188,-2863 -28,-1076 -773,-1926 -1462,-2138 -1637,-503 -6230,165 -7604,819 -646,308 -1180,1059 -1228,2118 -72,1605 -367,2291 -906,3132 -230,357 129,963 496,857z" style="fill:#1c34b9"/>
+  <path class="HatUshanka-Mediumfil14new" d="M8369 12664c2991,-723 7767,-1034 10737,-818 -874,-427 -2968,-624 -5387,-451 -2506,178 -4610,699 -5350,1269z" style="fill:#5ef3ab"/>
+  <path class="HatUshanka-Mediumfil31new" d="M18432 7941c-70,-1026 -790,-1830 -1457,-2035 -1637,-503 -6230,165 -7604,819 -637,303 -1165,1037 -1226,2072 301,-756 664,-1439 1850,-1837 -222,204 -518,692 -563,1094 281,-471 1263,-1335 1998,-1561 -128,239 -476,1018 -515,1275 358,-421 1033,-1028 1647,-1299 -157,236 -314,481 -366,797 494,-577 1181,-1040 1878,-1175 -207,287 -405,628 -452,951 277,-407 899,-915 1539,-1025 -59,256 -82,635 45,926 281,-165 596,-543 779,-903 125,367 489,849 764,1083 127,-250 166,-624 -17,-945 764,277 1393,825 1700,1763z" style="fill:#7e1a2d"/>
+  <path class="HatUshanka-Mediumfil33new HatUshanka-Mediumstr6new" d="M7733 12832c2973,-860 8419,-1234 11584,-970 406,34 540,-667 308,-955 -935,-1160 -1145,-1220 -1188,-2863 -28,-1076 -773,-1926 -1462,-2138 -1637,-503 -6230,165 -7604,819 -646,308 -1180,1059 -1228,2118 -72,1605 -367,2291 -906,3132 -230,357 129,963 496,857z" style="fill:#97ef1a"/>
+  <path class="HatUshanka-Mediumfil684new HatUshanka-Mediumstr0new" d="M12636 10268c-8,-118 43,-275 89,-386 -71,13 -145,1 -211,-25 -91,-37 -168,-94 -229,-171 -53,-66 -94,-139 -115,-220 -31,-114 -39,-256 14,-365 24,-49 60,-90 118,-128 69,-44 142,-57 213,-49 43,5 84,17 123,35 -52,-100 -80,-229 -77,-341 3,-90 25,-178 73,-255 52,-85 154,-154 254,-161 92,-6 161,17 239,64 83,49 154,131 203,226 41,-122 129,-243 239,-309 165,-98 349,-41 458,108 63,85 95,193 102,298 5,71 -1,145 -19,215 62,-34 134,-52 203,-49 159,7 254,116 304,254 37,102 31,243 0,345 -49,159 -151,308 -312,368 -39,15 -79,23 -127,26 -17,1 89,147 105,175 47,84 84,175 90,260 5,69 -10,133 -40,187 -33,57 -82,101 -144,128 -146,64 -261,32 -406,-18 -89,-29 -178,-58 -272,-44 -108,16 -193,66 -289,108 -130,55 -274,89 -405,16 -56,-32 -103,-79 -134,-132 -32,-55 -42,-97 -47,-160z" style="fill:#0d9506"/>
+  <path class="HatUshanka-Mediumfil685new" d="M12756 10260c3,45 7,68 30,108 40,67 115,120 204,114 109,-8 191,-49 277,-88 41,-18 78,-33 121,-49 75,-27 134,-37 213,-31 24,2 43,4 65,8 116,21 267,98 360,92l2 0 11 -1c42,-3 58,-5 102,-25 76,-33 119,-106 113,-197 -9,-129 -124,-296 -204,-399 -45,-58 -108,-131 -163,-181 -23,-21 -43,-42 -65,-57l-70 -55c-31,-23 -88,-54 -126,-66 -97,-31 -125,-29 -222,-22 -134,9 -293,101 -378,199 -35,41 -34,42 -62,78 -90,116 -218,423 -208,572zm660 -1544l4 59c8,114 72,231 163,284 97,56 184,32 265,-37 120,-103 172,-269 161,-425 -6,-97 -37,-179 -78,-236 -30,-40 -81,-82 -129,-95 -27,-7 -48,-11 -66,-11l-25 2c-22,3 -44,12 -77,27 -26,13 -51,28 -70,48 -28,28 -18,14 -45,51 -66,90 -110,219 -103,333zm-356 418c84,-6 141,-50 181,-121 116,-205 10,-535 -175,-644 -53,-32 -100,-52 -170,-48 -64,5 -131,56 -161,105 -76,123 -66,288 -12,430 19,52 65,127 103,165 62,60 141,119 234,113zm881 216c5,85 21,145 73,206 31,37 91,77 156,73 72,-5 119,-23 174,-65 80,-60 129,-150 158,-245 22,-70 22,-135 17,-213 -2,-34 -27,-93 -45,-123 -11,-19 -20,-31 -34,-47 -71,-83 -202,-77 -293,-14 -65,45 -114,102 -150,173 -33,64 -63,158 -56,255zm-1677 -39c4,54 7,73 21,124 8,28 17,53 29,77 30,60 84,133 139,173 64,47 140,88 230,82 129,-9 197,-143 188,-275 -10,-150 -68,-254 -157,-338 -19,-18 -31,-30 -56,-47 -87,-60 -194,-96 -292,-33 -74,48 -91,102 -99,184 -2,19 -4,33 -3,53z" style="fill:#5f8aac"/>
+ </g></svg>

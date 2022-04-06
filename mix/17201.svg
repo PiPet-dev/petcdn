@@ -1,0 +1,612 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd" version="1.1" viewBox="0 0 29000 29000" xml:space="preserve"><defs><style type="text/css">.HairBack-Cat0fil22 {fill:none}
+.Tail-Cat2fil28 {fill:url(#Tail-Cat2id929)}
+.Tail-Cat2fil29 {fill:url(#Tail-Cat2id360)}
+.Tail-Cat2fil26 {fill:#fffdfc}
+.Tail-Cat2fil14 {fill:black;fill-opacity:0.200000}
+.Tail-Cat2fil22 {fill:none}
+.Tail-Cat2str0 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.RightPaw-Cat2fil53 {fill:url(#RightPaw-Cat2id81)}
+.RightPaw-Cat2fil14 {fill:black;fill-opacity:0.200000}
+.RightPaw-Cat2fil32 {fill:black;fill-rule:nonzero}
+.LeftPaw-Cat2fil60 {fill:url(#LeftPaw-Cat2id79)}
+.LeftPaw-Cat2fil14 {fill:black;fill-opacity:0.200000}
+.LeftPaw-Cat2fil32 {fill:black;fill-rule:nonzero}
+.Body-Cat0fil62 {fill:url(#Body-Cat0id318)}
+.Body-Cat0fil14 {fill:black;fill-opacity:0.200000}
+.Body-Cat0fil32 {fill:black;fill-rule:nonzero}
+.Body-Cat0fil63 {fill:url(#Body-Cat0id247)}
+.Head-Cat4fil143 {fill:url(#Head-Cat4id35)}
+.Head-Cat4fil144 {fill:url(#Head-Cat4id320)}
+.Head-Cat4fil14 {fill:black;fill-opacity:0.200000}
+.Head-Cat4fil32 {fill:black;fill-rule:nonzero}
+.Mouth-Cat10fil100 {fill:black}
+.Mouth-Cat10fil153 {fill:url(#Mouth-Cat10id147)}
+.Mouth-Cat10fil151 {fill:#FF9999}
+.Mouth-Cat10fil154 {fill:url(#Mouth-Cat10id148)}
+.Mouth-Cat10fil22 {fill:none}
+.Mouth-Cat10str0 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.Eyes-Cat10fil208 {fill:url(#Eyes-Cat10id891)}
+.Eyes-Cat10fil209 {fill:url(#Eyes-Cat10id314)}
+.Eyes-Cat10fil210 {fill:url(#Eyes-Cat10id511)}
+.Eyes-Cat10fil157 {fill:black;fill-opacity:0.501961}
+.Eyes-Cat10fil152 {fill:white}
+.Eyes-Cat10fil211 {fill:url(#Eyes-Cat10id890)}
+.Eyes-Cat10fil212 {fill:url(#Eyes-Cat10id134)}
+.Eyes-Cat10fil213 {fill:url(#Eyes-Cat10id384)}
+.Eyes-Cat10fil155 {fill:#3b3426}
+.Eyes-Cat10fil22 {fill:none}
+.Eyes-Cat10str4 {stroke:black;stroke-width:150}
+.Moustache-Cat0fil22 {fill:none}
+.Nose-Cat0fil221 {fill:url(#Nose-Cat0id921)}
+.Nose-Cat0str0 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.HatMerlinBack-Mediumfil14new {fill:black;fill-opacity:0.200000}
+.HatMerlinBack-Mediumfil13new {fill:url(#HatMerlinBack-Mediumid272new)}
+.HatMerlinBack-Mediumstr2new {stroke:#2B2A29;stroke-width:150}
+.BraceletGold-Mediumfil3new {fill:black;fill-opacity:0.301961}
+.BraceletGold-Mediumfil66new {fill:url(#BraceletGold-Mediumid695new);fill-rule:nonzero}
+.BraceletGold-Mediumstr3new {stroke:black;stroke-width:100;stroke-linecap:round;stroke-linejoin:round}
+.BraceletGold-Mediumfil67new {fill:url(#BraceletGold-Mediumid700new);fill-rule:nonzero}
+.HatMerlin-Mediumfil62new {fill:black;fill-opacity:0.400000}
+.HatMerlin-Mediumfil595new {fill:#7EA6F7}
+.HatMerlin-Mediumfil596new {fill:#C4D8FF}
+.HatMerlin-Mediumfil597new {fill:#789EEB}
+.HatMerlin-Mediumfil598new {fill:#4F7CD6}
+.HatMerlin-Mediumfil599new {fill:#76A2FA}
+.HatMerlin-Mediumfil600new {fill:#5483E3}
+.HatMerlin-Mediumfil14new {fill:black;fill-opacity:0.200000}
+.HatMerlin-Mediumfil223new {fill:black;fill-rule:nonzero}
+.HatMerlin-Mediumfil603new {fill:#8FB4FC}
+.HatMerlin-Mediumfil604new {fill:#B0CAFF}
+.HatMerlin-Mediumfil594new {fill:url(#HatMerlin-Mediumid585new)}
+.HatMerlin-Mediumstr0new {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.HatMerlin-Mediumfil601new {fill:url(#HatMerlin-Mediumid416new)}
+.HatMerlin-Mediumfil602new {fill:url(#HatMerlin-Mediumid678new);fill-rule:nonzero}
+.WeaponBflyKnifeBack-Mediumfil23 {fill:black}
+.WeaponBflyKnifeBack-Mediumfil25 {fill:url(#WeaponBflyKnifeBack-Mediumid10)}
+.WeaponBflyKnifeBack-Mediumstr0 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.WeaponBflyKnifeBack-Mediumfil24 {fill:url(#WeaponBflyKnifeBack-Mediumid20)}
+.WeaponBflyKnifeBack-Mediumstr1 {stroke:black;stroke-width:150}
+.WeaponBflyKnife-Mediumfil26 {fill:url(#WeaponBflyKnife-Mediumid21)}
+.WeaponBflyKnife-Mediumfil27 {fill:white;fill-opacity:0.501961}
+.WeaponBflyKnife-Mediumfil28 {fill:#820000}
+.WeaponBflyKnife-Mediumfil23 {fill:black}
+.WeaponBflyKnife-Mediumfil29 {fill:url(#WeaponBflyKnife-Mediumid5)}
+.WeaponBflyKnife-Mediumfil30 {fill:url(#WeaponBflyKnife-Mediumid15)}
+.WeaponBflyKnife-Mediumfil31 {fill:white;fill-opacity:0.301961}
+.WeaponBflyKnife-Mediumfil14 {fill:none}
+.WeaponBflyKnife-Mediumstr0 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round}
+.NecklaceSnowman-Mediumfil110 {fill:#fffdfc;fill-rule:nonzero;fill-opacity:0.050980}
+.NecklaceSnowman-Mediumfil112 {fill:black;fill-rule:nonzero}
+.NecklaceSnowman-Mediumfil113 {fill:#990000}
+.NecklaceSnowman-Mediumfil148 {fill:url(#NecklaceSnowman-Mediumid165)}
+.NecklaceSnowman-Mediumfil150 {fill:url(#NecklaceSnowman-Mediumid164)}
+.NecklaceSnowman-Mediumfil117 {fill:#450000;fill-opacity:0.149020}
+.NecklaceSnowman-Mediumfil151 {fill:url(#NecklaceSnowman-Mediumid69)}
+.NecklaceSnowman-Mediumfil119 {fill:#224499;fill-opacity:0.200000}
+.NecklaceSnowman-Mediumfil120 {fill:black}
+.NecklaceSnowman-Mediumfil121 {fill:#000040;fill-opacity:0.501961}
+.NecklaceSnowman-Mediumfil153 {fill:url(#NecklaceSnowman-Mediumid5)}
+.NecklaceSnowman-Mediumfil154 {fill:url(#NecklaceSnowman-Mediumid181);fill-rule:nonzero}
+.NecklaceSnowman-Mediumfil155 {fill:url(#NecklaceSnowman-Mediumid67)}
+.NecklaceSnowman-Mediumfil156 {fill:url(#NecklaceSnowman-Mediumid24)}
+.NecklaceSnowman-Mediumfil127 {fill:#000003}
+.NecklaceSnowman-Mediumfil157 {fill:url(#NecklaceSnowman-Mediumid22)}
+.NecklaceSnowman-Mediumfil158 {fill:url(#NecklaceSnowman-Mediumid19)}
+.NecklaceSnowman-Mediumfil159 {fill:url(#NecklaceSnowman-Mediumid6)}
+.NecklaceSnowman-Mediumfil160 {fill:url(#NecklaceSnowman-Mediumid66)}
+.NecklaceSnowman-Mediumfil161 {fill:url(#NecklaceSnowman-Mediumid23)}
+.NecklaceSnowman-Mediumfil162 {fill:url(#NecklaceSnowman-Mediumid20)}
+.NecklaceSnowman-Mediumfil163 {fill:url(#NecklaceSnowman-Mediumid21)}
+.NecklaceSnowman-Mediumfil137 {fill:#06062E;fill-opacity:0.450980}
+.NecklaceSnowman-Mediumfil164 {fill:url(#NecklaceSnowman-Mediumid3)}
+.NecklaceSnowman-Mediumfil139 {fill:#F0EBEB}
+.NecklaceSnowman-Mediumfil165 {fill:#f2e9e4}
+.NecklaceSnowman-Mediumfil166 {fill:url(#NecklaceSnowman-Mediumid0)}
+.NecklaceSnowman-Mediumfil142 {fill:#F8DFDD;fill-opacity:0.501961}
+.NecklaceSnowman-Mediumfil143 {fill:#F8DFDD;fill-opacity:0.400000}
+.NecklaceSnowman-Mediumfil144 {fill:#F8DFDD;fill-opacity:0.349020}
+.NecklaceSnowman-Mediumfil145 {fill:#F8DFDD;fill-opacity:0.301961}
+.NecklaceSnowman-Mediumfil146 {fill:black;fill-opacity:0.301961}
+.NecklaceSnowman-Mediumfil107 {fill:#CC1400}
+.NecklaceSnowman-Mediumstr2 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256}
+.NecklaceSnowman-Mediumfil108 {fill:none;fill-rule:nonzero}
+.NecklaceSnowman-Mediumfil147 {fill:url(#NecklaceSnowman-Mediumid4)}
+.NecklaceSnowman-Mediumfil111 {fill:#EBEBFF}
+.NecklaceSnowman-Mediumstr5 {stroke:black;stroke-width:150;stroke-miterlimit:22.9256}
+.NecklaceSnowman-Mediumfil80 {fill:none}
+.NecklaceSnowman-Mediumstr3 {stroke:black;stroke-width:200;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256}
+.NecklaceSnowman-Mediumstr0 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256}
+.NecklaceSnowman-Mediumstr4 {stroke:black;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1145.92;stroke-dasharray:20.000000 60.000000}
+.NecklaceSnowman-Mediumfil149 {fill:url(#NecklaceSnowman-Mediumid1)}
+.NecklaceSnowman-Mediumstr6 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256}
+.NecklaceSnowman-Mediumfil152 {fill:url(#NecklaceSnowman-Mediumid2)}
+.NecklaceSnowman-Mediumstr7 {stroke:black;stroke-width:150;stroke-miterlimit:22.9256}
+.AccessoryCutepoolKatanas-Mediumfil0 {fill:url(#AccessoryCutepoolKatanas-Mediumid183)}
+.AccessoryCutepoolKatanas-Mediumfil1 {fill:url(#AccessoryCutepoolKatanas-Mediumid202)}
+.AccessoryCutepoolKatanas-Mediumfil2 {fill:white;fill-opacity:0.501961}
+.AccessoryCutepoolKatanas-Mediumfil5 {fill:black;fill-opacity:0.501961}
+.AccessoryCutepoolKatanas-Mediumfil6 {fill:url(#AccessoryCutepoolKatanas-Mediumid142)}
+.AccessoryCutepoolKatanas-Mediumfil7 {fill:url(#AccessoryCutepoolKatanas-Mediumid203)}
+.AccessoryCutepoolKatanas-Mediumfil3 {fill:none}
+.AccessoryCutepoolKatanas-Mediumstr0 {stroke:black;stroke-width:150;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256}
+.AccessoryCutepoolKatanas-Mediumfil4 {fill:url(#AccessoryCutepoolKatanas-Mediumid86)}
+.AccessoryCutepoolKatanas-Mediumstr1 {stroke:black;stroke-width:100;stroke-miterlimit:22.9256}
+.AccessoryCutepoolKatanas-Mediumstr2 {stroke:#333232;stroke-width:100;stroke-miterlimit:22.9256}
+.AccessoryCutepoolKatanas-Mediumfil8 {fill:url(#AccessoryCutepoolKatanas-Mediumid159)}
+</style><linearGradient gradientUnits="userSpaceOnUse" id="Tail-Cat2id929" x1="18776.1" x2="17449.2" xlink:href="#Tail-Cat2id925" y1="24280.7" y2="17704.2">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Tail-Cat2id360" x1="20758.5" x2="20758.5" xlink:href="#Tail-Cat2id5" y1="24373.7" y2="17377.5">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="RightPaw-Cat2id81" x1="18740" x2="17946.9" xlink:href="#RightPaw-Cat2id79" y1="21672.1" y2="19971.3">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="LeftPaw-Cat2id79" x1="8623.93" x2="9417.01" y1="21672.1" y2="19971.3">
+   <stop offset="0" style="stop-opacity:1; stop-color:#3b3426"/>
+   <stop offset="0.780392" style="stop-opacity:1; stop-color:#fdf0c4"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#fdf0c4"/>
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="Body-Cat0id318" x1="50%" x2="50%" xlink:href="#Body-Cat0id36" y1="0.000186021%" y2="100%">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Body-Cat0id247" x1="13681.9" x2="13681.9" xlink:href="#Body-Cat0id230" y1="22974.9" y2="18061.8">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Head-Cat4id35" x1="13681.9" x2="13681.9" y1="17936.7" y2="7484.8">
+   <stop offset="0" style="stop-opacity:1; stop-color:#d6c89a"/>
+   <stop offset="0.4" style="stop-opacity:1; stop-color:#fdf0c4"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#fffaeb"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Head-Cat4id320" x1="13681.9" x2="13681.9" xlink:href="#Head-Cat4id230" y1="8439.82" y2="17946.7">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Mouth-Cat10id147" x1="12876.7" x2="12876.7" y1="15125.7" y2="15694.8">
+   <stop offset="0" style="stop-opacity:1; stop-color:#D6D6D6"/>
+   <stop offset="0.6" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#fffdfc"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Mouth-Cat10id148" x1="14487.2" x2="14487.2" xlink:href="#Mouth-Cat10id147" y1="15125.7" y2="15694.8">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Eyes-Cat10id891" x1="10884.2" x2="10257" xlink:href="#Eyes-Cat10id27" y1="14816.5" y2="11570.1">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Eyes-Cat10id314" x1="9363.74" x2="12410.6" xlink:href="#Eyes-Cat10id57" y1="13043.4" y2="13043.4">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Eyes-Cat10id511" x1="10946.1" x2="10946.1" xlink:href="#Eyes-Cat10id384" y1="11784.3" y2="14068.5">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Eyes-Cat10id890" x1="16479.7" x2="17106.8" xlink:href="#Eyes-Cat10id27" y1="14816.5" y2="11570.1">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Eyes-Cat10id134" x1="14953.3" x2="18000.1" xlink:href="#Eyes-Cat10id57" y1="13043.4" y2="13043.4">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Nose-Cat0id921" x1="13681.9" x2="13681.9" y1="13407.9" y2="13968.6">
+   <stop offset="0" style="stop-opacity:1; stop-color:#FFCCCC"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#DB9092"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="HatMerlinBack-Mediumid272new" x1="13726.3" x2="13726.3" y1="16087.5" y2="11000.6">
+   <stop offset="0" style="stop-opacity:1; stop-color:#3E3D9D"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#1B196E"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletGold-Mediumid695new" x1="8795.03" x2="10201.4" y1="19661" y2="20720.4">
+   <stop offset="0" style="stop-opacity:1; stop-color:#CC9933"/>
+   <stop offset="0.109804" style="stop-opacity:1; stop-color:#FFF98F"/>
+   <stop offset="0.25098" style="stop-opacity:1; stop-color:#FFFFFC"/>
+   <stop offset="0.478431" style="stop-opacity:1; stop-color:#FFF982"/>
+   <stop offset="0.811765" style="stop-opacity:1; stop-color:#643300"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#CC9933"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="BraceletGold-Mediumid700new" x1="18568.8" x2="17162.5" xlink:href="#BraceletGold-Mediumid695new" y1="19661" y2="20720.4">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="HatMerlin-Mediumid585new" x1="13278.6" x2="15465.7" xlink:href="#HatMerlin-Mediumid583new" y1="3517.26" y2="11256.8">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="HatMerlin-Mediumid416new" x1="11647.3" x2="15626.9" xlink:href="#HatMerlin-Mediumid260new" y1="7355.49" y2="12715.8">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="HatMerlin-Mediumid678new" x1="14541" x2="12919" xlink:href="#HatMerlin-Mediumid675new" y1="15487.1" y2="8909.11">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="WeaponBflyKnifeBack-Mediumid10" x1="7610.92" x2="7717.74" xlink:href="#WeaponBflyKnifeBack-Mediumid4" y1="19919.5" y2="19877.8">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="WeaponBflyKnifeBack-Mediumid20" x1="7155" x2="10206.4" xlink:href="#WeaponBflyKnifeBack-Mediumid18" y1="20686" y2="21753.5">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="WeaponBflyKnife-Mediumid21" x1="9678.73" x2="12556.5" xlink:href="#WeaponBflyKnife-Mediumid19" y1="23619.9" y2="23321.3">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="WeaponBflyKnife-Mediumid5" x1="10045" x2="10174.8" xlink:href="#WeaponBflyKnife-Mediumid4" y1="22278.7" y2="22228">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="WeaponBflyKnife-Mediumid15" x1="9745.2" x2="9875.04" xlink:href="#WeaponBflyKnife-Mediumid4" y1="22603.1" y2="22552.4">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceSnowman-Mediumid165" x1="11788.62" x2="12316.24" xlink:href="#NecklaceSnowman-Mediumid163" y1="23990.43" y2="23856.6">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceSnowman-Mediumid164" x1="15739.02" x2="15211.4" xlink:href="#NecklaceSnowman-Mediumid163" y1="23990.43" y2="23856.6">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceSnowman-Mediumid69" x1="10555.39" x2="17075.57" y1="22838.64" y2="19246.08">
+   <stop offset="0" style="stop-opacity:1; stop-color:#E8F6FF"/>
+   <stop offset="0.121569" style="stop-opacity:1; stop-color:#EAF5FA"/>
+   <stop offset="0.380392" style="stop-opacity:1; stop-color:#E5F5FC"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#EDF4F5"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceSnowman-Mediumid5" x1="13339.08" x2="14133.16" y1="20507.5" y2="19918.82">
+   <stop offset="0" style="stop-opacity:1; stop-color:#0E1021"/>
+   <stop offset="0.4" style="stop-opacity:1; stop-color:#1F2946"/>
+   <stop offset="0.8" style="stop-opacity:1; stop-color:#6F78A8"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#31436B"/>
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="NecklaceSnowman-Mediumid181" x1="0%" x2="100%" y1="50%" y2="50%">
+   <stop offset="0" style="stop-opacity:1; stop-color:black"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#161A3D"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceSnowman-Mediumid67" x1="13530.72" x2="13660.96" xlink:href="#NecklaceSnowman-Mediumid5" y1="20153.19" y2="20057.43">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceSnowman-Mediumid24" x1="13532.39" x2="13662.63" xlink:href="#NecklaceSnowman-Mediumid5" y1="20390.89" y2="20295.13">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceSnowman-Mediumid22" x1="13805" x2="13935.24" xlink:href="#NecklaceSnowman-Mediumid5" y1="20153.19" y2="20057.43">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceSnowman-Mediumid19" x1="13805" x2="13935.24" xlink:href="#NecklaceSnowman-Mediumid5" y1="20391.19" y2="20295.43">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceSnowman-Mediumid6" x1="13339.08" x2="14133.16" xlink:href="#NecklaceSnowman-Mediumid5" y1="22183.2" y2="21594.52">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceSnowman-Mediumid66" x1="13530.72" x2="13660.96" xlink:href="#NecklaceSnowman-Mediumid5" y1="21828.89" y2="21733.13">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceSnowman-Mediumid23" x1="13532.39" x2="13662.63" xlink:href="#NecklaceSnowman-Mediumid5" y1="22066.59" y2="21970.83">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceSnowman-Mediumid20" x1="13805" x2="13935.24" xlink:href="#NecklaceSnowman-Mediumid5" y1="21828.89" y2="21733.13">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceSnowman-Mediumid21" x1="13805" x2="13935.24" xlink:href="#NecklaceSnowman-Mediumid5" y1="22066.89" y2="21971.13">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceSnowman-Mediumid3" x1="9830.14" x2="17585.01" xlink:href="#NecklaceSnowman-Mediumid0" y1="18068.84" y2="18068.84">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceSnowman-Mediumid4" x1="9527.64" x2="12624.12" xlink:href="#NecklaceSnowman-Mediumid0" y1="24588.04" y2="24588.04">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceSnowman-Mediumid1" x1="14903.52" x2="18000" xlink:href="#NecklaceSnowman-Mediumid0" y1="24588.04" y2="24588.04">
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="NecklaceSnowman-Mediumid2" x1="9.96934%" x2="90.0307%" y1="79.9621%" y2="20.0379%">
+   <stop offset="0" style="stop-opacity:1; stop-color:#11121A"/>
+   <stop offset="0.164706" style="stop-opacity:1; stop-color:#141825"/>
+   <stop offset="0.329412" style="stop-opacity:1; stop-color:#15152E"/>
+   <stop offset="0.490196" style="stop-opacity:1; stop-color:#1D1D3D"/>
+   <stop offset="0.721569" style="stop-opacity:1; stop-color:#48507A"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#171F30"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryCutepoolKatanas-Mediumid183" x1="15242.32" x2="14868.97" xlink:href="#AccessoryCutepoolKatanas-Mediumid75" y1="20290.65" y2="20978.33">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryCutepoolKatanas-Mediumid202" x1="8777.7" x2="8510.04" xlink:href="#AccessoryCutepoolKatanas-Mediumid69" y1="16906.97" y2="17399.98">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryCutepoolKatanas-Mediumid142" x1="12121.49" x2="12494.84" xlink:href="#AccessoryCutepoolKatanas-Mediumid75" y1="20290.64" y2="20978.32">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryCutepoolKatanas-Mediumid203" x1="18586.11" x2="18853.77" xlink:href="#AccessoryCutepoolKatanas-Mediumid69" y1="16906.96" y2="17399.97">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryCutepoolKatanas-Mediumid86" x1="11162.06" x2="10505.61" xlink:href="#AccessoryCutepoolKatanas-Mediumid69" y1="17737.86" y2="18947">
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryCutepoolKatanas-Mediumid159" x1="16201.75" x2="16858.2" xlink:href="#AccessoryCutepoolKatanas-Mediumid69" y1="17737.85" y2="18946.99">
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="Tail-Cat2id925" x1="56.9199%" x2="43.0801%" y1="93.4294%" y2="6.57062%">
+   <stop offset="0" style="stop-opacity:1; stop-color:#d6c89a"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#fffaeb"/>
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="Tail-Cat2id5" x1="50%" x2="50%" y1="0%" y2="100%">
+   <stop offset="0" style="stop-opacity:1; stop-color:#3b3426"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#615948"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="RightPaw-Cat2id79" x1="8623.93" x2="9417.01" y1="21672.1" y2="19971.3">
+   <stop offset="0" style="stop-opacity:1; stop-color:#3b3426"/>
+   <stop offset="0.780392" style="stop-opacity:1; stop-color:#fdf0c4"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#fdf0c4"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Body-Cat0id36" x1="13681.9" x2="13681.9" y1="17936.7" y2="7484.8">
+   <stop offset="0" style="stop-opacity:1; stop-color:#d6c89a"/>
+   <stop offset="0.0313725" style="stop-opacity:1; stop-color:#d6c89a"/>
+   <stop offset="0.529412" style="stop-opacity:1; stop-color:#fdf0c4"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#fffaeb"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Body-Cat0id230" x1="13681.9" x2="13681.9" y1="13028.8" y2="17278">
+   <stop offset="0" style="stop-opacity:1; stop-color:#fffdfc"/>
+   <stop offset="0.658824" style="stop-opacity:1; stop-color:#fffdfc"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#f2e9e4"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Head-Cat4id230" x1="13681.9" x2="13681.9" y1="13028.8" y2="17278">
+   <stop offset="0" style="stop-opacity:1; stop-color:#fffdfc"/>
+   <stop offset="0.658824" style="stop-opacity:1; stop-color:#fffdfc"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#f2e9e4"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Eyes-Cat10id27" x1="16937.6" x2="16937.6" y1="14961.3" y2="11448.6">
+   <stop offset="0" style="stop-opacity:1; stop-color:#693680"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:black"/>
+  </linearGradient><linearGradient gradientUnits="objectBoundingBox" id="Eyes-Cat10id57" x1="100%" x2="0%" y1="50.0003%" y2="50.0003%">
+   <stop offset="0" style="stop-opacity:1; stop-color:#693680"/>
+   <stop offset="0.501961" style="stop-opacity:1; stop-color:#e6acff"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#693680"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="Eyes-Cat10id384" x1="16417.8" x2="16417.8" y1="11784.3" y2="14068.5">
+   <stop offset="0" style="stop-opacity:1; stop-color:black"/>
+   <stop offset="0.45" style="stop-opacity:1; stop-color:black"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#532666"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="HatMerlin-Mediumid583new" x1="13242.6" x2="15604" y1="3115.32" y2="11471.4">
+   <stop offset="0" style="stop-opacity:1; stop-color:#9CA1FF"/>
+   <stop offset="0.431373" style="stop-opacity:1; stop-color:#6F6DDB"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#1A1A80"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="HatMerlin-Mediumid260new" x1="11481.4" x2="15778" y1="7259.33" y2="13046.7">
+   <stop offset="0" style="stop-opacity:1; stop-color:#D9B6FC"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#8943CF"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="HatMerlin-Mediumid675new" x1="14605.6" x2="12854.4" y1="16038.8" y2="8936.72">
+   <stop offset="0" style="stop-opacity:1; stop-color:#22209E"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#909AF5"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="WeaponBflyKnifeBack-Mediumid4" x1="7396.97" x2="7498.27" y1="20414.6" y2="20335.1">
+   <stop offset="0" style="stop-opacity:1; stop-color:#949494"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#fffdfc"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="WeaponBflyKnifeBack-Mediumid18" x1="8182.77" x2="11085" y1="21305.8" y2="22034">
+   <stop offset="0" style="stop-opacity:1; stop-color:#993A3A"/>
+   <stop offset="0.54902" style="stop-opacity:1; stop-color:#820000"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#820000"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="WeaponBflyKnife-Mediumid19" x1="10875" x2="13461.4" y1="23847.2" y2="23101">
+   <stop offset="0" style="stop-opacity:1; stop-color:#6B6B6B"/>
+   <stop offset="0.321569" style="stop-opacity:1; stop-color:#EBEBEB"/>
+   <stop offset="0.419608" style="stop-opacity:1; stop-color:#B0B0B0"/>
+   <stop offset="0.619608" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#878787"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="WeaponBflyKnife-Mediumid4" x1="7396.97" x2="7498.27" y1="20414.6" y2="20335.1">
+   <stop offset="0" style="stop-opacity:1; stop-color:#949494"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#fffdfc"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceSnowman-Mediumid163" x1="11773.93" x2="12305.56" y1="24009.14" y2="23874.29">
+   <stop offset="0" style="stop-opacity:1; stop-color:#B0929B"/>
+   <stop offset="0.478431" style="stop-opacity:1; stop-color:#F2F2F2"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#D6DAE3"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="NecklaceSnowman-Mediumid0" x1="14210.32" x2="16587.29" y1="19112.42" y2="19112.42">
+   <stop offset="0" style="stop-opacity:1; stop-color:#63231B"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#D22424"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryCutepoolKatanas-Mediumid75" x1="15117.03" x2="14773.66" y1="21302.02" y2="21934.49">
+   <stop offset="0" style="stop-opacity:1; stop-color:#2D2D2D"/>
+   <stop offset="0.168627" style="stop-opacity:1; stop-color:#514F4C"/>
+   <stop offset="0.270588" style="stop-opacity:1; stop-color:#C4C4C4"/>
+   <stop offset="0.490196" style="stop-opacity:1; stop-color:#444342"/>
+   <stop offset="0.670588" style="stop-opacity:1; stop-color:#28241E"/>
+   <stop offset="0.819608" style="stop-opacity:1; stop-color:#4A4A4A"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#4A4A4A"/>
+  </linearGradient><linearGradient gradientUnits="userSpaceOnUse" id="AccessoryCutepoolKatanas-Mediumid69" x1="18192.35" x2="18438.51" y1="18190.02" y2="18643.44">
+   <stop offset="0" style="stop-opacity:1; stop-color:#2D2D2D"/>
+   <stop offset="0.2" style="stop-opacity:1; stop-color:#514F4C"/>
+   <stop offset="0.34902" style="stop-opacity:1; stop-color:#C4C4C4"/>
+   <stop offset="0.670588" style="stop-opacity:1; stop-color:#28241E"/>
+   <stop offset="0.819608" style="stop-opacity:1; stop-color:#4A4A4A"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#4A4A4A"/>
+  </linearGradient></defs><g id="HatMerlinBack-Medium">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_5Corel-Layer"/>
+  <path class="HatMerlinBack-Mediumfil13new HatMerlinBack-Mediumstr2new" d="M13745 16088c5194,0 9466,-925 10137,-2162 60,-111 77,-242 77,-358 0,-1405 -4552,-2567 -10214,-2567 -5662,0 -10252,1138 -10252,2543 0,1405 4590,2544 10252,2544z" style="fill:#42fa1a"/>
+  <path class="HatMerlinBack-Mediumfil14new" d="M23888 13915c55,-109 71,-235 71,-347 0,-1405 -4552,-2567 -10214,-2567 -5662,0 -10252,1138 -10252,2543 0,63 10,126 28,188 2909,-2610 4780,1153 4926,1981 3753,522 7563,515 10659,-20 243,-1571 2856,-3978 4782,-1778z" style="fill:#8d1f69"/>
+ </g><g id="HairBack-Cat0">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <rect class="HairBack-Cat0fil22" height="890" width="890" x="13237" y="6590"/>
+ </g><g id="Tail-Cat2">
+  <path class="Tail-Cat2fil28" d="M12493 21526c-108,-680 218,-1106 853,-1371 407,-170 968,-507 1548,103 1079,929 2559,1508 3570,-489 406,-803 1273,-2258 2832,-2382 2253,-180 3068,2240 1976,3313 -500,-1453 -2159,-1175 -2547,396 -382,1547 -1398,3025 -3525,3432 -1254,239 -2716,-59 -3679,-902 -591,-518 -901,-1308 -1028,-2100z" style="fill:#b0c9ad"/>
+  <path class="Tail-Cat2fil29" d="M18910 18998c491,-733 1256,-1521 2386,-1611 2253,-180 3068,2240 1976,3313 -500,-1453 -2159,-1175 -2547,396 -99,401 -241,798 -434,1172 -234,-250 -370,-619 -298,-1039 164,-953 -167,-2324 -1083,-2231zm839 4090c-116,153 -249,298 -400,432 -483,428 -1024,705 -1585,854 163,-485 5,-1003 332,-1417 466,-592 1373,-384 1653,131z" style="fill:#407808"/>
+  <path class="Tail-Cat2fil26" d="M22964 17853c907,726 1061,2107 308,2847 -261,-756 -835,-1043 -1380,-924 -50,-246 -83,-491 41,-633 381,-439 694,-22 600,-768 -39,-309 178,-491 431,-522z" style="fill:#80aaab"/>
+  <path class="Tail-Cat2fil14" d="M12493 21526c-34,-212 -25,-399 22,-565 118,7 216,-8 261,-76l227 -136c303,-16 813,941 1117,926 874,2545 4567,3180 6171,593 -550,1070 -1516,1958 -3091,2260 -1254,239 -2716,-59 -3679,-902 -591,-518 -901,-1308 -1028,-2100z" style="fill:#3edc4b"/>
+  <path class="Tail-Cat2fil14" d="M23272 20700c-500,-1453 -2159,-1175 -2547,396 -54,221 -122,441 -204,656 -306,-3218 2952,-2873 2751,-1052z" style="fill:#6ae128"/>
+  <path class="Tail-Cat2fil22 Tail-Cat2str0" d="M12493 21526c-108,-680 218,-1106 853,-1371 407,-170 968,-507 1548,103 1079,929 2559,1508 3570,-489 406,-803 1273,-2258 2832,-2382 2253,-180 3068,2240 1976,3313 -500,-1453 -2159,-1175 -2547,396 -382,1547 -1398,3025 -3525,3432 -1254,239 -2716,-59 -3679,-902 -591,-518 -901,-1308 -1028,-2100z" style="fill:#6c1271"/>
+ </g><g id="AccessoryCutepoolKatanas-Medium">
+  <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2386306507984">
+   <g>
+    <polygon class="AccessoryCutepoolKatanas-Mediumfil0" points="18932.67,23184.55 10805.28,18772.12 11178.63,18084.43 19306.02,22496.86 "/>
+    <polygon class="AccessoryCutepoolKatanas-Mediumfil1" points="10541.89,18503.09 6478.19,16296.87 6745.85,15803.87 10809.54,18010.08 "/>
+    <polygon class="AccessoryCutepoolKatanas-Mediumfil2" points="19189.63,22711.24 11066.04,18292.24 11182.43,18077.85 19306.02,22496.86 "/>
+    <polygon class="AccessoryCutepoolKatanas-Mediumfil3 AccessoryCutepoolKatanas-Mediumstr0" points="18932.67,23184.55 10805.28,18772.12 11178.63,18084.43 19306.02,22496.86 "/>
+    <polygon class="AccessoryCutepoolKatanas-Mediumfil4 AccessoryCutepoolKatanas-Mediumstr0" points="10347.49,18861.15 11003.94,17652.02 11320.18,17823.71 10663.73,19032.84 "/>
+    <line class="AccessoryCutepoolKatanas-Mediumfil3 AccessoryCutepoolKatanas-Mediumstr1" x1="10541.89" x2="10809.54" y1="18503.09" y2="18010.08"/>
+    <polygon class="AccessoryCutepoolKatanas-Mediumfil5" points="18937.58,23175.51 10810.18,18763.08 10663.73,19032.84 10343.78,18855.1 10545.88,18493.89 6492.1,16271.25 6557.12,16151.49 10620.82,18357.7 10581.25,18434.07 10896.03,18604.96 10931.75,18509.52 11198.91,18655 19071.39,22929.03 "/>
+    <polygon class="AccessoryCutepoolKatanas-Mediumfil2" points="11060.83,18142.79 10878.31,18043.69 11035.16,17754.78 11217.68,17853.88 "/>
+    <polygon class="AccessoryCutepoolKatanas-Mediumfil2" points="10639.08,18168.19 6706.47,16033.15 6775.9,15905.26 10708.51,18040.31 "/>
+    <path class="AccessoryCutepoolKatanas-Mediumfil3 AccessoryCutepoolKatanas-Mediumstr2" d="M10269.81 18355.38l267.66 -493.01m-539.74 345.29l267.66 -493.01m-539.74 345.3l267.66 -493.01m-539.74 345.29l267.66 -493m-539.74 345.29l267.66 -493.01m-539.74 345.3l267.66 -493.01m-539.73 345.29l267.65 -493.01m-539.73 345.3l267.66 -493.01m-1083.9 49.87l267.66 -493.01m-539.74 345.3l267.66 -493.01m-539.73 345.29l267.65 -493.01m-539.73 345.3l267.66 -493.01m1092.73 1231.58l267.66 -493.01m-539.74 345.29l267.66 -493.01" style="fill:#b7a930"/>
+    <polygon class="AccessoryCutepoolKatanas-Mediumfil3 AccessoryCutepoolKatanas-Mediumstr0" points="10541.89,18503.09 6478.19,16296.87 6745.85,15803.87 10809.54,18010.08 "/>
+   </g>
+   <g>
+    <polygon class="AccessoryCutepoolKatanas-Mediumfil6" points="8431.14,23184.54 16558.53,18772.11 16185.18,18084.42 8057.79,22496.85 "/>
+    <polygon class="AccessoryCutepoolKatanas-Mediumfil7" points="16821.92,18503.08 20885.62,16296.86 20617.96,15803.86 16554.27,18010.07 "/>
+    <polygon class="AccessoryCutepoolKatanas-Mediumfil2" points="8174.18,22711.23 16046.7,18437.18 15930.31,18222.79 8057.79,22496.85 "/>
+    <polygon class="AccessoryCutepoolKatanas-Mediumfil3 AccessoryCutepoolKatanas-Mediumstr0" points="8431.14,23184.54 16558.53,18772.11 16185.18,18084.42 8057.79,22496.85 "/>
+    <polygon class="AccessoryCutepoolKatanas-Mediumfil8 AccessoryCutepoolKatanas-Mediumstr0" points="17016.32,18861.14 16359.87,17652.01 16043.63,17823.7 16700.08,19032.83 "/>
+    <line class="AccessoryCutepoolKatanas-Mediumfil3 AccessoryCutepoolKatanas-Mediumstr1" x1="16821.92" x2="16554.27" y1="18503.08" y2="18010.07"/>
+    <polygon class="AccessoryCutepoolKatanas-Mediumfil5" points="8426.23,23175.5 16553.63,18763.07 16700.08,19032.83 17020.03,18855.09 16817.93,18493.88 20871.71,16271.24 20806.69,16151.48 16742.99,18357.69 16782.56,18434.06 16467.78,18604.95 16162.28,18042.24 15907.37,18180.64 16164.9,18654.99 8292.42,22929.02 "/>
+    <polygon class="AccessoryCutepoolKatanas-Mediumfil2" points="16302.98,18142.78 16485.5,18043.68 16328.65,17754.77 16146.13,17853.87 "/>
+    <polygon class="AccessoryCutepoolKatanas-Mediumfil2" points="16724.73,18168.18 20657.34,16033.14 20587.91,15905.25 16655.3,18040.3 "/>
+    <path class="AccessoryCutepoolKatanas-Mediumfil3 AccessoryCutepoolKatanas-Mediumstr2" d="M17094 18355.37l-267.66 -493.01m539.74 345.29l-267.66 -493.01m539.74 345.3l-267.66 -493.01m539.74 345.29l-267.66 -493m539.74 345.29l-267.66 -493.01m539.74 345.3l-267.66 -493.01m539.73 345.29l-267.65 -493.01m539.73 345.3l-267.66 -493.01m1083.9 49.87l-267.66 -493.01m539.74 345.3l-267.66 -493.01m539.73 345.29l-267.65 -493.01m539.73 345.3l-267.66 -493.01m-1092.73 1231.58l-267.66 -493.01m539.74 345.29l-267.66 -493.01" style="fill:#b02df5"/>
+    <polygon class="AccessoryCutepoolKatanas-Mediumfil3 AccessoryCutepoolKatanas-Mediumstr0" points="16821.92,18503.08 20885.62,16296.86 20617.96,15803.86 16554.27,18010.07 "/>
+   </g>
+  </g>
+ </g><g id="Body-Cat0">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <path class="Body-Cat0fil62" d="M13682 23135c-1548,0 -2752,-291 -2993,-1956 -147,-1014 391,-2287 991,-3420 634,80 1289,123 2002,142 713,-19 1367,-62 2002,-142 600,1133 1137,2406 991,3420 -242,1665 -1445,1956 -2993,1956z" style="fill:#0f2a21"/>
+  <path class="Body-Cat0fil14" d="M12621 23067c-1016,-156 -1749,-629 -1932,-1888 -75,-519 29,-1106 229,-1707 -223,2001 402,3257 1703,3595z" style="fill:#6649fe"/>
+  <path class="Body-Cat0fil32" d="M11012 22144c-250,-321 -348,-641 -397,-954 -59,-377 -24,-998 184,-1320 -78,421 -93,905 -36,1298 50,341 104,572 249,976z" style="fill:#15294c"/>
+  <path class="Body-Cat0fil63" d="M13682 18144c-911,0 -1630,-350 -1974,394 -875,1890 -906,4437 1974,4437 2879,0 2849,-2547 1974,-4437 -344,-744 -1063,-394 -1974,-394z" style="fill:#54f50c"/>
+  <path class="Body-Cat0fil14" d="M14743 23067c1016,-156 1749,-629 1932,-1888 75,-519 -29,-1106 -229,-1707 223,2001 -402,3257 -1703,3595z" style="fill:#ed8164"/>
+  <path class="Body-Cat0fil32" d="M16352 22144c250,-321 347,-641 397,-954 59,-377 24,-998 -184,-1320 78,421 93,905 36,1298 -50,341 -104,572 -249,976z" style="fill:#9e63d2"/>
+ </g><g id="WeaponBflyKnifeBack-Medium">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_12Corel-Layer"/>
+  <g id="_2367108374560">
+   <polygon class="WeaponBflyKnifeBack-Mediumfil23 WeaponBflyKnifeBack-Mediumstr0" points="7757,19914 7140,20628 7039,20538 7640,19818 "/>
+   <path class="WeaponBflyKnifeBack-Mediumfil24 WeaponBflyKnifeBack-Mediumstr1" d="M10019 22352c-840,-780 -1681,-1559 -2521,-2338 -51,-49 220,-331 265,-285l2440 2424c52,52 58,136 7,192 -50,54 -137,57 -191,7zm-112 130c-840,-779 -1681,-1559 -2521,-2338 -52,-47 -313,244 -264,285l2601 2252c55,48 140,48 191,-8 51,-54 47,-140 -7,-191z" style="fill:#1e57d1"/>
+   <circle class="WeaponBflyKnifeBack-Mediumfil23" r="48" transform="matrix(2.80864 0.290914 -0.290914 2.80864 7664.33 19898.6)"/>
+   <path class="WeaponBflyKnifeBack-Mediumfil25" d="M7670 19842c31,3 54,31 51,62 -3,32 -31,54 -63,51 -31,-3 -53,-31 -50,-62 3,-31 31,-54 62,-51z" style="fill:#712e4f"/>
+  </g>
+ </g><g id="RightPaw-Cat2">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <path class="RightPaw-Cat2fil53" d="M17501 20836c-31,672 506,1059 828,766 253,397 884,103 809,-293 203,-535 -266,-1036 -634,-1325 -19,-39 -57,-100 -86,-131 -353,616 -634,503 -778,573 -164,79 -11,352 -139,410z" style="fill:#f2ab7a"/>
+  <path class="RightPaw-Cat2fil14" d="M17501 20836c-31,672 506,1059 828,766 341,429 911,24 754,-293 -66,297 -521,408 -658,-118 -113,412 -522,237 -614,26 -95,-216 -45,-462 -254,-619 -2,93 16,193 -45,232l0 0 0 1c-2,0 -3,1 -5,2l0 0 0 0 0 0 0 0 -1 1 0 0 0 0c-2,1 -3,2 -5,2z" style="fill:#144c83"/>
+  <path class="RightPaw-Cat2fil32" d="M17437 20673c-79,-58 -168,63 -89,121 29,21 57,43 84,65 -4,302 99,551 246,712 55,61 118,109 183,144 146,76 312,82 454,-8 209,238 583,191 784,-34 86,-97 135,-221 116,-357 83,-234 46,-463 -52,-673 -133,-282 -403,-498 -588,-704 -34,-37 -181,-286 -215,-345 -58,-79 -178,10 -120,89 36,48 75,120 112,186 6,12 81,153 124,188 201,164 431,392 551,649 38,81 66,165 77,251 -53,-69 -156,-152 -275,-139 81,67 126,143 171,252 66,158 114,363 -12,503 -142,159 -412,205 -563,33 116,-164 118,-464 -80,-548 55,102 48,374 -55,477 -86,86 -222,119 -360,47 -49,-26 -97,-63 -141,-112 -128,-140 -218,-365 -207,-639 2,-22 -6,-44 -23,-60 -37,-34 -82,-68 -122,-98z" style="fill:#2f2175"/>
+ </g><g id="LeftPaw-Cat2">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <path class="LeftPaw-Cat2fil60" d="M9863 20836c31,672 -506,1059 -828,766 -253,397 -884,103 -809,-293 -203,-535 266,-1036 634,-1325 19,-39 56,-100 86,-131 353,616 634,503 778,573 164,79 11,352 139,410z" style="fill:#d0b8d9"/>
+  <path class="LeftPaw-Cat2fil14" d="M9863 20836c31,672 -506,1059 -828,766 -341,429 -911,24 -754,-293 66,297 521,408 658,-118 113,412 522,237 614,26 95,-216 45,-462 254,-619 2,93 -16,193 45,232l0 0 0 1c2,0 3,1 5,2l0 0 0 0 0 0 0 0 0 1 1 0 0 0c1,1 3,2 5,2z" style="fill:#c9f45b"/>
+  <path class="LeftPaw-Cat2fil32" d="M9927 20673c79,-58 168,63 88,121 -28,21 -56,43 -83,65 4,302 -100,551 -246,712 -56,61 -118,109 -183,144 -146,76 -312,82 -454,-8 -209,238 -583,191 -784,-34 -86,-97 -135,-221 -116,-357 -83,-234 -46,-463 52,-673 133,-282 403,-498 588,-704 34,-37 180,-286 214,-345 59,-79 179,10 121,89 -36,48 -76,120 -112,186 -6,12 -81,153 -124,188 -201,164 -431,392 -551,649 -38,81 -66,165 -77,251 53,-69 156,-152 275,-139 -81,67 -126,143 -172,252 -65,158 -113,363 13,503 142,159 412,205 562,33 -115,-164 -117,-464 81,-548 -55,102 -48,374 55,477 86,86 222,119 359,47 50,-26 98,-63 142,-112 128,-140 218,-365 207,-639 -2,-22 6,-44 23,-60 37,-34 81,-68 122,-98z" style="fill:#48f1c3"/>
+ </g><g id="NecklaceSnowman-Medium">
+     <metadata id="CorelCorpID_5Corel-Layer"/>
+  <g>
+   <g>
+   <g>
+    <g>
+     <g>
+      <polygon class="NecklaceSnowman-Mediumfil107 NecklaceSnowman-Mediumstr2" points="12242.12,25073.24 12241.12,24807.24 11978.12,25010.24 "/>
+      <path class="NecklaceSnowman-Mediumfil108 NecklaceSnowman-Mediumstr2" d="M12567.12 24633.24c-72,34 -202,100 -345,188 -216,134 -268,191 -330,247 -22,19 -178,196 -392,270 -480,165 -1372,270 -1874,-22" style="fill:#30b120"/>
+      <path class="NecklaceSnowman-Mediumfil108 NecklaceSnowman-Mediumstr2" d="M12471.12 24193.24c0,0 -402,68 -392,631" style="fill:#3a3393"/>
+      <path class="NecklaceSnowman-Mediumfil147 NecklaceSnowman-Mediumstr2" d="M9545.21 25212.2c0,0 -77.83,-389.09 94.17,-573.09 55,-58 171.35,-211.44 456.82,-339.95 170.52,-76.76 367.26,-137.39 505.72,-182.84 29,-30 -251.59,-197.83 -276.59,-340.83 570,312 1871.79,-7.25 2298.79,-53.25 -101,135 -122,255 -142,388 -23,145 92,228 115,435 -13,24 -545,293 -559,315 -284,460 -628,511 -628,511 0,0 -1169.91,266.96 -1864.91,-159.04z" style="fill:#7dcdd0"/>
+     </g>
+     <path class="NecklaceSnowman-Mediumfil110" d="M10000 24696c142,261 899,200 817,108 -104,-116 -546,-204 -616,-204 -119.92,16.12 -171.04,53.41 -201,96z" style="fill:#00f346"/>
+     <path class="NecklaceSnowman-Mediumfil111 NecklaceSnowman-Mediumstr5" d="M9540.31 25191.82l26.46 275.16c0,0 1400.75,1060.52 3085.05,-698.49 19.34,-117.78 10.9,-207.17 -39.62,-264.81 -45.93,26.86 -221.83,115.69 -574.22,333.59 -50.59,62.88 -295.89,395.98 -571.5,513.3 -297.12,88.64 -596.25,154.39 -898.03,73.74 -216.27,-57.79 -442.61,-259.01 -626.25,-289.1 -283.93,-46.52 -245.05,119.61 -401.89,56.61z" style="fill:#648075"/>
+     <path class="NecklaceSnowman-Mediumfil112" d="M10584.5 24204.37c-36.24,-19.73 -49.62,-65.13 -29.89,-101.37 19.73,-36.24 59.83,-70.79 96.07,-51.06 325.1,174.78 366.32,192.97 954.15,211.47 -354.98,127.4 -864.25,25.01 -1020.33,-59.04z" style="fill:#2ce117"/>
+     <g>
+      <polygon class="NecklaceSnowman-Mediumfil80 NecklaceSnowman-Mediumstr3" points="11817.95,24665.27 12175.1,24517.86 12134.11,23874.17 11800.39,23923.3 "/>
+      <polygon class="NecklaceSnowman-Mediumfil113" id="1" points="11817.95,24665.27 12175.1,24517.86 12134.11,23874.17 11800.39,23923.3 "/>
+     </g>
+     <g>
+      <path class="NecklaceSnowman-Mediumfil80 NecklaceSnowman-Mediumstr0" d="M12023.99 23886.88c4.72,215.44 14.94,429.78 31.61,643.63l-114.02 50.09c-14.08,-224.12 -22.5,-450.01 -25.47,-676.82l51.63 -8.09 56.25 -8.81z" style="fill:#738fc1"/>
+      <path class="NecklaceSnowman-Mediumfil148" d="M12023.99 23886.88c4.72,215.44 14.94,429.78 31.61,643.63l-114.02 50.09c-14.08,-224.12 -22.5,-450.01 -25.47,-676.82l51.63 -8.09 56.25 -8.81z" id="1" style="fill:#4f8bb1"/>
+     </g>
+     <path class="NecklaceSnowman-Mediumfil80 NecklaceSnowman-Mediumstr4" d="M12011.6 24617.86c0,0 -54.81,-704.76 -33.14,-736.17" style="fill:#4aa2fc"/>
+    </g>
+    <g>
+     <g>
+      <polygon class="NecklaceSnowman-Mediumfil107 NecklaceSnowman-Mediumstr2" points="15285.52,25073.24 15286.52,24807.24 15549.52,25010.24 "/>
+      <path class="NecklaceSnowman-Mediumfil108 NecklaceSnowman-Mediumstr2" d="M14960.52 24633.24c72,34 202,100 345,188 216,134 268,191 330,247 22,19 178,196 392,270 480,165 1372,270 1874,-22" style="fill:#622291"/>
+      <path class="NecklaceSnowman-Mediumfil108 NecklaceSnowman-Mediumstr2" d="M15056.52 24193.24c0,0 402,68 392,631" style="fill:#d72cde"/>
+      <path class="NecklaceSnowman-Mediumfil149 NecklaceSnowman-Mediumstr2" d="M17982.43 25212.2c0,0 77.83,-389.09 -94.17,-573.09 -55,-58 -171.35,-211.44 -456.82,-339.95 -170.52,-76.76 -367.26,-137.39 -505.72,-182.84 -29,-30 251.59,-197.83 276.59,-340.83 -570,312 -1871.79,-7.25 -2298.79,-53.25 101,135 122,255 142,388 23,145 -92,228 -115,435 13,24 545,293 559,315 284,460 628,511 628,511 0,0 1169.91,266.96 1864.91,-159.04z" style="fill:#fa425d"/>
+     </g>
+     <path class="NecklaceSnowman-Mediumfil110" d="M17527.64 24696c-142,261 -899,200 -817,108 104,-116 546,-204 616,-204 119.92,16.12 171.04,53.41 201,96z" style="fill:#0566be"/>
+     <path class="NecklaceSnowman-Mediumfil111 NecklaceSnowman-Mediumstr5" d="M17987.33 25191.82l-26.46 275.16c0,0 -1400.75,1060.52 -3085.05,-698.49 -19.34,-117.78 -10.9,-207.17 39.62,-264.81 45.93,26.86 221.83,115.69 574.22,333.59 50.59,62.88 295.89,395.98 571.5,513.3 297.12,88.64 596.25,154.39 898.03,73.74 216.27,-57.79 442.61,-259.01 626.25,-289.1 283.93,-46.52 245.05,119.61 401.89,56.61z" style="fill:#69b375"/>
+     <path class="NecklaceSnowman-Mediumfil112" d="M16943.14 24204.37c36.24,-19.73 49.62,-65.13 29.89,-101.37 -19.73,-36.24 -59.83,-70.79 -96.07,-51.06 -325.1,174.78 -366.32,192.97 -954.15,211.47 354.98,127.4 864.25,25.01 1020.33,-59.04z" style="fill:#f63297"/>
+     <g>
+      <polygon class="NecklaceSnowman-Mediumfil80 NecklaceSnowman-Mediumstr3" points="15709.69,24665.27 15352.54,24517.86 15393.53,23874.17 15727.25,23923.3 "/>
+      <polygon class="NecklaceSnowman-Mediumfil113" id="1" points="15709.69,24665.27 15352.54,24517.86 15393.53,23874.17 15727.25,23923.3 "/>
+     </g>
+     <g>
+      <path class="NecklaceSnowman-Mediumfil80 NecklaceSnowman-Mediumstr0" d="M15503.65 23886.88c-4.72,215.44 -14.94,429.78 -31.61,643.63l114.02 50.09c14.08,-224.12 22.5,-450.01 25.47,-676.82l-51.63 -8.09 -56.25 -8.81z" style="fill:#9ce414"/>
+      <path class="NecklaceSnowman-Mediumfil150" d="M15503.65 23886.88c-4.72,215.44 -14.94,429.78 -31.61,643.63l114.02 50.09c14.08,-224.12 22.5,-450.01 25.47,-676.82l-51.63 -8.09 -56.25 -8.81z" id="1" style="fill:#107ef2"/>
+     </g>
+     <path class="NecklaceSnowman-Mediumfil80 NecklaceSnowman-Mediumstr4" d="M15516.04 24617.86c0,0 54.81,-704.76 33.14,-736.17" style="fill:#9b1418"/>
+    </g>
+    <path class="NecklaceSnowman-Mediumfil117" d="M9639.74 25426.27c0,0 253.27,154.84 740.84,259.29 275.9,-842.76 2795.92,-1085.42 2119.42,-1185.56l-2071.8 -306.69 -523.87 195.79 -285.75 264.58 -89.96 238.13 37.04 455.08 74.08 79.38z" style="fill:#ad4479"/>
+   </g>
+   </g>
+   <g>
+   <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+   <g>
+    <path class="NecklaceSnowman-Mediumfil151" d="M13760.82 18601.53c-961.89,-1.1 -1967.17,-259.14 -2069.99,-856.15 -721.57,-99.44 -1071.57,-219.94 -1232.85,-115.91 -767.16,494.78 -1591.27,973.66 -1789.36,1940.24 -43.67,363.54 937.44,1266.85 1534.22,1141.62 349.2,-73.28 216.87,-193.82 340.93,-243.23 -137.33,354.59 -185.7,671.64 -181.54,1012.32 13.13,27.42 35.38,75.71 4.04,92.92 -687,377.17 -923.65,2073.93 12.79,2529.59 257.68,125.38 1574.14,525.65 2071.06,334.01 647.85,-249.85 381.35,-760.67 1296.53,-713.65 915.18,47.02 688.28,500.81 1240.2,713.65 496.91,191.63 1829.26,-139.84 2086.93,-265.22 936.44,-455.65 683.91,-2221.21 -3.08,-2598.38 -31.34,-17.2 -9.09,-65.5 4.04,-92.92 4.16,-340.68 -44.21,-657.73 -181.54,-1012.32 124.06,49.41 -8.27,169.95 340.93,243.23 596.78,125.23 1577.89,-778.08 1534.22,-1141.62 -198.09,-966.58 -1022.2,-1445.46 -1789.36,-1940.24 -161.28,-104.03 -511.28,16.47 -1232.85,115.91 -102.82,597.01 -1023.78,855.05 -1985.32,856.15z" style="fill:#b83d3a"/>
+    <path class="NecklaceSnowman-Mediumfil119" d="M10447.45 21637.34c-949.51,1621.42 913.04,2961.99 1990.69,2739.21 -300.46,211.62 -1866.36,-96.57 -2306.45,-465.51 -224.61,-188.29 -217.75,-372.4 -363.6,-630.17 -108.18,-129.5 -119.47,-1471.97 679.36,-1643.53z" style="fill:#db3ef5"/>
+    <path class="NecklaceSnowman-Mediumfil119" d="M10981.12 19387.55c-651.03,2044.2 -378.32,2336 626.77,2920.44 -834.71,-279.27 -920.08,-429.37 -1255.85,-818.58 59.8,-614.05 336.13,-1735.73 629.08,-2101.86z" style="fill:#94922e"/>
+    <path class="NecklaceSnowman-Mediumfil119" d="M10060.37 17958.79c-1237.83,1119.2 -326.99,2387.62 382.02,2633.39 -247.54,222.2 -808.01,115.11 -1248.12,-253.85 -131.23,-110.01 -232.51,-291.56 -335.74,-434.14 -40.69,-56.21 -78.42,-114.6 -112.52,-174.87 -108.18,-129.5 49.86,-1196.8 1314.36,-1770.53z" style="fill:#e0d2b0"/>
+    <path class="NecklaceSnowman-Mediumfil119" d="M16892.86 18936.5c-144.52,516.38 -96.08,716.35 7.13,963.5 155.13,371.49 490.62,665.37 824.44,733.39 -321.62,163.99 -738.73,106.08 -808.91,-63.35 -251.46,-607.05 -165.35,-686.13 -505.12,-1295.15 27.24,-3.94 237.37,268.8 252.8,185.09 36.46,-197.74 86.72,-349.59 229.66,-523.48z" style="fill:#d7195a"/>
+    <path class="NecklaceSnowman-Mediumfil80 NecklaceSnowman-Mediumstr2" d="M13682.32 18601.56c-963.76,0 -1867.28,-263.18 -1970.32,-861.47 -721.57,-99.44 -1092.74,-214.65 -1254.02,-110.62 -767.16,494.78 -1591.27,973.66 -1789.36,1940.24 -43.67,363.54 937.44,1266.85 1534.22,1141.62 349.2,-73.28 216.87,-193.82 340.93,-243.23 -137.33,354.59 -185.7,671.64 -181.54,1012.32 13.13,27.42 35.38,75.72 4.04,92.92 -686.99,377.17 -934.24,2073.94 2.2,2529.59 257.67,125.38 1584.73,525.65 2081.65,334.01 551.93,-212.85 420.48,-694.2 1240.2,-713.65" style="fill:#50a263"/>
+    <path class="NecklaceSnowman-Mediumfil120" d="M10443.07 20468.77c107.41,-240.01 434.63,-1055.16 593.86,-1200.09 -87.05,171.82 -337.08,979.94 -422.8,1218.47l-171.06 -18.38z" style="fill:#584a55"/>
+    <path class="NecklaceSnowman-Mediumfil120" d="M10466.71 20451.79c-0.28,-190.63 199.58,-910.74 261.83,-1053.89 -6.52,139.49 -135.44,885.18 -121.26,1068.39l-140.57 -14.5z" style="fill:#87094f"/>
+    <path class="NecklaceSnowman-Mediumfil119" d="M16418.54 19431.22c651.03,2044.2 378.32,2336 -626.77,2920.44 834.71,-279.27 920.08,-429.37 1255.85,-818.58 -59.8,-614.05 -336.13,-1735.73 -629.08,-2101.86z" style="fill:#4fba6a"/>
+    <path class="NecklaceSnowman-Mediumfil80 NecklaceSnowman-Mediumstr6" d="M13754.65 18601.56c963.76,0 1867.28,-263.18 1970.32,-861.47 721.57,-99.44 1092.74,-214.65 1254.02,-110.62 767.16,494.78 1591.27,973.66 1789.36,1940.24 43.67,363.54 -937.44,1266.85 -1534.22,1141.62 -349.2,-73.28 -216.87,-193.82 -340.93,-243.23 137.33,354.59 185.7,671.64 181.54,1012.32 -13.13,27.42 -35.34,75.74 -4.04,92.92 686.97,377.13 923.62,2173.97 -12.79,2629.59 -257.64,125.35 -1574.17,425.62 -2071.06,234.01 -551.9,-212.82 -420.48,-694.2 -1240.2,-713.65" style="fill:#901667"/>
+    <path class="NecklaceSnowman-Mediumfil120" d="M16993.9 20468.77c-107.41,-240.01 -434.63,-1055.16 -593.86,-1200.09 87.05,171.82 337.08,979.94 422.8,1218.47l171.06 -18.38z" style="fill:#58176f"/>
+    <path class="NecklaceSnowman-Mediumfil120" d="M16970.26 20451.79c0.28,-190.63 -199.58,-910.74 -261.83,-1053.89 6.52,139.49 135.44,885.18 121.26,1068.39l140.57 -14.5z" style="fill:#521b36"/>
+    <g>
+     <g>
+      <path class="NecklaceSnowman-Mediumfil121" d="M13647.94 19814.52c330.24,0 597.96,265.35 597.96,592.67 0,327.32 -267.72,592.67 -597.96,592.67 -330.24,0 -597.96,-265.35 -597.96,-592.67 0,-327.32 267.72,-592.67 597.96,-592.67z" style="fill:#0641a4"/>
+      <g>
+       <ellipse class="NecklaceSnowman-Mediumfil152 NecklaceSnowman-Mediumstr7" cx="13736.12" cy="20213.16" rx="597.96" ry="592.67"/>
+       <path class="NecklaceSnowman-Mediumfil153" d="M13736.12 19721.54c136.69,0 260.59,55.03 350.35,144 89.78,88.99 145.32,211.91 145.32,347.62 0,135.72 -55.54,258.63 -145.32,347.62 -89.76,88.97 -213.66,144 -350.35,144 -136.69,0 -260.59,-55.03 -350.35,-144 -89.78,-88.99 -145.32,-211.9 -145.32,-347.62 0,-135.71 55.54,-258.63 145.32,-347.62 89.76,-88.97 213.66,-144 350.35,-144zm296.72 197.91c-75.83,-75.16 -180.74,-121.66 -296.72,-121.66 -115.98,0 -220.89,46.5 -296.72,121.66 -75.8,75.13 -122.7,178.98 -122.7,293.71 0,114.73 46.9,218.58 122.7,293.71 75.83,75.16 180.74,121.66 296.72,121.66 115.98,0 220.89,-46.5 296.72,-121.66 75.8,-75.13 122.7,-178.98 122.7,-293.71 0,-114.73 -46.9,-218.58 -122.7,-293.71z" style="fill:#163bf7"/>
+       <path class="NecklaceSnowman-Mediumfil154" d="M13736.12 19766.83c124.1,0 236.58,49.97 318.06,130.74 81.51,80.79 131.94,192.39 131.94,315.59 0,123.21 -50.43,234.8 -131.94,315.59 -81.48,80.77 -193.96,130.74 -318.06,130.74 -124.1,0 -236.58,-49.97 -318.06,-130.74 -81.51,-80.79 -131.94,-192.38 -131.94,-315.59 0,-123.2 50.43,-234.8 131.94,-315.59 81.48,-80.77 193.96,-130.74 318.06,-130.74zm269.38 179.68c-68.84,-68.23 -164.08,-110.44 -269.38,-110.44 -105.3,0 -200.54,42.21 -269.38,110.44 -68.82,68.21 -111.39,162.49 -111.39,266.65 0,104.16 42.57,198.44 111.39,266.65 68.84,68.23 164.08,110.44 269.38,110.44 105.3,0 200.54,-42.21 269.38,-110.44 68.82,-68.21 111.39,-162.49 111.39,-266.65 0,-104.16 -42.57,-198.44 -111.39,-266.65z" style="fill:#8fdd20"/>
+       <g>
+        <circle class="NecklaceSnowman-Mediumfil155" cx="13595.85" cy="20105.31" r="80.83"/>
+        <circle class="NecklaceSnowman-Mediumfil156" cx="13597.52" cy="20343.01" r="80.83"/>
+        <circle class="NecklaceSnowman-Mediumfil127" cx="13597.51" cy="20103.94" r="66.49"/>
+        <circle class="NecklaceSnowman-Mediumfil157" cx="13870.11" cy="20105.31" r="80.83"/>
+        <circle class="NecklaceSnowman-Mediumfil127" cx="13870.11" cy="20103.94" r="66.49"/>
+        <circle class="NecklaceSnowman-Mediumfil127" cx="13597.51" cy="20343.31" r="66.49"/>
+        <circle class="NecklaceSnowman-Mediumfil158" cx="13870.11" cy="20343.31" r="80.83"/>
+        <circle class="NecklaceSnowman-Mediumfil127" cx="13870.11" cy="20343.31" r="66.49"/>
+       </g>
+      </g>
+     </g>
+     <g>
+      <path class="NecklaceSnowman-Mediumfil121" d="M13647.94 21507.85c330.24,0 597.96,265.35 597.96,592.67 0,327.32 -267.72,592.67 -597.96,592.67 -330.24,0 -597.96,-265.35 -597.96,-592.67 0,-327.32 267.72,-592.67 597.96,-592.67z" style="fill:#45172b"/>
+      <g>
+       <ellipse class="NecklaceSnowman-Mediumfil152 NecklaceSnowman-Mediumstr7" cx="13736.12" cy="21888.86" rx="597.96" ry="592.67"/>
+       <path class="NecklaceSnowman-Mediumfil159" d="M13736.12 21397.24c136.69,0 260.59,55.03 350.35,144 89.78,88.99 145.32,211.91 145.32,347.62 0,135.72 -55.54,258.63 -145.32,347.62 -89.76,88.97 -213.66,144 -350.35,144 -136.69,0 -260.59,-55.03 -350.35,-144 -89.78,-88.99 -145.32,-211.9 -145.32,-347.62 0,-135.71 55.54,-258.63 145.32,-347.62 89.76,-88.97 213.66,-144 350.35,-144zm296.72 197.91c-75.83,-75.16 -180.74,-121.66 -296.72,-121.66 -115.98,0 -220.89,46.5 -296.72,121.66 -75.8,75.13 -122.7,178.98 -122.7,293.71 0,114.73 46.9,218.58 122.7,293.71 75.83,75.16 180.74,121.66 296.72,121.66 115.98,0 220.89,-46.5 296.72,-121.66 75.8,-75.13 122.7,-178.98 122.7,-293.71 0,-114.73 -46.9,-218.58 -122.7,-293.71z" style="fill:#cde4f0"/>
+       <path class="NecklaceSnowman-Mediumfil154" d="M13736.12 21442.53c124.1,0 236.58,49.97 318.06,130.74 81.51,80.79 131.94,192.39 131.94,315.59 0,123.21 -50.43,234.8 -131.94,315.59 -81.48,80.77 -193.96,130.74 -318.06,130.74 -124.1,0 -236.58,-49.97 -318.06,-130.74 -81.51,-80.79 -131.94,-192.38 -131.94,-315.59 0,-123.2 50.43,-234.8 131.94,-315.59 81.48,-80.77 193.96,-130.74 318.06,-130.74zm269.38 179.68c-68.84,-68.23 -164.08,-110.44 -269.38,-110.44 -105.3,0 -200.54,42.21 -269.38,110.44 -68.82,68.21 -111.39,162.49 -111.39,266.65 0,104.16 42.57,198.44 111.39,266.65 68.84,68.23 164.08,110.44 269.38,110.44 105.3,0 200.54,-42.21 269.38,-110.44 68.82,-68.21 111.39,-162.49 111.39,-266.65 0,-104.16 -42.57,-198.44 -111.39,-266.65z" style="fill:#595ace"/>
+       <g>
+        <circle class="NecklaceSnowman-Mediumfil160" cx="13595.85" cy="21781.01" r="80.83"/>
+        <circle class="NecklaceSnowman-Mediumfil161" cx="13597.52" cy="22018.71" r="80.83"/>
+        <circle class="NecklaceSnowman-Mediumfil127" cx="13597.51" cy="21779.64" r="66.49"/>
+        <circle class="NecklaceSnowman-Mediumfil162" cx="13870.11" cy="21781.01" r="80.83"/>
+        <circle class="NecklaceSnowman-Mediumfil127" cx="13870.11" cy="21779.64" r="66.49"/>
+        <circle class="NecklaceSnowman-Mediumfil127" cx="13597.51" cy="22019.01" r="66.49"/>
+        <circle class="NecklaceSnowman-Mediumfil163" cx="13870.11" cy="22019.01" r="80.83"/>
+        <circle class="NecklaceSnowman-Mediumfil127" cx="13870.11" cy="22019.01" r="66.49"/>
+       </g>
+      </g>
+     </g>
+    </g>
+    <g>
+     <path class="NecklaceSnowman-Mediumfil137" d="M13895.94 19338.69c122.05,-280.97 -3878.41,-271.01 -4064.01,-1412.88 218.64,-93.27 218.88,234.45 550.34,328.08 331.46,93.63 587.37,296.33 1116.54,359.83 529.17,63.5 936.63,158.76 2688.17,238.13 1751.54,79.37 3381.42,-820.22 3381.42,-820.22 146.82,110.66 48.9,192.89 -58.39,281.49 -201.4,166.33 -758.94,457.58 -1042.28,438.18 -10.58,116.42 110.8,728.08 127.01,1079.5 18.46,400.1 -57.79,769.69 -283.6,799.6 -484.98,64.24 -1019.01,253.09 -1854.24,629.15 -453.65,204.25 -560.96,-1920.86 -560.96,-1920.86z" style="fill:#7a160b"/>
+     <path class="NecklaceSnowman-Mediumfil164" d="M10085.46 17297.87c-86.03,57.69 -470.96,301.63 -89.96,730.25 381,428.62 4635.49,1566.33 7535.33,42.33 243.42,-613.83 -404.75,-784.58 -537.2,-747.38 -414.5,116.41 -940.31,248.41 -1393.39,299.21 -1996.92,223.89 -3784.51,-53.21 -5514.78,-324.41z" style="fill:#0484ee"/>
+     <g>
+      <path class="NecklaceSnowman-Mediumfil139" d="M11970.36 17594.77l687.92 98.13c0,0 -268.99,288.39 -119.06,378.06 149.93,89.67 -74.97,652.71 -74.97,652.71l-657.05 -127.65 246.95 -569.9c0,0 -269,-184.74 -83.79,-431.35z" style="fill:#54d06d"/>
+      <path class="NecklaceSnowman-Mediumfil139" d="M10675 17427.19l633.97 100.52c0,0 -258.05,300.92 -131.42,376.66 126.63,75.74 -76.56,551.31 -76.56,551.31l-563.8 -182.78 248.28 -384.35c0,0 -266.9,-253.06 -110.47,-461.36z" style="fill:#1fbc94"/>
+      <path class="NecklaceSnowman-Mediumfil165" d="M10180.72 17312.79l139 65.35c0,0 -331.64,217.15 -231.12,325.16 54.62,58.68 -17.14,203.57 -94.07,323.7 -379.33,-427.93 4.98,-671.49 90.93,-729.13l95.26 14.92z" style="fill:#01a9bc"/>
+      <path class="NecklaceSnowman-Mediumfil139" d="M13217.08 17747.15l694.89 1.18c0,0 -226.12,323.11 -65.14,390.97 160.97,67.88 16.84,656.79 16.84,656.79l-668.44 -34.71 165.01 -598.79c0,0 -292.14,-145.39 -143.16,-415.44z" style="fill:#0a4a09"/>
+      <path class="NecklaceSnowman-Mediumfil139" d="M16920.4 17303.37l-533.22 149.73c0,0 226.78,265.78 90.57,339.27 -136.21,73.49 146.62,667.94 146.62,667.94l451 -207.11 -166.53 -481.51c0,0 165.82,-242.79 11.56,-468.32z" style="fill:#f36369"/>
+     </g>
+     <path class="NecklaceSnowman-Mediumfil80 NecklaceSnowman-Mediumstr7" d="M10090.74 17282c-117.77,142.35 -449.78,328.08 -153.45,751.41 296.33,423.33 4693.7,1561.04 7593.54,37.04 243.42,-613.83 -404.75,-784.58 -537.2,-747.38 -414.5,116.41 -940.45,248.46 -1393.39,299.21 -1996.87,223.75 -3779.23,-69.08 -5509.5,-340.28z" style="fill:#4aa157"/>
+     <path class="NecklaceSnowman-Mediumfil166" d="M16542 20297.87c-730.25,74.11 -1698.37,425.92 -2000,500 -94.75,-495.66 -592.06,-2835.26 -153.52,-3191.21 196.24,-159.28 411.25,-84.03 680.99,-115.86 182.39,-21.53 404.12,-109.2 549.75,-33.76 863.62,447.4 1074.62,2425.7 922.78,2840.83z" style="fill:#880012"/>
+     <g>
+      <path class="NecklaceSnowman-Mediumfil139" d="M14223.98 18702.26l60.61 588.33c0,0 1102.62,-467.55 1144.6,-318.59 41.98,148.96 1018.99,15.93 1018.99,15.93l-121.33 -485.34 -889.89 75.06c-141.11,-291.04 -840.15,14.48 -1212.98,124.61z" style="fill:#d9bf62"/>
+      <path class="NecklaceSnowman-Mediumfil139" d="M14426.83 19839.97l87.07 685.35c0,0 913,-427.87 1118.14,-415.61 205.14,12.26 952.84,11.52 952.84,11.52l-41.95 -547.08c-408.51,23.86 -669.99,107.14 -925.18,82.6 -311.82,-29.98 -637.1,19.63 -1190.92,183.22z" style="fill:#dc3c95"/>
+      <path class="NecklaceSnowman-Mediumfil139" d="M14294.54 17749.66l-53.51 413.55c0,0 888.59,-326.84 918.72,-219.9 30.13,106.94 903.5,-6.2 903.5,-6.2l-259.08 -330.78 -638.85 53.88c-101.29,-208.94 -603.13,10.4 -870.78,89.45z" style="fill:#b43e91"/>
+     </g>
+     <path class="NecklaceSnowman-Mediumfil142" d="M15733.22 17622.67c182.51,100.49 958.57,1770.55 513.29,2629.96 132.29,-10.58 243.43,-26.45 243.43,-26.45 47.63,-206.37 31.73,-1926.17 -756.72,-2603.51z" style="fill:#6c902e"/>
+     <path class="NecklaceSnowman-Mediumfil80 NecklaceSnowman-Mediumstr2" d="M16542 20297.87c-730.25,74.11 -1698.37,425.92 -2000,500 -94.75,-495.66 -592.06,-2835.26 -153.52,-3191.21 196.24,-159.28 411.25,-84.03 680.99,-115.86 182.39,-21.53 404.12,-109.2 549.75,-33.76 863.62,447.4 1074.62,2425.7 922.78,2840.83z" style="fill:#0530aa"/>
+     <path class="NecklaceSnowman-Mediumfil142" d="M17029.65 17397.77c15.68,-4.25 645.6,56.44 433.92,627.06l-280.45 127c99.4,-82.75 435.69,-542.04 -153.47,-754.06z" style="fill:#d3fbf3"/>
+     <path class="NecklaceSnowman-Mediumfil143" d="M16147.36 17875.38c0,0 44.99,60.86 78.06,138.91 179.48,-31.06 493.68,-99.46 631.42,-156.15 18.09,-7.45 26.03,-21.22 37.61,-27.89 13.41,-7.73 20.07,-6.44 22.86,-13.09 -464.36,75.4 -769.95,58.22 -769.95,58.22z" style="fill:#cf7f6e"/>
+     <path class="NecklaceSnowman-Mediumfil144" d="M15433.85 19172.53c10.33,-216.87 -119.71,-1238.52 -346.35,-1522.63 -15.85,-19.88 -39.65,-66.72 -61.3,-77.63 -23.35,-11.76 -44.68,13.04 -63.32,10.12 -137.58,-13.22 -358.94,-12.36 -420.68,34.39 740.53,-7.15 702.73,840.74 891.65,1555.75z" style="fill:#4f300b"/>
+     <path class="NecklaceSnowman-Mediumfil144" d="M15205.1 17546.6c-0.92,0.13 42.2,48.25 40.44,51.45 211.55,-50.1 355.39,-20.03 512.55,44.46 -24.48,-10.74 -107.61,-97.64 -206.78,-131.18 -67.72,-20.46 -224.73,2.82 -346.21,35.27z" style="fill:#9127d2"/>
+     <path class="NecklaceSnowman-Mediumfil145" d="M11322.33 17868.01c758.04,168.02 1763.44,272.55 2816.49,328.09 0,-89.97 25.13,-227.54 19.84,-269.87 -268.1,245.18 -1864.44,24.68 -2836.33,-58.22z" style="fill:#d15091"/>
+     <path class="NecklaceSnowman-Mediumfil143" d="M13457.94 18431.08l672.41 27.41 5.01 -107.07c-82.98,47.72 -301.49,64.03 -677.42,79.66z" style="fill:#7ad2ad"/>
+     <path class="NecklaceSnowman-Mediumfil146" d="M11789.4 17588.83c-927.76,-106.73 -1166.53,-179.89 -1354.71,-216.96 -95.03,-18.72 -196.89,-87.38 -328.05,-26.46 -390.88,181.55 -306.91,638.52 31.75,783.17l1185.34 412.75c-228.6,-109.9 -338.02,-215.69 -295.03,-330.18l3088.95 166.08 -2823.3 -467.6c-216.16,-100.7 -228.85,-239.42 495.05,-320.8z" style="fill:#7dbc09"/>
+     <path class="NecklaceSnowman-Mediumfil146" d="M14382.29 17726.38c0,0 -84.66,2815.18 1121.84,2709.34 1206.5,-105.84 -963.09,402.17 -963.09,402.17 0,0 -635,-3153.84 -158.75,-3111.51z" style="fill:#052737"/>
+     <path class="NecklaceSnowman-Mediumfil146" d="M16210.5 18107.36l76.73 190.5c0,0 513.28,-246.07 608.54,-441.86 -370.42,209.02 -685.27,251.36 -685.27,251.36z" style="fill:#7a9494"/>
+     <path class="NecklaceSnowman-Mediumfil146" d="M13569.96 18464.54c137.58,104.95 410.1,135.81 616.47,185.2l79.38 -108.47 -695.85 -76.73z" style="fill:#60f58f"/>
+     <path class="NecklaceSnowman-Mediumfil120" d="M14142.81 18377.26c-1021.33,-55.65 -2177.32,-305.89 -2896.37,-476.27 1430.1,171.01 1947.82,236.33 2940.07,261.15l-43.7 215.12z" style="fill:#8b08f6"/>
+     <path class="NecklaceSnowman-Mediumfil120" d="M14168.74 18524.7c-271.46,7.09 -583.54,-51.27 -778.04,-92.79 382.51,23.08 521.08,32.64 784.07,15.38l-6.03 77.41z" style="fill:#e80e48"/>
+     <path class="NecklaceSnowman-Mediumfil120" d="M16202.37 18121.05c206.4,-28.47 548.09,-178.67 702.39,-272.11 -295.39,91.94 -497.81,140.36 -696.33,151.66l-6.06 120.45z" style="fill:#4dcbe1"/>
+     <path class="NecklaceSnowman-Mediumfil120" d="M15171.62 17489.83c269.03,422.87 361,1151.55 271.5,1668.32 -54.78,-733.72 -193.03,-1294.27 -442.33,-1630.47l170.83 -37.85z" style="fill:#78afea"/>
+    </g>
+    <path class="NecklaceSnowman-Mediumfil119" d="M14694.81 24226.92c2561.51,439.52 3252.27,-1226.92 2302.2,-2619.48 486.36,211.15 824.91,1351.9 608.84,1903.15 -110.28,281.34 -222.62,385.07 -460.99,622.27 -100.89,151.13 -1987.04,661.19 -2450.05,94.06z" style="fill:#2fc041"/>
+    <path class="NecklaceSnowman-Mediumfil112" d="M11010.59 22078.05c-390.82,-135.16 -621.22,-286.51 -714.37,-564.02l143.92 -209.84c5.29,331.13 118.21,494.85 570.45,773.86z" style="fill:#f0ca56"/>
+    <path class="NecklaceSnowman-Mediumfil112" d="M16427.07 22087.65c390.82,-135.16 621.22,-286.51 714.37,-564.02l-143.92 -209.84c-5.29,331.13 -118.21,494.85 -570.45,773.86z" style="fill:#54423d"/>
+   </g>
+   </g>
+  </g>
+ </g><g id="BraceletGold-Medium">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_23Corel-Layer"/>
+  <path class="BraceletGold-Mediumfil66new BraceletGold-Mediumstr3new" d="M10392 20534c79,89 47,248 -72,354 -119,107 -281,121 -360,32 -53,-59 -57,-150 -18,-235 -84,28 -173,15 -235,-42 -74,-68 -89,-180 -46,-281 -96,59 -216,61 -303,-6 -82,-63 -113,-168 -90,-270 -103,65 -228,65 -308,-8 -53,-49 -76,-120 -68,-194 -86,59 -187,71 -257,20 -97,-71 -99,-233 -5,-362 94,-129 249,-177 346,-107 59,44 83,123 70,207 102,-64 226,-64 305,9 64,58 84,148 62,236 94,-57 211,-57 297,9 94,72 121,201 76,315 103,-68 231,-70 312,5 74,68 89,179 47,280 94,-36 191,-25 247,38z" style="fill:#7470ca"/>
+  <path class="BraceletGold-Mediumfil3new" d="M8821 19869c89,-45 175,-196 176,-279 36,20 77,54 114,74 -72,24 -169,168 -170,275 -42,-20 -78,-50 -120,-70z" style="fill:#953442"/>
+  <path class="BraceletGold-Mediumfil3new" d="M9174 20077c95,-34 192,-174 204,-257 33,24 83,58 117,83 -75,15 -188,157 -192,273 -39,-25 -89,-74 -129,-99z" style="fill:#39d1f4"/>
+  <path class="BraceletGold-Mediumfil3new" d="M9568 20352c111,-30 185,-163 196,-246 34,24 86,87 120,111 -74,16 -185,125 -199,231 -40,-25 -78,-71 -117,-96z" style="fill:#f2c9c3"/>
+  <path class="BraceletGold-Mediumfil3new" d="M9883 20650c114,-10 208,-138 233,-217 29,29 68,65 97,95 -75,2 -211,122 -244,224 -34,-32 -52,-70 -86,-102z" style="fill:#69ae25"/>
+  <path class="BraceletGold-Mediumfil67new BraceletGold-Mediumstr3new" d="M16972 20534c-80,89 -47,248 72,354 119,107 280,121 360,32 53,-59 56,-150 17,-235 85,28 174,15 236,-42 74,-68 89,-180 46,-281 95,59 215,61 303,-6 82,-63 113,-168 90,-270 102,65 228,65 308,-8 53,-49 76,-120 68,-194 86,59 187,71 257,20 97,-71 99,-233 5,-362 -95,-129 -249,-177 -346,-107 -60,44 -83,123 -70,207 -102,-64 -226,-64 -306,9 -63,58 -83,148 -61,236 -94,-57 -211,-57 -297,9 -94,72 -122,201 -76,315 -103,-68 -231,-70 -312,5 -74,68 -89,179 -47,280 -94,-36 -191,-25 -247,38z" style="fill:#d48292"/>
+  <path class="BraceletGold-Mediumfil3new" d="M18543 19869c-89,-45 -175,-196 -176,-279 -37,20 -77,54 -114,74 72,24 169,168 170,275 42,-20 78,-50 120,-70z" style="fill:#a29a2c"/>
+  <path class="BraceletGold-Mediumfil3new" d="M18189 20077c-94,-34 -192,-174 -203,-257 -34,24 -83,58 -117,83 74,15 188,157 191,273 40,-25 90,-74 129,-99z" style="fill:#4949e8"/>
+  <path class="BraceletGold-Mediumfil3new" d="M17796 20352c-111,-30 -185,-163 -196,-246 -34,24 -86,87 -120,111 74,16 184,125 199,231 40,-25 77,-71 117,-96z" style="fill:#bf2dcb"/>
+  <path class="BraceletGold-Mediumfil3new" d="M17481 20650c-114,-10 -208,-138 -233,-217 -29,29 -68,65 -98,95 76,2 212,122 244,224 35,-32 53,-70 87,-102z" style="fill:#986450"/>
+ </g><g id="Head-Cat4">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <path class="Head-Cat4fil143" d="M13682 7485c-3332,0 -6822,4262 -6118,7422 481,2162 3344,3030 6118,3030 2774,0 5637,-868 6118,-3030 704,-3160 -2786,-7422 -6118,-7422z" style="fill:#a9b9e8"/>
+  <path class="Head-Cat4fil144" d="M7483 13748c-27,396 -3,785 81,1159 481,2162 3344,3040 6118,3040 2774,0 5637,-878 6118,-3040 84,-374 107,-763 81,-1159 -4200,-458 -4396,-5308 -6199,-5308 -543,0 -940,439 -1344,1066 -939,1455 -1919,3922 -4855,4242z" style="fill:#d0ab9b"/>
+  <path class="Head-Cat4fil14" d="M8458 10922c-785,1275 -1176,2719 -894,3985 421,1891 2663,2792 5075,2988 -4046,-960 -5424,-2961 -4181,-6973z" style="fill:#e62695"/>
+  <path class="Head-Cat4fil32" d="M7917 11963c-177,545 -289,1096 -343,1569 -53,462 -37,918 60,1351 178,802 697,1428 1417,1903 661,435 2110,926 3201,1064 -1561,-30 -2776,-598 -3283,-930 -754,-491 -1330,-1151 -1518,-1995 -100,-451 -117,-932 -62,-1410 44,-384 295,-1267 528,-1552z" style="fill:#3dba1f"/>
+  <path class="Head-Cat4fil32" d="M19447 11963c177,545 289,1096 343,1569 53,462 37,918 -60,1351 -178,802 -697,1428 -1417,1903 -661,435 -2111,926 -3201,1064 1561,-30 2775,-598 3283,-930 753,-491 1330,-1151 1518,-1995 100,-451 117,-932 62,-1410 -44,-384 -295,-1267 -528,-1552z" style="fill:#db2ae3"/>
+  <path class="Head-Cat4fil32" d="M13682 7560c-408,0 -767,56 -1102,149 -949,262 -2036,899 -2715,1499 604,-730 1714,-1378 2675,-1644 348,-96 720,-154 1142,-154 421,0 794,58 1141,154 962,266 2072,914 2676,1644 -679,-600 -1766,-1237 -2715,-1499 -335,-93 -694,-149 -1102,-149z" style="fill:#18f99c"/>
+ </g><g id="Mouth-Cat10">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <path class="Mouth-Cat10fil22 Mouth-Cat10str0" d="M11425 15081c928,755 2257,-190 2257,-1157" style="fill:#679ba7"/>
+  <path class="Mouth-Cat10fil100" d="M12374 15363c0,636 715,1121 1308,1121 593,0 1308,-485 1308,-1121 -452,-66 -1159,-487 -1308,-1204 -150,717 -856,1138 -1308,1204z" style="fill:#f4cc49"/>
+  <path class="Mouth-Cat10fil153" d="M12666 15352c31,231 226,360 290,341 51,-15 134,-252 132,-567 -112,112 -285,184 -422,226z" style="fill:#bbb037"/>
+  <path class="Mouth-Cat10fil151" d="M13682 16385c-173,0 -366,-45 -494,-113 85,-284 425,-200 494,-150 68,-50 409,-134 494,150 -129,68 -322,113 -494,113z" style="fill:#535dde"/>
+  <path class="Mouth-Cat10fil154" d="M14698 15352c-31,231 -226,360 -290,341 -51,-15 -134,-252 -132,-567 112,112 285,184 422,226z" style="fill:#9f29a9"/>
+  <path class="Mouth-Cat10fil22 Mouth-Cat10str0" d="M15938 15081c-927,755 -2256,-190 -2256,-1157" style="fill:#13c4d6"/>
+ </g><g id="WeaponBflyKnife-Medium">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_13Corel-Layer"/>
+  <g id="_2367108372160">
+   <path class="WeaponBflyKnife-Mediumfil26" d="M10287 22272c448,417 929,879 1419,1239 163,402 550,947 822,1278 -738,-147 -1774,-1376 -2691,-2032 -252,16 -71,-379 -5,-451 69,-73 494,-286 455,-34z" style="fill:#3d4efa"/>
+   <path class="WeaponBflyKnife-Mediumfil27" d="M12426 24769c-672,-203 -1550,-1201 -2374,-1850 48,-124 213,-343 273,-285 614,569 1181,1071 2101,2135z" style="fill:#a608b2"/>
+   <path class="WeaponBflyKnife-Mediumfil14 WeaponBflyKnife-Mediumstr0" d="M10287 22272c448,417 929,879 1419,1239 163,402 550,947 822,1278 -738,-147 -1774,-1376 -2691,-2032 -252,16 -71,-379 -5,-451 69,-73 494,-286 455,-34z" style="fill:#df854f"/>
+   <path class="WeaponBflyKnife-Mediumfil28" d="M10019 22352l-576 -535 191 -229 569 565c52,52 58,136 7,192 -50,54 -137,57 -191,7zm-686 -403l-191 229 581 503c55,48 140,48 191,-8 51,-54 47,-140 -7,-191l-574 -533z" style="fill:#648017"/>
+   <path class="WeaponBflyKnife-Mediumfil14 WeaponBflyKnife-Mediumstr0" d="M10019 22352l-576 -535m191 -229l569 565c52,52 58,136 7,192 -50,54 -137,57 -191,7m-877 -174l581 503c55,48 140,48 191,-8 51,-54 47,-140 -7,-191l-574 -533" style="fill:#fdde7e"/>
+   <circle class="WeaponBflyKnife-Mediumfil23" r="48" transform="matrix(3.41378 0.353594 -0.353594 3.41378 10109.9 22253.4)"/>
+   <path class="WeaponBflyKnife-Mediumfil29" d="M10117 22185c38,4 65,38 62,75 -4,38 -38,66 -76,62 -38,-4 -66,-38 -62,-76 4,-38 38,-65 76,-61z" style="fill:#707ab6"/>
+   <circle class="WeaponBflyKnife-Mediumfil23" r="48" transform="matrix(3.41378 0.353594 -0.353594 3.41378 9810.11 22577.8)"/>
+   <path class="WeaponBflyKnife-Mediumfil30" d="M9817 22509c38,4 66,38 62,76 -4,38 -38,65 -76,61 -38,-4 -65,-37 -61,-75 3,-38 37,-66 75,-62z" style="fill:#ef7ad8"/>
+   <path class="WeaponBflyKnife-Mediumfil31" d="M9964 22155c-139,-176 -279,-353 -418,-529 160,158 320,315 480,473 -26,18 -48,37 -62,56z" style="fill:#73eb07"/>
+   <path class="WeaponBflyKnife-Mediumfil31" d="M9652 22477c-145,-172 -291,-344 -436,-515 165,152 331,304 496,456 -25,19 -46,39 -60,59z" style="fill:#d2f2cb"/>
+  </g>
+ </g><g id="Eyes-Cat10">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+ <path class="Eyes-Cat10fil208" d="M9474 14538c980,621 2732,308 3018,-1604 49,-331 -2805,-1784 -3290,-1262 -929,1000 -583,2324 272,2866z"/>
+  <path class="Eyes-Cat10fil209" d="M12411 12788c-304,-314 -1396,-892 -2237,-1126 -176,78 -320,207 -478,397 -614,737 -273,1782 187,2105 557,391 1353,295 1749,20 364,-253 754,-879 779,-1396z"/>
+  <path class="Eyes-Cat10fil210" d="M11995 12477c-381,-238 -927,-508 -1441,-693 -529,193 -841,773 -708,1359 145,634 754,1036 1361,898 607,-138 983,-763 839,-1397 -13,-58 -30,-114 -51,-167z"/>
+  <path class="Eyes-Cat10fil157" d="M12058 14051c209,-285 364,-654 434,-1117 49,-331 -2805,-1784 -3290,-1262 -377,406 -544,864 -553,1302 537,-522 1344,-805 1846,-725 898,143 1664,906 1563,1802z"/>
+  <circle class="Eyes-Cat10fil152" r="235" transform="matrix(0.127023 2.18149 -1.98577 0.284037 10133.6 12592)"/>
+  <path class="Eyes-Cat10fil22 Eyes-Cat10str4" d="M9474 14538c980,621 2732,308 3018,-1604 49,-331 -2805,-1784 -3290,-1262 -929,1000 -583,2324 272,2866z"/>
+  <circle class="Eyes-Cat10fil152" r="235" transform="matrix(0.686977 0.523683 -0.42619 0.668712 9247.91 13923.8)"/>
+  <circle class="Eyes-Cat10fil152" r="235" transform="matrix(0.252399 0.323889 -0.276862 0.255805 9013.96 13586.6)"/>
+  <path class="Eyes-Cat10fil211" d="M17890 14538c-981,621 -2732,308 -3018,-1604 -49,-331 2805,-1784 3290,-1262 929,1000 583,2324 -272,2866z"/>
+  <path class="Eyes-Cat10fil212" d="M14953 12788c304,-314 1396,-892 2237,-1126 176,78 320,207 478,397 614,737 273,1782 -187,2105 -557,391 -1353,295 -1750,20 -363,-253 -753,-879 -778,-1396z"/>
+  <path class="Eyes-Cat10fil213" d="M15369 12477c381,-238 927,-508 1441,-693 529,193 841,773 707,1359 -144,634 -753,1036 -1360,898 -607,-138 -983,-763 -839,-1397 13,-58 30,-114 51,-167z"/>
+  <path class="Eyes-Cat10fil157" d="M15306 14051c-209,-285 -364,-654 -434,-1117 -49,-331 2805,-1784 3290,-1262 377,406 544,864 552,1302 -536,-522 -1344,-805 -1845,-725 -898,143 -1664,906 -1563,1802z"/>
+  <circle class="Eyes-Cat10fil152" r="235" transform="matrix(-0.127023 2.18149 1.98577 0.284037 17230.2 12592)"/>
+  <path class="Eyes-Cat10fil22 Eyes-Cat10str4" d="M17890 14538c-981,621 -2732,308 -3018,-1604 -49,-331 2805,-1784 3290,-1262 929,1000 583,2324 -272,2866z"/>
+  <circle class="Eyes-Cat10fil152" r="235" transform="matrix(-0.686977 0.523683 0.42619 0.668712 18116 13923.8)"/>
+  <circle class="Eyes-Cat10fil152" r="235" transform="matrix(-0.252399 0.323889 0.276862 0.255805 18349.9 13586.6)"/>
+  <path class="Eyes-Cat10fil155" d="M10650 10702c54,132 487,302 890,674 370,341 569,759 764,758 218,-1 303,-450 207,-710 -79,-214 -457,-588 -929,-766 -559,-211 -998,-115 -932,44z"/>
+  <path class="Eyes-Cat10fil157" d="M10650 10702c54,132 487,302 890,674 370,341 569,759 764,758 218,-1 303,-450 207,-710 -79,-214 -457,-588 -929,-766 -559,-211 -998,-115 -932,44z"/>
+  <path class="Eyes-Cat10fil155" d="M16714 10702c-54,132 -487,302 -890,674 -371,341 -569,759 -765,758 -217,-1 -302,-450 -206,-710 79,-214 457,-588 929,-766 559,-211 998,-115 932,44z"/>
+  <path class="Eyes-Cat10fil157" d="M16714 10702c-54,132 -487,302 -890,674 -371,341 -569,759 -765,758 -217,-1 -302,-450 -206,-710 79,-214 457,-588 929,-766 559,-211 998,-115 932,44z"/>
+ </g><g id="Moustache-Cat0">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <rect class="Moustache-Cat0fil22" height="1459" width="1352" x="13006" y="11962"/>
+ </g><g id="Nose-Cat0">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_107Corel-Layer"/>
+  <path class="Nose-Cat0fil221 Nose-Cat0str0" d="M13682 13408c-194,0 -465,93 -444,231 19,127 197,330 444,330 247,0 425,-203 444,-330 21,-138 -250,-231 -444,-231z" style="fill:#b270f0"/>
+ </g><g id="HatMerlin-Medium">
+ <animateTransform additive="sum" attributeName="transform" dur="10" repeatCount="indefinite" type="translate" values="0;0 200;0;0 200;0;0 200;0;0 200;0"/>
+  <metadata id="CorelCorpID_62Corel-Layer"/>
+  <g>
+   <path class="HatMerlin-Mediumfil62new" d="M7019 11840c3099,-692 4598,633 6739,607 2426,-29 3874,-1255 7177,-536 -3369,-1326 -11389,-1193 -13916,-71z" style="fill:#d22e51"/>
+   <path class="HatMerlin-Mediumfil594new HatMerlin-Mediumstr0new" d="M8067 11575c143,-1583 638,-3839 1358,-5458 892,-2003 5561,-3576 7382,-2641 1646,845 3688,3632 3858,5127 76,664 -172,1074 -2075,647 259,583 708,1635 781,2191 -1256,-263 -2425,-544 -5926,-442 -2901,85 -4193,362 -5378,576z" style="fill:#4e5f4c"/>
+   <path class="HatMerlin-Mediumfil595new" d="M17539 4049c350,278 703,616 1039,988l105 185 -639 -184 -437 393 -91 -610 -592 -323 584 -193 31 -256z" style="fill:#3dff32"/>
+   <path class="HatMerlin-Mediumfil596new" d="M13785 3469c316,-73 629,-127 932,-161l25 88 607 112 -611 125 -89 276 -457 -197 -662 60 329 -247 -74 -56z" style="fill:#8b2076"/>
+   <polygon class="HatMerlin-Mediumfil597new" points="12821,7615 13251,8172 13917,8099 13560,8689 13850,9337 13198,9144 12711,9618 12666,8909 12076,8554 12699,8308 "/>
+   <polygon class="HatMerlin-Mediumfil598new" points="18075,9654 17374,9670 17048,10252 16776,9612 16083,9459 16616,9048 16514,8372 17115,8758 17745,8493 17583,9143 "/>
+   <polygon class="HatMerlin-Mediumfil599new" points="15423,5303 15392,6002 15931,6459 15295,6580 15101,7233 14740,6609 14081,6555 14493,6048 14280,5363 14896,5673 "/>
+   <polygon class="HatMerlin-Mediumfil600new" points="19514,6828 19593,7461 20200,7717 19589,8005 19500,8643 19043,8188 18381,8325 18710,7756 18390,7204 19050,7307 "/>
+   <path class="HatMerlin-Mediumfil601new HatMerlin-Mediumstr0new" d="M8027 10648c15,-266 -86,-574 258,-927 461,-471 3136,-1019 4789,-1079 1654,-59 4805,164 5874,1186 308,295 191,528 225,805 31,259 237,263 353,805 -828,-325 -2402,-698 -5904,-624 -2756,58 -4785,323 -5819,530 -199,40 204,-346 224,-696z" style="fill:#e7f7d9"/>
+   <path class="HatMerlin-Mediumfil14new" d="M19777 6504c485,768 823,1528 888,2099 76,664 -172,1074 -2075,647 57,85 189,270 183,413 -1277,-735 -2882,-947 -3264,-914 1449,-849 1296,-1699 466,-2682 -197,-232 -367,-312 -630,-467 -465,-275 -162,-1264 477,-553 226,251 309,502 344,782 235,-509 -97,-872 276,-1049 277,-131 456,249 420,553 -38,314 -297,668 -457,749 1813,1923 3880,2375 3372,422z" style="fill:#3405d2"/>
+   <path class="HatMerlin-Mediumfil223new" d="M18674 9266c17,36 2,79 -33,96 -36,18 -79,3 -96,-33 -307,-632 -686,-1210 -1124,-1740 -149,-181 -932,-1103 -1484,-1559 456,259 1454,1297 1595,1468 445,539 831,1126 1142,1768z" style="fill:#0d79fc"/>
+   <path class="HatMerlin-Mediumfil14new" d="M15006 8750c1499,-46 3341,487 3960,1083 335,323 -18,752 456,1181 -1415,-280 -5445,-911 -9959,-228 1966,-847 5942,-489 6504,-1001 353,-322 296,-939 -961,-1035z" style="fill:#b11743"/>
+   <path class="HatMerlin-Mediumfil602new HatMerlin-Mediumstr0new" d="M3515 13711c-351,-1259 2152,-2199 3856,-2547 4452,-909 8460,-958 13005,54 1424,317 4147,1459 3506,2708 186,-949 -1820,-1619 -3098,-1920 -4345,-1024 -9258,-998 -13621,-100 -1483,306 -3596,942 -3648,1805z" style="fill:#7b8493"/>
+   <polygon class="HatMerlin-Mediumfil603new" points="9867,6846 10117,7473 10702,7438 10272,8049 10383,8766 9867,8516 9350,8995 9461,8229 9031,7808 9616,7584 "/>
+   <path class="HatMerlin-Mediumfil604new" d="M11669 4486c29,68 59,136 89,204 30,68 60,135 90,203 107,11 215,24 324,38 109,15 218,32 328,49 -96,42 -193,85 -288,130 -94,47 -188,96 -281,146 2,74 4,148 7,221 2,75 5,149 8,223 -87,-34 -174,-68 -260,-101 -86,-33 -172,-64 -257,-95 -102,46 -204,93 -304,143 -100,50 -199,104 -298,158 36,-83 71,-166 107,-249 35,-82 72,-164 108,-246 -66,-45 -131,-89 -196,-133 -64,-44 -128,-86 -193,-128 105,-29 210,-57 316,-80 107,-24 215,-43 323,-61 62,-73 123,-146 186,-216 63,-70 127,-139 191,-206z" style="fill:#29a927"/>
+  </g>
+ </g></svg>
